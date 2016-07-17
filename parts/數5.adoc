@@ -1,0 +1,9 @@
+:includedir: ../chapters
+
+include::{includedir}/12_2064_Marianne Lasser.adoc[] 
+
+[role="chapter-start"]
+include::{includedir}/13_2019,1913_Rede.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/14_2064_Die Cypherpunk-Akademie.adoc[]

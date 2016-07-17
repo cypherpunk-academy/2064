@@ -1,0 +1,12 @@
+:includedir: ../chapters
+
+include::{includedir}/08_1913_Wilhelm.adoc[] 
+
+[role="chapter-start"]
+include::{includedir}/09_2019_Endlich mal Action!.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/10_2019_Auf dem Heimweg.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/11_2019_Verrat.adoc[]
