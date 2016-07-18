@@ -1,0 +1,9 @@
+:includedir: ../chapters
+
+include::{includedir}/31_2019_The Boatly Hackerspace.adoc[] 
+
+[role="chapter-start"]
+include::{includedir}/32_2019_Wo ist Marianne Lasser.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/33_2021_Ich will hier bleiben.adoc[]

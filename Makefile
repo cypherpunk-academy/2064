@@ -1,7 +1,7 @@
 vpath %.adoc parts
 vpath %.html html
 
-allparts: 數10.html 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html
 
 數1.html: 數1.adoc
 	asciidoctor -D html parts/數1.adoc  
@@ -32,3 +32,6 @@ allparts: 數10.html 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html
 
 數10.html: 數10.adoc
 	asciidoctor -D html parts/數10.adoc  
+
+數11.html: 數11.adoc
+	asciidoctor -D html parts/數11.adoc  
