@@ -1,28 +1,79 @@
 == [big-number]#2064# Die Cypherpunk-Akademie
 
-[text-caps]#Edgar sprach eindringlicher:# „Marianne Lasser war 16 Jahre alt, als sie die NSA-Schwachstellen-Datenbank gehackt hat. Und das war ein Wendepunkt im Befreiungskampf des Internets. Das hat damals auf der ganzen Welt ein Erdbeben ausgelöst. Plötzlich konnten alle klar sehen, wie viele Hintertüren und Schlupflöcher es überall im Internet gab. Es war regelrecht durchlöchert, jede Menge Leute, nicht nur die Geheimdienste, konnten auf alle Computer zugreifen, auf die sie zugreifen wollten.
+[text-caps]#Edgar sprach eindringlicher:# „Marianne Lasser war 16 Jahre alt, als sie die NSA-Schwachstellen-Datenbank gehackt hat.
+Und das war ein Wendepunkt im Befreiungskampf des Internets.
+Das hat damals auf der ganzen Welt ein Erdbeben ausgelöst.
+Plötzlich konnten alle klar sehen, wie viele Hintertüren und Schlupflöcher es überall im Internet gab.
+Es war regelrecht durchlöchert, jede Menge Leute, nicht nur die Geheimdienste, konnten auf alle Computer zugreifen, auf die sie zugreifen wollten.
 
-Das Internet war für die junge Generation damals schon zu einem wirklichen Lebensraum geworden. Nicht wegzudenken aus ihrem Leben. Und als sie nachvollziehen konnten, was alles im Geheimen passierte, was getan wurde, um sie zu überwachen und dazu zu bringen, Dinge zu kaufen, Dinge wichtig zu finden, oder unwichtig zu finden, herauszufinden, wer von ihnen das System in Frage stellt, änderte sich für sie alles. Über diese Hintertüren und Schlupflöcher wurden nicht etwa vor allem Verbrecher oder Terroristen gejagt, nein, sie wurden genutzt, um die neue Generation zu überwachen und zu steuern. Mit Hilfe der Informationen wurden in großem Stil Bedürfnisse geschaffen, die nicht echt waren. Viele glaubten, sie bräuchten dies und das, um ein glückliches Leben zu haben, arbeiteten dafür, wendeten dafür viel Zeit und Kraft auf, obwohl sie es nicht wirklich brauchten. So wurde die neue Generation von ihren eigentlichen Zielen abgelenkt. Als sie das alles mit eigenen Augen sehen konnten, sehen konnten, wie ihr Internet zu einer Überwachungs- und Manipulationsmaschine für sie geworden war, als sie die vielen Hintertüren selbst sehen und ausprobieren konnten, da machten sich viele von ihnen auf und wurden Cypherpunks.
+Das Internet war für die junge Generation damals schon zu einem wirklichen Lebensraum geworden.
+Nicht wegzudenken aus ihrem Leben.
+Und als sie nachvollziehen konnten, was alles im Geheimen passierte, was getan wurde, um sie zu überwachen und dazu zu bringen, Dinge zu kaufen, Dinge wichtig zu finden, oder unwichtig zu finden, herauszufinden, wer von ihnen das System in Frage stellt, änderte sich für sie alles.
+Über diese Hintertüren und Schlupflöcher wurden nicht etwa vor allem Verbrecher oder Terroristen gejagt, nein, sie wurden genutzt, um die neue Generation zu überwachen und zu steuern.
+Mit Hilfe der Informationen wurden in großem Stil Bedürfnisse geschaffen, die nicht echt waren.
+Viele glaubten, sie bräuchten dies und das, um ein glückliches Leben zu haben, arbeiteten dafür, wendeten dafür viel Zeit und Kraft auf, obwohl sie es nicht wirklich brauchten.
+So wurde die neue Generation von ihren eigentlichen Zielen abgelenkt.
+Als sie das alles mit eigenen Augen sehen konnten, sehen konnten, wie ihr Internet zu einer Überwachungs- und Manipulationsmaschine für sie geworden war, als sie die vielen Hintertüren selbst sehen und ausprobieren konnten, da machten sich viele von ihnen auf und wurden Cypherpunks.
 
-Und das, was Lilly gelungen ist, weswegen wir hier alles sitzen, und uns auch Hundertertausende Schüler von überall auf der Welt zuschauen, das ist, diesen berühmten Hack nachzuspielen. Er war von Anfang an in TRON eingebaut und wartete darauf, dass ihn jemand finden würde. Lilly hat ihn gefunden und im ersten Anlauf gemeistert.“
+Und das, was Lilly gelungen ist, weswegen wir hier alles sitzen, und uns auch Hundertertausende Schüler von überall auf der Welt zuschauen, das ist, diesen berühmten Hack nachzuspielen.
+Er war von Anfang an in TRON eingebaut und wartete darauf, dass ihn jemand finden würde.
+Lilly hat ihn gefunden und im ersten Anlauf gemeistert.“
 
-Gejohle im Publikum. Lilly lachte und strahlte über das ganze Gesicht.
+Gejohle im Publikum.
+Lilly lachte und strahlte über das ganze Gesicht.
 
-Edgar: „Und damit geht das TRON-Spiel in eine neue Phase. Und in der ändert sich einiges. Es gibt viel Neues, aber vor allem gibt es eine neue Regel im Spiel. Und die erklärt euch Lilly selbst.“ Er winkte zu ihr herüber.
+Edgar: „Und damit geht das TRON-Spiel in eine neue Phase.
+Und in der ändert sich einiges.
+Es gibt viel Neues, aber vor allem gibt es eine neue Regel im Spiel.
+Und die erklärt euch Lilly selbst.“ Er winkte zu ihr herüber.
 
-Lilly schaute ins Publikum. „Ja … Hmm. Ich bin ein bisschen aufgeregt. … Wie ist die neue Regel? Sie ist ziemlich einfach. Sie besagt, dass wir ab jetzt alle Missionen auch als Cypherpunk-Missionen spielen können. Egal ob ihr Geheimdienstmitarbeiter seid oder Unternehmenschef, Politiker, Hacker, der amerikanische Präsident, egal, könnt ihr TRON zum Anfang einer Spielrunde oder auch irgendwann zwischendrin sagen, dass ihr ab jetzt Cypherpunk seid und dann bekommt ihr eure Punkte nicht mehr für Herrschaft, Geld und Kontrolle, sondern für Veröffentlichung von Geheimnissen, für Ungerechtigkeiten ausgleichen und für Bewusstsein schaffen, wie die Welt tatsächlich funktioniert.“
+Lilly schaute ins Publikum.
+„Ja … Hmm.
+Ich bin ein bisschen aufgeregt.
+… Wie ist die neue Regel? Sie ist ziemlich einfach.
+Sie besagt, dass wir ab jetzt alle Missionen auch als Cypherpunk-Missionen spielen können.
+Egal ob ihr Geheimdienstmitarbeiter seid oder Unternehmenschef, Politiker, Hacker, der amerikanische Präsident, egal, könnt ihr TRON zum Anfang einer Spielrunde oder auch irgendwann zwischendrin sagen, dass ihr ab jetzt Cypherpunk seid und dann bekommt ihr eure Punkte nicht mehr für Herrschaft, Geld und Kontrolle, sondern für Veröffentlichung von Geheimnissen, für Ungerechtigkeiten ausgleichen und für Bewusstsein schaffen, wie die Welt tatsächlich funktioniert.“
 
 Lilly schaute zu Marianne: „Marianne, willst du vielleicht noch mehr dazu sagen?“
 
-Marianne: „Ja, gerne. Es ging bei der Kultur der Cypherpunks bei Weitem nicht nur um Verschlüsselung und offene, freie Software. Es ging um eine komplette Verwandlung der Kultur, des Umgangs der Menschen miteinander. Dafür war Verschlüsselung ein erster Schritt, weil sie uns erst ermöglicht hat, unbeobachtet Dinge zu tun. Das gleiche gilt für offene und freie Software und verteilte Dienste im Internet. Wir mussten dafür sorgen, dass wir in Ruhe arbeiten konnten, dass wir selbst entscheiden konnten, was wir im Internet machen. Das war die Grundlage. Ohne Verschlüsselung hilft alles andere nichts, dann wären wir allen ausgeliefert, die Zugriff auf das Internet haben. Aber als wir das hatten, dann ging es richtig los. Wir hatten die Ideale dieser Zeit vor uns: Macht, Geld, Kontrolle. Das waren die Gottheiten von vielen Menschen damals. Sie wurden angebetet. Es war das Wichtigste im Leben. An der Stelle wollten wir andere Ideale haben. Zum Beispiel sollte die ganze Welt der Unternehmen und Regierungen transparent werden. Wir wollten einen Schritt in Richtung einer wirklichen Demokratie gehen. Das sind Dinge, um die es geht, wenn ihr Cypherpunk werden wollt.“
+Marianne: „Ja, gerne.
+Es ging bei der Kultur der Cypherpunks bei Weitem nicht nur um Verschlüsselung und offene, freie Software.
+Es ging um eine komplette Verwandlung der Kultur, des Umgangs der Menschen miteinander.
+Dafür war Verschlüsselung ein erster Schritt, weil sie uns erst ermöglicht hat, unbeobachtet Dinge zu tun.
+Das gleiche gilt für offene und freie Software und verteilte Dienste im Internet.
+Wir mussten dafür sorgen, dass wir in Ruhe arbeiten konnten, dass wir selbst entscheiden konnten, was wir im Internet machen.
+Das war die Grundlage.
+Ohne Verschlüsselung hilft alles andere nichts, dann wären wir allen ausgeliefert, die Zugriff auf das Internet haben.
+Aber als wir das hatten, dann ging es richtig los.
+Wir hatten die Ideale dieser Zeit vor uns: Macht, Geld, Kontrolle.
+Das waren die Gottheiten von vielen Menschen damals.
+Sie wurden angebetet.
+Es war das Wichtigste im Leben.
+An der Stelle wollten wir andere Ideale haben.
+Zum Beispiel sollte die ganze Welt der Unternehmen und Regierungen transparent werden.
+Wir wollten einen Schritt in Richtung einer wirklichen Demokratie gehen.
+Das sind Dinge, um die es geht, wenn ihr Cypherpunk werden wollt.“
 
-Lilly: „Und wenn ihr das üben wollt, wenn ihr das in der Tiefe kennen lernen wollt, gibt es einen ganz neuen Platz für euch im Spiel. Und das ist wirklich ein Hammer …“ Sie zwinkerte zu Marianne herüber. „Marianne hat dabei mitprogrammiert. Ich bin sehr gespannt, was ihr dazu sagt. Ich habe mich darin schon ein wenig umgeschaut, es ist ziemlich groß, und man kann dort eine Menge machen. Es ist … die neue … Cypherpunk-Akademie! Eine Akademie, auf der ihr Cypherpunks werden könnt. Irgendwo in TRON. Ihr könnt sie finden.“
+Lilly: „Und wenn ihr das üben wollt, wenn ihr das in der Tiefe kennen lernen wollt, gibt es einen ganz neuen Platz für euch im Spiel.
+Und das ist wirklich ein Hammer …“ Sie zwinkerte zu Marianne herüber.
+„Marianne hat dabei mitprogrammiert.
+Ich bin sehr gespannt, was ihr dazu sagt.
+Ich habe mich darin schon ein wenig umgeschaut, es ist ziemlich groß, und man kann dort eine Menge machen.
+Es ist … die neue … Cypherpunk-Akademie! Eine Akademie, auf der ihr Cypherpunks werden könnt.
+Irgendwo in TRON.
+Ihr könnt sie finden.“
 
 Das Publikum johlte auf.
 
-Lilly: „Das ist wie ein Spiel im Spiel, es ist nicht einfach. Ihr müsst da viel zusammenarbeiten und kreativ werden, denken und schnell reagieren. Auf jeden Fall geht es um die elf Grundgedanken des Befreiungskampfes, die ihr kennt, also Verschlüsselung, Überwindung der Unterdrückung, Überwindung des Gegeneinanders, Entfaltung der Initiative, …“ Sie unterbrach und schaute wieder zu Marianne: „Ich habe darüber in deinem Buch einiges gelesen. Kannst du die vielleicht vorstellen. Das fände ich super.“
+Lilly: „Das ist wie ein Spiel im Spiel, es ist nicht einfach.
+Ihr müsst da viel zusammenarbeiten und kreativ werden, denken und schnell reagieren.
+Auf jeden Fall geht es um die elf Grundgedanken des Befreiungskampfes, die ihr kennt, also Verschlüsselung, Überwindung der Unterdrückung, Überwindung des Gegeneinanders, Entfaltung der Initiative, …“ Sie unterbrach und schaute wieder zu Marianne: „Ich habe darüber in deinem Buch einiges gelesen.
+Kannst du die vielleicht vorstellen.
+Das fände ich super.“
 
 Lasse rief von seinem Platz: „Ja! Das wäre super.“
 
-Marianne nickte: „Das mache ich gerne.“ Sie wandte sich zum Publikum. „Aber vorher machen wir eine kleine Pause, oder? Das Buffet wartet schon. Und Essen ist auch wichtig.“
+Marianne nickte: „Das mache ich gerne.“ Sie wandte sich zum Publikum.
+„Aber vorher machen wir eine kleine Pause, oder? Das Buffet wartet schon.
+Und Essen ist auch wichtig.“
 

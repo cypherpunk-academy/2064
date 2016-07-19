@@ -1,39 +1,99 @@
 == [big-number]#2019# Nur 30 Sekunden
 
-[text-caps]#Marianne biss# in einen dicken Hamburger und schaute mit leicht zusammen gekniffenen Augen zu ihrem Bruder Paul, der neben ihr saß. Ihr Gesicht war immer noch puderrot. Aus den Lautsprechern des Hamburger-Restaurants dröhnte überlaute Musik. Man musste fast schreien, wenn man sich über den Tisch hinweg unterhalten wollte.
+[text-caps]#Marianne biss# in einen dicken Hamburger und schaute mit leicht zusammen gekniffenen Augen zu ihrem Bruder Paul, der neben ihr saß.
+Ihr Gesicht war immer noch puderrot.
+Aus den Lautsprechern des Hamburger-Restaurants dröhnte überlaute Musik.
+Man musste fast schreien, wenn man sich über den Tisch hinweg unterhalten wollte.
 
-„Auf gar keinen Fall. Ich werde nichts löschen“, sagte Marianne mit halbvollem Mund in normaler Lautstärke, so dass es ihr Bruder gerade noch hören konnte. “Es ist alles hier auf dem Stick. Nirgendwo sonst. Ich habe aufgepasst. Und auf dem Computer der Princeton-Universität aufgeräumt. Keiner kennt mich. Keiner kennt meine Quelle. Der Computer ist neu. Erklär mir, warum es gefährlich ist.“
+„Auf gar keinen Fall.
+Ich werde nichts löschen“, sagte Marianne mit halbvollem Mund in normaler Lautstärke, so dass es ihr Bruder gerade noch hören konnte.
+“Es ist alles hier auf dem Stick.
+Nirgendwo sonst.
+Ich habe aufgepasst.
+Und auf dem Computer der Princeton-Universität aufgeräumt.
+Keiner kennt mich.
+Keiner kennt meine Quelle.
+Der Computer ist neu.
+Erklär mir, warum es gefährlich ist.“
 
-Ihr Bruder schaute sie eindringlich an: „Das ist TAO, Tailored Access Operations. Das sind die besten Hacker der NSA. Egal, was der Schlüssel und die Adresse dort auf dem Computer zu suchen hatte, du musst sofort alles löschen, was du von dort hast. Und nichts mehr anrühren.“
+Ihr Bruder schaute sie eindringlich an: „Das ist TAO, Tailored Access Operations.
+Das sind die besten Hacker der NSA.
+Egal, was der Schlüssel und die Adresse dort auf dem Computer zu suchen hatte, du musst sofort alles löschen, was du von dort hast.
+Und nichts mehr anrühren.“
 
-Marianne: „Du hast immer gesagt, dass bei der NSA nur Schnarchnasen arbeiten, Beamte, die sich meistens streiten und gegenseitig bespitzeln, lieber Mittagspause und Feierabend machen, als Hacker verfolgen. Da sind keine Leute, die mit Hingabe und Überzeugung arbeiten. Deswegen haben sie auf die Dauer keine Chance gegen uns.“
+Marianne: „Du hast immer gesagt, dass bei der NSA nur Schnarchnasen arbeiten, Beamte, die sich meistens streiten und gegenseitig bespitzeln, lieber Mittagspause und Feierabend machen, als Hacker verfolgen.
+Da sind keine Leute, die mit Hingabe und Überzeugung arbeiten.
+Deswegen haben sie auf die Dauer keine Chance gegen uns.“
 
-Paul: „TAO ist eine Spezialgruppe. Das sind echte Hacker, ehemalige echte Hacker, sie wurden da zum Teil hinerpressed: Entweder Sie arbeiten für uns oder sie gehen für 50 Jahre ins Gefängnis … Und wenn du dich da beugst … Da sind echt super Leute dabei. Die kommen überall rein. Die haben eine Riesendatenbank mit allen Schwachstellen, die im Internet bekannt sind. Für jeden Computer ist da etwas dabei. Auch für deinen. Wenn die dich aufs Korn nehmen, dann kriegen sie dich auch. Vielleicht sind sie nicht immer mit vollem Herzen bei der Sache, aber die Werkzeuge, die sie haben, sind verheerend.“
+Paul: „TAO ist eine Spezialgruppe.
+Das sind echte Hacker, ehemalige echte Hacker, sie wurden da zum Teil hinerpressed: Entweder Sie arbeiten für uns oder sie gehen für 50 Jahre ins Gefängnis … Und wenn du dich da beugst … Da sind echt super Leute dabei.
+Die kommen überall rein.
+Die haben eine Riesendatenbank mit allen Schwachstellen, die im Internet bekannt sind.
+Für jeden Computer ist da etwas dabei.
+Auch für deinen.
+Wenn die dich aufs Korn nehmen, dann kriegen sie dich auch.
+Vielleicht sind sie nicht immer mit vollem Herzen bei der Sache, aber die Werkzeuge, die sie haben, sind verheerend.“
 
-Marianne: „Und weil sie mich theoretisch kriegen können, lasse ich es sein. Huch, Gefahr! Seit wann lässt DU dich einschüchtern? DU hast mir immer erklärt, dass das genau das ist, was sie erreichen wollen. Sie plustern sich auf, wollen unbesiegbar erscheinen, damit du deinen Schwanz einziehst. Eingeschüchtert. Nochmal: Ich war die ganze Zeit über in Tails, meine Quelle habe ich nur in Tails getroffen, der Computer war nagelneu: Wo ist das Risiko?“
+Marianne: „Und weil sie mich theoretisch kriegen können, lasse ich es sein.
+Huch, Gefahr! Seit wann lässt DU dich einschüchtern? DU hast mir immer erklärt, dass das genau das ist, was sie erreichen wollen.
+Sie plustern sich auf, wollen unbesiegbar erscheinen, damit du deinen Schwanz einziehst.
+Eingeschüchtert.
+Nochmal: Ich war die ganze Zeit über in Tails, meine Quelle habe ich nur in Tails getroffen, der Computer war nagelneu: Wo ist das Risiko?“
 
-Paul stöhnte leicht. „Die setzen die Hölle in Bewegung, wenn du versuchen würdest, dich in den Computer einzuloggen, von dem du mir die Adresse geschickt hast. Die würden überall suchen, wer das gewesen sein könnte, ein ganzes Team darauf ansetzen, Fallen stellen, Dinge tun, die enormen Aufwand bedeuten: zum Beispiel den Verkehr des Tor-Netzwerks weltweit auf einmal zu analysieren. Da brauchen sie kurzfristig ein ganzes Rechenzentrum. Aber das machen sie. Und da können sie bei einzelnen Leuten herausfinden, wer sie sind. Vielleicht auch bei dir … Vielleicht verhaften sie auch einfach auf gut Glück ein paar Hacker, die ihnen verdächtig …“
+Paul stöhnte leicht.
+„Die setzen die Hölle in Bewegung, wenn du versuchen würdest, dich in den Computer einzuloggen, von dem du mir die Adresse geschickt hast.
+Die würden überall suchen, wer das gewesen sein könnte, ein ganzes Team darauf ansetzen, Fallen stellen, Dinge tun, die enormen Aufwand bedeuten: zum Beispiel den Verkehr des Tor-Netzwerks weltweit auf einmal zu analysieren.
+Da brauchen sie kurzfristig ein ganzes Rechenzentrum.
+Aber das machen sie.
+Und da können sie bei einzelnen Leuten herausfinden, wer sie sind.
+Vielleicht auch bei dir … Vielleicht verhaften sie auch einfach auf gut Glück ein paar Hacker, die ihnen verdächtig …“
 
-„Ich war drin …“, unterbrach Marianne. “Aber nur ganz kurz. Ich habe Logdateien, Schlüssel und Passworte kopiert, sonst nichts. Und ich habe aufgeräumt.“
+„Ich war drin …“, unterbrach Marianne.
+“Aber nur ganz kurz.
+Ich habe Logdateien, Schlüssel und Passworte kopiert, sonst nichts.
+Und ich habe aufgeräumt.“
 
 Paul wurde bleich.
 
-Marianne schaute Paul an, der nichts sagte: „Paul, es waren nur 30 Sekunden. Es war ein normaler Linux-Computer, Debian 9. Genau das, was die Programmierer vom Tor-Projekt zur Entwicklung von Tor verwenden.“
+Marianne schaute Paul an, der nichts sagte: „Paul, es waren nur 30 Sekunden.
+Es war ein normaler Linux-Computer, Debian 9.
+Genau das, was die Programmierer vom Tor-Projekt zur Entwicklung von Tor verwenden.“
 
-Sie schaute Paul aufmuternd an. Er reagierte nicht.
+Sie schaute Paul aufmuternd an.
+Er reagierte nicht.
 
-Marianne: „Es ist alles hier auf dem Stick. Sonst nirgends.“
+Marianne: „Es ist alles hier auf dem Stick.
+Sonst nirgends.“
 
-Sie öffnete ihre Hand einen Spalt und Paul sah auf den Stick. Er vergrub seinen Kopf unter seinen Händen.
+Sie öffnete ihre Hand einen Spalt und Paul sah auf den Stick.
+Er vergrub seinen Kopf unter seinen Händen.
 
-Marianne: „Komm. Du warst letztes Jahr zig-mal auf Computern beim BND. Und der deutsche Geheimdienst ist auch nicht so schlecht. Und da war ich die ganze Zeit dabei. Ich hab da gut aufgepasst. Du weißt, was ich kann. Ich habe aufgepasst.“
+Marianne: „Komm.
+Du warst letztes Jahr zig-mal auf Computern beim BND.
+Und der deutsche Geheimdienst ist auch nicht so schlecht.
+Und da war ich die ganze Zeit dabei.
+Ich hab da gut aufgepasst.
+Du weißt, was ich kann.
+Ich habe aufgepasst.“
 
-Paul war bleich geworden. Marianne schaute ihn verwundert an: „Paul? Ist das so ernst?“
+Paul war bleich geworden.
+Marianne schaute ihn verwundert an: „Paul? Ist das so ernst?“
 
-Paul nickte und schaute sie dann ein wenig schüchtern an: „Ich muss in die c-base. Für so zwei Stunden. Danach müssen wir noch einmal sprechen. Wo bist du dann?“ Die c-base war einer der bekannteren Hackerspaces in Berlin. Der einzige, der es tatsächlich in Touristen-Reiseführer geschafft hatte. Manchmal liefen dort Menschen mit umgehängten Kameras und schauten neugierig herum. Aber im Untergeschoss gab es einen Mitgliederbereich. Da konnte man relative gut unter sich sein.
+Paul nickte und schaute sie dann ein wenig schüchtern an: „Ich muss in die c-base.
+Für so zwei Stunden.
+Danach müssen wir noch einmal sprechen.
+Wo bist du dann?“ Die c-base war einer der bekannteren Hackerspaces in Berlin.
+Der einzige, der es tatsächlich in Touristen-Reiseführer geschafft hatte.
+Manchmal liefen dort Menschen mit umgehängten Kameras und schauten neugierig herum.
+Aber im Untergeschoss gab es einen Mitgliederbereich.
+Da konnte man relative gut unter sich sein.
 
-Marianne: „Ich werde hier sein. Ich lese ein bisschen.“
+Marianne: „Ich werde hier sein.
+Ich lese ein bisschen.“
 
-Paul: „Ok. Ich hole dich hier ab und dann gehen wir nach Hause.“
+Paul: „Ok.
+Ich hole dich hier ab und dann gehen wir nach Hause.“
 
-Paul stand auf und verließ das Restaurant. Marianne zog ein Taschenbuch aus ihrer Laptop-Tasche und begann zu lesen. Es war ein Theaterstück über Hilde von Papenburg, eine Freiheitskämpferin zur Zeit des ersten Weltkriegs.
+Paul stand auf und verließ das Restaurant.
+Marianne zog ein Taschenbuch aus ihrer Laptop-Tasche und begann zu lesen.
+Es war ein Theaterstück über Hilde von Papenburg, eine Freiheitskämpferin zur Zeit des ersten Weltkriegs.

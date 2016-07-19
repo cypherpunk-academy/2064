@@ -1,38 +1,91 @@
 == [big-number]#2064# Das Spiele-Labor
-[text-caps]#Lasse schlenderte froh# auf das Spiele-Labor zu, das in der Mitte des Schulgeländes stand, wo der Bach sich zweigte und auf beiden Seiten um das Labor herum floss. Er sah sich um, betrachtete im Vorbeigehen die völlig unterschiedlich gebauten Häuser, aus Lehm, Holz und großen Steinen, mit fantasievoll geformten Fenstern und bunten Dächern. Er mochte es, an ihnen immer wieder ein neues Detail zu entdecken. Und man konnte den Häusern wirklich ansehen, wer darin arbeitete. Er lächelte. Am Eselgehege wartete Alfred schon und nickte ihm mit seiner langen Schnauze zu. Lasse zog eine dicke Karotte aus seiner Tasche und streckte sie ihm entgegen. Der schnappte sie vorsichtig aus seiner Hand und drehte sich damit um. 
+[text-caps]#Lasse schlenderte froh# auf das Spiele-Labor zu, das in der Mitte des Schulgeländes stand, wo der Bach sich zweigte und auf beiden Seiten um das Labor herum floss.
+Er sah sich um, betrachtete im Vorbeigehen die völlig unterschiedlich gebauten Häuser, aus Lehm, Holz und großen Steinen, mit fantasievoll geformten Fenstern und bunten Dächern.
+Er mochte es, an ihnen immer wieder ein neues Detail zu entdecken.
+Und man konnte den Häusern wirklich ansehen, wer darin arbeitete.
+Er lächelte.
+Am Eselgehege wartete Alfred schon und nickte ihm mit seiner langen Schnauze zu.
+Lasse zog eine dicke Karotte aus seiner Tasche und streckte sie ihm entgegen.
+Der schnappte sie vorsichtig aus seiner Hand und drehte sich damit um.
 
-Zur Insel des Spiele-Labors gab keine Brücke. Um hereinzukommen, musste man über den Bach springen und Lasse suchte sich dafür eine Stelle aus, wo er es gerade so schaffte. Vor dem Haus drückte er seinen Türöffner in der Hosentasche und die Tür sprang mit einem leisen Klick auf. Es war neun Uhr, eine halbe Stunde vor Beginn des dritten Spieltags. Er liebte die TRON-Wochen, ein riesiges Computerspielturnier, bei dem Tausende von Spielern aus vielen Ländern in einer künstlich geschaffenen Computerwelt mit- und gegeneinander um die Weltherrschaft spielten. Und nicht in einer frei erfundenen Welt, sondern in einem ziemlich originalgetreuen Nachbau des Internets der Jahre 2019 bis 2033, eine grandiose Simulation mit unendlich vielen realistischen Details aus dieser Zeit.
 
-Ein Ziel war es, Missionen zu erfüllen, die man bekam: Zum Beispiel Computer  zu erobern, sie unter Kontrolle zu bekommen und zu verteidigen, in Banken, in Firmen oder auch bei irgendjemanden zu Hause, der etwas Interessantes machte. Man konnte auch Satelliten, Schiffe oder Flugzeuge übernehmen, Agenten und Hacker enttarnen. Eine sehr beliebte aber auch schwierige Mission war es, bekannte Hacker wie Kevin Mitnick, Adrian Lamo oder Julian Assange zu jagen. Am meisten Punkte gab es, wenn man an geheime Dokumente kam, vor allem wenn sie von Geheimdiensten, Regierungen oder großen Unternehmen kamen. Die konnte man teuer verkaufen.
+Zur Insel des Spiele-Labors gab keine Brücke.
+Um hereinzukommen, musste man über den Bach springen und Lasse suchte sich dafür eine Stelle aus, wo er es gerade so schaffte.
+Vor dem Haus drückte er seinen Türöffner in der Hosentasche und die Tür sprang mit einem leisen Klick auf.
+Es war neun Uhr, eine halbe Stunde vor Beginn des dritten Spieltags.
+Er liebte die TRON-Wochen, ein riesiges Computerspielturnier, bei dem Tausende von Spielern aus vielen Ländern in einer künstlich geschaffenen Computerwelt mit- und gegeneinander um die Weltherrschaft spielten.
+Und nicht in einer frei erfundenen Welt, sondern in einem ziemlich originalgetreuen Nachbau des Internets der Jahre 2019 bis 2033, eine grandiose Simulation mit unendlich vielen realistischen Details aus dieser Zeit.
 
-Lasse hatte unbedingt Julian Assange spielen wollen, aber das wollten wohl zu viele andere auch und so war er ein weniger bekannter Hacker geworden, mit der Mission Satelliten, fliegende Kampfroboter und andere Waffen in einem Kriegsgebiet zu übernehmen. Man musste dafür einiges über Computersysteme wissen, aber auch die politische Lage von damals kennen und wie die Menschen dachten und fühlten. Damals herrschte Krieg im Internet und auch sonst in der Welt. Auch in Regierungen und in Unternehmen, und oft auch in Schulen und Familien. Es war eine völlig andere Welt.
+Ein Ziel war es, Missionen zu erfüllen, die man bekam: Zum Beispiel Computer  zu erobern, sie unter Kontrolle zu bekommen und zu verteidigen, in Banken, in Firmen oder auch bei irgendjemanden zu Hause, der etwas Interessantes machte.
+Man konnte auch Satelliten, Schiffe oder Flugzeuge übernehmen, Agenten und Hacker enttarnen.
+Eine sehr beliebte aber auch schwierige Mission war es, bekannte Hacker wie Kevin Mitnick, Adrian Lamo oder Julian Assange zu jagen.
+Am meisten Punkte gab es, wenn man an geheime Dokumente kam, vor allem wenn sie von Geheimdiensten, Regierungen oder großen Unternehmen kamen.
+Die konnte man teuer verkaufen.
+
+Lasse hatte unbedingt Julian Assange spielen wollen, aber das wollten wohl zu viele andere auch und so war er ein weniger bekannter Hacker geworden, mit der Mission Satelliten, fliegende Kampfroboter und andere Waffen in einem Kriegsgebiet zu übernehmen.
+Man musste dafür einiges über Computersysteme wissen, aber auch die politische Lage von damals kennen und wie die Menschen dachten und fühlten.
+Damals herrschte Krieg im Internet und auch sonst in der Welt.
+Auch in Regierungen und in Unternehmen, und oft auch in Schulen und Familien.
+Es war eine völlig andere Welt.
 
 Lasse betrat das Spielzimmer, in dem Sigur schon gebannt vor seinem Rechner saß und ab und zu etwas tippte.
 
 Lasse: „Hej, moin!“ 
 
-Er haute ihm im Vorbeigehen mit der Hand auf die Schulter. Dann ließ er sich in seinen Stuhl fallen.
+Er haute ihm im Vorbeigehen mit der Hand auf die Schulter.
+Dann ließ er sich in seinen Stuhl fallen.
 
-Sigur war sein Flügelmann beim Spiel, sein Partner in der aktuellen Mission. Er war auch sein Freund, wenn auch nicht der beste. Er machte zu oft sein eigenes Ding, meinte Lasse, hatte zu genaue Vorstellungen, wie die Dinge zu sein hatten. Das hatte er ihm auch schon gesagt. Aber als Flügelmann war Sigur eine tolle Sache, weil er mit seinen 14 Jahren wirklich viel konnte. Er hatte im Spiel schon jede Menge Computer in Banken und Ölfirmen übernommen, einmal ein ganzes Passagierflugzeug, das aber dann abgestürzt war. Sogar in Militärcomputern war er schon unterwegs gewesen. 
+Sigur war sein Flügelmann beim Spiel, sein Partner in der aktuellen Mission.
+Er war auch sein Freund, wenn auch nicht der beste.
+Er machte zu oft sein eigenes Ding, meinte Lasse, hatte zu genaue Vorstellungen, wie die Dinge zu sein hatten.
+Das hatte er ihm auch schon gesagt.
+Aber als Flügelmann war Sigur eine tolle Sache, weil er mit seinen 14 Jahren wirklich viel konnte.
+Er hatte im Spiel schon jede Menge Computer in Banken und Ölfirmen übernommen, einmal ein ganzes Passagierflugzeug, das aber dann abgestürzt war.
+Sogar in Militärcomputern war er schon unterwegs gewesen.
+
 
 Lasse: „Was geht, Sig?“ 
 
-Sigur reagierte nicht und tippte weiter. 
+Sigur reagierte nicht und tippte weiter.
 
-Lasse lugte zu ihn herüber: „Ah! Du bist an der Firewall. Was ist das Problem?“
 
-Nach einiger Zeit sagte Sigur ohne vom Bildschirm wegzuschauen: „Ich weiß nicht. Nur so ein Gefühl. Irgendetwas stimmt nicht.“ 
+Lasse lugte zu ihn herüber: „Ah! Du bist an der Firewall.
+Was ist das Problem?“
 
-Die Firewall war das Programm auf jedem Computer, das ungebetene Besucher aus dem Internet abhalten sollte. Eine Art von Filter- oder Wächterprogramm. Jeder Informationsaustausch mit dem Internet geht in beide Richtungen: raus und rein. Und auf dem Weg rein kann alles Mögliche mit hineinkommen, was Hacker oder Programmierer zu den normalen Daten hinzugefügt haben, was sich dann im Computer festsetzen und für Verwirrung sorgen kann, oder für Schlimmeres. So etwas soll die Firewall herausfinden und unschädlich machen. Und wenn sich etwas im Computer festgesetzt hat, auch dafür sorgen, dass es keine Daten wieder herausschicken kann.
+Nach einiger Zeit sagte Sigur ohne vom Bildschirm wegzuschauen: „Ich weiß nicht.
+Nur so ein Gefühl.
+Irgendetwas stimmt nicht.“ 
 
-Sigur drehte sich zu Lasse um: „Es waren ein paar seltsame Angriffe von einem Yllil-Computer, aber eigentlich nichts Besonders. Er hat versucht, irgendwo hineinzukommen, aber die Firewall hat alles geblockt. Fühlt sich trotzdem komisch an ...“
+Die Firewall war das Programm auf jedem Computer, das ungebetene Besucher aus dem Internet abhalten sollte.
+Eine Art von Filter- oder Wächterprogramm.
+Jeder Informationsaustausch mit dem Internet geht in beide Richtungen: raus und rein.
+Und auf dem Weg rein kann alles Mögliche mit hineinkommen, was Hacker oder Programmierer zu den normalen Daten hinzugefügt haben, was sich dann im Computer festsetzen und für Verwirrung sorgen kann, oder für Schlimmeres.
+So etwas soll die Firewall herausfinden und unschädlich machen.
+Und wenn sich etwas im Computer festgesetzt hat, auch dafür sorgen, dass es keine Daten wieder herausschicken kann.
 
-Lasse: „Yllil? Das klingt Afrikanisch. – Bei uns stehen heute aber die Chinesen auf dem Plan!“ Er grinste. „Ich habe super Logdateien von einem Angriff auf einen chinesischen Satelliten gefunden, der fast geklappt hätte. Da finden wir bestimmt was drin. Logdateien waren Computerdateien, in denen man alles nachlesen konnte, was auf einem Computer so passiert, warum etwas schief gegangen ist, wie etwas klappt hat und so weiter. Da stand die genaue Zeit, das Programm, was etwas gemacht hatte und was genau passiert war. Für Lasse und Sigur waren Logdateien so etwas wie Zeitungen, nur das darin genau beschrieben stand, was irgendwo passiert ist und nicht nur die Meinung eines anderen Menschen darüber.
+Sigur drehte sich zu Lasse um: „Es waren ein paar seltsame Angriffe von einem Yllil-Computer, aber eigentlich nichts Besonders.
+Er hat versucht, irgendwo hineinzukommen, aber die Firewall hat alles geblockt.
+Fühlt sich trotzdem komisch an ...“
+
+Lasse: „Yllil? Das klingt Afrikanisch.
+– Bei uns stehen heute aber die Chinesen auf dem Plan!“ Er grinste.
+„Ich habe super Logdateien von einem Angriff auf einen chinesischen Satelliten gefunden, der fast geklappt hätte.
+Da finden wir bestimmt was drin.
+Logdateien waren Computerdateien, in denen man alles nachlesen konnte, was auf einem Computer so passiert, warum etwas schief gegangen ist, wie etwas klappt hat und so weiter.
+Da stand die genaue Zeit, das Programm, was etwas gemacht hatte und was genau passiert war.
+Für Lasse und Sigur waren Logdateien so etwas wie Zeitungen, nur das darin genau beschrieben stand, was irgendwo passiert ist und nicht nur die Meinung eines anderen Menschen darüber.
 
 Lasse: „Noch einen Kakao vorher? Heute holen wir das Ding runter!“
 
-Sigur: „Nicht runter! Übernehmen, Daten kopieren, beobachten, unerkannt bleiben, so lange wie möglich. Das ist unsere Mission.“
+Sigur: „Nicht runter! Übernehmen, Daten kopieren, beobachten, unerkannt bleiben, so lange wie möglich.
+Das ist unsere Mission.“
 
-Lasse: „Ja, ist gut … Ich weiß. Die Mission. Aber schade. Ich würde so gerne wissen, was TRON macht, wenn wir den Satelliten tatsächlich abstürzen lassen würden. Das würde mindestens eine politische Krise geben, Vertuschungsversuche, eine Presseschlacht, ein Meer von Lügen, dann Veschwörungstheorien. Und dann jede Menge neue Missionen, um uns zu schnappen. He he.“
+Lasse: „Ja, ist gut … Ich weiß.
+Die Mission.
+Aber schade.
+Ich würde so gerne wissen, was TRON macht, wenn wir den Satelliten tatsächlich abstürzen lassen würden.
+Das würde mindestens eine politische Krise geben, Vertuschungsversuche, eine Presseschlacht, ein Meer von Lügen, dann Veschwörungstheorien.
+Und dann jede Menge neue Missionen, um uns zu schnappen.
+He he.“
 
 Sigur schaute ihn streng an: „Ruhig, ruhig! Wir wollen das Spiel gewinnen, nicht in fünf Minuten rausfliegen.“
