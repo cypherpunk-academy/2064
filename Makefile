@@ -2,7 +2,7 @@ vpath %.adoc parts
 vpath %.html html
 vpath %.adoc chapters
 
-allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html
 
 數1.html: 數1.adoc 01_2064_Das\ Spiele-Labor.adoc  02_2019_Marianne.adoc
 	asciidoctor -D html parts/數1.adoc  
@@ -36,3 +36,8 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 
 數11.html: 數11.adoc 31_2019_The\ Boatly\ Hackerspace.adoc  32_2019_Wo\ ist\ Marianne\ Lasser.adoc  33_2021_Ich\ will\ hier\ bleiben.adoc
 	asciidoctor -D html parts/數11.adoc  
+
+數12.html: 數12.adoc 34_2019_Die\ Schwachstellen-Datenbank.adoc 35_1915_Nach\ der\ Bombe.adoc 36_2019_Überraschende\ Nachricht.adoc
+	asciidoctor -D html parts/數12.adoc  
+	perl -C -p -i -e 's/\.\n/\. /g' html/數12.html
+
