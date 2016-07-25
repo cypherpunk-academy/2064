@@ -38,7 +38,8 @@ Ihr Ziel war ein Projekt in der c-base, der so genannte Dead Space, der so abges
 Gleichzeitig wurde jede fremde elektromagnetische Strahlung von mitgebrachten Computern, Handys und anderen Geräten erkannt.
 Das Spiel bestand darin, drinnen Fotos, Filme oder Tonaufnahmen zu machen und rauszubringen, oder von draußen einen der Computer anzugreifen, ohne dass das Sicherheitssystem das bemerkte.
 Immer wenn das System einen Versuch erkannte, sprang ein großer Bildschirm an der Decke an und eine animierte Guy-Fawkes-Maske warnte in dramatisch-lustiger Weise vor dem Eindringling.
-Mit der Zeit waren die Versuche immer ausgefeilter geworden, Hacker kamen von weit her, um zu versuchen, das System auszutricksen, aber auch das wurde besser und besser.
+Mit der Zeit waren die Versuche immer ausgefeilter geworden, Hacker kamen von weit her, um zu versuchen, das System auszutricksen.
+Jeder erfolgreiche Angriff führte zu neuen Gegenmaßnahmen, so wurde das System immer besser und besser.
 Inzwischen musste man einen Riesenaufwand treiben, wenn man etwas mitschneiden oder hineinschmuggeln wollte.
 
 Marianne hatte seit einem Hackathon-Wettbewerb vor zwei Jahren einen Gutschein, einen eigenen Rechner dort unterzubringen.
