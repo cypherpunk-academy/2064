@@ -1,6 +1,6 @@
 == [big-number]#2019# Die Schwachstellen-Datenbank
 
-Marianne saß konzentriert über ihren Laptop gebeugt.
+[text-caps]#Marianne saß konzentriert# über ihren Laptop gebeugt.
 Ein weiterer stand aufgeklappt daneben.
 Auf der anderen Seite eine Schale mit Äpfeln und Orangen, ein Teller mit Nüssen, eine offene Mate-Flasche.
 

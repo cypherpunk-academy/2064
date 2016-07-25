@@ -2,7 +2,7 @@ vpath %.adoc parts
 vpath %.html html
 vpath %.adoc chapters
 
-allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html
 
 數1.html: 數1.adoc 01_2064_Das\ Spiele-Labor.adoc  02_2019_Marianne.adoc
 	asciidoctor -D html parts/數1.adoc  
@@ -52,3 +52,6 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 	asciidoctor -D html parts/數12.adoc  
 	perl -C -p -i -e 's/\.\n/\. /g' html/數12.html
 
+數13.html: 數13.adoc 37_2021_Der\ Oberst.adoc 38_2019_Academi.adoc 39_2064_Fortunato.adoc 
+	asciidoctor -D html parts/數13.adoc  
+	perl -C -p -i -e 's/\.\n/\. /g' html/數13.html
