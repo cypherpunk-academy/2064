@@ -1,6 +1,6 @@
 == [big-number]#2064# Ein Plan
 
-[text-caps]#Fortunato saß in# einem Strandcafe an einem Tisch und löffelte eine Suppe.
+[text-caps]#Fortunato saß in# einem Strandcafé an einem Tisch und löffelte eine Suppe.
 Neben ihm saß Jonny, braungebrannt, muskulöser Oberkörper, Mitte 30, europäisches Aussehen, mit Bermudashirt und Strohhut, das Gesicht komplett im Schatten des Hutes.
 Vor ihm stand ein großer Cocktail.
 
