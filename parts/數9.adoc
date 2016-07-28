@@ -5,7 +5,7 @@
 include::{includedir}/25_2021_Zwei Jahre später.adoc[] 
 
 [role="chapter-start"]
-include::{includedir}/26_2019_Strandcafe in Dahab.adoc[]
+include::{includedir}/26_2019_Strandcafé in Dahab.adoc[]
 
 [role="chapter-start"]
 include::{includedir}/27_1915_Kampf am Brandenburger Tor.adoc[]
