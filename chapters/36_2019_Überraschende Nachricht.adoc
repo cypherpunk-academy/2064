@@ -1,6 +1,6 @@
 == [big-number]#2019# Überraschende Nachricht
 
-[text-caps]#Mariane saß alleine# vor ihrem Laptop, neben sich einen Teller mit Hühnchen und Reis.
+[text-caps]#Mariane saß allein# vor ihrem Laptop, neben sich einen Teller mit Hühnchen und Reis.
 Sie aß mit einer Hand und tippte mit der anderen in ihren Laptop.
 Sie war in einem Chat mit einer Gruppe von Hackern.
 
