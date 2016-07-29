@@ -123,7 +123,7 @@ Und die meisten kamen dann auch wieder.
 Um Mohammed zu schreiben verwendete sie Pond, ein E-Mail-Programm, das wie gemacht war für Tails.
 Sie hatte nicht mehr viel Auswahl, wie sie kommunizieren konnte, sie war ziemlich weit oben auf der weltweiten Fahndungsliste der Geheimdienste.
 Aber Pond vertraute sie.
-Pond sendete sobald es gestartet wurde, in unregelmäßigen Abständen immer gleichgroße Nachrichtenpakete in das Tor-Netzwerk.
+Pond sendete, sobald es gestartet wurde, in unregelmäßigen Abständen immer gleichgroße Nachrichtenpakete in das Tor-Netzwerk.
 Egal, ob sie gerade eine Nachricht geschrieben hatte oder nicht.
 Wenn nicht, dann wurden leere Nachrichten weggesendet.
 Niemand konnte von außen herausfinden, ob jemand gerade etwas schickte oder nicht, auch nicht an wen oder wie viel.
