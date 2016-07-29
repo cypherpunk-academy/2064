@@ -66,7 +66,7 @@ Nur die Befehlseingabe des Terminalprogramms, aber diesmal die vom Computer von 
 Wow! Ihre Finger huschten über die Tastatur.
 Wie automatisch suchte sie alle Logdateien zusammen, die sie finden konnte, alle Passwort- und alle Schlüsseldateien.
 Ihr Bruder tat das auch immer als erstes.
-Über die Logdateien konnte sie herausfinden, was auf dem Computer alles passierte, detailliert aufgelistet, und aus den Passwortdateien konnte man, wenn man Glück hatte, einzelne Passworte entschlüsseln, wenn die schlecht geschützt waren, zum Beispiel wenn sie zu kurz waren oder Worte aus Wörterbüchern enthielten.
+Über die Logdateien konnte sie herausfinden, was auf dem Computer alles passierte, detailliert aufgelistet, und aus den Passwortdateien konnte man, wenn man Glück hatte, einzelne Passwörter entschlüsseln, wenn die schlecht geschützt waren, zum Beispiel wenn sie zu kurz waren oder Worte aus Wörterbüchern enthielten.
 
 Sie schaute schnell, ob etwas vom Tag des Satellitenstarts dabei war und tatsächlich, das war es.
 Dann beendete sie die Verbindung mit Karls Computer, sie wollte nicht zu lange drin bleiben.
