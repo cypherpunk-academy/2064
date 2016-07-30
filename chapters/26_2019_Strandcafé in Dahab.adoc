@@ -1,8 +1,8 @@
 == [big-number]#2019# Strandcafé in Dahab
 
 [text-caps]#Marianne saß auf# einigen Sitzkissen in einem Strandcafé in Dahab, einem kleinen Touristennest am Roten Meer.
-Sie lehnte sich zurück und dachte an die Reise von Berlin hierher.
-Drei Monate hatte sie gedauert.
+Sie lehnte sich zurück und dachte an die anstrengende Reise von Berlin bis zu diesem Ort.
+Drei Monate hatte es gedauert.
 Sie hatte den größten Teil der Strecke per Anhalter zurückgelegt.
 Einmal konnte sie in einem winzig kleinen Privatflugzeug mitfliegen.
 Auf der Reise trug sie ausschließlich Hippi-Kleidung.
@@ -12,11 +12,11 @@ Auf dem niedrigen Tischchen vor ihr lag ein Laptop und ein weiterer auf ihrem Sc
 Sie schaute über das Meer, auf die Kite-Surfer, die direkt vor dem Café ihre Runden zogen und dann dahinter auf die leicht verschwommene Küstenlinie von Saudi-Arabien auf der anderen Seite des Meeres.
 Sie war allein im Café.
 Nur Achmed, der Barkeeper, war hinter dem Tresen gerade dabei, einen Milchshake zurecht zu machen.
-Achmed war Mitte Zwanzig, mit wuscheligem schwarzen Haar und immer einem unscheinbaren Lächeln auf den Lippen.
+Achmed war Mitte zwanzig, mit wuscheligem schwarzen Haar und immer einem unscheinbaren Lächeln auf den Lippen.
 
 Mit einigen eleganten Schritten kam er mit dem Milchshake auf Marianne zu und stellte es vor sie auf das Tischchen.
 Sie war inzwischen wieder versunken in ihren Laptop und schien ihn nicht zu bemerken.
-Er schaute sie eine Weile an und setzte sich dann neben sie, worauf sie sich überrascht zu ihm hindrehte.
+Er schaute sie eine Weile an und setzte sich dann neben sie, woraufhin sie sich überrascht zu ihm drehte.
 Er lächelte warm.
 
 Achmed: „Achmed!“ Er streckte ihr die Hand entgegen.
@@ -30,7 +30,7 @@ Marianne: „Wal-t-rau-t.“
 
 Er nickte ihr freundlich zu.
 
-Barkeeper zeigte auf den Milchshake: „Der geht auf mich!“
+Der Barkeeper zeigte auf den Milchshake: „Der geht auf mich!“
 
 „Warum?“ fragte sie und schaute ihn an.
 Er wurde ein wenig unsicher.
@@ -45,7 +45,7 @@ Achmed: „Du bist aus Deutschland?“
 Marianne schaute ihn überrascht an, zuckte mit den Schultern.
 Dann lächelte sie ihn an und drehte sich wieder zu ihrem Laptop.
 
-Er saß eine Weile stumm neben ihr und meinte dann: „Hej, du hast die ganze Zeit hier niemanden getroffen, kaum etwas gesprochen, außer wenn du etwas zu trinken und zu essen willst oder sagen, dass dich niemand stören soll.“
+Er saß eine Weile stumm neben ihr und meinte dann: „Hej, du hast die ganze Zeit hier niemanden getroffen und kaum etwas gesprochen, außer, wenn du etwas zu trinken und zu essen willst, oder um zu sagen, dass dich niemand stören soll.“
 
 Sie schaute ihn wieder an.
 
@@ -94,7 +94,7 @@ Diese Stelle war unglaublich abgesichert, wie Fort Knox.
 Nichts konnte da einfach so unbemerkt herein- oder herausgeschmuggelt werden.
 Da musste etwas Wertvolles sein, etwas, was sie mit allen Mitteln schützen wollten.
 
-Seit sie auf der Flucht war, bekam sie viel besseren Zugang zu allem: Passworte, Schlüssel, Programme, erfolgreiche Hacks.
+Seit sie auf der Flucht war, bekam sie viel besseren Zugang zu allem: Passwörter, Schlüssel, Programme, erfolgreiche Hacks.
 Es war unglaublich.
 Von überall kam Hilfe.
 Es gab es tatsächlich, das verborgene Netzwerk der Hacker.
@@ -102,12 +102,12 @@ Das wusste sie jetzt.
 Und sie wusste auch, dass sie dort inzwischen bekannt war.
 Sie hatte einen guten Ruf, man traute ihr.
 Und seit das so war, musste sie nur Fragen stellen, und ein paar Stunden oder Tage später hatte sie eine Antwort oder gleich ein Programm.
-Das Einzige, was sie unbedingt wissen wollte, was sie noch nicht herausbekommen hatte, war, wie es ihrem Bruder Paul ging.
-Nur dass er am Leben war, wusste sie inzwischen, irgendwo in den USA.
+Das Einzige, was sie noch nicht herausbekommen hatte, aber unbedingt wissen wollte, war, wie es ihrem Bruder Paul ging.
+Sie wusste inzwischen nur, dass er am Leben war, irgendwo in den USA.
 Aber dass sie da noch nicht mehr herausgefunden hatte, spornte sie jetzt eher an, als dass es sie niederdrückte.
 Sie spürte die Kraft dieser dunklen Gemeinschaft, Menschen, die anonym lebten, die ihr Leben riskierten, für … ja, für was? Für eine bessere, menschlichere Art miteinander umzugehen, besser zusammenzuarbeiten, für weniger Ungerechtigkeit, mehr Offenheit.
 Ja, für eine neue Art zusammen zu leben.
-Und sie waren unfassbar schlagkräftig.
+Und diese Gemeinschaft waren unfassbar schlagkräftig.
 
 Achmed, den Barkeeper, hatte sie von Anfang an gemocht, aber sie hatte entschieden, Abstand zu halten.
 Er hatte mit alldem nichts zu tun, er würde es kaum verstehen.
@@ -115,17 +115,17 @@ Aber Mohammed meinte, dass sie ihm mit allem vertrauen könne, mit allem! Es war
 Aber das hatte für sie eine große Bedeutung.
 
 Mit Mohammed tauschte sie sich mehrmals am Tag aus, viel Persönliches.
-Es tat gut, über Gefühle zu sprechen, auch über Achmed, über seine lustigen schwarzen Locken und seine warmen Augen, wie unsicher er ihr gegenüber war und wie er ständig mit Gästen schummelte.
+Es tat gut, über Gefühle zu sprechen, auch über Achmed, über seine lustigen schwarzen Locken und seine warmen Augen, wie unsicher er ihr gegenüber war und wie er ständig Gäste beschummelte.
 Am besten war er, wenn sie es merkten.
 Er schaffte es immer irgendwie raus.
-Und die meisten kamen dann auch wieder.
+Und die meisten kamen danach auch noch wieder.
 
 Um Mohammed zu schreiben verwendete sie Pond, ein E-Mail-Programm, das wie gemacht war für Tails.
 Sie hatte nicht mehr viel Auswahl, wie sie kommunizieren konnte, sie war ziemlich weit oben auf der weltweiten Fahndungsliste der Geheimdienste.
 Aber Pond vertraute sie.
-Pond sendete sobald es gestartet wurde, in unregelmäßigen Abständen immer gleichgroße Nachrichtenpakete in das Tor-Netzwerk.
+Pond sendete, sobald es gestartet wurde, in unregelmäßigen Abständen immer gleichgroße Nachrichtenpakete in das Tor-Netzwerk.
 Egal, ob sie gerade eine Nachricht geschrieben hatte oder nicht.
-Wenn nicht, dann wurden leere Nachrichten weggesendet.
+Wenn nicht, dann wurden leere Nachrichten versendet.
 Niemand konnte von außen herausfinden, ob jemand gerade etwas schickte oder nicht, auch nicht an wen oder wie viel.
 Und im Netz sausten die von außen nicht unterscheidbaren Pakete von allen Pond-Nutzern kreuz und quer zwischen den Tor-Knoten herum, es war unmöglich sie einzelnen Pond-Nutzern zuzuordnen.
 Ein heiloses Chaos – aus der Sicht von Geheimdiensten.
@@ -140,7 +140,7 @@ Ihr Bruder hatte ihr gesagt, dass das, was „die“ wollen, damit meinte er mei
 Was wir hingegen wollen, meinte er, ist, dass wir frei kommunizieren können, so viel wir wollen.
 
 Marianne: „Ich programmiere ein bisschen, halte meinen Computer von Eindringlingen frei und gerade versuche ich herauszufinden, welche Computer in einem bestimmten Computernetz sind und was die so machen.
-Und vielleicht wie ich da hineinkomme.“
+Und vielleicht, wie ich da hineinkomme.“
 
 Achmed: „Klingt spannend.
 Hab ich keine Ahnung davon.
