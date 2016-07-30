@@ -111,7 +111,7 @@ Die komplette Datenbank.
 Sie lag vor ihr und niemand war da außer ihr.
 Die anderen machten wohl gerade ganze Arbeit.
 Sie war allein mit der Datenbank, zwölf miteinander vernetzte Computer.
-Sieben Minuten 30 waren noch übrig.
+Sieben Minuten und 30 Sekunden waren noch übrig.
 Und ihre Berechnungen stimmten.
 Die Sicherungs-Datei war fast fertig.
 Jeden Tag, um diese Zeit, wurde dieses Backup automatisch erstellt und dann in einen anderen Hochsicherheitsbereich weggeschickt.
