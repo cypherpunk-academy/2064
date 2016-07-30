@@ -1,7 +1,7 @@
 == [big-number]#2019# Strandcafé in Dahab
 
 [text-caps]#Marianne saß auf# einigen Sitzkissen in einem Strandcafé in Dahab, einem kleinen Touristennest am Roten Meer.
-Sie lehnte sich zurück und dachte an die anstrengende Reise von Berlin bis zu diesem Ort.
+Sie lehnte sich zurück und dachte an die Reise von Berlin bis zu diesem Ort.
 Drei Monate hatte es gedauert.
 Sie hatte den größten Teil der Strecke per Anhalter zurückgelegt.
 Einmal konnte sie in einem winzig kleinen Privatflugzeug mitfliegen.
@@ -118,7 +118,7 @@ Mit Mohammed tauschte sie sich mehrmals am Tag aus, viel Persönliches.
 Es tat gut, über Gefühle zu sprechen, auch über Achmed, über seine lustigen schwarzen Locken und seine warmen Augen, wie unsicher er ihr gegenüber war und wie er ständig Gäste beschummelte.
 Am besten war er, wenn sie es merkten.
 Er schaffte es immer irgendwie raus.
-Und die meisten kamen danach auch noch wieder.
+Und die meisten kamen danach auch wieder.
 
 Um Mohammed zu schreiben verwendete sie Pond, ein E-Mail-Programm, das wie gemacht war für Tails.
 Sie hatte nicht mehr viel Auswahl, wie sie kommunizieren konnte, sie war ziemlich weit oben auf der weltweiten Fahndungsliste der Geheimdienste.
