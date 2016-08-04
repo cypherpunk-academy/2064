@@ -3,7 +3,7 @@ vpath %.adoc parts
 vpath %.html html
 vpath %.adoc chapters
 
-allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html
 
 數1.html: 數1.adoc 01_2064_Das\ Spiele-Labor.adoc  02_2019_Marianne.adoc
 	asciidoctor -D html parts/數1.adoc  
@@ -64,4 +64,8 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 數15.html: 數15.adoc 43_2064_Tresoreinbruch.adoc 44_2021_Night-Owl.adoc 
 	asciidoctor -D html parts/數15.adoc  
 	./wordpressformat html/數15.html
+
+數16.html: 數16.adoc 45_2064_Spezial-Kommando.adoc 46_2064_Nichts\ wie\ weg\ hier.adoc 47_2020_An\ einem\ See\ in\ Tasmanien.adoc
+	asciidoctor -D html parts/數16.adoc  
+	./wordpressformat html/數16.html
 

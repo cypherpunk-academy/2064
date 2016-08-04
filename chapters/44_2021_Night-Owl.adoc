@@ -1,6 +1,6 @@
 == [big-number]#2021# Night-Owl
 
-Paul saß im Besprechungszimmer an seinem Tisch.
+[text-caps]#Paul saß im# Besprechungszimmer an seinem Tisch.
 Vor ihm lagen fünf Papierflieger und zwei Schiffe.
 Er summte leise „Don't worry, be happy“ vor sich hin.
 
@@ -174,7 +174,7 @@ Amon: „Das ist wirklich krank!
 Und wir haben doch niemandem geschadet.
 Nicht wirklich.
 Es ist doch kein Schaden, wenn wir ein paar Tausend Überwachungskameras abschalten oder umfunktionieren, oder wenn wir die Riesenwerbedisplays mal für ein paar Tage für uns benutzen, um Tetris zu spielen.
-Müssen die uns dafür einsperren?
+Müssen sie uns dafür einsperren?
 Ok, ich habe die V-Leute-Datenbank beim BND gehackt.
 Das war dumm.
 Da sind sie wild geworden.
@@ -183,7 +183,7 @@ Und es wäre doch besser für die Menschheit, wenn die ganzen V-Leute öffentlic
 Und für sie auch.
 Das ist doch ein Scheiß-Job.“
 
-Paul: „Du hattest du V-Leute-Datenbank?
+Paul: „Du hattest die V-Leute-Datenbank?
 Scheiße.
 Warum hast du sie nicht weitergegeben?
 Die hätte ich auch gerne gehabt.“
@@ -195,7 +195,7 @@ Hat aber keiner, in zwei Monaten nicht.“
 Paul: „Ich hätte da in Berlin wirklich ein paar Fragen an diese Datenbank...“
 
 Amon: „Hatte ich auch.
-Jetzt ist mir alles egal.
+Jetzt ist mir das egal.
 Und du bist wirklich nicht wegen einem eigenen Hack hier?“
 
 Paul nahm das Blatt und schrieb: „Ich glaube nicht.
