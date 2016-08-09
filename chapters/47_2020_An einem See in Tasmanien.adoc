@@ -1,6 +1,6 @@
 == [big-number]#2020# An einem See in Tasmanien
 
-[text-caps]Marianne saß auf# einem Bootssteg an einem Seestrand in Tasmanien.
+[text-caps]#Marianne saß auf# einem Bootssteg an einem Seestrand in Tasmanien.
 Ihre Füße ließ sie im Wasser baumeln.
 Sie trug einen großen Sonnenhut.
 Die Abendsonne tauchte alles in ein warmes Licht.

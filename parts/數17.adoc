@@ -1,0 +1,7 @@
+:includedir: ../chapters
+
+include::{includedir}/48_2020_Sharing is Caring.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/49_2021_Linda.adoc[]
+
