@@ -1,7 +1,7 @@
 == [big-number]#2021# Nach Hause?
 
 [text-caps]#Paul saß in# einem fensterlosen Besprechungsraum an einem Tisch.
-Ihm gegenüber ein Mann und eine Frau in Geschäftskleidung.
+Ihm gegenüber saßen ein Mann und eine Frau in Geschäftskleidung.
 Zwei Soldaten standen in den beiden Ecken hinter ihm, ein weiterer breitbeinig, mit verschränkten Armen vor der Tür.
 
 Frau: „Paul Lasser!“ Sie nickte ihm zu.
