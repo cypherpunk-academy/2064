@@ -132,7 +132,7 @@ new-contact boatly_unknown_contact DECD !E02 (0E6 !82C B9E9
 
 Mit diesem Befehl sagte man Pond, dass man Kontakt zu jemandem aufnehmen wollte: Man gab einen Namen ein und ein Geheimnis.
 Der andere tat mit dem selben Geheimnis genau dasselbe.
-Und wenn sich die beiden Geheimnisse irgendwo im dunklen Teil des Internets trafen, dann wurde eine sichere Verbindung zwischen beiden Seiten eingerichtet.
+Und wenn sich die beiden Geheimnisse irgendwo im dunklen Teil des Internets trafen, dann wurde eine sichere Verbindung zwischen beiden Seiten errichtet.
 
 ****
 ....
