@@ -86,7 +86,7 @@ Auf ihrem Bildschirm erschien:
 ....
 ****
 
-Sie schrieb: „Show“
+Sie schrieb: „show“
 
 ****
 ....
@@ -156,7 +156,7 @@ Da will wirklich jemand mit mir reden.“
 Normalerweise brauchten Nachrichten über Pond einige Minuten.
 Aber es war möglich, die Zeit abzukürzen.
 
-Sie tippte: show.
+Sie tippte: „show“.
 
 ****
 ....
@@ -208,7 +208,7 @@ Lieber Gruß, Anita
 ....
 ****
 
-„Reply“, tippte Marianne:
+„reply“, tippte Marianne:
 
 ****
 ....
@@ -216,7 +216,7 @@ Woher weiß du, dass ich in der Datenbank war?
 ....
 ****
 
-„Send“.
+„send“.
 
 Kaum eine Minute später:
 
@@ -244,8 +244,7 @@ zu Serverraum der 07-Maschine?
 ....
 ****
 
-„Send“.
-
+„send“.
 
 Marianne schaute gebannt auf den Monitor.
 Es tat sich nichts.
@@ -263,7 +262,7 @@ Message received from boatly_unknown_contact.
 ****
 
 erschien auf dem Bildschirm.
-„Show“ tippte Marianne.
+„show“ tippte Marianne.
 
 ****
 ....
@@ -291,7 +290,7 @@ dauern. Schreib ihm, wenn du den Stick fertig hast.
 ....
 ****
 
-„Send“.
+„send“.
 Sie schickte die gleiche Nachricht auch an Totaot.
 
 „Klonck“, tönte die Tür dumpf unter dem Wasser.
