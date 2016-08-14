@@ -1,7 +1,7 @@
 == [big-number]#2064# Im Strand-Appartment 
 
 [text-caps]#Sigur und Lasse saßen# im Wohnzimmer des Strand-Apartments in zwei riesigen Sesseln.
-Von dort hatten sie einen 270 Grad Rundumblick über das Meer.
+Von dort hatten sie einen 270-Grad-Rundumblick über das Meer.
 Auf der anderen Seite im Raum stand ein überdimensionaler Fernseher, links dahinter ein offener Kamin.
 
 Sigur: „Was meinst du, wann wird er wiederkommen?“
