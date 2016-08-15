@@ -67,7 +67,7 @@ Einer scheint ein Tor-Hidden-Service zu sein, wahrscheinlich auf einem Cubes-Sys
 Da gucke ich mal rein.“
 
 Lasse schickte ihm eine Datei: „Hier sind die Sachen von Lilly, mit denen sie in Cubes hineingeht.
-Da ist zwar nichts für die neueste Version dabei, aber vielleicht kannst du es brauchen.“
+Da ist zwar nichts für die neueste Version dabei, aber vielleicht kannst du es gebrauchen.“
 
 Sigur: „Keine Zero-Days für die neueste Version?
 Gutes Zeichen.
