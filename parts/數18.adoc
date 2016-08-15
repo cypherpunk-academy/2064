@@ -1,0 +1,13 @@
+:includedir: ../chapters
+
+include::{includedir}/50_2020_Und los.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/51_1915_Deutsch-National.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/52_2064_Wo ist das LBI.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/53_2064_Einschüchtern.adoc[]
+

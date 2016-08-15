@@ -3,7 +3,7 @@ vpath %.adoc parts
 vpath %.html html
 vpath %.adoc chapters
 
-allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html 
 
 數1.html: 數1.adoc 01_2064_Das\ Spiele-Labor.adoc  02_2019_Marianne.adoc
 	asciidoctor -D html parts/數1.adoc  
@@ -72,4 +72,12 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 數17.html: 數17.adoc 48_2020_Sharing\ is\ Caring.adoc  49_2021_Linda.adoc
 	asciidoctor -D html parts/數17.adoc  
 	tools/wordpressformat html/數17.html
+
+數18.html: 數18.adoc 50_2020_Und\ los.adoc  51_1915_Deutsch-National.adoc  52_2064_Wo\ ist\ das\ LBI.adoc  53_2064_Einschüchtern.adoc
+	asciidoctor -D html parts/數18.adoc  
+	tools/wordpressformat html/數18.html
+
+數19.html: 數19.adoc 54_1918_Festnahme.adoc  55_2021_Ein\ Blutstropfen.adoc  56_2064_Bombendrohung.adoc
+	asciidoctor -D html parts/數19.adoc  
+	tools/wordpressformat html/數19.html
 
