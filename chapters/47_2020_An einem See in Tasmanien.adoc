@@ -145,7 +145,7 @@ Fred: „Pond und ricochet scheinen tatsächlich schwierig zu sein für sie, Ver
 Es ist klar, dass die NSA den Vorgänger Truecrypt abschalten wollte.
 Es ist wirklich gut.“
 
-Marianne: „Ok.
+Marianne: „Okay.
 Ich habe viel darüber nachgedacht.
 Als erstes schicken wir die relevanten Schwachstellen an das Tails-, an das Tor-Team, an das GPG-Projekt, OTR.
 Wir brauchen sichere Kanäle für die weiteren Dinge.
