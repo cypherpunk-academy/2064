@@ -128,7 +128,7 @@ Ich gehe nicht durchs Fenster im zweiten Stock, oder breche gleich durch die Wan
 In jedem Haus ist ein bisschen Unordnung.
 Das lässt sich nicht vermeiden.
 Aber das ist meistens kein böser Wille.
-Das Einzige, was ihr mit dem ganzen Öffentlichmachen erreicht, ist, dass alle aufwachen und dann wird es brutaler.
+Das einzige, was ihr mit dem ganzen Öffentlichmachen erreicht, ist, dass alle aufwachen und dann wird es brutaler.
 Warum macht ihr das?
 Man ändert die Dinge doch besser von innen.
 Das „Nicht-Dagegen“ gehört doch zu den Cypherpunk-Idealen?
