@@ -9,7 +9,8 @@ Sigur: „Was meinst du, wann wird er wiederkommen?“
 Lasse: „Keine Ahnung.
 Vielleicht kommt er gar nicht wieder.“
 
-Sigur: „Auf jeden Fall sieht er uns gerade auf irgendeinem Monitor, irgendeinem Mikrofon und meinen RFID-Chip habe ich auch noch nicht gefunden.“
+Sigur: „Auf jeden Fall sieht er uns gerade auf irgendeinem Monitor oder hört uns durch irgendein Mikrofon.
+Und meinen RFID-Chip habe ich auch noch nicht gefunden.“
 Er strich sich wieder durch die Haare.
 „Das ist kein guter Platz hier.
 Lass uns gehen.“
