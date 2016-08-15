@@ -35,7 +35,7 @@ Das hier ist alles sehr professionell gemacht.
 Sieht nach Geheimdienstarbeit aus, vielleicht sogar direkt die TAO.
 Aber ich, ich habe hier zu meinen Füßen liegen, das Go-Programm, das die Bitcoins vom Shop in den Tresor bringt.
 Die Logfiles sagen, dass er das Programm normalerweise einmal am Tag startet, Vormittags, und dann gibt das Passwort für den Bitcoin-Tresor ein.
-Und ich, ich starte dann automatisch ein kleines Programm, was die neu verdienten Coins nicht in den Tresor schreibt, sondern sie zusammen mit allen anderen Bitcoins aus dem Tresor nimmt und in meine kleine Höhle zu mir nach Hause schickt, in meinen kleinen Raspberry Pi, meinen treuen Helfer über die Jahre.
+Und ich lasse es dann automatisch ein kleines Programm starten, das die neu verdienten Coins nicht in den Tresor schreibt, sondern sie zusammen mit allen anderen Bitcoins aus dem Tresor nimmt und in meine kleine Höhle zu mir nach Hause schickt, in meinen kleinen Raspberry Pi, meinen treuen Helfer über die Jahre.
 Du kennst ihn.
 :-)“
 
