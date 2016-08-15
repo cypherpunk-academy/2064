@@ -2,13 +2,13 @@ vpath %.adoc parts
 vpath %.html html
 vpath %.adoc chapters
 
-allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html 
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html
 
 數1.html: 數1.adoc 01_2064_Das\ Spiele-Labor.adoc  02_2019_Marianne.adoc
-	asciidoctor -D html parts/數1.adoc  
+	asciidoctor -D html parts/數1.adoc
 	tools/wordpressformat html/數1.html
 
-數2.html: 數2.adoc 03_2064_TRON-Attacke.adoc  04_2064_Schwachstellen\ in\ Computern.adoc 
+數2.html: 數2.adoc 03_2064_TRON-Attacke.adoc  04_2064_Schwachstellen\ in\ Computern.adoc
 	asciidoctor -D html parts/數2.adoc
 	tools/wordpressformat html/數2.html
 
@@ -16,7 +16,7 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 	asciidoctor -D html parts/數3.adoc
 	tools/wordpressformat html/數3.html
 
-數4.html: 數4.adoc 08_1913_Wilhelm.adoc  09_2019_Endlich\ mal\ Action!.adoc 10_2019_Auf\ dem\ Heimweg.adoc  11_2019_Verrat.adoc 
+數4.html: 數4.adoc 08_1913_Wilhelm.adoc  09_2019_Endlich\ mal\ Action!.adoc 10_2019_Auf\ dem\ Heimweg.adoc  11_2019_Verrat.adoc
 	asciidoctor -D html parts/數4.adoc
 	tools/wordpressformat html/數4.html
 
@@ -41,41 +41,41 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 	tools/wordpressformat html/數9.html
 
 數10.html: 數10.adoc 28_2064_Angriff!.adoc  29_2064_Eine\ neue\ Aufgabe.adoc  30_2021_Nach\ Hause.adoc
-	asciidoctor -D html parts/數10.adoc  
+	asciidoctor -D html parts/數10.adoc
 	tools/wordpressformat html/數10.html
 
 數11.html: 數11.adoc 31_2019_The\ Boatly\ Hackerspace.adoc  32_2019_Wo\ ist\ Marianne\ Lasser.adoc  33_2021_Ich\ will\ hier\ bleiben.adoc
-	asciidoctor -D html parts/數11.adoc  
+	asciidoctor -D html parts/數11.adoc
 	tools/wordpressformat html/數11.html
 
 數12.html: 數12.adoc 34_2019_Die\ Schwachstellen-Datenbank.adoc 35_1915_Nach\ der\ Bombe.adoc 36_2019_Überraschende\ Nachricht.adoc
-	asciidoctor -D html parts/數12.adoc  
+	asciidoctor -D html parts/數12.adoc
 	tools/wordpressformat html/數12.html
 
-數13.html: 數13.adoc 37_2021_Der\ Oberst.adoc 38_2019_Academi.adoc 39_2064_Fortunato.adoc 
-	asciidoctor -D html parts/數13.adoc  
+數13.html: 數13.adoc 37_2021_Der\ Oberst.adoc 38_2019_Academi.adoc 39_2064_Fortunato.adoc
+	asciidoctor -D html parts/數13.adoc
 	tools/wordpressformat html/數13.html
 
-數14.html: 數14.adoc 40_2064_Im\ Strand-Appartment.adoc 41_2064_Ein\ Plan.adoc  42_1915_In\ einer\ Suppenküche.adoc 
-	asciidoctor -D html parts/數14.adoc  
+數14.html: 數14.adoc 40_2064_Im\ Strand-Appartment.adoc 41_2064_Ein\ Plan.adoc  42_1915_In\ einer\ Suppenküche.adoc
+	asciidoctor -D html parts/數14.adoc
 	tools/wordpressformat html/數14.html
 
-數15.html: 數15.adoc 43_2064_Tresoreinbruch.adoc 44_2021_Night-Owl.adoc 
-	asciidoctor -D html parts/數15.adoc  
+數15.html: 數15.adoc 43_2064_Tresoreinbruch.adoc 44_2021_Night-Owl.adoc
+	asciidoctor -D html parts/數15.adoc
 	tools/wordpressformat html/數15.html
 
 數16.html: 數16.adoc 45_2064_Spezial-Kommando.adoc 46_2064_Nichts\ wie\ weg\ hier.adoc 47_2020_An\ einem\ See\ in\ Tasmanien.adoc
-	asciidoctor -D html parts/數16.adoc  
+	asciidoctor -D html parts/數16.adoc
 	tools/wordpressformat html/數16.html
 
 數17.html: 數17.adoc 48_2020_Sharing\ is\ Caring.adoc  49_2021_Linda.adoc
-	asciidoctor -D html parts/數17.adoc  
+	asciidoctor -D html parts/數17.adoc
 	tools/wordpressformat html/數17.html
 
 數18.html: 數18.adoc 50_2020_Und\ los.adoc  51_1915_Deutsch-National.adoc  52_2064_Wo\ ist\ das\ LBI.adoc  53_2064_Einschüchtern.adoc
-	asciidoctor -D html parts/數18.adoc  
+	asciidoctor -D html parts/數18.adoc
 	tools/wordpressformat html/數18.html
 
 數19.html: 數19.adoc 54_1918_Festnahme.adoc  55_2021_Ein\ Blutstropfen.adoc  56_2064_Bombendrohung.adoc
-	asciidoctor -D html parts/數19.adoc  
+	asciidoctor -D html parts/數19.adoc
 	tools/wordpressformat html/數19.html
