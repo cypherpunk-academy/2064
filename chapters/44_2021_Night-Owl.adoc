@@ -189,7 +189,7 @@ Warum hast du sie nicht weitergegeben?
 Die hätte ich auch gerne gehabt.“
 
 Amon: „Ich hatte nur die Datei, mit VeraCrypt verschlüsselt.
-Aber ich hatte auf dem BND-Computer schon ein kleines Wächterprogramm installiert, dass mir das Passwort schickt, sobald sie einer geöffnet hätte.
+Aber ich hatte auf dem BND-Computer schon ein kleines Wächterprogramm installiert, das mir das Passwort schickt, sobald sie einer geöffnet hätte.
 Hat aber keiner, in zwei Monaten nicht.“
 
 Paul: „Ich hätte da in Berlin wirklich ein paar Fragen an diese Datenbank...“
