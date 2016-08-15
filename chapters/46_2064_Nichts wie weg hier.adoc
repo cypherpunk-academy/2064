@@ -2,7 +2,7 @@
 
 Im Taxi.
 
-[text-caps]#„Halt an!“ schrie# Lasse zum Fahrer.
+[text-caps]#„Halten Sie an!“ schrie# Lasse zum Fahrer.
 Sigur neben ihm würgte.
 Er öffnete die Tür, stolperte hinaus und erbrach sich.
 Dann kauerte er für einige Augenblicke an der Stelle.
