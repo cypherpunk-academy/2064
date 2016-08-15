@@ -1,4 +1,3 @@
-
 vpath %.adoc parts
 vpath %.html html
 vpath %.adoc chapters
@@ -80,4 +79,3 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 數19.html: 數19.adoc 54_1918_Festnahme.adoc  55_2021_Ein\ Blutstropfen.adoc  56_2064_Bombendrohung.adoc
 	asciidoctor -D html parts/數19.adoc  
 	tools/wordpressformat html/數19.html
-
