@@ -36,10 +36,10 @@ Und nichts, was sich zuordnen ließe.“
 
 Zweiter Mann: „Sie geht nicht auf den üblichen Wegen ins Tornetz.
 Da kriegt ihr sie nicht.
-Sonst habt ihr nichts? Das ist alles? Was ist mit Jabber? Ricochet? Pond? Onion Services?“
+Sonst habt ihr nichts? Das ist alles? Was ist mit Jabber? Ricochet? Pond? Tor Hidden Services?“
 
 Frau: „Jabber macht sie nicht.
-Onion Services haben wir keinen Hinweis und Ricochet und Pond wissen wir nicht.
+Auf Hidden Services haben wir keinen Hinweis und Ricochet und Pond wissen wir nicht.
 Die sind problematisch.“
 
 Zweiter Mann lacht laut auf: „Ihr seid die NSA! Ihr kommt nach so vielen Jahren nicht in Programme rein, die ein Schulabbrecher und ein Google-Programmierer in ihrer Freizeit geschrieben haben? Warum habt ihr die nicht längst abgeschaltet?“

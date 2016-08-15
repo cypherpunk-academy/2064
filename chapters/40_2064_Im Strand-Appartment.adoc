@@ -63,7 +63,7 @@ Lasse bearbeite derweil seine Pond-Nachrichten.
 „Got it!“, schrieb Sigur plötzlich, „drei Rechner sind direkt hier im Stromnetz.
 Wahrscheinlich im Keller.
 Tief im Keller.
-Einer scheint ein Tor-Onion-Service zu sein, wahrscheinlich auf einem Cubes-System.
+Einer scheint ein Tor-Hidden-Service zu sein, wahrscheinlich auf einem Cubes-System.
 Da gucke ich mal rein.“
 
 Lasse schickte ihm eine Datei: „Hier sind die Sachen von Lilly, mit denen sie in Cubes hineingeht.
