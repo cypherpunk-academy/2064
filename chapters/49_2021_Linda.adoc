@@ -1,6 +1,6 @@
 == [big-number]#2021# Linda
 
-[text-caps]#Paul saß alleine# mit finsterer Miene im Besprechungsraum.
+[text-caps]#Paul saß allein# mit finsterer Miene im Besprechungsraum.
 Alle Papierschiffe und -flieger lagen zusammengeknüllt auf einem Haufen vor ihm.
 Die Tür öffnete sich.
 Die Frau, die schon einmal im Raum war, kam herein und setzte sich, wo verher Night-Owl gesessen hatte.
@@ -207,7 +207,7 @@ Linda: „Okay!“ Sie wies die Soldaten an, den Raum zu verlassen.
 
 Linda: „Okay.
 Sie sind draußen.
-Wir sind alleine.
+Wir sind allein.
 Jetzt sag mir: Warum willst du hier nicht raus?“
 
 Paul: „Ich will hier nicht raus, weil ihr über mich Marianne finden wollt.
