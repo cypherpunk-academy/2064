@@ -24,7 +24,7 @@ Fred: „Ja, sie wollen allmächtig dastehen, riesengroß, unantastbar, dass du 
 Dabei sind das zum großen Teil unmotivierte Beamte in einem Riesenapparat.
 Mittagspause und Urlaubskonto sind wichtiger als so ein paar Hacker am anderen Ende der Welt.
 Und mit der Einstellung können sie uns nicht finden.
-– Ok.
+– Okay.
 Daten sind fertig.
 Ich bin so weit.
 Wer kommt zuerst dran?“
@@ -85,7 +85,7 @@ Ich hatte das mit dem Raspberry Pi im Chat nicht so ganz richtig ernst gemeint: 
 Dann raffe ich mich wieder auf, atme durch, setze mich aufrecht hin und schreibe das Raspberry-Programm.
 Nicht so schwierig.
 Dreiviertelstunde.
-Dann teste ich es mit ein paar Tausend QR-Codes, ist ok, mache ein Image davon und schicke es über Pond an Anita.
+Dann teste ich es mit ein paar Tausend QR-Codes, ist okay, mache ein Image davon und schicke es über Pond an Anita.
 Keine Antwort, nur ein normales Pond-Acknowledge.
 Sie hat es bekommen.
 Gut.
