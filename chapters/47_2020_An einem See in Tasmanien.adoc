@@ -153,7 +153,7 @@ Die werden dann, wenn nötig, auch einiges an die Linux-Teams weiterreichen.
 Also, erst machen wir unsere Software dicht, dann können wir anfangen größere Kreise einzuweihen, damit sie die Lücken flicken können.
 Als nächstes dann alles in der Linux- und der BSD-Welt.
 Es wird wahnsinnig viel Arbeit werden, aber immerhin wissen jetzt alle, worauf sie schauen müssen.
-Wenn du eine Vorlage hast, dann ist es Huntertmal einfacher eine Lücke zu schließen.
+Wenn du eine Vorlage hast, dann ist es huntertmal einfacher eine Lücke zu schließen.
 Wir müssen überlegen, wie viel Zeit wir ihnen geben.
 Zu lange dürfen wir nicht warten.“
 
