@@ -11,7 +11,7 @@ Es könnte schon auffallen, wenn jemand in der Mitte von Nirgendwo plötzlich je
 Marianne: „Ganz normal: über Tor Plugable Transports.
 Da kannst du dir aus einer ganzen Palette aussuchen, wie du ins Tornetz gehen möchtest.
 Und auch immer wieder wechseln.
-Ich bin gerade dabei mir einen eigenen Eingang zu bauen.
+Ich bin gerade dabei, mir einen eigenen Eingang zu bauen.
 Aber jetzt nehme ich meistens die Web- oder die Skype-Option: Entweder es sieht so aus, als würde ich ganz normal surfen oder als würde ich mit jemandem skypen, aber in Wirklichkeit bekomme und sende ich Tordaten.
 Teenager im Ausland surfen und skypen ja jede Menge.
 Und da müssen die Operator, die bei der NSA dafür zuständig sind, schon genauer hinschauen.
