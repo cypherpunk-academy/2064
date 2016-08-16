@@ -184,7 +184,7 @@ Mit denen tausche ich nur, obwohl sie immer wieder fragen, ob sie nicht auch bez
 Sigur etwas lauter: „Mir wird übel.“
 
 Lasse: „Mit dem System kommst du nicht lange durch, Fortunato.
-Bei der Konferenz gibt es so viele RFID-Scanner, das fällt auf, wenn plötzlich ein paar Tausend Chips mehr da sind.“
+Bei der Konferenz gibt es so viele RFID-Scanner, das fällt auf, wenn plötzlich ein paar tausend Chips mehr da sind.“
 
 Fortunato: „Meine Chips arbeiten nicht mit der normalen Frequenz.
 In China gibt es eine komplette Fabrik, die nur meine Chips macht.
