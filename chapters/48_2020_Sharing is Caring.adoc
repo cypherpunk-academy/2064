@@ -81,7 +81,7 @@ In der Zwischenzeit kannst du mal erzählen, wie das war mit Anita und dem Terab
 Fred: „Ja! Anita und das Terabyte.
 Das ist eine Geschichte.
 Also, nach dem Treffen mit allen: Ich bekomme deine Pond-Nachricht, die du auch Anita geschickt hast, und falle erst einmal fast vom Stuhl.
-Ich hatte das mit dem Raspberry Pi im Chat nicht so ganz richtig ernst gemeint: könnte man machen.
+Ich hatte das mit dem Raspberry Pi im Chat nicht so ganz ernst gemeint: könnte man machen.
 Dann raffe ich mich wieder auf, atme durch, setze mich aufrecht hin und schreibe das Raspberry-Programm.
 Nicht so schwierig.
 Dreiviertelstunde.
