@@ -15,7 +15,7 @@ Viele glaubten, sie bräuchten dies und das, um ein glückliches Leben zu haben,
 So wurde die neue Generation von ihren eigentlichen Zielen abgelenkt.
 Als sie das alles mit eigenen Augen sehen konnten, sehen konnten, wie ihr Internet zu einer Überwachungs- und Manipulationsmaschine für sie geworden war, als sie die vielen Hintertüren selbst sehen und ausprobieren konnten, da machten sich viele von ihnen auf und wurden Cypherpunks.
 
-Und das, was Lilly gelungen ist, weswegen wir hier alles sitzen, und uns auch Hundertertausende Schüler von überall auf der Welt zuschauen, das ist, diesen berühmten Hack nachzuspielen.
+Und das, was Lilly gelungen ist, weswegen wir hier alles sitzen, und uns auch hundertertausende Schüler von überall auf der Welt zuschauen, das ist, diesen berühmten Hack nachzuspielen.
 Er war von Anfang an in TRON eingebaut und wartete darauf, dass ihn jemand finden würde.
 Lilly hat ihn gefunden und im ersten Anlauf gemeistert.“
 

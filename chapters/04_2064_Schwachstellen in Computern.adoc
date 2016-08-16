@@ -161,7 +161,7 @@ Ich habe mal überlegt, ob es nicht auch spannend wäre, Cypherpunk zu spielen.
 Vielleicht ist das sogar der eigentliche Sinn des ganzen Spiels: dass wir lernen können wie der Befreiungskampf war.“
 
 Lasse und Sigur schauten sich an.
-Lilly wollte ihnen gerade erzählen, was der eigentliche Sinn von TRON ist, dem Spiel, mit dem sie Hunderte Stunden verbracht hatten, alles angeschaut, ausprobiert, gelernt hatten, was ihnen über den Weg gelaufen war.
+Lilly wollte ihnen gerade erzählen, was der eigentliche Sinn von TRON ist, dem Spiel, mit dem sie hunderte Stunden verbracht hatten, alles angeschaut, ausprobiert, gelernt hatten, was ihnen über den Weg gelaufen war.
 
 Lasse: „Hej, Lilly.
 Ich spiele TRON jetzt seit drei Jahren und es geht am Ende darum, die Welt zu erobern, die Politik zu bestimmen, den Lauf der Geschichte zu ändern, aber nicht um die Befreiung des Internets.
@@ -201,7 +201,7 @@ Lilly: „Ich weiß nicht.
 Es ist ein heilloses Durcheinander.
 Ich kann mir nicht vorstellen, dass sie selbst eine Übersicht darüber haben.
 Bei diesen Geheimdiensten haben viele Schnarchnasen und Langweiler gearbeitet, wie in allen großen Regierungsbehörden.
-Aber insgesamt sind es bestimmt Tausende, vielleicht Zehntausende Schwachstellen, für alle Computer, die du dir nur denken kannst, auch für Satelliten.
+Aber insgesamt sind es bestimmt tausende, vielleicht zehntausende Schwachstellen, für alle Computer, die du dir nur denken kannst, auch für Satelliten.
 Und eine einzelne Schwachstelle davon ist eben die Hintertür, über die ich gerade eben bei euch hineinspaziert bin.“
 
 Lasse: „Du kannst uns unsere Computer auch wiedergeben …“

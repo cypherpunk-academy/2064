@@ -85,7 +85,7 @@ Ich hatte das mit dem Raspberry Pi im Chat nicht so ganz richtig ernst gemeint: 
 Dann raffe ich mich wieder auf, atme durch, setze mich aufrecht hin und schreibe das Raspberry-Programm.
 Nicht so schwierig.
 Dreiviertelstunde.
-Dann teste ich es mit ein paar Tausend QR-Codes, ist okay, mache ein Image davon und schicke es über Pond an Anita.
+Dann teste ich es mit ein paar tausend QR-Codes, ist okay, mache ein Image davon und schicke es über Pond an Anita.
 Keine Antwort, nur ein normales Pond-Acknowledge.
 Sie hat es bekommen.
 Gut.
