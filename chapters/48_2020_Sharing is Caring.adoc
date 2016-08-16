@@ -80,7 +80,7 @@ In der Zwischenzeit kannst du mal erzählen, wie das war mit Anita und dem Terab
 
 Fred: „Ja! Anita und das Terabyte.
 Das ist eine Geschichte.
-Also, nach dem Treffen mit allen: Ich bekomme deine Pond-Nachricht, die du auch Anita geschickt hast, und falle erst einmal unter meinen Stuhl.
+Also, nach dem Treffen mit allen: Ich bekomme deine Pond-Nachricht, die du auch Anita geschickt hast, und falle erst einmal fast vom Stuhl.
 Ich hatte das mit dem Raspberry Pi im Chat nicht so ganz richtig ernst gemeint: könnte man machen.
 Dann raffe ich mich wieder auf, atme durch, setze mich aufrecht hin und schreibe das Raspberry-Programm.
 Nicht so schwierig.
@@ -90,7 +90,7 @@ Keine Antwort, nur ein normales Pond-Acknowledge.
 Sie hat es bekommen.
 Gut.
 Als nächstes bekomme ich 22 Stunden 10 Minuten später eine Nachricht, dass die Dateien wohlbehalten auf zwei 1TB-Sticks liegen, mit der Frage, wie sie geliefert werden sollen.
-Ich falle wieder unter meinen Stuhl, krieche wieder hervor, setze mich wieder aufrecht hin und lese weiter.
+Ich falle diesmal wirklich von meinem Stuhl, krieche wieder hervor, setze mich wieder aufrecht hin und lese weiter.
 Sie schreibt, sie wird vielleicht von NSA-Leuten verfolgt.
 Ihr Vorschlag ist, dass sie einen Stick in einer Raststätte der Toilettenfrau dort gibt, die da seit bestimmt 10, 15 Jahren sitzt.
 Sie gibt ihr 50 Dollar und sagt, dass ein Mann zu ihr nach Hause kommen wird, der ihr für den Stick weitere 50 Dollar geben wird.
