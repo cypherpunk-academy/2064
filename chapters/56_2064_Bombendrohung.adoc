@@ -17,7 +17,7 @@ Wir haben so viele Computer und Hacker zur Verfügung wie wir wollen.
 Wir holen in der Zeit einfach alle Server herunter, über die die Transaktionen laufen können.“
 
 Lasse lachte laut.
-„Alle 700 000?
+„Alle 700.000?
 Macht keine Witze!
 Und selbst wenn, das würde alles nur ein paar Minuten, höchstens eine halbe Stunde verzögern.
 Die meisten Server haben eine Auto-Sicherung:
