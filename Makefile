@@ -1,6 +1,8 @@
+
 vpath %.adoc parts
 vpath %.html html
 vpath %.adoc chapters
+vpath %.publ html
 
 allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html
 
@@ -79,3 +81,84 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 數19.html: 數19.adoc 54_1918_Festnahme.adoc  55_2021_Ein\ Blutstropfen.adoc  56_2064_Bombendrohung.adoc
 	asciidoctor -D html parts/數19.adoc
 	tools/wordpressformat html/數19.html
+
+
+
+publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ .10.publ .11.publ .12.publ .13.publ .14.publ .15.publ .16.publ .17.publ .18.publ .19.publ
+
+.1.publ: 數1.html
+	casperjs tools/wordpresspublish.js 1 "$$(cat html/數1.html)" $$(cat tools/wppwd)
+	touch html/.1.publ
+
+.2.publ: 數2.html
+	casperjs tools/wordpresspublish.js 2 "$$(cat html/數2.html)" $$(cat tools/wppwd)
+	touch html/.2.publ
+
+.3.publ: 數3.html
+	casperjs tools/wordpresspublish.js 3 "$$(cat html/數3.html)" $$(cat tools/wppwd)
+	touch html/.3.publ
+
+.4.publ: 數4.html
+	casperjs tools/wordpresspublish.js 4 "$$(cat html/數4.html)" $$(cat tools/wppwd)
+	touch html/.4.publ
+
+.5.publ: 數5.html
+	casperjs tools/wordpresspublish.js 5 "$$(cat html/數5.html)" $$(cat tools/wppwd)
+	touch html/.5.publ
+
+.6.publ: 數6.html
+	casperjs tools/wordpresspublish.js 6 "$$(cat html/數6.html)" $$(cat tools/wppwd)
+	touch html/.6.publ
+
+.7.publ: 數7.html
+	casperjs tools/wordpresspublish.js 7 "$$(cat html/數7.html)" $$(cat tools/wppwd)
+	touch html/.7.publ
+
+.8.publ: 數8.html
+	casperjs tools/wordpresspublish.js 8 "$$(cat html/數8.html)" $$(cat tools/wppwd)
+	touch html/.8.publ
+
+.9.publ: 數9.html
+	casperjs tools/wordpresspublish.js 9 "$$(cat html/數9.html)" $$(cat tools/wppwd)
+	touch html/.9.publ
+
+.10.publ: 數10.html
+	casperjs tools/wordpresspublish.js 10 "$$(cat html/數10.html)" $$(cat tools/wppwd)
+	touch html/.10.publ
+
+.11.publ: 數11.html
+	casperjs tools/wordpresspublish.js 11 "$$(cat html/數11.html)" $$(cat tools/wppwd)
+	touch html/.11.publ
+
+.12.publ: 數12.html
+	casperjs tools/wordpresspublish.js 12 "$$(cat html/數12.html)" $$(cat tools/wppwd)
+	touch html/.12.publ
+
+.13.publ: 數13.html
+	casperjs tools/wordpresspublish.js 13 "$$(cat html/數13.html)" $$(cat tools/wppwd)
+	touch html/.13.publ
+
+.14.publ: 數14.html
+	casperjs tools/wordpresspublish.js 14 "$$(cat html/數14.html)" $$(cat tools/wppwd)
+	touch html/.14.publ
+
+.15.publ: 數15.html
+	casperjs tools/wordpresspublish.js 15 "$$(cat html/數15.html)" $$(cat tools/wppwd)
+	touch html/.15.publ
+
+.16.publ: 數16.html
+	casperjs tools/wordpresspublish.js 16 "$$(cat html/數16.html)" $$(cat tools/wppwd)
+	touch html/.16.publ
+
+.17.publ: 數17.html
+	casperjs tools/wordpresspublish.js 17 "$$(cat html/數17.html)" $$(cat tools/wppwd)
+	touch html/.17.publ
+
+.18.publ: 數18.html
+	casperjs tools/wordpresspublish.js 18 "$$(cat html/數18.html)" $$(cat tools/wppwd)
+	touch html/.18.publ
+
+.19.publ: 數19.html
+	casperjs tools/wordpresspublish.js 19 "$$(cat html/數19.html)" $$(cat tools/wppwd)
+	touch html/.19.publ
+
