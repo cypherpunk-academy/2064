@@ -109,7 +109,7 @@ An den Guardian, New York Times, Der Spiegel, Washington Post, etc.“
 ....
 AUFRUF AN DIE INTERNET-WELT
 
-Mit den heutigen Tag beginnt ein neuer Zeitabschnitt in der
+Mit dem heutigen Tag beginnt ein neuer Zeitabschnitt in der
 Geschichte des Internets. Der zurückliegende war geprägt
 durch eine immer größere Anzahl von Schwachstellen, so 
 genannten Exploits, über die sich jeder, der sie kennt und 
