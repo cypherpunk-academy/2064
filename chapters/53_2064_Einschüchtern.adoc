@@ -1,7 +1,7 @@
 == [big-number]#2064# Einschüchtern!
 
 [text-caps]#Marianne und Lilly# saßen zusammen bei einer Tasse Tee in der Steinhütte.
-Vor ihnen brannte eine Lagerfeuer.
+Vor ihnen brannte ein Lagerfeuer.
 
 Lilly: “Ist das in Wirklichkeit passiert mit der Zyankalikapsel?“
 
