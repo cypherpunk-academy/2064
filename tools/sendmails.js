@@ -1,6 +1,9 @@
 var exec = require('child_process').exec;
 var util = require('util');
-var mailinfo = require( process.argv[2] );
+var fs = require('fs');
+
+var mailfile = process.argv[2];
+	mailinfo = require( "../" + mailfile );
 
 var today = new Date(),
 	mailsSent = 0,
@@ -15,12 +18,14 @@ if( mailinfo.weekdays.indexOf( today.getDay() ) === -1 ) {
 for( var i=0; i<mailinfo.subscribers.length; i++ ) {
 	var subs = mailinfo.subscribers[i],
 		startDate = new Date( subs.startDate ),
+		sentDate = new Date( subs.sentDate ),
 		days = Math.floor( Math.abs((startDate.getTime() - today.getTime())/(24*60*60*1000)) ),
 		weekday = startDate.getDay(),
 		part = Math.floor( days / 7 ) * mailinfo.weekdays.length + 1;
 
 	if( mailinfo.weekdays.indexOf( weekday ) === -1 ) {
 		console.error( "Start date of '" + subs.email + "' is not a publishing day. Omitting ..." );
+		mailsSent++;
 		continue;
 	}
 
@@ -30,8 +35,15 @@ for( var i=0; i<mailinfo.subscribers.length; i++ ) {
 		}
 	}
 
+	if( sentDate.getDate() === today.getDate() && sentDate.getMonth() === today.getMonth() ) {
+		console.error( "Part " + (part+1) + " was already sent to '" + subs.email + "' today. Omitting ..." );
+		mailsSent++;
+		continue;
+	}
+
 	if( part >= mailinfo.parts.length ) {
 		console.error( "Part " + (part+1)  + " is not available for '" + subs.email + "'. Omitting ..." );
+		mailsSent++;
 		continue;
 	}
 
@@ -94,11 +106,22 @@ for( var i=0; i<mailinfo.subscribers.length; i++ ) {
 		}
 	);
 
-	subs.sentDate = today.getFullYear() + "-" + (today.getMonth()+1) + "-" + today.getDate();
+	subs.sentDate = today.getFullYear() + "-" + ("0"+(today.getMonth()+1)).slice(-2) + "-" + ("0" + today.getDate()).slice(-2);
+
 }
 
 (function wait () {
 	if( mailsSent < mailinfo.subscribers.length ) setTimeout(wait, 1000);
-	else console.log( mailsSentOk + " mails sent out." + JSON.stringify( mailinfo ) );
+	else {
+		console.log( mailsSentOk + " mails sent out." );
+
+		fs.writeFile( mailfile + "~", JSON.stringify( mailinfo, null, 4 ), function(err) {
+			if(err) {
+				return console.error(err);
+			} else {
+				exec( "mv " + mailfile + "~ " + mailfile );
+			}
+		}); 
+	}
 })();
 
