@@ -18,8 +18,7 @@ Builds all parts of the book. They are stored in html/.
 
 Publishes changed html pages in wordpress. Password file tools/wppwd needed.
 
-### ./sendparts
+### ./sendparts.sh
 
 Sends all current parts to all subscribers listed in the file mail/mail.json
 Only sends mail out on mailing days. And only sends them out once.
-
