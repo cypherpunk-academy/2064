@@ -117,7 +117,7 @@ Wir brauchen Sicherheit.“
 Lasse: „Ich kann jetzt hier mit einem Knopfdruck dafür sorgen, dass ich keine Möglichkeit mehr habe, die Bomben zu stoppen.
 Keiner kann das dann mehr.“
 
-Erster Mann: „Die halbe TAO sucht nach den Rechnern, auf denen die Bitcoins sind.
+Erster Mann: „Die halbe TAO sucht nach den Rechnern, die diese Bitcoin-Transaktionen auslösen können.
 Sie sind irgendwo im Tor-Netz.
 Vielleicht finden wir sie.“
 
