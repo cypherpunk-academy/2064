@@ -47,10 +47,10 @@ Lasse: „Ja, nur schade, dass wir nicht wissen, wo sie sind, sie haben nicht ei
 Sigur: „Die verstecken sich sicher im Tor-Netz, die haben ihre Daten über Hashes im Internet verteilt und benutzen Tails oder Cubes OS als Betriebssystem.
 Die haben ja nichts Besseres eigenes.
 Die brauchen freie Software.
-Und dann bauen wir irgendwie eine Hintertüre in Tails ein und darüber gehen wir auf ihre Rechner.“
+Und dann bauen wir irgendwie eine Hintertür in Tails ein und darüber gehen wir auf ihre Rechner.“
 
 Lasse: „Hast du sie noch alle?
-In Tails eine Hintertüre?
+In Tails eine Hintertür?
 Ich glaube, du spinnst.
 Erstens ist das gegen die Cypherpunk-Ethik, in Standard-Programme Hintertüren einzubauen.
 Und abgesehen davon: Das würdest du gar nicht schaffen.
