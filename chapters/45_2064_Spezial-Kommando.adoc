@@ -1,9 +1,53 @@
 == [big-number]#2064# Spezial-Kommando
 
-[text-caps]#5:45 Uhr.#
-Fortunato saß allein im Wohnzimmer und drehte an einem Zauberwürfel.
-Bei einem leisen Geräusch eines anhaltenden Fahrzeugs schaute er auf und horchte.
-Er stand auf, ging zur Eingangstür und öffnete sie leise.
+[text-caps]#Im Spiele-Labor.# Lasse und Sigur standen sich mit Leuchtkugeln auf den Köpfen gegenüber vor den schwebenden Monitoren.
+
+Lasse zu Sigur: „Schläfst du auch?“
+
+Sigur: „Ja.
+Ich träume.
+Aber nichts Besonders.
+Ganz nett gemacht von TRON.
+Schön bunt.
+Du?“
+
+Lasse: „Bei mir ist plötzlich alles schwarz geworden.
+Komisch.
+Völlig dunkel.
+Ich höre nur so ein wabberndes Geräusch, ganz leise.
+Ein bisschen wie bei Drogen.
+Aber sehen kann ich gar nichts.
+Alles Dunkelschwarz.
+Auch Riechen und Schmecken ist weg.“
+
+Sigur: „Hmmm.
+Ganz weg?
+Das hatte ich noch nicht.
+Keine Ahnung.
+Jetzt scheint bei mir was zu passieren.
+Die Traumbilder ändern sich.
+Boah.
+Voll krass.“
+
+Edgar, ihr Kommunikations- und Bewegungslehrer kam zur Tür herein.
+Beide drehten sich zu ihm.
+Er legte seinen Finger auf den Mund und bedeutete ihnen, weiter zu spielen.
+Er ging zu Sigur, stellte sich seitlich eng an ihn und legte ihm die Hand auf seine Schulter."
+
+Sigur: „Kommt jetzt was Krasses?“
+
+Edgar: "Du kannst einfach weiterspielen.
+Ja.
+Es wird ein bisschen krass werden.
+Du kannst ganz rein gehen.
+Ich bin da."
+
+Sigur atmete durch und vertiefte sich in seine Träume.
+
+Es war 5:45 Uhr.
+Fortunato saß unten allein im Wohnzimmer des Strand-Apartments und drehte an einem Zauberwürfel.
+Bei einem leisen Geräusch eines anhaltenden Fahrzeugs horchte er auf.
+Er erhob sich, ging zur Eingangstür und öffnete sie leise.
 Sieben Männer eines Einsatzkommandos betraten das Apartment in voller Ausrüstung mit Sturmgewehren im Anschlag.
 Der letzte trug zwei große Medizinkoffer.
 Fortunato führte sie leise die Treppe nach oben.
@@ -11,19 +55,20 @@ Fortunato führte sie leise die Treppe nach oben.
 Fortunato zum Gruppenführer: „Rechts ist Lasse.
 Links Sigur.
 Lasse ist im Tiefschlaf, ich habe ihm Gas gegeben.
-Sigur normal.“
+Sigur schläft normal.“
 
 Der Gruppenführer öffnete leise die rechte Tür und machte ein Zeichen zum letzten Soldaten. Der trug die Medizinkoffer ins Zimmer.
 Er kniete sich neben Lasse und prüfte Atem und Puls.
 Dann drehte er Lasses Kopf zur Seite und setzte eine Art von Impf-Pistole an seinen Hinterkopf.
 Er schloss die Augen und drückte ab.
-Noch einem kurzen, gefährlich klingenden „Plick“, legte er die Pistole zu Seite, wischte mit einem kleinen Tuch das Blut weg, das aus der winzigen Wunde austrat. Er verklebte die Stelle mit Wundkleber.
+Noch einem kurzen, gefährlich klingenden „Plick“, legte er die Pistole zu Seite, wischte mit einem kleinen Tuch das Blut weg, das aus der winzigen Wunde austrat.
+Er verklebte die Stelle mit Wundkleber.
 Dann griff er in den Koffer und holte ein handgroßes Gerät mit Bildschirm heraus.
 Er knipste es an, zog zwei Antennen heraus und beobachtete kurz die pulsierenden Signale, die auf dem Bildschirm erschienen.
 Er gab dem Gruppenführer ein Zeichen, dass alles okay war.
 
 Der Gruppenführer drehte sich zu Sigurs Tür und zählte mit den Fingern von drei herunter.
-Bei null trat der erste Soldat die Tür ein und vier weitere stürmten mit lautem Geschrei ins Zimmer.
+Bei null trat der erste Soldat die Tür ein und vier weitere stürmten mit lautem Brüllen ins Zimmer.
 Zwei Soldaten drehten Sigur brutal auf den Bauch und fixierten seine Arme hinter dem Rücken mit Plastikfesseln.
 Ein Soldat hielt seine Waffe direkt an Sigurs Kopf, ein anderer hielt ihm eine starke Lampe ins Gesicht.
 Sigur blinzelte mit den Augen.
@@ -52,7 +97,7 @@ Vielleicht haben Sie das einfach ignoriert, vielleicht auch nicht.
 Egal.
 Falls Sie geglaubt haben, dass Sie uns ungestraft ficken können, dass Sie ungestraft in sicherheitsrelevante Systeme eindringen und sie übernehmen können, dann haben Sie sich geirrt.
 Ganz offensichtlich.
-Und deswegen bin ich jetzt hier.“
+Weil ich jetzt hier bin.“
 
 Sigur mit Schmerzen: „Wer seid ihr?“
 
@@ -81,7 +126,7 @@ Er hielt ein Kügelchen mit etwa fünf Millimetern Durchmesser vor Sigurs Gesich
 Der hatte sich abgewandt und reagierte nicht.
 Er bekam einen weiteren Schlag gegen den Kopf und drehte sich dann zum Gruppenführer hin.
 
-Gruppenführer: „So ein Kügelchen, ein Wunderwerk der Technik und eine nette Erfindung aus unseren Folterkammern, entschuldigen Sie, aus unseren Räumen für fortgeschrittene Verhörtechniken.
+Gruppenführer: „So ein Kügelchen, ein Wunderwerk der Technik und eine nette Erfindung aus unseren Folterkammern, ah, entschuldigen Sie, aus unseren Räumen für erweiterte Verhörtechniken.
 Da ist ein Funkcontroller eingebaut und ein Multifunktionsprozessor.
 Und den haben wir so programmiert, dass er vor allem zwei Dinge tut.
 Erstens meldet er auf Anfrage Ihren Aufenthaltsort und weitere Körperdaten wie Herzschlag, Blutdruck etc.
@@ -126,16 +171,18 @@ Joga machen sie besser nicht.“
 Sigur wurde übel.
 Er wollte sich erbrechen.
 Sein Körper zuckte hin und her.
-Er hatte eigentlich schon aufgegeben.
+Er iselbst hatte eigentlich schon aufgegeben.
 Aber der Körper wehrte sich noch.
 Er konnte den Kopf gerade noch zur Seite drehen, bevor der Schwall Erbrochenes aus seinem Mund spritzte und vor allem den Boden vor dem Bett und den Gruppenführer traf.
 Der sprang auf.
 
 Gruppenführer: „Teufel!
-Passen Sie auf!“ Ein Soldat haute Sigur wieder gegen den Kopf.
+Passen Sie auf!“
+Ein Soldat haute Sigur wieder gegen den Kopf.
 
 Gruppenführer: „Das ist ja ekelhaft!
-Uah.“ Er sah sich von oben bis unten an und nahm dann das Handtuch, das ihm der Medizinsoldat reichte.
+Uah.“
+Er sah sich von oben bis unten an und nahm dann das Handtuch, das ihm der Medizinsoldat reichte.
 Er begann sich damit abzuwischen.
 „Sauerei.“
 
@@ -143,7 +190,8 @@ Der Medizinsoldat holte wieder das Messgerät heraus, kontrollierte die Messdate
 
 Medizinsoldat: „Fertig!“ Er schmiss die restlichen Sachen in die Koffer, klappte sie zu und verließ damit den Raum.
 Die anderen Soldaten folgten ihm.
-Der Gruppenführer stand als letzter allein im Zimmer und schaute auf Sigur: „Machen Sie keinen Scheiß, wir beobachten Sie.
+Der Gruppenführer stand als letzter allein im Zimmer und schaute auf Sigur:
+„Machen Sie keinen Scheiß, wir beobachten Sie.
 Drei Mann werden rund um die Uhr auf Ihren Monitor schauen.“
 
 Dann verklebte er Sigurs Mund mit einem Klebeband und verließ das Zimmer.
@@ -154,8 +202,8 @@ Sein Kopf dröhnte wie nach einem exzessiven Bierabend, zumindest stellte er sic
 Er stand auf und spürte einen ziehenden Schmerz im Kopf.
 Er wankte.
 
-„Was ist los?“, dachte er und richtete sich auf.
-Er ging zu Sigurs Tür, öffnete sie und fand Sigur gefesselt am Bett, mit hochrotem Kopf, zappelnd.
+„Was ist los?“, dachte er.
+Er ging zu Sigurs Tür, öffnete sie und fand ihn gefesselt am Bett, mit hochrotem Kopf, zappelnd.
 Lasse sprang zu ihm, riss ihm das Klebeband vom Mund und öffnete die Plastikfesseln mit einem Messer, das er in Sigurs Rucksack fand.
 
 Sigur richtete sich auf und setzte sich auf die Bettkante.
@@ -205,7 +253,8 @@ Niemand macht eine Razzia bei mir.
 Das waren US-Amerikaner.“
 
 Lasse: „Das war keine Razzia.
-Das war eine Geheimdienstaktion.“ Er und Fortunato schauten sich an.
+Das war eine Geheimdienstaktion.“
+Er und Fortunato schauten sich an.
 Lasse blickte auf die Wohnzimmeruhr.
 „12:15 Uhr.
 Shit.
@@ -229,7 +278,7 @@ Ich verschiebe den Abflug um eine Stunde.
 Dann müsst ihr euch nicht beeilen.“
 
 Lasse schaute ihn an.
-Sigur nickte und Fortuanto griff zum Telefon.
+Sigur nickte und Fortuanto griff zum Telefon und telefonierte mit drei verschiedenen Stellen.
 
 Fortunato: „Taxi kommt in 10 Minuten.
 Jungs, ist mit euch alles in Ordnung?
@@ -244,10 +293,16 @@ Lasse drehte sich um und winkte kurz.
 Fortunato ließ sich in einen Sessel fallen und atmete durch: „So eine Aufregung!
 Das ist immer so mit den Gringos.“
 Er schüttelte den Kopf.
-„Jetzt erst einmal eine Mate und dann im Shop nachschauen, was inzwischen passiert ist.“ Er schnappte sich sein Tablett und rief erstaunt: „Hej!
+„Jetzt erst einmal eine Mate und dann im Shop nachschauen, was inzwischen passiert ist.“
+Er schnappte sich sein Tablett und rief erstaunt: „Hej!
 622 Bitcoins!
 Seit gestern Nachmittag.
 Wow!
 Das Ding läuft.“
 
 Er atmete noch einmal tief durch und gab das Passwort für seinen Bitcoin-Tresor ein.
+
+/// Im Spielzimmer ///
+
+Edgar nahm die Hand von Sigurs Schulter und verließ wortlos den Raum.
+
