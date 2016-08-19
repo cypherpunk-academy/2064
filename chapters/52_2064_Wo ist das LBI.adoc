@@ -52,7 +52,7 @@ Und dann bauen wir irgendwie eine Hintertüre in Tails ein und darüber gehen wi
 Lasse: „Hast du sie noch alle?
 In Tails eine Hintertüre?
 Ich glaube, du spinnst.
-Erstens ist das gegen Cypherpunk-Ethik, in Standard-Programme Hintertüren einzubauen.
+Erstens ist das gegen die Cypherpunk-Ethik, in Standard-Programme Hintertüren einzubauen.
 Und abgesehen davon: Das würdest du gar nicht schaffen.
 Das Projekt ist hochaktiv, die schauen sich alles Neue zwei, dreimal an bevor sie es nehmen.
 Und du bist dort nicht bekannt.“
