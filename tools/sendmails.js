@@ -119,7 +119,7 @@ for( var i=0; i<mailinfo.subscribers.length; i++ ) {
 			if(err) {
 				return console.error(err);
 			} else {
-				exec( "mv " + mailfile + "~ " + mailfile );
+				exec( "mv " + mailfile + "~" + mailfile );
 			}
 		}); 
 	}
