@@ -111,8 +111,8 @@ AUFRUF AN DIE INTERNET-WELT
 
 Mit dem heutigen Tag beginnt ein neuer Zeitabschnitt in der
 Geschichte des Internets. Der zurückliegende war geprägt
-durch eine immer größere Anzahl von Schwachstellen, so 
-genannten Exploits, über die sich jeder, der sie kennt und 
+durch eine immer größere Anzahl von Schwachstellen und
+entsprechender Exploits, über die sich jeder, der sie kennt und
 das nötige technische Wissen besitzt, unerlaubterweise Zugriff
 auf fremde Computer und Smartphones verschaffen kann. Und das
 können inzwischen viele Menschen weltweit. Nicht nur Menschen
