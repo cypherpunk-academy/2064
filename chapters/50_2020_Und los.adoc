@@ -151,8 +151,8 @@ laufen oder andere, die nicht freie Software sind, dann empfehlen
 wir diese Geräte für einige Wochen nicht zu verwenden. Einzige
 Ausnahme bei Android ist, wenn ihr den Android-Quelltext und den
 von allen Apps, die ihr verwendet, selbst heruntergeladen und
-kompiliert habt. Nehmt die Batterie heraus oder legt sie sie in
-eine Metallschachtel.
+kompiliert habt. Anderenfalls nehmt die Batterie heraus oder legt
+das Smartphone in eine Metallschachtel.
 
 Alle Menschen, die Systeme, Anwendungsprogramme und andere Software
 programmieren, die auf Linux, BSD oder anderer freier Software
