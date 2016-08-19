@@ -161,7 +161,7 @@ stellen erhalten und sie haben seitdem daran gearbeitet, die Lücken
 zu schließen. Wir empfehlen auf eines dieser Systeme umzusteigen.
 
 Unserer Auffassung nach darf Software nicht geheim gehalten wer-
-den. Jeder Mensch hat ein Recht darauf zu erfahren, was der Computer
+den. Jeder Mensch hat ein Recht darauf, zu erfahren, was der Computer
 oder das Smartphone, das er verwendet, tatsächlich macht.
 
 @Anonymous 
