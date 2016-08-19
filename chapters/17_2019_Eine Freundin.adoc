@@ -21,7 +21,7 @@ Er ist einfach verschwunden.
 Aber das ist noch nicht einmal alles.
 Ich war bei ihm an der Uni und die sagen dort, dass er auf Geschäftsreise in Europa sei.
 Eine sehr dringende, geheime Mission.
-Das hätte mit seinem Projekt zu tun.”
+Das hätte mit seinem Projekt zu tun.“
 
 Marianne: „Was?!“
 
@@ -32,14 +32,14 @@ Aber an der Uni haben sie mir angedeutet, dass es in unserer Beziehung ja eh kri
 Und er vielleicht deshalb nichts erzählt hatte.
 Ich weiß nicht wie sie darauf kommen.
 Es ist echt schlecht hier.
-Niemand glaubt mir.”
+Niemand glaubt mir.“
 
 Marinne: „Shit.
 Wie können die Geheimdienst-Leute das machen? Wie können die alle dazu bringen, ihre Geschichte zu glauben und nicht deine? Kennst du dort wirklich niemanden gut genug, dass du ihn fragen kannst, was wirklich vor sich geht?“
 
 Corinne: „Ich dachte, ich hätte ein oder zwei Freunde.
 Aber es glauben wirklich alle die Geschichte von Karli auf Europareise.
-Und ich sehe aus, als wäre ich verrückt, oder so etwas.”
+Und ich sehe aus, als wäre ich verrückt, oder so etwas.“
 
 Marinne: „Aber von einer Reise muss er ja irgendwann wiederkommen.“
 
@@ -52,7 +52,7 @@ Glaub mir, die tun alles, wenn sie sicher sind, dass es verborgen bleibt, wenn d
 Die Wahrheit ist die gefährlichste Sache der Welt.
 Du brauchst eine Armee von Lügen, um sie zu schützen …“
 
-„JAH!”, schrieb Marianne.
+„JAH!“, schrieb Marianne.
 „Wir müssen da nur Licht reinbringen.
 Dann löst sich das auf.“
 
@@ -76,7 +76,7 @@ Zusammen.“
 
 Marianne: „;-)“
 
-Corinne: „Was ist eigentlich mit den Daten von Karlis Computer? Hast du damit etwas anfangen können? Hast du den NSA-Schlüssel gefunden?”
+Corinne: „Was ist eigentlich mit den Daten von Karlis Computer? Hast du damit etwas anfangen können? Hast du den NSA-Schlüssel gefunden?“
 
 Marianne lehnte sich zurück und atmete durch.
 Was war das jetzt? Sie hatte den USB-Stick mit den NSA Daten die ganze Zeit über nicht angefasst.
@@ -101,12 +101,12 @@ Marinne legte ihr Gesicht in ihre Hände und dachte intensiv nach.
 
 Corinne: „Vielleicht geht es für Karl und Paul jetzt um ihr Leben.
 Deswegen will ich jetzt wirklich wissen, was Sache ist.
-Was hast du an diesem Tag gemacht, als die beiden geholt wurden?”
+Was hast du an diesem Tag gemacht, als die beiden geholt wurden?“
 
 Marianne: „Ich bin zuerst in Karlis Computer gegangen und habe mir dort alle Schlüssel und Logs und Passwort-Dateien geholt.
 Ich habe den NSA-Schlüssel gefunden, zusammen mit Adressen von drei Computern, wo er passen könnte.
 Die habe ich meinem Bruder geschickt.
-Das weißt du.”
+Das weißt du.“
 
 Corinne: „Und was hast du dann gemacht?“
 
@@ -142,26 +142,26 @@ Wow.
 Das war es.
 Dein Bruder stand unter Überwachung und dann kam ein Angriff aus Berlin, von Karlis Rechner aus.
 Ja, klar.
-Dann werden sie wild.”
+Dann werden sie wild.“
 
 Marianne: „Ich war anonym dort.
 Ich hatte eine Tails-Verkleidung.
-Niemand weiß, dass der Angriff aus Berlin kam.”
+Niemand weiß, dass der Angriff aus Berlin kam.“
 
 Corinne: „Du weißt, dass die NSA als einziger Geheimdienst der Welt einzelne Leute aus Tails herausholen kann.
 Sie durchsuchen dafür für ein bestimmtes Ereignis fast das ganze Internet – in Minuten.
-Und dann können sie sagen, der Computer, über den gerade auf den NSA-Rechner zugegriffen wurde, der steht in Berlin.”
+Und dann können sie sagen, der Computer, über den gerade auf den NSA-Rechner zugegriffen wurde, der steht in Berlin.“
 
 Marianne: „Ja, ich weiß.
-Deswegen hat man ja manchmal nur 10-15 Minuten.”
+Deswegen hat man ja manchmal nur 10-15 Minuten.“
 
-Corinne: „Hast du Logs von dem Besuch?”
+Corinne: „Hast du Logs von dem Besuch?“
 
 Marianne erschrak.
 Warum wollte Corinne jetzt etwas über die Logs wissen? Das war nicht ihre Art und nicht ihre Sprache.
 
 Marianne: „Ich fühle mich nicht danach, jetzt darüber zu reden.
-Ich habe die letzten Tage nicht an die Daten gedacht und habe es in der nächsten Zeit auch nicht vor.”
+Ich habe die letzten Tage nicht an die Daten gedacht und habe es in der nächsten Zeit auch nicht vor.“
 
 Corinne: „Ich will es aber wissen.
 Ich will wissen, was Karli passiert ist.
