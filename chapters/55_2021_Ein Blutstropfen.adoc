@@ -87,7 +87,7 @@ Er schaute auf den ersten Satz, nickte und schrieb weiter.
 
 ****
 ....
-Verschlüsselung ist die Grundlage unserer persönlichen Frei-
+1 -- Verschlüsselung ist die Grundlage unserer persönlichen Frei-
 heit. Wir müssen wählen können, wer unsere Informationen bekommt
 und wer nicht. Wir müssen uns verstecken können, uns den Blicken 
 derer entziehen, die zerstören wollen, was wir schaffen. Jeder 

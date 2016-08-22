@@ -1,0 +1,10 @@
+:includedir: ../chapters
+
+include::{includedir}/60_2021_Klassenbesprechung.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/61_2021_Offener Brief.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/62_2021_Das Manifest(1).adoc[]
+
