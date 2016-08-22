@@ -46,7 +46,7 @@ Das ist das großes Ziel.
 Und wenn man das erreicht hat, dann kann man die Freiheit der Menschen garantieren – zumindest von einem Teil der Menschen.
 Das maximale Glück für die maximale Anzahl von Menschen.“
 
-Er schlug mit der Faust auf den Tisch: "Fuck". Er dachte: „Das ist der dämonischste Spruch, den es gibt, weil er vernünftig klingt, und damit so schwer zu durchschauen ist.
+Er schlug mit der Faust auf den Tisch: „Fuck“. Er dachte: „Das ist der dämonischste Spruch, den es gibt, weil er vernünftig klingt, und damit so schwer zu durchschauen ist.
 Menschen ausschließen: Wenn das großartigste Land, das es je gegeben hat, herrscht, dann gibt es Freiheit für alle diejenigen, die sich seiner Kultur unterwerfen, seinen Lebensvorstellungen.
 Und jeder Feind seiner Art zu leben, ist ein Freiheitsfeind und wird unschädlich gemacht.
 Zum Beispiel Hacker, vor allem Cypherpunks.“
@@ -75,7 +75,7 @@ Das ist es.
 Und wenn es niemals jemand lesen wird ...“
 Er zog das Büchlein zu sich hin, riss alle schon beschriebenen Seiten heraus und ordnete sie in einem Stapel auf dem Tisch an.
 Dann schlug er die erste Seite auf und nahm den Stift.
-Er dachte: "Eric Hughes ... Verschlüsselung"  und begann zu schreiben:
+Er dachte: „Eric Hughes ... Verschlüsselung“  und begann zu schreiben:
 
 ****
 ....
