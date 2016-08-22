@@ -2,8 +2,20 @@ var exec = require('child_process').exec;
 var util = require('util');
 var fs = require('fs');
 
-var mailfile = process.argv[2];
-	mailinfo = require( "../" + mailfile );
+for( var i=2 ; i<process.argv.length ; i++ ) {
+	var a = process.argv[i];
+	if( a === "--mailinfo" || a === "-m" ) {
+		var mailfile = process.argv[++i];
+	}
+	if( a === "--dryrun" || a === "-d" ) {
+		var dryrun = true;
+	}
+	if( a === "--verbose" || a === "-v" ) {
+		var verbose = true;
+	}
+}
+
+var mailinfo = require( "../" + mailfile );
 
 var today = new Date(),
 	mailsSent = 0,
@@ -13,6 +25,84 @@ var today = new Date(),
 if( mailinfo.weekdays.indexOf( today.getDay() ) === -1 ) {
 	console.error( "Today is not a publishing day." );
 	process.exit(0);
+}
+
+var generateHTML = function( part ) {
+	var html = 
+		"<head>" +
+			"<link href=\"https://fonts.googleapis.com/css?family=Lora\" rel=\"stylesheet\">" +
+			"<meta charset='utf-8'>" +
+			"<style>" +
+				"body {" +
+					"font-family: 'Lora', serif;" +
+				"}" +
+				"hr {" +
+					"border-color: lightgrey;" +
+				"}" +
+			"</style>" +
+				"" +
+		"</head>" +
+		"<body>" +
+			"<div>" +
+				"<h3>2064 Die Geschichte der Cypherpunks</h3>" +
+				"<h4>" + (part+1) + " - " +
+					"<a href='" + mailinfo.parts[part] + "'>" + mailinfo.captions[part] + "</a>" +
+				"</h4>" +
+				"<hr>" +
+				"<h4>Ältere Folgen</h4>" +
+					"" +
+					"";
+
+	for( var j=part-1 ; j>=0 ; j-- ) {
+		html += "<p>" + (j+1) + " - " +
+			"<a href='" + mailinfo.parts[j] + "'>" + mailinfo.captions[j] + "</a>" +
+		"</p>";
+
+		if( j === 8 ) html += "<h4>--- TEIL 1 ---</h4>";
+		if( j === 18 ) html += "<h4>--- TEIL 2 ---</h4>";
+	}
+
+	html +=		"</div>" +
+			"</body>";
+
+	return html;
+}
+
+var generateAscii = function( part ) {
+	var ascii = 
+		"2064 Die Geschichte der Cypherpunks\n\n" +
+		(part+1) + " - " + mailinfo.captions[part] + "\n\t" + mailinfo.parts[part] + "\n\n" +
+		"Ältere Folgen\n\n";
+
+	for( var j=part-1 ; j>=0 ; j-- ) {
+		ascii += (j+1) + " - " + mailinfo.captions[j] + "\n\t" + mailinfo.parts[j] + "\n\n";
+
+		if( j === 8 ) ascii += "\n--- TEIL 1 ---\n\n";
+		if( j === 18 ) ascii += "\n--- TEIL 2 ---\n\n";
+	}
+
+	return ascii;
+}
+
+var sendmail = function( header, content, subsi, part ) {
+
+	exec(	"echo \"" +
+			header +
+			content +
+			"\" " +
+			"| sendmail " + subs.email,
+
+		function(error, stdout, stderr) {
+			mailsSent++;
+			if( error ) {
+				console.error( "Mail to " + subs.email + " was not sent. (" + stderr + ")" );
+			} else {
+				if( verbose ) console.log( "Send part " + (part+1) + " to " + subs.email + ". Ok." );
+				mailsSentOk++;
+				subs.sentDate = today.getFullYear() + "-" + ("0"+(today.getMonth()+1)).slice(-2) + "-" + ("0" + today.getDate()).slice(-2);
+			}
+		}
+	);
 }
 
 for( var i=0; i<mailinfo.subscribers.length; i++ ) {
@@ -51,62 +141,16 @@ for( var i=0; i<mailinfo.subscribers.length; i++ ) {
 			"From: 2064 Die Geschichte der Cypherpunks <michael@c2064.org>\n" + 
 			"To: " + subs.email + "\n" + 
 			"Subject: 數 " + (part+1) + "\n" + 
-			"Content-Type: text/html; charset=\"utf-8\"\n" +
+			"Content-Type: text/" + (subs.ascii? "plain" : "html") + "; charset=\"utf-8\"\n" +
 			"MIME-Version: 1.0\n\n",
-		html = 
-			"<head>" +
-				"<link href=\"https://fonts.googleapis.com/css?family=Lora\" rel=\"stylesheet\">" +
-				"<meta charset='utf-8'>" +
-				"<style>" +
-					"body {" +
-						"font-family: 'Lora', serif;" +
-					"}" +
-					"hr {" +
-						"border-color: lightgrey;" +
-					"}" +
-				"</style>" +
-					"" +
-			"</head>" +
-			"<body>" +
-				"<div>" +
-					"<h3>2064 Die Geschichte der Cypherpunks</h3>" +
-					"<h4>" + (part+1) + " - " +
-						"<a href='" + mailinfo.parts[part] + "'>" + mailinfo.captions[part] + "</a>" +
-					"</h4>" +
-					"<hr>" +
-					"<h4>Ältere Folgen</h4>" +
-						"" +
-						"";
+		content = subs.ascii? generateAscii( part ) : generateHTML(part );
 
-	for( var j=part-1 ; j>=0 ; j-- ) {
-		html += "<p>" + (j+1) + " - " +
-			"<a href='" + mailinfo.parts[j] + "'>" + mailinfo.captions[j] + "</a>" +
-		"</p>";
-
-		if( j === 8 ) html += "<h4>--- TEIL 1 ---</h4>";
-		if( j === 18 ) html += "<h4>--- TEIL 2 ---</h4>";
+	if( !dryrun ) {
+		sendmail( header, content, subs, part );
+	} else {
+		console.log( "Sending part " + (part+1) + " to " + subs.email );
 	}
 
-	html +=		"</div>" +
-			"</body>";
-
-	exec(	"echo \"" +
-			header +
-			html +
-			"\" " +
-			"| sendmail " + subs.email,
-
-		function(error, stdout, stderr) {
-			mailsSent++;
-			if( error ) {
-				console.error( "Mail to " + subs.email + " was not sent. (" + strerr + ")" );
-			} else {
-				mailsSentOk++;
-			}
-		}
-	);
-
-	subs.sentDate = today.getFullYear() + "-" + ("0"+(today.getMonth()+1)).slice(-2) + "-" + ("0" + today.getDate()).slice(-2);
 
 }
 
@@ -117,9 +161,9 @@ for( var i=0; i<mailinfo.subscribers.length; i++ ) {
 
 		fs.writeFile( mailfile + "~", JSON.stringify( mailinfo, null, 4 ), function(err) {
 			if(err) {
-				return console.error(err);
+				console.error(err);
 			} else {
-				exec( "mv " + mailfile + "~" + mailfile );
+				exec( "mv " + mailfile + "~ " + mailfile );
 			}
 		}); 
 	}
