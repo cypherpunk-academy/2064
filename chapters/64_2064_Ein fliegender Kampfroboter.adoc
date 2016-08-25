@@ -27,7 +27,7 @@ Pond holte und sendete Nachrichten nicht sofort, sondern nach zufällig bestimmt
 Dadurch konnten sich Geheimdienste schwerer ausrechnen, ob jemand gerade Pond nutzte.
 
 Lasse: „Nee, nicht ok.“
-Er tippte “transact now“.
+Er tippte „transact now“.
 Nach wenigen Augenblicken erschien:
 
 ****
