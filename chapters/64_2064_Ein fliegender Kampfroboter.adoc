@@ -123,7 +123,7 @@ Pond antwortete:
 
 Lasse atmete aus.
 Zwei Stunden noch bis Phoenix.
-„Ok“, dachte er, „Zeit die erste Bombe zu entschärfen und die Bitcoins darin zurückzuschicken.“
+„Ok“, dachte er, „Zeit, die erste Bombe zu entschärfen und die Bitcoins darin zurückzuschicken.“
 
 Er öffnete das Terminal-Programm und stellte eine Verbindung zu dem Computer im Tor-Netzwerk her, auf dem die erste Bombe lag.
 Er schaute sie an: Noch 25 Minuten bis zu Detonation.
