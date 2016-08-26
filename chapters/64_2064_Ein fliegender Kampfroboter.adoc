@@ -26,8 +26,8 @@ Er tippte „log“.
 Pond holte und sendete Nachrichten nicht sofort, sondern nach zufällig bestimmten Zeiten.
 Dadurch konnten sich Geheimdienste schwerer ausrechnen, ob jemand gerade Pond nutzte.
 
-Lasse: „Nee, nicht ok.
-Er tippte “transact now“.
+Lasse: „Nee, nicht ok.“
+Er tippte „transact now“.
 Nach wenigen Augenblicken erschien:
 
 ****
