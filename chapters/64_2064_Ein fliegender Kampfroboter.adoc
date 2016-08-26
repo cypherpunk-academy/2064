@@ -14,7 +14,7 @@ Zunächst die übliche Nachricht:
 ....
 ****
 
-Er tippte „log“ 
+Er tippte „log“.
 
 ****
 ....
