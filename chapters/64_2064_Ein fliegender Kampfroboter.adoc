@@ -126,7 +126,7 @@ Zwei Stunden noch bis Phoenix.
 „Ok“, dachte er, „Zeit, die erste Bombe zu entschärfen und ihre Bitcoins zurückzuschicken.“
 
 Er öffnete das Terminal-Programm und stellte eine Verbindung zu dem Computer im Tor-Netzwerk her, auf dem die erste Bombe lag.
-Er schaute sie an: Noch 25 Minuten bis zu Detonation.
+Er schaute sie an: Noch 25 Minuten bis zur Detonation.
 Dann tippte er:
 
 ****
