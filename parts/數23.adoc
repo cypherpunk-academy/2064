@@ -1,0 +1,10 @@
+:includedir: ../chapters
+
+include::{includedir}/66_1918_2021_Verhör (2).adoc[]
+
+[role="chapter-start"]
+include::{includedir}/67_2064_Mein Kampfroboter, dein K.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/68_2021_Das Manifest (2).adoc[]
+

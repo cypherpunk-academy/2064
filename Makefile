@@ -4,7 +4,7 @@ vpath %.html html
 vpath %.adoc chapters
 vpath %.publ html
 
-allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html 數20.html 數21.html 數22.html
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html 數20.html 數21.html 數22.html 數23.html
 
 數1.html: 數1.adoc 01_2064_Das\ Spiele-Labor.adoc  02_2019_Marianne.adoc
 	asciidoctor -D html parts/數1.adoc
@@ -94,9 +94,9 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 	asciidoctor -D html parts/數22.adoc
 	tools/wordpressformat html/數22.html
 
-# 數23.html: 數23.adoc
-#	asciidoctor -D html parts/數23.adoc
-#	tools/wordpressformat html/數23.html
+數23.html: 數23.adoc 66_1918_2021_Verhör\ (2).adoc  67_2064_Mein\ Kampfroboter,\ dein\ K.adoc  68_2021_Das\ Manifest\ (2).adoc
+	asciidoctor -D html parts/數23.adoc
+	tools/wordpressformat html/數23.html
 
 # 數24.html: 數24.adoc
 #	asciidoctor -D html parts/數24.adoc
@@ -140,7 +140,7 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 
 
 
-publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ .10.publ .11.publ .12.publ .13.publ .14.publ .15.publ .16.publ .17.publ .18.publ .19.publ .20.publ .21.publ .22.publ
+publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ .10.publ .11.publ .12.publ .13.publ .14.publ .15.publ .16.publ .17.publ .18.publ .19.publ .20.publ .21.publ .22.publ .23.publ
 
 .1.publ: 數1.html
 	casperjs tools/wordpresspublish.js 1 "$$(cat html/數1.html)" $$(cat tools/wppwd)
@@ -230,9 +230,9 @@ publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ
 	casperjs tools/wordpresspublish.js 22 "$$(cat html/數22.html)" $$(cat tools/wppwd)
 	touch html/.22.publ
 
-# .23.publ: 數23.html
-#	casperjs tools/wordpresspublish.js 23 "$$(cat html/數23.html)" $$(cat tools/wppwd)
-#	touch html/.23.publ
+.23.publ: 數23.html
+	casperjs tools/wordpresspublish.js 23 "$$(cat html/數23.html)" $$(cat tools/wppwd)
+	touch html/.23.publ
 
 # .24.publ: 數24.html
 #	casperjs tools/wordpresspublish.js 24 "$$(cat html/數24.html)" $$(cat tools/wppwd)
