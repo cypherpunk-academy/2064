@@ -22,11 +22,11 @@ Er tippte „log“.
 ....
 ****
 
-„Fünf Minuten warten. Ok!“, dachte er.
+„Fünf Minuten warten. Okay!“, dachte er.
 Pond holte und sendete Nachrichten nicht sofort, sondern nach zufällig bestimmten Zeiten.
 Dadurch konnten sich Geheimdienste schwerer ausrechnen, ob jemand gerade Pond nutzte.
 
-Lasse: „Nee, nicht ok.“
+Lasse: „Nee, nicht okay.“
 Er tippte „transact now“.
 Nach wenigen Augenblicken erschien:
 
@@ -123,7 +123,7 @@ Pond antwortete:
 
 Lasse atmete aus.
 Zwei Stunden noch bis Phoenix.
-„Ok“, dachte er, „Zeit, die erste Bombe zu entschärfen und ihre Bitcoins zurückzuschicken.“
+„Okay“, dachte er, „Zeit, die erste Bombe zu entschärfen und ihre Bitcoins zurückzuschicken.“
 
 Er öffnete das Terminal-Programm und stellte eine Verbindung zu dem Computer im Tor-Netzwerk her, auf dem die erste Bombe lag.
 Er schaute sie an: Noch 25 Minuten bis zur Detonation.
@@ -153,7 +153,7 @@ Bitcoin bomb disarmed.
 ....
 ****
 
-„So einfach ist das“, dachte er. „Ok, jetzt noch zurücküberweisen.“
+„So einfach ist das“, dachte er. „Okay, jetzt noch zurücküberweisen.“
 
 ****
 ....
