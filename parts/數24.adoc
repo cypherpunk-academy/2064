@@ -1,0 +1,10 @@
+:includedir: ../chapters
+
+include::{includedir}/69_2021_Am Lago Maggiore.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/70_2064_Ein Albatros.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/71_1918_An einem Kanal.adoc[]
+
