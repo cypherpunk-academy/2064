@@ -187,7 +187,7 @@ Die Polizisten rannten zurück, sprangen ins Auto und fuhren hinterher.
 Lasse aktivierte die Spracherkennung von Jabber, so dass Sigur auch das mitbekam, was im Auto gesprochen wurde.
 Er sagte: „Sigur, Polizei.
 Sie wollten uns anhalten.
-Wir sind weggefahren.“ 
+Wir sind weggefahren.“
 
 Sigur antwortete: „Ok.
 Ich schaue mir die Sache an.“ Nach kurzer Zeit tauchte der Kampfroboter wieder am Himmel auf.
@@ -243,7 +243,7 @@ Sie werden nicht gleich mit Wärmebildkameras kommen.
 Sie sind nicht vorbereitet.
 Und ich versuche dann zu dem Auto zu kommen, mit dem ich sowieso zurückfahren wollte.
 Wir sind vorbereitet.
-Sie nicht.“ 
+Sie nicht.“
 
 Lasse: „Und, Sigur, lass den Kampfroboter irgendwo kontrolliert abstürzen.
 Wenn sie rauskriegen, dass wir ihn entführt haben, dann ist das ganze Wespennest hinter uns her.“
