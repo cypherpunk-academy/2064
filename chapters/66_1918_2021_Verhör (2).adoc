@@ -130,7 +130,8 @@ Kein Problem.“
 
 Bertold setzt sich mit einem Schwung so auf seinen Schoß, dass er dabei Wilhelms Arm unter sich einklemmt.
 Er nimmt die Hand mit Gewalt.
-Wilhelm kann nichts mehr tun, er versucht sie wegzuziehen, aber es geht nicht.
+Wilhelm kann nichts mehr tun.
+Er versucht, sie wegzuziehen, aber es geht nicht.
 Bertold setzt die Zange an.
 
 Hilde: „STOPP!“
