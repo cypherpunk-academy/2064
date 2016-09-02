@@ -41,7 +41,7 @@ Da sitzen Menschen drin.
 Du kannst nicht einfach auf alles schießen, was dir in die Quere kommt.
 Er gibt Regeln.
 Es gilt: Nur zur Abwendung unmittelbarer Lebensgefahr.
-Oder besser noch die Cypherpunks-Regel: Nur wenn der oder die andere ein Leben unmittelbar bedroht, und dann auch nur sie, nicht noch ein paar Leute um sie herum.“
+Oder besser noch die Cypherpunk-Regel: Nur wenn der oder die andere ein Leben unmittelbar bedroht, und dann auch nur sie, nicht noch ein paar Leute um sie herum.“
 
 Sigur: „Ich bin kein Cypherpunk.
 Und trotzdem: Ist das keine unmittelbare Gefahr?
