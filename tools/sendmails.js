@@ -18,8 +18,8 @@ for( var i=2 ; i<process.argv.length ; i++ ) {
 var mailinfo = require( "../" + mailfile );
 
 var today = new Date(),
-	mailsSent = 0,
-	mailsSentOk = 0;
+	mailsProcessed = 0,
+	mailsSent = 0;
 
 // Check for publishing day ...
 if( mailinfo.weekdays.indexOf( today.getDay() ) === -1 ) {
@@ -84,7 +84,7 @@ var generateAscii = function( part ) {
 	return ascii;
 }
 
-var sendmail = function( header, content, subsi, part ) {
+var sendmail = function( header, content, subs, part ) {
 
 	exec(	"echo \"" +
 			header +
@@ -93,12 +93,12 @@ var sendmail = function( header, content, subsi, part ) {
 			"| sendmail " + subs.email,
 
 		function(error, stdout, stderr) {
-			mailsSent++;
+			mailsProcessed++;
 			if( error ) {
 				console.error( "Mail to " + subs.email + " was not sent. (" + stderr + ")" );
 			} else {
-				if( verbose ) console.log( "Send part " + (part+1) + " to " + subs.email + ". Ok." );
-				mailsSentOk++;
+				if( verbose ) console.log( "Sent part " + (part+1) + " to " + subs.email + ". Ok." );
+				mailsSent++;
 				subs.sentDate = today.getFullYear() + "-" + ("0"+(today.getMonth()+1)).slice(-2) + "-" + ("0" + today.getDate()).slice(-2);
 			}
 		}
@@ -106,58 +106,62 @@ var sendmail = function( header, content, subsi, part ) {
 }
 
 for( var i=0; i<mailinfo.subscribers.length; i++ ) {
-	var subs = mailinfo.subscribers[i],
-		startDate = new Date( subs.startDate ),
-		sentDate = new Date( subs.sentDate ),
-		days = Math.floor( Math.abs((startDate.getTime() - today.getTime())/(24*60*60*1000)) ),
-		weekday = startDate.getDay(),
-		part = Math.floor( days / 7 ) * mailinfo.weekdays.length + 1;
+	setTimeout( function( i ) {
+		var subs = mailinfo.subscribers[i],
+			startDate = new Date( subs.startDate ),
+			sentDate = new Date( subs.sentDate ),
+			days = Math.floor( Math.abs((startDate.getTime() - today.getTime())/(24*60*60*1000)) ),
+			weekday = startDate.getDay(),
+			part = Math.floor( days / 7 ) * mailinfo.weekdays.length + 1;
 
-	if( mailinfo.weekdays.indexOf( weekday ) === -1 ) {
-		console.error( "Start date of '" + subs.email + "' is not a publishing day. Omitting ..." );
-		mailsSent++;
-		continue;
-	}
-
-	for( var j=0 ; j<days%7 ; j++ ) {
-		if( mailinfo.weekdays.indexOf( (weekday + j)%7 ) !== -1 ) {
-			part++;
+		if( mailinfo.weekdays.indexOf( weekday ) === -1 ) {
+			console.error( "Start date of '" + subs.email + "' is not a publishing day. Omitting ..." );
+			mailsProcessed++;
+			return;
 		}
-	}
 
-	if( sentDate.getDate() === today.getDate() && sentDate.getMonth() === today.getMonth() ) {
-		console.error( "Part " + (part+1) + " was already sent to '" + subs.email + "' today. Omitting ..." );
-		mailsSent++;
-		continue;
-	}
+		for( var j=0 ; j<days%7 ; j++ ) {
+			if( mailinfo.weekdays.indexOf( (weekday + j)%7 ) !== -1 ) {
+				part++;
+			}
+		}
 
-	if( part >= mailinfo.parts.length ) {
-		console.error( "Part " + (part+1)  + " is not available for '" + subs.email + "'. Omitting ..." );
-		mailsSent++;
-		continue;
-	}
+		if( sentDate.getDate() === today.getDate() && sentDate.getMonth() === today.getMonth() ) {
+			console.error( "Part " + (part+1) + " was already sent to '" + subs.email + "' today. Omitting ..." );
+			mailsProcessed++;
+			return;
+		}
 
-	var header = 
-			"From: 2064 Die Geschichte der Cypherpunks <michael@c2064.org>\n" + 
-			"To: " + subs.email + "\n" + 
-			"Subject: 數 " + (part+1) + "\n" + 
-			"Content-Type: text/" + (subs.ascii? "plain" : "html") + "; charset=\"utf-8\"\n" +
-			"MIME-Version: 1.0\n\n",
-		content = subs.ascii? generateAscii( part ) : generateHTML(part );
+		if( part >= mailinfo.parts.length ) {
+			console.error( "Part " + (part+1)  + " is not available for '" + subs.email + "'. Omitting ..." );
+			mailsProcessed++;
+			return;
+		}
 
-	if( !dryrun ) {
-		sendmail( header, content, subs, part );
-	} else {
-		console.log( "Sending part " + (part+1) + " to " + subs.email );
-	}
+		var header = 
+				"From: 2064 Die Geschichte der Cypherpunks <michael@c2064.org>\n" + 
+				"To: " + subs.email + "\n" + 
+				"Subject: 數 " + (part+1) + "\n" + 
+				"Content-Type: text/" + (subs.ascii? "plain" : "html") + "; charset=\"utf-8\"\n" +
+				"MIME-Version: 1.0\n\n",
+			content = subs.ascii? generateAscii( part ) : generateHTML( part );
 
-
+		if( !dryrun ) {
+			sendmail( header, content, subs, part );
+		} else {
+			console.log( "Sending part " + (part+1) + " to " + subs.email );
+		}
+	}, 100*i, i );
 }
 
+var timeout = 0;
 (function wait () {
-	if( mailsSent < mailinfo.subscribers.length ) setTimeout(wait, 1000);
-	else {
-		console.log( mailsSentOk + " mails sent out." );
+	if( verbose ) console.log( mailsProcessed + " messages processed. Should be " + mailinfo.subscribers.length );
+	if( mailsProcessed < mailinfo.subscribers.length && timeout < 30000 ) {
+		setTimeout(wait, 1000);
+		timeout += 1000;
+	} else {
+		console.log( mailsSent + " mails sent out." );
 
 		fs.writeFile( mailfile + "~", JSON.stringify( mailinfo, null, 4 ), function(err) {
 			if(err) {
