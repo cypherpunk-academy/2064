@@ -190,8 +190,8 @@ Chance. Bis dahin muss euch die Welt kennen. Dann könnt ihr durch-
 kommen. Sie werden euch trennen wollen, versuchen, euch gegenseitig
 zu Feinden zu machen, über die Eltern, Geschwister, Freunde, Leh-
 rer. Lasst euch keine Angst machen und nicht durch Versprechen Hoff-
-nung machen. Und benutzt die besten Waffen, die es gibt: PGP, TOR,
-OTR, TAILS, CUBES, Pond, Ricochet und Veracrypt. Und Linux oder BSD
+nung machen. Und benutzt die besten Waffen, die es gibt: PGP, Tor,
+OTR, Tails, Cubes, Pond, Ricochet und Veracrypt. Und Linux oder BSD
 natürlich, nur noch Linux oder BSD!
 
 
