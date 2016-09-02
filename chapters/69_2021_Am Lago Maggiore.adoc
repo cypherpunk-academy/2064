@@ -76,7 +76,8 @@ Benissima.“
 Luigi war Mitte Dreißig, wohnte seit 20 Jahren hier in Luino, im italienischen Teil des Lago Maggiore, nahe der Grenze zur Schweiz.
 Er hatte einen örtlichen Hackerspace gegründet, nicht den größten, es waren nur 5 oder 6 Mitglieder, aber sie hatten den ein oder anderen guten Hack hinter sich.
 Zum Beispiel hatten sie die Kaffeemaschine gebaut, die man per verschlüsseltem Jabber-Chat erst einmal davon überzeugen musste, dass man jetzt Kaffee braucht.
-Die Kaffeemaschine analysierte, wie aktiv man gerade in OpenSource-Projekten auf Github war, und wenn es ihr nicht genug war, dann musste man einen der Tricks finden, sie doch zum Kochen zu bewegen.
+Die Kaffeemaschine analysierte, wie aktiv man gerade in OpenSource-Projekten auf Github war.
+Wenn es ihr nicht genug war, dann musste man einen der Tricks finden, sie doch zum Kochen zu bewegen.
 Sie hatten das vor zwei Jahren beim Chaos Communication Congress in Hamburg vorgestellt.
 
 Die Anfrage Marianne unterzubringen, war von einem alten Freund gekommen, und er hatte sofort zugesagt: Wie konnte er anders als der Frau helfen, die die Grundlage dazu gelegt hatte, das Internet von Grund auf zu reparieren, die Frau, die ihnen alle Schlaglöcher in den Daten-Autobahnen gezeigt hatte.
