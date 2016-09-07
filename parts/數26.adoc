@@ -1,0 +1,12 @@
+:includedir: ../chapters
+
+include::{includedir}/75_2021_Die kleine Giftnudel.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/76_2064_WikiLeaks TV.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/77_2064_Sigur.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/78_2064_Wir haben sie.adoc[]
