@@ -63,7 +63,7 @@ Und deswegen zitterten ihre Knie leicht.
 Auf dem Heimweg von der Schule hatte sie sich dazu entschlossen, nicht noch einmal einen Tag zu warten.
 Sie öffnete mit einem Doppelklick das Terminal-Programm von Tails.
 Manche nannten es auch Konsole oder Kommando-Zeile.
-Das Terminal-Programm war kein normales Programm, es war das Programm, mit dem auf eine direkt Weise mit dem Computer umgehen konnte.
+Das Terminal-Programm war kein normales Programm, es war das Programm, mit dem man auf eine direkt Weise mit dem Computer umgehen konnte.
 Man klickte nicht mit der Maus irgendwelche Funktionen an, man tippte nur Befehle ein und bekam vom Computer Antworten als Text auf dem Bildschirm zurück.
 Mehr nicht.
 Keine Bilder, nur Text.

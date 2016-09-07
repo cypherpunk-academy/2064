@@ -128,7 +128,7 @@ Egal, ob sie gerade eine Nachricht geschrieben hatte oder nicht.
 Wenn nicht, dann wurden leere Nachrichten versendet.
 Niemand konnte von außen herausfinden, ob jemand gerade etwas schickte oder nicht, auch nicht an wen oder wie viel.
 Und im Netz sausten die von außen nicht unterscheidbaren Pakete von allen Pond-Nutzern kreuz und quer zwischen den Tor-Knoten herum, es war unmöglich sie einzelnen Pond-Nutzern zuzuordnen.
-Ein heiloses Chaos – aus der Sicht von Geheimdiensten.
+Ein heilloses Chaos – aus der Sicht von Geheimdiensten.
 
 „Jetzt!“, Achmed plumpste neben ihr auf ein Kissen.
 „Erzähl.

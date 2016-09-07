@@ -74,7 +74,7 @@ Das Lächeln verschwand auf Fortunatos Mund, er antwortete genauso trocken wie S
 „Du bist nicht hier für Drogen.
 Du hättest auch nicht genug Geld dafür.
 Du hast nur ein Konto mit 6500 Euro darauf, die Wohnung, in der du wohnst, gehört deinen Eltern und deine Bitcoins sind derzeit“, er tippte mit einer Hand auf einem etwas klobig aussehenden Smartphone, „27.
-Wow! Das ist viel für einen 19-Jährigen White-Hat-Hacker.
+Wow! Das ist viel für einen 19-jährigen White-Hat-Hacker.
 27 Bitcoins.
 Natürlich könntest du bei mir in Bitcoins bezahlen, aber das wären eher 2700.
 Aber wie schon gesagt: Deswegen seid ihr nicht hier.“
@@ -103,7 +103,7 @@ Das geht nicht.
 Niemand kann so einfach die Verbindung machen zwischen uns und den Kampfrobotern.
 Und überhaupt wissen, wer wir waren.“ 
 
-Lasse schaute Sigur an dann wieder Fortunato und fragte ärgerlich: „Woher weißt du das alles?“
+Lasse schaute Sigur an, dann wieder Fortunato und fragte ärgerlich: „Woher weißt du das alles?“
 
 Fortunato lächelte wieder: „Ich bin nicht nur Drogenhändler.
 Wisst ihr, das lohnt sich nicht mehr richtig.
@@ -121,7 +121,7 @@ Ich habe 230 Millionen Einzelpersonen in meiner Datenbank.
 Wollt ihr die privaten E-Mails von der nächsten Präsidentin der Vereinigten Staaten? Kein Problem.
 
 Eure Daten habe ich schon im Gerichtszimmer gekannt.
-Ein Sensor hat mir gesagt, dass ihr draußen vor den Tür seid. Ihr seid in meiner Datenbank … Aber ihr wundert euch, wie ich euren Aufenthaltsort kenne. Ihr habt keine Smartphones. Komisch, nicht? Für mich kein Problem. Bei Aufenthaltsorten, da habe ich eine Spezialität, fast ein Monopol: Ich habe nicht nur GPS, sondern auch RFID.“
+Ein Sensor hat mir gesagt, dass ihr draußen vor der Tür seid. Ihr seid in meiner Datenbank … Aber ihr wundert euch, wie ich euren Aufenthaltsort kenne. Ihr habt keine Smartphones. Komisch, nicht? Für mich kein Problem. Bei Aufenthaltsorten, da habe ich eine Spezialität, fast ein Monopol: Ich habe nicht nur GPS, sondern auch RFID.“
 
 Sigur: „RFID? Das wird zum Bezahlen und als Zugangskontrolle verwendet.
 Ich habe nicht einen RFID-Chip an mir, weder zum Bezahlen, noch um irgendwo hineinzukommen.
@@ -157,10 +157,10 @@ Ich bin offen mit euch.“
 Lasse: „Und wo stehen die ganzen Scanner?“
 
 Fortunato: „In Caracas? Überall in der Stadt.
-Wir haben Zehntausende hier.
+Wir haben zehntausende hier.
 Die kosten ja nichts.
 Ein Scanner ist ein Plättchen, 15 mal 15 Millimeter groß und sendet per GSM.
-Sie funken über zwanzig Meter weit und halten etwa ein Jahr.“ Er holte ein Tablett-Computer heraus, der wie ein iPad aussah und grinste: „Ist kein iPad, keine Sorge.
+Sie funken über zwanzig Meter weit und halten etwa ein Jahr.“ Er holte einen Tablet-Computer heraus, der wie ein iPad aussah und grinste: „Ist kein iPad, keine Sorge.
 Ist was Eigenes ...
 Schaut!“ Er zeigte ihnen eine Karte von Caracas, auf dem eine Unmenge von roten, grünen und blauen Punkten zu sehen waren.
 Einige schienen sich zu bewegen, einzeln, in Gruppen.
@@ -170,12 +170,12 @@ Fortunato: „Das sind exakt 3243 Teilnehmer von eurer Konferenz.
 Davon haben derzeit 2230 kein GPS-Telefon dabei.
 Aber ich habe die Daten! In Echtzeit!“
 
-Lasse und Sigur schauten ungläubig auf das Tablett.
+Lasse und Sigur schauten ungläubig auf das Tablet.
 
 Fortunato: „Die meisten davon sind Aktivisten und Hacker.
 Wertvolle Zielgruppe.
 Und ich füge noch Informationen hinzu, wer sich mit wem trifft, mit wem isst, mit wem spazieren geht, nach Hause geht.
-Was meint ihr, was ich für die Daten bekomme? Schaut, ich habe derzeit 24 Echtzeitabbonenten.“ Er tippte auf das Tablett und streckte es ihnen entgegen.
+Was meint ihr, was ich für die Daten bekomme? Schaut, ich habe derzeit 24 Echtzeitabonnenten.“ Er tippte auf das Tablet und streckte es ihnen entgegen.
 „Die NSA ist auch dabei.
 Aber von denen nehme ich grundsätzlich kein Geld.
 Die haben so viele super Sachen im Angebot.
@@ -312,14 +312,14 @@ Aber Menschen umzubringen, das ist okay, oder was?“
 
 Sigur: „Jetzt kriegst du Angst, nicht?
 Man kann alles kontrollieren, aber nur, wenn es nicht ans Licht kommt.
-Wistleblowing ist der eigentliche Feind!
+Whistleblowing ist der eigentliche Feind!
 Was ihr braucht, ist ein dunkles Gleichgewicht:
 Jeder spielt seine Rolle, alles bleibt geheim, dann können die schlimmsten Dinge passieren und keiner ist wirklich verantwortlich.
 Bist du verantwortlich für die Kampfroboter-Toten, die aufgrund deiner Positionsdaten sterben? Oder wegen der Freundeslisten, die du berechnest und an die NSA weitergibst? Nein.
 
 Aber wenn wir etwas aufdecken, dann sollen wir verantwortlich sein.
 Der Überbringer der Nachricht ist schuld.
-Aufdecken, Wistleblowing muss man verantwortungsvoll machen, alles andere nicht.
+Aufdecken, Whistleblowing muss man verantwortungsvoll machen, alles andere nicht.
 Wer übernimmt die Verantwortung dafür, dass wir erst in die Lage gekommen sind, dass Menschen ihr Leben verlieren, wenn Dinge öffentlich werden? Wer übernimmt die Verantwortung für die Dinge, die im Geheimen passieren? Niemand.“
 
 Lasse: „Sigur, wir alle haben für alles Verantwortung.

@@ -25,7 +25,7 @@ Inzwischen kannten sie sich sehr, sehr gut.
 Corinne hatte ihr davon erzählt, dass bei Karl ein Geheimdienstmann der NSA zu Besuch war, um mit Karl den Start eines ganz neuen Satelliten vorzubereiten.
 Die NSA war ein Geheimdienst der Amerikanischen Armee, es war der größte Geheimdienst überhaupt.
 Und bei diesem Besuch ging fast alles schief.
-Nichts stimmt zusammen und um ein Haar hätten sie den Start abbrechen müssen.
+Nichts stimmte zusammen und um ein Haar hätten sie den Start abbrechen müssen.
 Aber gemeinsam schafften sie es gerade noch, ein Programm, das im Satelliten laufen sollte, fertig zu kriegen, buchstäblich in letzter Sekunde.
 Wohl in der Hektik hatte der NSA-Mann den Geheimschlüssel für seinen eigenen Computer bei der NSA auf Karls Rechner hinterlegt.
 Und dann dort vergessen.
@@ -53,7 +53,7 @@ Jetzt wurde es zum ersten Mal spannend: „War das Passwort in der Zwischenzeit 
 ****
 ....
 
-„karlibender@trt.princton.edu: ~$“, 
+„karlibender@trt.princeton.edu: ~$“, 
 ....
 ****
 
@@ -62,7 +62,7 @@ erschien auf dem Bildschirm.
 „JAH!“, rief sie laut und schaute sofort über den Rathausplatz.
 Niemand schien sie bemerkt zu haben.
 Sie war drin! Keine großartige Meldung.
-Nur die Befehlseingabe des Terminalprogramms, aber diesmal die vom Computer von Karl Bender an der Princeton Univerität.
+Nur die Befehlseingabe des Terminalprogramms, aber diesmal die vom Computer von Karl Bender an der Princeton Universität.
 Wow! Ihre Finger huschten über die Tastatur.
 Wie automatisch suchte sie alle Logdateien zusammen, die sie finden konnte, alle Passwort- und alle Schlüsseldateien.
 Ihr Bruder tat das auch immer als erstes.
@@ -180,7 +180,7 @@ SECTION 23-54 ***
 * THIS COMPUTER IS FOR AUTHORIZED ACCESS ONLY.
 
 * WARNING: UNAUTHORIZED ACCESS CAN RESULT IN FEDERAL PROSECUTION
-* FOLLOWING THE ESIONAGE ACT OF 1917.
+* FOLLOWING THE ESPIONAGE ACT OF 1917.
 * STOP! IMMEDIATLY! IF YOU ARE IN ANY DOUBT OF YOUR AUTHORIZATION.
 
 *** ****************************
@@ -197,9 +197,9 @@ Zum ersten Mal in ihrem Leben.
 So leicht.
 Der Schlüssel hatte funktioniert.
 Wie im Trance kopierte sie sich alle Log-, Passwort- und Schlüsseldateien, dann versuchte sie so gut es geht ihre Spuren zu verwischen.
-Ihre Finger saußten wie wild über die Tastatur.
+Ihre Finger sausten wie wild über die Tastatur.
 Sie sagte immer, dass sie definitiv schneller tippen als denken konnte und das war hier wirklich so.
-Dann loggte sich wieder aus und landete dadurch wieder auf Karls Rechner.
+Dann loggte sie sich wieder aus und landete dadurch wieder auf Karls Rechner.
 Alles zusammen hatte nicht mehr als 30 Sekunden gedauert.
 Sie wusste nicht einmal, in welcher Stadt der Computer stand, in dem sie gerade gewesen war.
 Vielleicht in Fort Meade, wo das Hauptquartier der NSA war.
@@ -213,7 +213,7 @@ Sie umschloss ihn in ihrer Hand und lehnte sich zurück.
 „OSKAR!“, Marianne schaute ihn an, dann wieder weg und wieder an.
 „Was machst du hier??“
 
-Oskar war ein guter Freund von ihr und ihrem Bruders.
+Oskar war ein guter Freund von ihr und ihrem Bruder.
 Er war auch ein Cypherpunk.
 Von ihm hatte sie den Rechner bekommen, mit dem sie gerade bei der NSA war.
 Er war, wie Paul, auch unter direkter Überwachung von mindestens zwei Regierungsstellen.

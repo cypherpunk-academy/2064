@@ -15,7 +15,7 @@ Viele glaubten, sie bräuchten dies und das, um ein glückliches Leben zu haben,
 So wurde die neue Generation von ihren eigentlichen Zielen abgelenkt.
 Als sie das alles mit eigenen Augen sehen konnten, sehen konnten, wie ihr Internet zu einer Überwachungs- und Manipulationsmaschine für sie geworden war, als sie die vielen Hintertüren selbst sehen und ausprobieren konnten, da machten sich viele von ihnen auf und wurden Cypherpunks.
 
-Und das, was Lilly gelungen ist, weswegen wir hier alles sitzen, und uns auch hundertertausende Schüler von überall auf der Welt zuschauen, das ist, diesen berühmten Hack nachzuspielen.
+Und das, was Lilly gelungen ist, weswegen wir hier alle sitzen, und uns auch hundertertausende Schüler von überall auf der Welt zuschauen, das ist, diesen berühmten Hack nachzuspielen.
 Er war von Anfang an in TRON eingebaut und wartete darauf, dass ihn jemand finden würde.
 Lilly hat ihn gefunden und im ersten Anlauf gemeistert.“
 
@@ -68,7 +68,7 @@ Das Publikum johlte auf.
 Lilly: „Das ist wie ein Spiel im Spiel, es ist nicht einfach.
 Ihr müsst da viel zusammenarbeiten und kreativ werden, denken und schnell reagieren.
 Auf jeden Fall geht es um die elf Grundgedanken des Befreiungskampfes, die ihr kennt, also Verschlüsselung, Überwindung der Unterdrückung, Überwindung des Gegeneinanders, Entfaltung der Initiative, …“ Sie unterbrach und schaute wieder zu Marianne: „Ich habe darüber in deinem Buch einiges gelesen.
-Kannst du die vielleicht vorstellen.
+Kannst du die vielleicht vorstellen?
 Das fände ich super.“
 
 Lasse rief von seinem Platz: „Ja! Das wäre super.“

@@ -1,6 +1,6 @@
 == [big-number]#2064# Ein Überraschungspaket
 
-[text-caps]#„Pling“, sagte der Kommunikator# von Lilly und kurz darauf, „pling, pling“, auch die der beiden Jungs.
+[text-caps]#„Pling“, sagte der Kommunikator# von Lilly, und kurz darauf, „pling, pling“, auch die der beiden Jungs.
 Einige Zeit nach Spielende bekamen alle Spieler die Ergebnisse des jeweiligen Tages mitgeteilt.
 Die Antworten machte TRON fast immer vollkommen automatisch.
 
@@ -30,7 +30,7 @@ Und, wow, ich habe ein Überraschungspaket bekommen …“
 Lasse: „Echt? Pack aus.
 Was ist drin?“
 
-Lilly hielt ihren Kommunikator in Richtung des 3D-Druckers und ein Minute später erschien dort eine kleine Schatulle.
+Lilly hielt ihren Kommunikator in Richtung des 3D-Druckers und eine Minute später erschien dort eine kleine Schatulle.
 Lilly nahm und öffnete sie.
 
 Lilly: „Wow.

@@ -31,7 +31,7 @@ Es wird dir schmecken.“
 Er drehte sich um und verschwand den Hügel hinauf.
 
 Fred schlich leise den Trampelpfad nach unten.
-Er blickte die ganze Zeit auf Marianne und wollte auf keinen Fall irgendeinen Geräusch machen.
+Er blickte die ganze Zeit auf Marianne und wollte auf keinen Fall irgendein Geräusch machen.
 Als er drei Meter hinter ihr war blieb er stehen.
 Sie drehte sich plötzlich um, aber erschrak nicht, wie Fred vermutet hatte, sondern lächelte, schluckte, lächelte wieder und hielt die Hand vor ihren Mund.
 
@@ -141,7 +141,7 @@ Fred nickte wieder: „Nicht so schlimm wie Windows- und MacOS-Verschlüsselung,
 
 Marianne: „Pond, Ricochet, VeraCrypt?“
 
-Fred: „Pond und ricochet scheinen tatsächlich schwierig zu sein für sie, VeraCrypt ein paar kleine Dinge, aber nichts wirklich Kritisches.
+Fred: „Pond und Ricochet scheinen tatsächlich schwierig zu sein für sie, VeraCrypt ein paar kleine Dinge, aber nichts wirklich Kritisches.
 Es ist klar, dass die NSA den Vorgänger Truecrypt abschalten wollte.
 Es ist wirklich gut.“
 
@@ -153,7 +153,7 @@ Die werden dann, wenn nötig, auch einiges an die Linux-Teams weiterreichen.
 Also, erst machen wir unsere Software dicht, dann können wir anfangen größere Kreise einzuweihen, damit sie die Lücken flicken können.
 Als nächstes dann alles in der Linux- und der BSD-Welt.
 Es wird wahnsinnig viel Arbeit werden, aber immerhin wissen jetzt alle, worauf sie schauen müssen.
-Wenn du eine Vorlage hast, dann ist es huntertmal einfacher eine Lücke zu schließen.
+Wenn du eine Vorlage hast, dann ist es hundertmal einfacher eine Lücke zu schließen.
 Wir müssen überlegen, wie viel Zeit wir ihnen geben.
 Zu lange dürfen wir nicht warten.“
 

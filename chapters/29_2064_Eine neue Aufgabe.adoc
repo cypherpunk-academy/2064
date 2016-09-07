@@ -33,9 +33,9 @@ Lasse: „Marianne …“
 
 Sie unterbrach: „Ich weiß, Lasse.“
 
-Sie nahm einen Bleistift und zeichnet damit auf ein Blatt Papier vor ihr einen Fünfstern, bei dem ein Sternzacken offen war.
+Sie nahm einen Bleistift und zeichnete damit auf ein Blatt Papier vor ihr einen Fünfstern, bei dem ein Sternzacken offen war.
 
-Marianne: „Wisst ihr, was das hier ist.“
+Marianne: „Wisst ihr, was das hier ist?“
 
 Sigur zuckte mit den Schultern: „Ein Fünfstern“.
 
@@ -59,7 +59,7 @@ Das waren sie nicht.“
 
 Marianne fasste sich an die Nase: „Warum nicht?“
 
-Sigur: „Die Sorat Rangers sind eine Eliteeinheit der CIA, sie sind die Elite-Kampfroboter-Einheit der CIA.
+Sigur: „Die Sorat Rangers sind eine Eliteeinheit der CIA, sie sind _die_ Elite-Kampfroboter-Einheit der CIA.
 Sie kommen dann, wenn irgendein großes Ding läuft.
 Und wenn sie kommen, dann räumen sie auf.
 Sie haben eine Effizienz von 100%.
@@ -118,10 +118,10 @@ Sonst kommt etwas anderes.
 Und ihr sollt …“
 
 Lasse: „…
-wir sollen das aufgedecken.
+wir sollen das aufdecken.
 Wir sollen herausfinden, wer das bei der CIA gemacht hat.“
 
-Sigur: „Was käme denn anderes, wenn nicht der Mittelost-Krieg?“
+Sigur: „Was käme denn Anderes, wenn nicht der Mittelost-Krieg?“
 
 Marianne: „Nein, nicht bei der CIA.
 Es gibt einen bislang unbekannten Geheimdienst in den USA, der für das hier verantwortlich ist.
@@ -138,7 +138,7 @@ Lasse schaute sie an: „Venezuela?“
 
 Sigur: „Und wenn es anders kommt? Wird dann die Atombombe nicht geworfen?“
 
-Marianne: „Ich weiß, was du denkst.
+Marianne: „Ich weiß, was du denkst:
 Ihr sollt dafür sorgen, dass es zu einem Krieg kommt, bei dem eine Atombombe gezündet wird und viele Menschen sterben.
 Du musst das nicht tun.
 Du musst selber denken und entscheiden, was du für richtig hältst.
@@ -151,6 +151,6 @@ Marianne: „Okay.
 Ich muss gehen.
 Viel Glück euch, ihr Cypherpunks.“
 
-Sie stand auf ging hinaus.
+Sie stand auf und ging hinaus.
 
 „Ich bin kein Cypherpunk“, murmelte Sigur und trottete hinter Lasse aus der Hütte.

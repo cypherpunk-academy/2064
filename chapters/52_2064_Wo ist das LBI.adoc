@@ -45,7 +45,7 @@ Sigur: „Wir verkleiden uns als TAO-Hacker und brechen bei ihnen ein.“
 Lasse: „Ja, nur schade, dass wir nicht wissen, wo sie sind, sie haben nicht einmal Gebäude, keine zentralen Server, überhaupt keinen Platz, wo wir hinein könnten.“
 
 Sigur: „Die verstecken sich sicher im Tor-Netz, die haben ihre Daten über Hashes im Internet verteilt und benutzen Tails oder Cubes OS als Betriebssystem.
-Die haben ja nichts Besseres eigenes.
+Die haben ja nichts besseres Eigenes.
 Die brauchen freie Software.
 Und dann bauen wir irgendwie eine Hintertür in Tails ein und darüber gehen wir auf ihre Rechner.“
 

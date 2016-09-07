@@ -34,7 +34,7 @@ Ich kann mal nebenher einen Passwort-Cracker laufen lassen, aber ich glaube nich
 Das hier ist alles sehr professionell gemacht.
 Sieht nach Geheimdienstarbeit aus, vielleicht sogar direkt die TAO.
 Aber ich habe hier gerade das Go-Programm am Wickel, das die Bitcoins vom Shop in den Tresor bringt.
-Die Logfiles sagen, dass er das Programm normalerweise einmal am Tag startet, Vormittags, und dann gibt das Passwort für den Bitcoin-Tresor ein.
+Die Logfiles sagen, dass er das Programm normalerweise einmal am Tag startet, Vormittags, und dann gibt er das Passwort für den Bitcoin-Tresor ein.
 Und ich lasse es dann automatisch ein kleines Programm starten, das die neu verdienten Coins nicht in den Tresor schreibt, sondern sie zusammen mit allen anderen Bitcoins aus dem Tresor nimmt und in meine kleine Höhle zu mir nach Hause schickt, in meinen kleinen Raspberry Pi, meinen treuen Helfer über die Jahre.
 Du kennst ihn.
 :-)“
@@ -74,7 +74,7 @@ Sigur rührte sich nicht und tippte weiter auf seiner Tastatur.
 Lasse schaute Fortunato an und meinte: „Plugged in! Da kannst du nichts machen“.
 Er stopfte seinen Mund mit Nüssen voll und grinste Fortunato an.
 
-Fortunato nickte und lies sich in den dritten Sessel fallen, der an der anderen Seite des Tisches stand.
+Fortunato nickte und ließ sich in den dritten Sessel fallen, der an der anderen Seite des Tisches stand.
 
 Fortunato: „Und? Wie ist das Arbeiten hier?
 Karibikstrand, Rundum-Sicht, eigene Bootsanlegestelle.
@@ -98,9 +98,9 @@ Koks danke nein.“
 Fortunato: „Was macht eigentlich Sigur?“
 
 Lasse: „Er programmiert.
-Bestimmt wieder irgend so ein Wächterprogramm, dass auf einem Computer auf ein bestimmtes Ereignis wartet und dann aktiv wird.
+Bestimmt wieder irgend so ein Wächterprogramm, das auf einem Computer auf ein bestimmtes Ereignis wartet und dann aktiv wird.
 Und bis es aktiv wird, ist es so gut versteckt, dass es nicht einmal die TAO findet.
-Und nachdem es gelaufen ist, löschte es sich selbst vom Computer, und du findest keine Spuren.
+Und nachdem es gelaufen ist, löscht es sich selbst vom Computer, und du findest keine Spuren.
 Das ist Sigurs Spezialität.
 Keiner kann das besser als er.
 Sie hassen ihn dafür.
@@ -140,7 +140,7 @@ Und dann sage ich ihnen: Hej, und wenn ich sterbe, dann ist das nicht so schlimm
 Ich bin zwar Amerikaner, aber Südamerikaner und die sind für euch weniger wert.
 Was ist das?
 Aber sie meinen, das würde mein Land genauso sehen.
-Jedes Land hat die Aufgabe für seine eigenen Bürger zu sorgen.
+Jedes Land hat die Aufgabe, für seine eigenen Bürger zu sorgen.
 Das ist der Preis dafür, dass es ein freies Land ist.“
 
 Lasse: „Du hast Kontakt zum … LBI?“
