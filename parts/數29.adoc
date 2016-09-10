@@ -1,0 +1,12 @@
+:includedir: ../chapters
+
+include::{includedir}/tmp.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/tmp.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/tmp.adoc[]
+
+[role="chapter-start"]
+include::{includedir}/tmp.adoc[]

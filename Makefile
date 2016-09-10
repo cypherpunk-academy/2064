@@ -4,7 +4,7 @@ vpath %.html html
 vpath %.adoc chapters
 vpath %.publ html
 
-allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html 數20.html 數21.html 數22.html 數23.html 數24.html 數25.html 數26.html
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html 數20.html 數21.html 數22.html 數23.html 數24.html 數25.html 數26.html 數27.html 數28.html 數29.html 數30.html 數31.html 數32.html
 
 數1.html: 數1.adoc 01_2064_Das\ Spiele-Labor.adoc  02_2019_Marianne.adoc
 	asciidoctor -D html parts/數1.adoc
@@ -110,36 +110,32 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 	asciidoctor -D html parts/數26.adoc
 	tools/wordpressformat html/數26.html
 
-# 數27.html: 數27.adoc
-#	asciidoctor -D html parts/數27.adoc
-#	tools/wordpressformat html/數27.html
+數27.html: 數27.adoc 79_2021_Pressekonferenz.adoc  80_1922_Der\ Hakenkreuzmann.adoc  81_2021_Noch\ mehr\ Wistleblower.adoc  82_2021_Ich\ habs.adoc
+	asciidoctor -D html parts/數27.adoc
+	tools/wordpressformat html/數27.html
 
-# 數28.html: 數28.adoc
+數28.html: 數28.adoc
 #	asciidoctor -D html parts/數28.adoc
 #	tools/wordpressformat html/數28.html
 
-# 數29.html: 數29.adoc
+數29.html: 數29.adoc
 #	asciidoctor -D html parts/數29.adoc
 #	tools/wordpressformat html/數29.html
 
-# 數30.html: 數30.adoc
+數30.html: 數30.adoc
 #	asciidoctor -D html parts/數30.adoc
 #	tools/wordpressformat html/數30.html
 
-# 數31.html: 數31.adoc
+數31.html: 數31.adoc
 #	asciidoctor -D html parts/數31.adoc
 #	tools/wordpressformat html/數31.html
 
-# 數32.html: 數32.adoc
+數32.html: 數32.adoc
 #	asciidoctor -D html parts/數32.adoc
 #	tools/wordpressformat html/數32.html
 
-# 數33.html: 數33.adoc
-#	asciidoctor -D html parts/數33.adoc
-#	tools/wordpressformat html/數33.html
 
-
-publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ .10.publ .11.publ .12.publ .13.publ .14.publ .15.publ .16.publ .17.publ .18.publ .19.publ .20.publ .21.publ .22.publ .23.publ .24.publ .25.publ .26.publ
+publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ .10.publ .11.publ .12.publ .13.publ .14.publ .15.publ .16.publ .17.publ .18.publ .19.publ .20.publ .21.publ .22.publ .23.publ .24.publ .25.publ .26.publ .27.publ .28.publ .29.publ .30.publ .31.publ .32.publ
 
 .1.publ: 數1.html
 	casperjs tools/wordpresspublish.js 1 "$$(cat html/數1.html)" $$(cat tools/wppwd)
@@ -245,27 +241,27 @@ publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ
 	casperjs tools/wordpresspublish.js 26 "$$(cat html/數26.html)" $$(cat tools/wppwd)
 	touch html/.26.publ
 
-# .27.publ: 數27.html
-#	casperjs tools/wordpresspublish.js 27 "$$(cat html/數27.html)" $$(cat tools/wppwd)
-#	touch html/.27.publ
+.27.publ: 數27.html
+	casperjs tools/wordpresspublish.js 27 "$$(cat html/數27.html)" $$(cat tools/wppwd)
+	touch html/.27.publ
 
-# .28.publ: 數28.html
+.28.publ: 數28.html
 #	casperjs tools/wordpresspublish.js 28 "$$(cat html/數28.html)" $$(cat tools/wppwd)
 #	touch html/.28.publ
 
-# .29.publ: 數29.html
+.29.publ: 數29.html
 #	casperjs tools/wordpresspublish.js 29 "$$(cat html/數29.html)" $$(cat tools/wppwd)
 #	touch html/.29.publ
 
-# .30.publ: 數30.html
+.30.publ: 數30.html
 #	casperjs tools/wordpresspublish.js 30 "$$(cat html/數30.html)" $$(cat tools/wppwd)
 #	touch html/.30.publ
 
-# .31.publ: 數31.html
+.31.publ: 數31.html
 #	casperjs tools/wordpresspublish.js 31 "$$(cat html/數31.html)" $$(cat tools/wppwd)
 #	touch html/.31.publ
 
-# .32.publ: 數32.html
+.32.publ: 數32.html
 #	casperjs tools/wordpresspublish.js 32 "$$(cat html/數32.html)" $$(cat tools/wppwd)
 #	touch html/.32.publ
 
