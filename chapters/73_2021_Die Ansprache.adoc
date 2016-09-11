@@ -35,7 +35,7 @@ Können wir so kommunizieren, dass niemand anders das mitbekommt?
 Können wir unsere Rechner so sicher machen, dass sie nicht gestört werden?
 
 Wir haben viel gelernt, zum Beispiel, wie man in zwanzig Minuten solch einen Mini-Computer hier in einen Hochsicherheitswebserver verwandelt, von dem draußen niemand weiß, wo auf der Welt er steht.
-Wir haben gelernt wie man einen Laptop ziemlich abhörsicher macht.
+Wir haben gelernt, wie man einen Laptop ziemlich abhörsicher macht.
 Und glauben Sie mir, wir hatten hier einige Angriffe.
 
 Wenn diese Aktion hier vorbei ist, will ich auf jeden Fall genauso weitermachen mit Schule, und das wollen sicherlich die anderen hier auch.
