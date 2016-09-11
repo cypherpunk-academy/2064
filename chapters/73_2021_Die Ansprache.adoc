@@ -2,7 +2,8 @@
 
 [text-caps]#Das Bild in der Schulklasse# hatte sich verändert.
 Überall lagen jetzt schwarze, etwas klobige Laptops auf den Tischen, viele Mini-Computer-Boards, Kabel, Netzteile, USB-Sticks, Schraubenzieher, ein Lötkolben.
-Überall saßen kleine Gruppen um einen oder mehrere Laptops herum, tippten, diskutierten, gestikulierten.
+Überall saßen kleine Gruppen um einen oder mehrere Laptops herum.
+Sie tippten, diskutierten und gestikulierten.
 Kevin stand mit Sophie vorne an der Tafel und gab einer Journalistin ein Interview vor einer Fernsehkamera.
 
 Kevin ins Mikrophon eines Reporters: „Das, was Sie hier sehen, ist eine neue Form von Schule.“ Er zeigte in den Raum.
