@@ -170,6 +170,8 @@ var timeout = 0;
 				exec( "mv " + mailfile + "~ " + mailfile );
 			}
 		}); 
+
+		process.exit();
 	}
 })();
 
