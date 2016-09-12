@@ -1,6 +1,6 @@
 == [big-number]#2021# Pressekonferenz
 
-[text-caps]#Das Klassenzimmer war# mit Stühlreihen voll gestellt.
+[text-caps]#Das Klassenzimmer war# mit Stühlreihen vollgestellt.
 Vor dem Pult standen drei Tische mit Stühlen dahinter und jeweils einer Namenskarte.
 Kevin und Sophie saßen nebeneinander am mittleren Tisch.
 Zwei Kamerateams positionieren sich im Raum.
@@ -12,7 +12,6 @@ Ein Journalist rief von der Mitte des Zimmers: „Kevin!
 Was habt ihr heute Neues?“
 
 Kevin: „Einen kleinen Moment noch, Christoph.
-Aber es lohnt sich.
 Es gibt wirklich etwas Neues.
 Willst du nicht einen besseren Platz hier vorne?
 Es lohnt sich.

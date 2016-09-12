@@ -114,13 +114,13 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 	asciidoctor -D html parts/數27.adoc
 	tools/wordpressformat html/數27.html
 
-數28.html: 數28.adoc
-#	asciidoctor -D html parts/數28.adoc
-#	tools/wordpressformat html/數28.html
+數28.html: 數28.adoc 83_2021_Am\ Telefon.adoc  84_2021_Das\ Interview\ 1.adoc
+	asciidoctor -D html parts/數28.adoc
+	tools/wordpressformat html/數28.html
 
-數29.html: 數29.adoc
-#	asciidoctor -D html parts/數29.adoc
-#	tools/wordpressformat html/數29.html
+數29.html: 數29.adoc 85_2021_Das\ Interview\ 2.adoc  86_2021_Linda\ und\ Marianne.adoc  87_2021_Im\ Flugzeug.adoc
+	asciidoctor -D html parts/數29.adoc
+	tools/wordpressformat html/數29.html
 
 數30.html: 數30.adoc
 #	asciidoctor -D html parts/數30.adoc
@@ -246,12 +246,12 @@ publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ
 	touch html/.27.publ
 
 .28.publ: 數28.html
-#	casperjs tools/wordpresspublish.js 28 "$$(cat html/數28.html)" $$(cat tools/wppwd)
-#	touch html/.28.publ
+	casperjs tools/wordpresspublish.js 28 "$$(cat html/數28.html)" $$(cat tools/wppwd)
+	touch html/.28.publ
 
 .29.publ: 數29.html
-#	casperjs tools/wordpresspublish.js 29 "$$(cat html/數29.html)" $$(cat tools/wppwd)
-#	touch html/.29.publ
+	casperjs tools/wordpresspublish.js 29 "$$(cat html/數29.html)" $$(cat tools/wppwd)
+	touch html/.29.publ
 
 .30.publ: 數30.html
 #	casperjs tools/wordpresspublish.js 30 "$$(cat html/數30.html)" $$(cat tools/wppwd)
