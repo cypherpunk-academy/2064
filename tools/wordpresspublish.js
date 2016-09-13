@@ -39,7 +39,7 @@ casper.then( function() {
 } );
 
 casper.then( function() {
-	var s = "數 " + this.cli.args[0];
+	var s = "\"數 " + this.cli.args[0] + "\"";
     this.sendKeys( "#post-search-input", s ); 
 } );
 
