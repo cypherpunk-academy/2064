@@ -122,17 +122,17 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 	asciidoctor -D html parts/數29.adoc
 	tools/wordpressformat html/數29.html
 
-數30.html: 數30.adoc
-#	asciidoctor -D html parts/數30.adoc
-#	tools/wordpressformat html/數30.html
+數30.html: 數30.adoc 88_2021_Linda,\ Robert\ und\ der\ Oberst.adoc  89_2021_Wiedersehen.adoc  90_2064_Wo\ gehts\ zur\ Akademie.adoc
+	asciidoctor -D html parts/數30.adoc
+	tools/wordpressformat html/數30.html
 
-數31.html: 數31.adoc
-#	asciidoctor -D html parts/數31.adoc
-#	tools/wordpressformat html/數31.html
+數31.html: 數31.adoc 91_2064_Dmitri.adoc  92_2064_Die\ Cypherpunk-Akademie.adoc
+	asciidoctor -D html parts/數31.adoc
+	tools/wordpressformat html/數31.html
 
-數32.html: 數32.adoc
-#	asciidoctor -D html parts/數32.adoc
-#	tools/wordpressformat html/數32.html
+數32.html: 數32.adoc 93_2064_Wunderlich.adoc  94_2064_Das\ Cypherpunk\ Cafe.adoc  95_2021_Auf\ einer\ Berliner\ Dachterrasse.adoc  96_2064_Heimweg.adoc
+	asciidoctor -D html parts/數32.adoc
+	tools/wordpressformat html/數32.html
 
 
 publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ .10.publ .11.publ .12.publ .13.publ .14.publ .15.publ .16.publ .17.publ .18.publ .19.publ .20.publ .21.publ .22.publ .23.publ .24.publ .25.publ .26.publ .27.publ .28.publ .29.publ .30.publ .31.publ .32.publ
@@ -254,18 +254,14 @@ publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ
 	touch html/.29.publ
 
 .30.publ: 數30.html
-#	casperjs tools/wordpresspublish.js 30 "$$(cat html/數30.html)" $$(cat tools/wppwd)
-#	touch html/.30.publ
+	casperjs tools/wordpresspublish.js 30 "$$(cat html/數30.html)" $$(cat tools/wppwd)
+	touch html/.30.publ
 
 .31.publ: 數31.html
-#	casperjs tools/wordpresspublish.js 31 "$$(cat html/數31.html)" $$(cat tools/wppwd)
-#	touch html/.31.publ
+	casperjs tools/wordpresspublish.js 31 "$$(cat html/數31.html)" $$(cat tools/wppwd)
+	touch html/.31.publ
 
 .32.publ: 數32.html
-#	casperjs tools/wordpresspublish.js 32 "$$(cat html/數32.html)" $$(cat tools/wppwd)
-#	touch html/.32.publ
-
-# .33.publ: 數33.html
-#	casperjs tools/wordpresspublish.js 33 "$$(cat html/數33.html)" $$(cat tools/wppwd)
-#	touch html/.33.publ
+	casperjs tools/wordpresspublish.js 32 "$$(cat html/數32.html)" $$(cat tools/wppwd)
+	touch html/.32.publ
 
