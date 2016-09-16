@@ -3,7 +3,7 @@
 Sigur schaute Wunderlich trotzig an: „Wo habe ich Mist gebaut?“
 
 Wunderlich zuckte mit den Schultern: „Keine Ahnung.
-Aber du hast, sonst wärst du nicht hier, sondern bei Lasse im Cafe.
+Aber du hast, sonst wärst du nicht hier, sondern bei Lasse im Café.
 Er macht sich gerade eine eiskalte Mate auf.“
 
 Wunderlich grinste vorsichtig.
@@ -25,7 +25,7 @@ Wunderlich: „Dann ist irgendwann Spielende.“
 „NEIN!“, brauste Sigur auf.
 „NEIN!
 Ich war so knapp davor.
-Ich BIN so knapp davor.
+Ich _bin_ so knapp davor.
 Ich gebe jetzt nicht auf.“
 
 Wunderlich: „Du hast der Eule gesagt, dass du auf die Insel-Ebene 4 willst.
@@ -40,7 +40,7 @@ Und das geht nicht.
 Das geht nicht in Ebene 3 und das geht hundert Mal nicht in Ebene 4.
 Ich sage dir eins: Du hast verschissen!“
 
-Sigur wütend: „WO?
+Sigur wütend: „Wo?
 Wo habe ich einen Menschen umgebracht, der niemanden bedroht hat?“
 
 Wunderlich: „Und du kannst nicht einmal mehr zurück gehen auf Ebene 2 oder so, oder ganz raus aus der Akademie.
@@ -62,7 +62,7 @@ Sie sagt dir nicht, was du machen sollst.
 Sie sagt nur was ist.
 Vergangenheit und Weisheit und so.
 Hast du das verstanden?“ Er schaute ihn mitleidig an.
-„Du bist Cypherpunk.
+„Du bist jetzt Cypherpunk.
 Du bist selber groß.
 Du bist frei, das anzustreben, was du anstreben willst.
 Selbst wenn es totaler Blödsinn ist, das zu wollen, und du mit den bescheidenen Möglichkeiten, die du hast, niemals dahin kommen kannst.“
@@ -93,7 +93,7 @@ Wenn du sie brauchst, sind sie nicht da.
 Und überhaupt, du gehst schon wieder gegen jemanden, der keine unmittelbare Bedrohung ist.
 Das scheint dein Sport zu sein.
 Dagegen sein ist nicht für Cypherpunks, nicht ab Ebene 3.
-Jetzt fass dich mal, sonst kommst du hier wirklich nicht mehr raus, du Schwächling, du … Opfer.“
+Jetzt fasse dich mal, sonst kommst du hier wirklich nicht mehr raus, du Schwächling, du … Opfer.“
 
 Sigur: „Wo habe ich einen Menschen getötet?“
 
@@ -105,13 +105,13 @@ Sigur: „Das war FBI!
 Sie haben mich gejagt.
 Auf Leben und Tod.
 Die wollten mit Raketen auf den Kampfroboter schießen.
-Wenn ich dringesessen hätte, dann hätten sie mich umgebracht,“
+Wenn ich drin gesessen hätte, dann hätten sie mich umgebracht,“
 
 Wunderlich: „Hätte, täte, wäre.
 Du bist aber nicht dringesessen.
-Wenn du dringesessen wärest, dann hättest du, glaube ich, auf sie schießen können.
-Oder doch nicht.
-Ich bin mir aber nicht sicher.
+Wenn du drin gesessen hättest, dann hättest du, glaube ich, auf sie schießen können.
+Oder vielleicht doch nicht.
+Ich bin mir nicht sicher.
 Die Regelmeister der Akademie haben manchmal seltsame Ansichten.
 Da fragst du am besten den Bären.
 Aber _du_ warst ja überhaupt nicht drin in dem Kampfroboter.
@@ -160,7 +160,7 @@ Dabei sind fünf Leute gestorben.
 Geht auch auf dein Konto.
 Je mehr ich mir das hier anschaue.
 Du kannst das Ganze hier knicken.
-In der Akademie wird das nichts mehr mit dir.“ Er grinste breit.
+In der Akademie wird das nichts mehr mit dir.“ Er grinste ihn breit an.
 
 Sigurs Augen wurden dunkler.
 Er rutschte zur Wand rüber und lehnte sich an.
@@ -173,12 +173,12 @@ Was für einen Sinn würde das machen.“
 
 Wunderlich: „Viel Sinn.
 Dann wäre einer weniger unterwegs, der andere Menschen umbringt.
-Ja, es macht schon Sinn, wenn du gar nichts mehr machst.
+Es macht schon Sinn, wenn du ab jetzt gar nichts mehr machst.
 Du kannst einfach hier bleiben und auf das Spielende warten.“
 
 Sigur griff sich den Stein und drohte ihn zu werfen.
 
-Der duckte sich in übertriebener Panik: „Halt!
+Wunderlich duckte sich in übertriebener Panik: „Halt!
 Halt!
 Bist du verrückt?
 Ich bin der Einzige, der dir hier raushelfen kann.“
@@ -210,7 +210,7 @@ Sigur: „Ok.
 Keine Gewalt mehr.“
 
 Wunderlich atmete erleichtert aus.
-„Wie willst du das schaffen?
+„Und wie willst du das schaffen?
 In dir ist so viel Gegeneinander.
 Du bist voll davon, du Pappnase, du Esel, du Kleindenker!“
 
@@ -258,7 +258,7 @@ Verstehst du?“
 
 Sigur nickte.
 Er nahm Anlauf, sprang und krachte mit voller Wucht mit Körper und Kopf auf den Stein.
-Er prallte ab und fiel rückwärts auf den Boden auf seinen Arm.
+Er prallte zurück und schlug mit seinem Arm auf den Boden.
 Der ganze Arm brannte vor Schmerzen, sein Kopf dröhnte, ihm war schwindelig.
 Der Stein hatte sich keinen Millimeter bewegt.
 Er bekam pochende Kopfschmerzen.
@@ -314,7 +314,7 @@ Sigur schaute weiter.
 Er atmete ruhig.
 Eine Minute, zwei Minuten.
 Plötzlich ertönte ein leises „Pling!“ am Ende des Ganges hinter dem Gitter.
-Eine bunt-glitzernd bemalte Glaskugel sprang ihnen entgegen, wie selbstverständlich sprang sie ohne anzustoßen durch die Gitterstäbe und auf Sigur zu.
+Eine etwa handgroße, bunt-glitzernd bemalte Glaskugel sprang ihnen entgegen, wie selbstverständlich sprang sie ohne anzustoßen durch die Gitterstäbe und auf Sigur zu.
 Der öffnete instinktiv die Hand und die Kugel sprang hinein.
 Sie leuchtete lebendig in den verschiedensten Blau- und Grüntönen.
 Sigur betrachtete sie staunend.
@@ -418,7 +418,7 @@ Wunderlich: „Habe ich dir gesagt: Die Sonne kommt.“ Er grinste breit.
 Sigur schaute zur Gittertüre: „Was wäre eigentlich passiert, wenn ich die Kugel dahin geworfen hätte?“
 
 Wunderlich: „Was denkst du?
-Dann wäre die Türe aufgesprungen und du hättest hinaus gehen können.
+Dann wäre wahrscheinlich die Türe aufgesprungen und du hättest hinaus gehen können.
 Ich verstehe nicht, warum du das nicht getan hast.
 Ich hätte das getan?“
 
@@ -435,14 +435,13 @@ Sigur legte seine Hände ins Gesicht.
 Wunderlich: „Was hast du?“
 
 Sigur kühl: „Nichts.
-Ich bin nur gerade dabei, dich kennenzulernen.
-Spannende Erfahrung.“
+Ich bin nur gerade dabei, dich kennenzulernen.“
 
 „Pling“, ertönte es vom Ende des Ganges und eine rot-goldene Kugel sprang den Gang entlang, durch die Gitterstäbe, in Sigurs Hand.
 
 Sigur grinste zu Wunderlich herüber und warf die Kugel zur Türe.
 Sie zerstieb wie die ersten beiden und in der Wolke verwandelten sich die Gitterstäbe in blau glimmernde Lichtstäbe.
-Sigur ging zum Tor und prüfte es mit dem Finger vorsichtig.
+Sigur ging zu den Stäben und prüfte sie mit dem Finger vorsichtig.
 Er wurde sanft zurückgestoßen.
 Er stieß heftiger und wurde härter zurückgestoßen.
 Er drehte sich um und schaute Wunderlich an.
@@ -452,7 +451,7 @@ Sigur: „Komm, ich weiß, dass du weißt, wie man da durch kommt.“
 
 Wunderlich nickt: „Ja, das weiß ich.
 Aber so wie du drauf bist, wirst du mir das nicht glauben.
-Und auf keinen Fall tun.“
+Und auf gar keinen Fall tun.“
 
 Sigur: „Sag schon.
 Und keine Spiele mehr.
@@ -497,6 +496,6 @@ Sigur: „Was heißt spät?“
 Wunderlich: „Wenn du die erste Kugel richtig geworfen hättest, dann wäre da wohl die Sphinx gewesen.“
 
 Sigur nahm Anlauf und sprang mit aller Kraft, die er hatte, auf das Gitter.
-Ein Lichtblitz umhüllte ihn, er fühlte sich für den Bruchteil einer Sekunde wie schwerelos, er flog und landete im Cypherpunk Cafe auf dem Boden, direkt vor einem freien Stuhl an dem Tisch, an dem Lasse saß.
+Ein Lichtblitz umhüllte ihn, er fühlte sich für den Bruchteil einer Sekunde wie schwerelos, er flog und landete im Cypherpunk Café auf dem Boden, direkt vor dem Tisch, an dem Lasse saß.
 Der beugte sich herunter, klopfte Sigur auf die Schulter und sagte: „Hi!
 Na, wo warst du denn so lange?“
