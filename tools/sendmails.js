@@ -162,16 +162,16 @@ var timeout = 0;
 		timeout += 1000;
 	} else {
 		console.log( mailsSent + " mails sent out." );
+		console.log( JSON.stringify( mailinfo, null, 4 ) + "\n" + mailfile );
 
 		fs.writeFile( mailfile + "~", JSON.stringify( mailinfo, null, 4 ), function(err) {
 			if(err) {
 				console.error(err);
 			} else {
+				console.log( "Moving " + mailfile );
 				exec( "mv " + mailfile + "~ " + mailfile );
 			}
 		}); 
-
-		process.exit();
 	}
 })();
 
