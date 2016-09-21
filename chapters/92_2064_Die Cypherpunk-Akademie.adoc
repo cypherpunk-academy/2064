@@ -8,7 +8,7 @@ Seine Außenhaut schien aus härterem Material zu bestehen als normale Ballons, 
 Er sah schwer aus und machte nicht den Eindruck als könnte er fliegen.
 Er hatte auch keinen eigentlichen Korb an der Unterseite, nur eine Art von Gewicht.
 Sigur staunte wieder über seine schiere Größe.
-Er entdeckte neben dem Gewicht einen Schacht, der in den Ballon hineinführte und aus dem zwei blaue Seile herunter bis zum Boden hingen.
+Er entdeckte neben dem Gewicht einen Schacht, der in den Ballon hinein zu führen schien und aus dem zwei blaue Seile herunter bis zum Boden hingen.
 Darunter wartete Lasse mit einem breiten Grinsen.
 
 Sigur lief los und fiel Lasse in die Arme.
@@ -73,11 +73,11 @@ Sigur schüttelte den Kopf und nahm eines der Seile: „Und wenn ich kein Cypher
 Lasse: „Doch, das willst du.
 Vertrau mir.
 Mach den Fuß so unten in die Schlaufe.
-Und dann die Hände hier herum.“
+Und dann fass hier an.“
 
 Sigur: „Erst noch von Tim verabschieden.“
 
-Lasse: „Lass das!
+Lasse: „Brauchst du nicht!
 Das macht TRON.
 Alles, was wir mit den Seilen machen, sieht Tim schon gar nicht mehr.
 TRON macht, dass wir uns ganz normal verabschieden, oder irgendetwas anderes.
@@ -85,7 +85,7 @@ Ist wahrscheinlich schon passiert.
 Du kannst dir das dann später anschauen.“
 
 Sigur schaute ihn erstaunt an.
-Lasse zwinkerte ihm zu, nahm das Seil und saußte nach oben.
+Lasse zwinkerte ihm zu, steckte seinen Fuß in das Seil und saußte nach oben.
 Nach ein paar Sekunden war er im Schacht des Ballons verschwunden.
 Sigur schaute noch einmal zu Tim, der sich aber schon abgewandt hatte und wieder Richtung Flugzeug ging.
 Er war im Gespräch mit irgendjemand Unsichtbaren.
@@ -127,22 +127,22 @@ Sigur: „Genau! Und dich kann man alles über die Cypherpunk-Akademie fragen ka
 Mostafa: „Nicht nur das. Ich bin auch der Lehrer für Lesen und Schreiben.
 Natürlich Lesen und Schreiben von Code, von Programmen.
 Cypherpunks schreiben Programme.
-Das gehört dazu.
 Das ist quasi das Einmal-Eins hier.
 Dafür haben wir den Cypherpunk-Computerspielplatz.“
 
 Sigur: „Ich kann programmieren.“
 
 Mostafa: „Ich weiß.
-Deswegen fängst du auch nicht auf dem Spielplatz an.
-Der kommt für dich dann später dran.“
+Deswegen gehst du nicht gleich auf den Spielplatz.
+Aber es gibt dort schon noch einiges, was du nicht kennst.
+Das kommt für dich dann später dran.“
 
 Sigur lugte wieder herüber zu Lasse, der seltsame ausweichende Bewegungen machte: „Muss ich auch zur Sphinx?“
 
 Mostafa: „Du musst nicht.“ Er grinste.
 „Du musst schon.
 Die Sphinx bewacht alle Aus- und Eingänge in der Akademie.
-Du musst an ihr vorbei, sonst kommst du nicht einmal in die Akademie hinein.“
+Du musst immer wieder an ihr vorbei, sonst kommst du nicht einmal in die Akademie hinein.“
 
 Sigur: „Wie?
 Das hier ist noch nicht drin?“
@@ -211,17 +211,19 @@ Das ist das Ziel.
 Es wird eine Weile dauern, bis du dahin kommst.
 Die Aufgabe ist, den Weg dorthin zu finden, oder eigentlich, ihn zu bauen.
 
-Es ist eine Art Gedankenweg mit vielen Abzweigungen.
-Das sind Widersprüche und ihre Auflösung.
+Es ist eine Art Gedankenweg, Verbindungen von einem Gedanken zum nächsten, mit vielen Abzweigungen.
+Abzweigungen sind Widersprüche und ihre Auflösung.
 Man kann alles in der Welt aus verschiedenen Richtungen anschauen, zum Beispiel einen Baum.
 Der sieht von einer Seite ganz anders aus, als von einer anderen.
 Das widerspricht sich.
-Aber es trotzdem derselbe Baum.
+Aber es ist trotzdem derselbe Baum.
 Genauso ist das mit Gedanken.
-Menschen können sich sogar streiten, nur weil sie ein und denselben Gedanken von zwei verschiedenen Richtungen aus anschauen.
+Menschen streiten sich oft, nur weil sie ein und denselben Gedanken von zwei verschiedenen Richtungen aus anschauen.
 Wenn du in einer Stadt auf einer Insel einen Gedanken findest, wirst du zuerst dessen Widersprüche auflösen, dann neue Widersprüche finden und am Ende eigene Gedanken hinzufügen, zu denen andere Cypherpunks dann Widersprüche und Auflösungen finden werden.
 Es ist eine Art von Kreislauf.
-Die eigenen Gedanken der Cypherpunks verändern die Ebenen-Inseln fortwährend.
+Die besten Widersprüche, Auflösungen und Gedanken bleiben.
+Die anderen verschwinden nach einiger Zeit wieder.
+Auf diese Weise verändern die Cypherpunks, die den Weg suchen, die Ebenen-Inseln fortwährend.
 Und zu dieser Welt ist hier der Eingang.“
 
 Sigur nickte. Er schaute sich um.
@@ -320,7 +322,7 @@ Die Sphinx schrie zum zweiten Mal markerschütternd auf.
 Sigur schaute sie hochkonzentriert an.
 Immer wenn er „richtig“ antworten würde, würde sie an Kraft verlieren, und wütender werden.
 „Richtig“ hieß, aus ihrer Sicht richtig.
-Das war wichtig, das hatte ihm Lasse erzählt.
+Das war wichtig, das hatte ihm Lasse gesagt.
 Die Sphinx wähnte sich im Besitz der ganzen Weisheit der Welt, der vollständigen Wahrheit.
 Um die Sphinx zu besiegen, musste man verstehen, wie sie dachte.
 
@@ -333,7 +335,7 @@ Sigur: “Gerechtigkeitsliebe“
 „Das war einfach“, dachte Sigur, „Die Feinde des Internets im Jahr 2026 waren darauf aus, die Welt zu spalten, in Menschen, die in Wohlstand lebten und solchen, die für sie arbeiten sollten.
 In solche, die unterdrückten und in solche die unterdrückt wurden, in solche die in Sicherheit lebten und in solche, die ständig in Gefahr waren.“
 
-Der Schrei der Sphinx war jetzt immer mehr ein Aufjaulen.
+Der Schrei der Sphinx wurde immer mehr zu einem Aufjaulen.
 Ihre Augen wurden düsterer, sie begann deutlich an Kraft zu verlieren, ihre Flügel wurden steifer, sie schrumpfte weiter.
 
 Sphinx: „WAS IST STÄRKER ALS ALLE GEHEIMDIENSTE UND ARMEEN UND UNTERNEHMEN DIESER WELT?“
@@ -356,7 +358,7 @@ Dummkopf!“ Sie rauschte mit ihren Flügeln.
 
 Sphinx: „WAS TUST DU, WENN DU VERSAGST?“
 
-Sigur: „Ich kann nicht versagen. Ich kann lernen oder etwas schaffen.“
+Sigur: „Ich kann nicht versagen. Wenn ich Fehler mache, lerne ich, wenn ich keine Fehler mache, freue ich mich.“
 
 Die Sphinx seufzte, laut und kläglich.
 Ihr Stimme wurde brüchig.
@@ -388,8 +390,8 @@ Er sprang von seinem Podest, lief auf die Sphinx zu, die zu Stein erstarrt war, 
 Alles zerbröselte zu Staub und wurde nach und nach von einem aufkommenden Wind herausgetragen.
 
 Die ganze Halle änderte sich wieder.
-Um ihn herum erschienen ungeheuer dicke, matt glänzende Eichen mit herabhängenden Lianen, moosbewachsene Steine, die ihn anzuschauen schienen, und direkt vor ihm ein kleiner, spiegelnder Teich mit dichtem Buschwerk darum herum und einem schwebenden Nebel darüber, der ein eigenes Leben zu haben schien.
-Alles um Sigur herum verwandelte sich in einen alten Zauberwald.
+Um ihn herum erschienen ungeheuer dicke, matt glänzende Eichen mit herabhängenden Lianen, viele andere Bäume, moosbewachsene Steine, die ihn anzuschauen schienen, und direkt vor ihm ein kleiner, spiegelnder Teich mit dichtem Buschwerk darum herum und einem schwebenden Nebel darüber, der ein eigenes Leben zu haben schien.
+Alles um Sigur herum verwandelte sich in einen Zauberwald.
 Verschiedenste, sonderbarste Tiere krochen, flogen oder krabbelten umher.
 Er entdeckte eine wunderschöne, große, giftig aussehende Lotusblume, nicht weit von ihm auf einer Lichtung.
 Nichts von alldem war chaotisch.
@@ -408,18 +410,21 @@ Ich stand gerade noch vor dem Eingang zu den Ebenen-Inseln.“
 
 Tin: „Der Zauberwald ist der Ort, wo alle vergangenen Gedanken und Entscheidungen aufbewahrt werden.
 Du kannst hier Rätsel lösen und Antworten auf Fragen finden.
-Dadurch bekommst du Nahrung, die du auf deinem Weg durch die Ebenen-Inseln brauchst.
+Für die Ebenen-Inseln brauchst du den Zauberwald wegen der Nahrung, die in ihm wächst.
 Solche zum Beispiel.“
 
-Tin zeigte auf einen Baum, an dem lustig geformte, blaue Früchte hingen.
+Tin zeigte auf einen Baum, an dem lustig geformte, blaue und rosa Früchte hingen.
 
 „Du kannst sie nicht pflücken, du musst das Rätsel des Baumes lösen, dann bekommst du von ihm immer wieder Früchte, die du auf den Ebenen-Inseln brauchen wirst.
 Das Wichtigste hier im Zauberwald sind aber Denkfehler, vor allem die Denkfehler, die alle oder die allermeisten Menschen einer Zeit oder einer Gegend in sich tragen.
 Sie sehen so aus.“
 
-Tin zeigte auf die im Dickicht versteckte Lotusblume.
+Tin zeigte auf die Lichtung mit der Lotusblume.
 
-„Wenn du sie berührst, dann erscheint über der Blüte, was sie ist. Bei der hier erscheint:“
+„Wenn du sie berührst, dann erscheint über der Blüte, was sie ist.“
+
+Tin schickte eine Libelle zur Lotusblume.
+Über ihr erschien eine Schrift aus Blütenstaub, die seltsam leuchtete.
 
 ****
 ....
@@ -431,10 +436,21 @@ zu machen oder irgendetwas anderes Spannendes oder Schönes.
 ....
 ****
 
-„Auf den Ebenen-Inseln wirst du jemanden finden, auf den das passt.
-Es passt ja für fast alle Menschen, aber bei dem oder einen ist es ganz besonders deutlich.
-Ihm oder ihr kannst du dann den Gedanken geben, und dann wirst du etwas dafür bekommen.
-Es gibt hier aber nicht nur falsche Gedanken.
+„Auf den Ebenen-Inseln wirst du einen Menschen finden, auf den dieser Gedankenfehler passt.
+Es passt ja für fast alle Menschen dieser Zeit, aber bei diesem einen ist es ganz besonders deutlich.
+Er oder sie sucht nach dem Gedanken und du kannst ihm oder ihr dann den Gedanken schenken, dann wirst du dafür etwas bekommen.“
+
+Die Libelle flog durch die Schrift hindurch und sie verschwand.
+Gleichzeitig öffnete Sigur instinktiv seine Hand und auf ihr erschien ein kleines, quadratisches, bunt bemaltes Blättchen.
+Er schaute es an und überlegte, wo er es aufbewahren könnte.
+
+Tin: „Denke einfach: Das ist meins. Dann verschwindet es in deinem unsichtbaren Rucksack.“
+
+Das Blättchen verschwand aus Sigurs Hand.
+
+Tin „Es gibt hier viele davon.
+Um in den Garten von Wim zu kommen, musst du alle finden und verschenken.
+Aber aber es gibt hier nicht nur falsche Gedanken.
 Es gibt auch vieles, das man einfach so entdecken kann.
 Siehst du den Moderhaufen dahinten?“
 
@@ -442,17 +458,17 @@ Sigur nickte.
 
 Tin: „Mit weißem Schimmel darunter und giftigem, stinkenden Matsch, in dem nichts wachsen kann.“ 
 
-Sigur schaute auf den Haufen.
+Sigur blickte auf den Haufen.
 
 Tin: „Das ist eine Beziehung zwischen zwei Menschen, die viel gestritten und sich gegenseitig zu Dingen gezwungen haben, die sie nicht tun wollten.
 Sie haben sich gefühlsmäßig sehr stark ineinander verwickelt, wollten sich gegenseitig ändern.
-Sie haben das nie aufgeräumt.“
+Und sie haben das nie aufgeräumt.“
 
-Sigur schauderte bei dem Anblick. Dann drehte er sich zu einem dürren Gestrüpp, das daneben lag.
+Sigur schauderte bei dem Anblick. Sein Blick wandte sich zu einem dürren Gestrüpp, das daneben lag.
 
 Tin: „Der Dornenbusch hier?
 Das waren Wortgefechte, Diskussionen.
-Alles stirbt, wenn man es nur von einer Seite aus anschaut.
+Alles stirbt, wenn man es nur mit fremden Worten betrachtet.
 Deswegen wirst du hier in der Akademie deine eigenen Worte für die Dinge machen.
 Es hilft nicht, wenn du wiederholst, was ein anderer gesagt hat.
 Du wirst lernen, alles von verschiedenen Seiten aus zu sehen und zu Gedanken zu kommen, die lebendig sind, statt nur Worte zu haben.
@@ -467,7 +483,7 @@ Liebe ist Zukunft.“
 Sigur nickte.
 
 Tin: „Ich sehe, du willst jetzt schnell vorangehen … Aber du bist noch nicht bereit.
-… Und du musst auch noch an den Ebenen-Sphinxen vorbei.“
+… du musst auch noch an den Ebenen-Sphinxen vorbei.“
 
 Sigur: „Ich weiß, Tin.
 Die Ebenen-Sphinxen.
@@ -496,7 +512,7 @@ Tin: „Ich weiß, ich weiß.
 Ebene 1 wird dir geschenkt.“ Sie warf einen bunt leuchtenden Glasball in die Luft, der fortschwebte und nach einer Zeit in Tausende von kleinen Stäubchen in allen Farben zerfiel.
 Sigur bestaunte sie lachend.
 
-Sie sah Sigur an: “Ebene 2: Lebensideale: Gerechtigkeit, Offenheit, Gleichheit, Brüderlichkeit, und alles, was uns als Menschen erhebt.“
+Sie sah Sigur an: “Ebene 2: Lebensideale: Gerechtigkeit, Offenheit, Gleichheit, Brüderlichkeit, und alles andere, was uns als Menschen erhebt.“
 
 Sigur nickte: „Freiheit, andere Anteil haben lassen ...“
 
@@ -506,11 +522,11 @@ Das ist sehr selten, dass zwei Ebenen geschenkt werden. Du kannst sie natürlich
 Sigur lächelte.
 Seine Augen strahlten.
 
-Tin: „Ebene 3: Das Dagegen überwinden.“
+Tin: „Ebene 3: Das Dagegen-Sein überwinden, und alles andere, was die Grenzen zwischen Menschen aufhebt.“
 
 Sigur nickte.
 
-Tin: „Die Ebenen-Sphinx wartet auf dich.
+Tin: „Ebene 3: Die Ebenen-Sphinx wartet auf dich.
 Bist du bereit?“ Sie schaute ihn eindringlich an.
 
 Sigur: „Ja.“
@@ -533,14 +549,13 @@ Er rief laut den daran anschließenden Gang hinunter.
 Keine Antwort.
 Er versuchte sich ins Cypherpunk-Café zu denken, zurück zum Bären, in den Zaubergarten, aber nichts geschah.
 Dann fasste er sich mit beiden Händen an den Kopf: „Oh nein!
-Nicht Wunderlich.
-Nicht Wunderlich.“
+Nicht Wunderlich, nicht Wunderlich.“
 
 „Doch!“, sagte eine Stimme hinter ihm.
 Sigur drehte sich um.
 Eine kleine Ratte blickte ihn mit großen, scheuen Augen an.
 
-Er hielt beide Hände vor das Gesicht und dachte: „Oh, nein!
+Er hielt beide Hände vor sein Gesicht und dachte: „Oh, nein!
 Ich bin kaum zehn Minuten hier und schon bei Wunderlich.
 Lasse war in seiner ganzen Zeit erst zweimal bei ihm!“
 
