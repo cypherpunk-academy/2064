@@ -2,6 +2,15 @@ var exec = require('child_process').exec;
 var util = require('util');
 var fs = require('fs');
 
+if( process.argv.length < 3 ) {
+	console.log( "Usage: node sendmail.js --mailinfo [JSON mailfile]\n" + 
+					"\nOptions:\n" +
+					"--dryrun, -d:\tTest without sending mails.\n" +
+					"--verbose, -v:\tMore console output.");
+
+	process.exit();
+}
+
 for( var i=2 ; i<process.argv.length ; i++ ) {
 	var a = process.argv[i];
 	if( a === "--mailinfo" || a === "-m" ) {
@@ -12,6 +21,9 @@ for( var i=2 ; i<process.argv.length ; i++ ) {
 	}
 	if( a === "--verbose" || a === "-v" ) {
 		var verbose = true;
+	}
+	if( a === "--remove" || a === "-r" ) {
+		var remove = true;
 	}
 }
 
@@ -38,6 +50,26 @@ var generateHTML = function( part ) {
 				"}" +
 				"hr {" +
 					"border-color: lightgrey;" +
+					"border-color: lightgrey;" +
+					"border-color: lightgrey;" +
+				"}" +
+				".ende {" +
+					"text-align: center;" +
+				"}" +
+				".em {" +
+					"font-style: italic;" +
+					"font-size: 0.75em;" +
+				"}" +
+				"h3.ende {" +
+					"margin-bottom: 60px;" +
+				"}" +
+				"h4.ende {" +
+					"margin-top: 120px;" +
+				"}" +
+				".end-box {" +
+					"margin: 20px;" +
+					"padding: 10px;" +
+					"width: 400px;" +
 				"}" +
 			"</style>" +
 				"" +
@@ -48,6 +80,25 @@ var generateHTML = function( part ) {
 				"<h4>" + (part+1) + " - " +
 					"<a href='" + mailinfo.parts[part] + "'>" + mailinfo.captions[part] + "</a>" +
 				"</h4>" +
+				(part === mailinfo.parts.length-1? 
+					"<div class='end-box'>" +
+						"<h3 class='ende'>" +
+							"<span>* * *  E N D E * * *</span>" +
+						"</h3>" +
+						"<h4 class='ende'>Vielen Dank an ...</h4>" +
+						"<p><div class='ende'>Volker Diels-Grabsch</div><div class='ende'>Maarja Urb</div><div class='ende'>Christian V.</div><div class='ende'>Urte Beer</div><div class='ende'>Christian Schönberger</div><div class='ende em'>für Ideen und Hilfe beim Redigieren.</div></p>" +
+						"<p><div class='ende'>Maarja Urb</div><div class='ende em'>für das Titelbild und für die Augen der Sphinx.</div></p>" +
+						"<p><div class='ende'>Sabrina von Nuis</div><div class='ende'>Julian Vetten</div><div class='ende'>Dieter Schwartz</div><div class='ende'>Pär Ahlbom</div><div class='ende'>Bernd Fix</div><div class='ende'>Theresia Reinhold</div><div class='ende'>Johanna Tombrock</div><div class='ende'>Noe Lue</div><div class='ende em'>fürs Testlesen und Kommentieren.</div></p>" +
+						"<p><div class='ende'>Das Buch <a href='https://en.wikipedia.org/wiki/Cypherpunks_(book)'>Cypherpunks</a> von Julian Assange und<br><a href='https://en.wikipedia.org/wiki/Cloud_Atlas_(film)'>Cloud Atlas</a> der Wachowski-Geschwister</div><div class='ende em'>als Inspriation.</div></p>" +
+						"<p><div class='ende'>Die <a href='https://c2064.org/9/'>9 Grundgedanken</a>, die dem Buch zugrunde liegen.</div></p>" +
+						"<h4 class='ende'>Mitmachen, Weiterschreiben ...</h4>" +
+						"<p><div class='ende'>Das Buch <strong>2064 Die Geschichte der Cypherpunks</strong> und die geplanten Nachfolger <strong>2064 Der Weg in die Dunkelheit</strong> und <strong>2064 Die Verwandlung</strong> sind als Mitmachbücher konzipiert. " +
+						"Wer aufgrund von aktuellen Ereignissen etwas ändern möchte, die beschriebene Technik plausibler machen, eine Nebengeschichte erzählen, die Sprache eines Charakters ändern oder irgendetwas anderes, kann das machen. " +
+						"2064 ist ein Git-Projekt. Das heißt, offen für eine Zusammenarbeit im Internet und so organisiert, wie Marianne, Paul und Oskar das machen würden. " +
+						"Der erste Schritt ins Projekt ist, sich ein Konto bei <a href='https://www.bitbucket.com'>Bitbucket</a> anzulegen und mir (2064@c2064.org) den neuen Benutzernamen zu schicken. " +
+						"Ich trage den Namen dann ins Projekt ein und schicke eine Beschreibung, wie man es auf seinem eigenen Computer einrichtet, wie man sich jeweils die neues Version holt und wie man Vorschläge schickt. Willkommen in der Welt der Internet-Zusammenarbeit!</div></p>" +
+					"</div>"
+				: "" ) +
 				"<hr>" +
 				"<h4>Ältere Folgen</h4>" +
 					"" +
@@ -133,7 +184,12 @@ for( var i=0; i<mailinfo.subscribers.length; i++ ) {
 		}
 
 		if( part >= mailinfo.parts.length ) {
-			console.error( "Part " + (part+1)  + " is not available for '" + subs.email + "'. Omitting ..." );
+			if( remove ) {
+				delete mailinfo.subscribers[i];
+				console.log( "Reader '" + subs.email + "' removed from the mail file." );
+			} else {
+				console.error( "Reader '" + subs.email + "' got all 32 parts already. Use '--remove' option to remove it from the mail file." );
+			}
 			mailsProcessed++;
 			return;
 		}
@@ -162,13 +218,16 @@ var timeout = 0;
 		timeout += 1000;
 	} else {
 		console.log( mailsSent + " mails sent out." );
-		console.log( JSON.stringify( mailinfo, null, 4 ) + "\n" + mailfile );
+
+		// Get rid of deleted addresses
+		for( var i=mailinfo.subscribers.length-1; i>=0 ; i-- ) {
+			if( !mailinfo.subscribers[i] ) mailinfo.subscribers.splice(i,1);
+		}
 
 		fs.writeFile( mailfile + "~", JSON.stringify( mailinfo, null, 4 ), function(err) {
 			if(err) {
 				console.error(err);
 			} else {
-				console.log( "Moving " + mailfile );
 				exec( "mv " + mailfile + "~ " + mailfile );
 			}
 		}); 
