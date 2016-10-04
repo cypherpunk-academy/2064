@@ -3,8 +3,10 @@ vpath %.adoc parts
 vpath %.html html
 vpath %.adoc chapters
 vpath %.publ html
+vpath %.epub public
 
-allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html 數20.html 數21.html 數22.html 數23.html 數24.html 數25.html 數26.html 數27.html 數28.html 數29.html 數30.html 數31.html 數32.html
+
+allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 數8.html 數9.html 數10.html 數11.html 數12.html 數13.html 數14.html 數15.html 數16.html 數17.html 數18.html 數19.html 數20.html 數21.html 數22.html 數23.html 數24.html 數25.html 數26.html 數27.html 數28.html 數29.html 數30.html 數31.html 數32.html 2064.epub 2064-kf8.epub
 
 數1.html: 數1.adoc 01_2064_Das\ Spiele-Labor.adoc  02_2019_Marianne.adoc
 	asciidoctor -D html parts/數1.adoc
@@ -133,6 +135,10 @@ allparts: 數1.html 數2.html 數3.html 數4.html 數5.html 數6.html 數7.html 
 數32.html: 數32.adoc 93_2064_Wunderlich.adoc  94_2064_Das\ Cypherpunk\ Cafe.adoc  95_2021_Auf\ einer\ Berliner\ Dachterrasse.adoc  96_2064_Heimweg.adoc
 	asciidoctor -D html parts/數32.adoc
 	tools/wordpressformat html/數32.html
+
+2064.epub: book/epub3.adoc $(shell find chapters -type f | sed 's/ /\\ /g')
+	asciidoctor-epub3 -D public -a ebook-format=kf8 book/epub3.adoc -o 2064-kf8.epub -o 2064.mobi
+	asciidoctor-epub3 -D public book/epub3.adoc -o 2064.epub
 
 
 publish: .1.publ .2.publ .3.publ .4.publ .5.publ .6.publ .7.publ .8.publ .9.publ .10.publ .11.publ .12.publ .13.publ .14.publ .15.publ .16.publ .17.publ .18.publ .19.publ .20.publ .21.publ .22.publ .23.publ .24.publ .25.publ .26.publ .27.publ .28.publ .29.publ .30.publ .31.publ .32.publ
