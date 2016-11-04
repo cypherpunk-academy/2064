@@ -130,7 +130,7 @@ Viele Schüler nutzen unser neues, ziemlich abhörsicheres Kommunikationssystem.
 
 Sie lächelte.
 
-„Ich denke, dass das inzwischen sogar Whatsapp und Facebook merken.
+„Ich denke, dass das inzwischen sogar WhatsApp und Facebook merken.
 Insgesamt gibt es in Deutschland etwa 400.000 Schulklassen.
 Darauf legen wir gerade unsere Serverkapazitäten aus.
 In unserem Team sind einige Jungs und Mädels aus der Topliga im Hackerumfeld.
@@ -183,7 +183,7 @@ Vieles von diesem Kampf findet inzwischen im Internet statt.
 Damit das Internet für uns alle ein sicherer Ort bleibt, haben unsere Geheimdienste in den letzten Jahrzehnten ein Überwachungssystem aufgebaut, dass uns sehr früh meldet, wenn Terroranschläge vorbereitet werden, Aufstände entstehen oder Angriffe auf Amerika vorbereitet werden.
 
 Aber wir sind in diesen Bemühungen in den letzten Jahren an einigen Stellen über das Ziel hinausgeschossen.
-Die Geheimdienste haben gegen den Willen der Unternehmen Überwachungssoftware in Programme wie den Facebook Messenger, Whatsapp, Google Plus und so weiter eingebaut und damit die Kommunikation von Milliarden von Menschen unsicherer gemacht.
+Die Geheimdienste haben gegen den Willen der Unternehmen Überwachungssoftware in Programme wie den Facebook Messenger, WhatsApp, Google Plus und so weiter eingebaut und damit die Kommunikation von Milliarden von Menschen unsicherer gemacht.
 Viele Menschen haben das Vertrauen in unsere Unternehmen verloren und sich von ihnen abgewendet.
 Diese Maßnahmen gingen zu weit.
 Deshalb möchte ich heute ein neues Programm und ein Gütesiegel vorstellen, das das Vertrauen in unsere Weltklasse-Produkte wieder herstellen soll: Security Star.“
