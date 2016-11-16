@@ -55,7 +55,8 @@ nellen Fälle lediglich Verdachtsfälle waren. Da war weder Anklage
 erhoben noch ein Verfahren im Gang. Eine bloße Äußerung eines 
 Verdachts war genug Begründung für eine Anfrage. Das ist ein
 Missbrauch der Zugriffssysteme, die wir zur Verfügung gestellt
-haben. Wir haben diese Systeme jetzt endgültig gelöscht.
+haben. Wir haben diese Systeme jetzt endgültig abgeschaltet und
+gelöscht.
 
 
 Ab heute werden wir keiner Anweisung mehr Folge leisten, die 
