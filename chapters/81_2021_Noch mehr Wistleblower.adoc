@@ -50,9 +50,9 @@ Nach den jüngsten Ereignissen haben wir das jetzt getan. Was
 haben wir herausgefunden? Nur ein ganz kleiner Prozentsatz davon
 war tatsächlich dem Heimatschutz zuzuordnen. Das Gros war als
 Anfragen zu kriminellen Fällen gekennzeichnet. Das wussten wir
-bereits. Was wir nicht wussten war, dass die allermeisten krimi-
-nellen Fälle lediglich Verdachtsfälle waren. Da war weder Anklage
-erhoben noch ein Verfahren im Gang. Eine bloße Äußerung eines 
+bereits. Was wir nicht wussten, war, dass die allermeisten krimi-
+nellen Fälle lediglich Verdachtsfälle waren. Es wurde weder Anklage
+erhoben, noch war ein Verfahren im Gang. Die bloße Äußerung eines
 Verdachts war genug Begründung für eine Anfrage. Das ist ein
 Missbrauch der Zugriffssysteme, die wir zur Verfügung gestellt
 haben. Wir haben diese Systeme jetzt endgültig gelöscht.
