@@ -69,7 +69,7 @@ Wir haben eine Webseite freigeschaltet:
 
 www.nsl-and-gag-orders.com
 
-Dort kann jeder aktuell sehen, welche Anweisungen wir von Regierungs-
+Dort kann jeder sehen, welche Anweisungen wir aktuell von Regierungs-
 seite bekommen. NSL bedeutet National Security Letter. Darin sind
 die eigentlichen Anweisungen zu finden, zum Beispiel, eine Schwach-
 stelle einzubauen. GAG-Orders sind Anweisungen zur Geheimhaltung. Sie
