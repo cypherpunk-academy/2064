@@ -31,9 +31,9 @@ AMAZON - APPLE - FACEBOOK - GOOGLE - MICROSOFT - TWITTER - DROPBOX
 GEMEINSAME STELLUNGNAHME
 
 Als Technologie-Unternehmen haben wir uns bisher auf das kon-
-zentriert, was wir am besten können: Möglichst vielen Nutzern,
-das beste Technologie-Erlebnis anzubieten, das es gibt. gleichzeitig
-waren wir immer bemüht die rechtlichen Rahmenbedingungen zu
+zentriert, was wir am besten können: Möglichst vielen Nutzern
+das beste Technologie-Erlebnis anzubieten, das es gibt. Gleichzeitig
+waren wir immer bemüht, die rechtlichen Rahmenbedingungen zu
 beachten, die in den jeweiligen Ländern gelten. Diese sind sehr
 unterschiedlich. In China gelten andere Regeln als in Russland,
 in den U.S.A. andere als in Europa.
