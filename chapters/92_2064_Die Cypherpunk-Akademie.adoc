@@ -1,4 +1,4 @@
-== [big-number]#2064# Die Cypherpunk-Akademie 
+== [big-number]#2064# Die Cypherpunk-Akademie
 
 [text-caps]#Das Flugzeug war# auf einem regionalen Flughafen gelandet.
 Sigur und Tim stiegen aus.
@@ -301,9 +301,9 @@ Sie ließ etwa ein Dutzend eiförmige, brennende Gebilde Richtung Sigur fliegen.
 Er warf sich auf den Boden, drehte sich zur Seite und konnte gerade so vermeiden, getroffen zu werden.
 Die Sphinx landete etwa zwanzig Meter vor ihm auf dem Boden und wurde größer und größer und größer, bis sie etwa ein Drittel der Höhe der Kuppel einnahm.
 
-Sigur sagte leise: „Die Sphinx!“ 
+Sigur sagte leise: „Die Sphinx!“
 
-Sie beugte sich zu ihm herunter und fragte mit lauter, grollender Stimme: 
+Sie beugte sich zu ihm herunter und fragte mit lauter, grollender Stimme:
 
 „WER BIST DU, DASS DU ES WAGST, VOR MICH ZU TRETEN?“
 
@@ -380,7 +380,7 @@ Ein klägliches Krächzen kam aus dem Schnabel der Sphinx.
 Sie kauerte auf dem Boden und wandte sich vor Schmerzen.
 Dann richtete sie sich mit letzter Kraft wieder auf.
 
-Sphinx: „DU KANNST GEGEN MICH NICHT GEWINNEN.“ 
+Sphinx: „DU KANNST GEGEN MICH NICHT GEWINNEN.“
 
 Das war eine Trickfrage.
 Das Wort „gegen“ war das Entscheidende.
@@ -429,7 +429,7 @@ Tin schickte eine Libelle zur Lotusblume.
 ****
 ....
 Man muss sich anpassen, um im Leben etwas zu erreichen, um
-erfolgreich zu sein. Und alles, was man nicht macht, weil 
+erfolgreich zu sein. Und alles, was man nicht macht, weil
 man sich anpasst, das muss man ersetzen. Zum Beispiel dadurch,
 viel Geld zu haben, das schönste Haus, die aufregendsten Reisen,
 zu machen oder irgendetwas anderes Spannendes oder Schönes.
@@ -456,7 +456,7 @@ Siehst du den Moderhaufen dahinten?“
 
 Sigur nickte.
 
-Tin: „Mit weißem Schimmel darunter und giftigem, stinkenden Matsch, in dem nichts wachsen kann.“ 
+Tin: „Mit weißem Schimmel darunter und giftigem, stinkenden Matsch, in dem nichts wachsen kann.“
 
 Sigur blickte auf den Haufen.
 
