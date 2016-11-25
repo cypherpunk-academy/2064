@@ -179,7 +179,7 @@ Diese Computer gehören jemandem.
 Dieser jemand hat das Recht, zu entscheiden, was damit passiert, auch wenn es eine Firma oder eine Behörde ist. Das können wir nicht generell erlauben.“ Sie schüttelte den Kopf und lächelte.
 „Aber, wenn mein Plan aufgeht, wenn Mitarbeiter in Firmen und Behörden alle Schwachstellen melden, die in Programme eingebaut werden, dann muss ja auch niemand mehr hacken, um das herauszufinden.
 Das wäre meine Lösung.
-Ich überlege einen Staatspreis auszusprechen für Leute, die Schwachstellen melden.
+Ich überlege, einen Staatspreis auszusprechen für Leute, die Schwachstellen melden.
 Der wird hoch dotiert werden.
 Und wird auch für Nicht-Amerikaner gelten.“
 
