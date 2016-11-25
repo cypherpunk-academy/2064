@@ -14,7 +14,7 @@ Das Klassenzimmer in Berlin war brechend voll.
 Viele Hackerfreunde und Familienmitglieder waren gekommen.
 Manche standen an der Wand, manche knieten, alle schauten auf einen Riesenfernseher.
 
-Der NSA-Direktor saß auf der Rückbank einer Limousine und sah das Bild der Moderatorin vor sich auf einem Bildschirm, er schaltete ab.
+Der NSA-Direktor saß auf der Rückbank einer Limousine und sah das Bild der Moderatorin vor sich auf einem Bildschirm. Er schaltete ab.
 
 Die Moderatorin kam auf die Bühne und ging nach vorne zu den Zuschauern.
 Beifall.
