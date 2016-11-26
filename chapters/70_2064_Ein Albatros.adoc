@@ -64,7 +64,7 @@ Wenn jemand einen Freund von dir foltert, dann gehst du ja auch nicht hin und fo
 
 Sigur: „Arschloch.“
 
-Lasse: „Ok, sorry, ich ziehe das Beispiel zurück.“
+Lasse: „Okay, sorry, ich ziehe das Beispiel zurück.“
 
 Sigur: „SCHEISSE!“
 
@@ -94,7 +94,7 @@ Lasse: „Multimode?“
 Sigur: „mm --activate.
 mm --flymode albatross.“
 
-Lasse: „Ok, habe ich gemacht.
+Lasse: „Okay, habe ich gemacht.
 Was ist das?“
 
 Sigur: „Ich schicke dir meinen fliegenden Kampfroboter rüber.
