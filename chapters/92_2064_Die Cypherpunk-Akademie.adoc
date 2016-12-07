@@ -122,7 +122,7 @@ Sie schauten eine Weile zu Lasse.
 
 Mostafa: „Du bist der, der mit Lasse die erste LBI-Mission gemacht hat, oder?“
 
-Sigur: „Genau! Und dich kann man alles über die Cypherpunk-Akademie fragen kann, oder?“
+Sigur: „Genau! Und dich kann man alles über die Cypherpunk-Akademie fragen, oder?“
 
 Mostafa: „Nicht nur das. Ich bin auch der Lehrer für Lesen und Schreiben.
 Natürlich Lesen und Schreiben von Code, von Programmen.
