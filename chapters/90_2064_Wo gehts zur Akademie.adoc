@@ -90,7 +90,7 @@ Aber die Geschwindigkeit ist zu hoch.
 50 Prozent Wahrscheinlichkeit, dass der Beifahrer stirbt.“
 
 Stimme: „Dann stopp.
-Warten Sie bis sie langsamer werden.“
+Warten Sie, bis sie langsamer werden.“
 
 Soldat: „Roger.“
 
