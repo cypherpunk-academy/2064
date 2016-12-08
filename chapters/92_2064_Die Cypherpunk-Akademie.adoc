@@ -124,8 +124,8 @@ Mostafa: „Du bist der, der mit Lasse die erste LBI-Mission gemacht hat, oder?�
 
 Sigur: „Genau! Und dich kann man alles über die Cypherpunk-Akademie fragen kann, oder?“
 
-Mostafa: „Nicht nur das. Ich bin auch der Lehrer für Lesen und Schreiben.
-Natürlich Lesen und Schreiben von Code, von Programmen.
+Mostafa: „Nicht nur das. Ich bin auch der Lehrer für das Lesen und Schreiben.
+Natürlich das Lesen und Schreiben von Code, von Programmen.
 Cypherpunks schreiben Programme.
 Das ist quasi das Einmal-Eins hier.
 Dafür haben wir den Cypherpunk-Computerspielplatz.“
