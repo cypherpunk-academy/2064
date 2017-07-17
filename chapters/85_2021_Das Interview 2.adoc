@@ -1,7 +1,5 @@
 == [big-number]#2021# Das Interview (2)
 
-Die Moderatorin, die Präsidentin und Marianne am Gesprächstisch.
-
 [text-caps]#Die Moderatorin schaute# zu Marianne: „Ja!“
 
 Sie lächelte und nickte ihr zu.
@@ -62,12 +60,12 @@ Marianne zog einen Zettel heraus und las: „Erste Frage:“
 ....
 Was hat Ihrer Meinung nach in einer Demokratie eine größere
 Bedeutung: Das Recht der mündigen Bürger, die Dinge zu erfahren,
-die sie etwas angehen? Damit meine ich alles, was sie als mündige Bürger brauchen, um
-demokratische Entscheidungen zu treffen, zum Beispiel, was der
-Staat alles tut, um ihre Sicherheit zu gewährleisten. Oder auf
-der anderen Seite die Geheimhaltung von solchen Dingen aus
-taktischen Überlegungen, damit sie nicht von feindlichen Kräften
-ausgenutzt werden?
+die sie etwas angehen? Damit meine ich alles, was sie als mündige 
+Bürger brauchen, um demokratische Entscheidungen zu treffen, zum
+Beispiel, was der Staat alles tut, um ihre Sicherheit zu gewähr-
+leisten. Oder auf der anderen Seite die Geheimhaltung von solchen 
+Dingen aus taktischen Überlegungen, damit sie nicht von feindlichen
+Kräften ausgenutzt werden?
 
 ....
 ****
@@ -173,8 +171,7 @@ Marianne: „Ich habe keine Zusatzfrage.“
 
 Linda stand inzwischen kreidebleich vor dem Vorhang, sodass sie fast vom Publikum gesehen wurde.
 Sie nahm beide Hände vor ihr Gesicht.
-Die Präsidentin schaute zu ihr hinüber.
-Sie wirkte ratlos.
+Die Präsidentin schaute fast ein wenig ratlos zu ihr hinüber.
 Das Publikum wurde unruhig.
 
 Moderatorin: „Marianne, haben Sie wirklich keine Zusatzfrage?
@@ -204,7 +201,7 @@ Die Liste ist fast sicher eine Fälschung.“
 
 Marianne: „Nein, sie ist echt.
 Sie könnten das prüfen.
-Sie können ja einfach da anrufen und fragen … lassen.“
+Sie können ja einfach da anrufen und nachfragen.“
 
 Die Präsidentin atmete kräftig durch, schaute auf Linda: „Ich werde das prüfen lassen.
 Gleich morgen.“
@@ -229,7 +226,7 @@ Präsidentin laut: „Meine Assistentin prüft das.“
 Applaus im Publikum.
 
 Moderatorin: „Wow.
-Das war jetzt überraschend.
+Das ist mutig.
 Das ging sehr schnell.
 Es ist wirklich alles live hier.“
 
@@ -254,7 +251,7 @@ Sie wandte sich zu Marianne.
 Präsidentin: „Marianne.
 Es ist tatsächlich wahr.
 Sie haben Recht.
-Es ist zwar peinlich, dass die CIA ihre Geheimnisse nicht für sich behalten kann, aber in diesem Fall hat das etwas Gutes.
+Es ist zwar peinlich, dass die CIA ihre Geheimnisse nicht für sich behalten kann, aber in diesem Fall hat es etwas Gutes.
 Ihr Bruder sitzt in einem Gefängnis in Virginia und es wurde tatsächlich keine Anklage gegen ihn erhoben.
 Wir hatten den Fall sogar schon auf unserer Liste, und auch schon angeschaut.
 Es ist aus meiner Sicht eindeutig einer der Fälle, in denen die Geheimdienste ihre Kompetenzen überschritten haben.

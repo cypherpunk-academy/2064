@@ -6,6 +6,7 @@ if( process.argv.length < 3 ) {
 	console.log( "Usage: node sendmail.js --mailinfo [JSON mailfile]\n" + 
 					"\nOptions:\n" +
 					"--dryrun, -d:\tTest without sending mails.\n" +
+					"--remove, -r:\tRemove email addresses that already got all parts.\n" +
 					"--verbose, -v:\tMore console output.");
 
 	process.exit();

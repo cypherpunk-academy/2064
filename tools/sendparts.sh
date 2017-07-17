@@ -1,2 +1,2 @@
-node tools/sendmails.js -m mail/mail.json -v
+node tools/sendmails.js -m mail/mail.json -v -r
 
