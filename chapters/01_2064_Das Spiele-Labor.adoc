@@ -1,47 +1,174 @@
+
+/////
+In [] meine Kommentare. Sonst Textvorschläge.
+//// 
+
+
 == [big-number]#2064# Das Spiele-Labor
 [text-caps]#Lasse schlenderte froh# auf das Spiele-Labor zu, das in der Mitte des Schulgeländes stand, wo der Bach sich zweigte und auf beiden Seiten um das Labor herum floss.
+
+/////
+Lasse schlenderte froh auf das Labor zu, das in der Mitte des Schulgeländes stand.
+[Das mit dem Bach sollte später beschrieben werden, wenn es um den konkreten Zugang zum Labor geht. Der Leser muss noch nicht gleich wissen, dass es um ein Spiel geht. Labor ist alles: Chemie, Pharmazie, gefährliche Experimente, Tierversuche, ... Dein Leser muss neugierig werden]
+//// 
+
+
 Er sah sich um, betrachtete im Vorbeigehen die völlig unterschiedlich gebauten Häuser, aus Lehm, Holz und großen Steinen, mit fantasievoll geformten Fenstern und bunten Dächern.
+
+/////
+[Vermeide völlig]
+//// 
+
+/////
+Er sah sich um, betrachtete im Vorübergehen die so ganz verschiedenen Häuser, gebaut aus Lehm, Holz und großen Steinen [weitere Materialien?]. Kaum ein Fenster glich dem anderen, rund, eckig, oval, ... [Was soll ich mir unter bunten Dächern vorstellen? Vielfarbige Ziegel, begrünte Dächer? Rote Ziegeldächer, blau glasierte Ziegel?]
+[fantasievoll regt die Fantasie des Lesers recht wenig an]. Später greifst du diese Dorfidylle aber nicht mehr auf, oder? Oder in einem späteren Band?
+//// 
+
+
 Er mochte es, an ihnen immer wieder ein neues Detail zu entdecken.
+
+/////
+Er mochte es, an den Häusern wieder ein anderes Detail zu entdecken. Man konnte den Häusern ansehen, wer darin arbeitete, wenn man es verstand ihre Bauweise und die kleinen Details richtig zusammenzufügen. [Eine Gabe die für das Spiel wichtig ist, oder?] Er lächelte.
+//// 
+
 Und man konnte den Häusern wirklich ansehen, wer darin arbeitete.
 Er lächelte.
+
+
+/////
+Bevor er das Labor betrat, besuchte er Alfred. Am Gehege für die Esel wartete er schon und nickte ihm nickte ihm mit seiner langen Schnauze zu.
+//// 
 Am Eselgehege wartete Alfred schon und nickte ihm mit seiner langen Schnauze zu.
+
 Lasse zog eine dicke Karotte aus seiner Tasche und streckte sie ihm entgegen.
+
+/////
+aus seiner Tasche [In was für einer Tasche trägt Lasse eine  dicke(!) Karotte. Aus diesem Satz entsteht kein Bild im Kopf des Lesers]
+//// 
+
 Der schnappte sie vorsichtig aus seiner Hand und drehte sich damit um.
+
+/////
+Der Esel schnappte die Karotte vorsichtig aus seiner Hand [jetzt wird's unklar. Frisst ein Esel eine dicke Karotte in einem Stück? Beißt er ein paar mal ab? Oder verschwindet  er in eine geschützte Ecke, um dort zu fressen? Kurz: wie fressen Esel dicke Karotten?]
+//// 
+
 
 
 Zur Insel des Spiele-Labors gab es keine Brücke.
+
+/////
+Zur Insel des Labors gab es keine Brücke. Der Bach, der durch die Siedlung floß, teilte sich hier [warum eigentlich?] und umgab das Labor wie ein schmaler Burggraben. Wer das Labor betreten wollte, musste über den Bach springen. Lasse suchte sich dafür die Stelle aus, wo er es immer gerade so schaffte.
+//// 
 Um hereinzukommen, musste man über den Bach springen und Lasse suchte sich dafür eine Stelle aus, wo er es gerade so schaffte.
+
+
 Vor dem Haus drückte er seinen Türöffner in der Hosentasche und die Tür sprang mit einem leisen Klick auf.
-Es war neun Uhr, eine halbe Stunde vor Beginn des dritten Spieltags.
-Er liebte die TRON-Wochen, ein riesiges Computerspielturnier, bei dem Tausende von Spielern aus vielen Ländern in einer künstlich geschaffenen Computerwelt mit- und gegeneinander um die Weltherrschaft spielten.
+/////
+[Du führst ein technisches Mittel ein (Türöffner in der Hosentasche), das später nicht mehr vorkommt. Wichtiger scheint mir hier, jetzt dem Leser zu eröffnen, dass es sich um ein Spiele-Labor handelt, dass man z.B. nur betreten kann, wenn die Spieler/innen eine gewisse körperliche Reife haben. Wozu sonst der "Burggraben"?]
+//// 
+
+
+Es war neun Uhr, eine halbe Stunde vor Beginn des dritten Spieltages.
+Er liebte die TRON-Wochen, ein riesiges Computerspielturnier, bei dem Tausende von Spielern aus vielen Ländern in einer virtuellen Computerwelt mit- und gegeneinander um die Weltherrschaft spielten.
+
+/////
+[Lass uns ein anderes Wort für TRON finden. Zum einem kommt es später nicht wirklich vor, und ein neuer Name wäre für späteres Marketing/Merchandising auch rechtlich bedeutsam.]
+//// 
+
+
 Und nicht in einer frei erfundenen Welt, sondern in einem ziemlich originalgetreuen Nachbau des Internets der Jahre 2019 bis 2033, eine grandiose Simulation mit unendlich vielen realistischen Details aus dieser Zeit.
 
-Ein Ziel war es, Missionen zu erfüllen, die man bekam: Zum Beispiel Computer  zu erobern, sie unter Kontrolle zu bekommen und zu verteidigen, in Banken, in Firmen oder auch bei irgendjemandem zu Hause, der etwas Interessantes machte.
-Man konnte auch Satelliten, Schiffe oder Flugzeuge übernehmen, Agenten und Hacker enttarnen.
-Eine sehr beliebte aber auch schwierige Mission war es, bekannte Hacker wie Kevin Mitnick, Adrian Lamo oder Julian Assange zu jagen.
-Am meisten Punkte gab es, wenn man an geheime Dokumente kam, vor allem wenn sie von Geheimdiensten, Regierungen oder großen Unternehmen kamen.
-Die konnte man teuer verkaufen.
+/////
+["Und nicht... bis aus dieser Zeit." streichen. Das wird im Buch nach und nach klar werden. Der Leser hat auch noch keine Information, in welcher Zeit Lasse lebt.] 
+//// 
 
-Lasse hatte unbedingt [ac]#Julian Assange# spielen wollen, aber das wollten wohl zu viele andere auch und so war er ein weniger bekannter Hacker geworden, mit der Mission Satelliten, fliegende Kampfroboter und andere Waffen in einem Kriegsgebiet zu übernehmen.
-Man musste dafür einiges über Computersysteme wissen, aber auch die politische Lage von damals kennen und wie die Menschen dachten und fühlten.
-Damals herrschte Krieg im Internet und auch sonst in der Welt.
-Auch in Regierungen und in Unternehmen, und oft auch in Schulen und Familien.
+/////
+[Streichen: "Ein Ziel war es, Missionen zu erfüllen, die man bekam: Zum Beispiel" ]
+//// 
+
+
+Computer zu erobern, sie unter Kontrolle zu bekommen und zu verteidigen, in Banken, in Firmen oder auch bei irgendjemandem zu Hause, der etwas Interessantes machte.
+Man konnte auch Satelliten, Schiffe oder Flugzeuge übernehmen, Agenten und Hacker enttarnen.
+/////
+Computer waren zu erobern und unter Kontrolle zu bekommen. Computer in Banken, in Firmen oder auch Computer bei Leuten zu Hause, die irgendetwas Interessantes machten. Wer richtig gut war, konnte auch Satelliten, Schiffe oder Flugzeuge kapern oder Agenten und Hacker enttarnen. 
+//// 
+
+
+/////
+Textumstellung
+//// 
+
+Nicht nur die meisten Punkte bekam, wer geheime Dokumente vor allem von Geheimdiensten, Regierungen oder großen Unternehmen hackte, er konnte diese Informationen teuer an andere Spieler verkaufen. 
+
+
+/////
+[Eine sehr persönliche... ist zu abstrakt. Es wird sonst zu schnell trocken, wie eine Computerspiel-Anleitung (TL;DR) Mache es ein wenig persönlicher. Z.B. die Jugendlichen liebten es bekannte Hacker wie Kevin Mitnick, Adrian Lamo oder Julian Assange zu jagen. Es war nur wahnsinnig schwer diese Missionen zu schaffen oder so ähnlich.]
+//// 
+Eine sehr beliebte, aber auch schwierige Mission war es, bekannte Hacker wie Kevin Mitnick, Adrian Lamo oder Julian Assange zu jagen.
+
+
+/////
+[Das ist keine schlüssige Begründung: das wollten zu viele andere auch. Es ist ihm mangels Fähigkeiten doch eher bisher nicht gelungen, oder?]
+//// 
+Lasse hatte unbedingt selbst [ac]#Julian Assange# spielen wollen, aber das wollten zu viele andere auch, 
+
+
+/////
+Er hatte sich mit der Rolle eines weniger bekannten Hackers abfinden müssen. Immerhin hatte er es geschafft, Satelliten, ... weiter wie im Text.
+//// 
+und so war er ein weniger bekannter Hacker geworden, mit der Mission Satelliten, fliegende Kampfroboter und andere Waffen in einem Kriegsgebiet zu übernehmen.
+
+
+/////
+[Hier taucht das schon beschriebene Zeitproblem auf. In welchem Jahr spielt der Anfang der Geschichte?]
+Vorschlag:
+Man musste dafür einiges über alte Computersysteme wissen, auch über die politische Lage von vor 50 Jahren und wie die Menschen damals dachten, fühlten und handelten.
+//// 
+Man musste dafür einiges über Computersysteme wissen, auch die politische Lage von damals kennen und wie die Menschen dachten und fühlten.
+
+
+/////
+[Ich habe den folgenden Text ein wenig überarbeitet. Aber glücklich bin ich mit der Aneinanderreihung von politischen Konflikten und Konflikten in Schulen und Familien nicht.]
+//// 
+Damals herrschte Krieg im Internet und in vielen Teilen der Welt. Die Welt war voller schrecklicher Konflikte in Regierungen und in Unternehmen, selbst in den Schulen und vielen Familien. 
 Es war eine völlig andere Welt.
+
+
+/////
+[Wie soll sich der Leser das Labor vorstellen? Ein Haus mit mehreren Räumen? Gibt es Laborräume für verschiedene Teams? Gibt es nur einen Raum? Bin ich gleich im "Spielzimmer", wenn ich das Labor betrete? Wie hieße er dann? "Spielzimmer" ist zu kindlich.]
+//// 
 
 Lasse betrat das Spielzimmer, in dem Sigur schon gebannt vor seinem Rechner saß und ab und zu etwas tippte.
 
 Lasse: »Hej, moin!«
 
-Er haute ihm im Vorbeigehen mit der Hand auf die Schulter.
-Dann ließ er sich in seinen Stuhl fallen.
+Er schlug ihm im Vorbeigehen mit der Hand auf die Schulter und ließ sich in seinen Stuhl fallen.
+
+
+/////
+[Flügelmann assoziiert zwei Flügel, linker und rechter Flügel (Fußball), wer ist dann der andere. Findest du eine andere Bezeichnung? Wolltest du ein hierarchisches Verhältnis zwischen den beiden andeuten?]
+//// 
+
 
 Sigur war sein Flügelmann beim Spiel, sein Partner in der aktuellen Mission.
 Er war auch sein Freund, wenn auch nicht der beste.
-Er machte zu oft sein eigenes Ding, meinte Lasse, hatte zu genaue Vorstellungen, wie die Dinge zu sein hatten.
-Das hatte er ihm auch schon gesagt.
-Aber als Flügelmann war Sigur eine tolle Sache, weil er mit seinen 14 Jahren wirklich viel konnte.
-Er hatte im Spiel schon jede Menge Computer in Banken und Ölfirmen übernommen, einmal ein ganzes Passagierflugzeug, das aber dann abgestürzt war.
-Sogar in Militärcomputern war er schon unterwegs gewesen.
+
+»Er macht zu oft sein eigenes Ding«, dachte Lasse, »hat zu genaue Vorstellungen, wie die Dinge zu sein hätten.«
+Das hatte er ihm  schon oft gesagt.
+
+
+/////
+[Menschen sind keine Sache. War ein toller Kumpel oder suche was besseres]
+//// 
+Aber als Flügelmann war Sigur eine tolle Sache. 
+
+/////
+ schon viel konnte.
+TExtumstellung
+//// 
+
+Mit seinen 14 Jahren hatte er im Spiel schon jede Menge Computer in Banken und Ölfirmen übernommen. Selbst in  besonders schwer zu knackenden Militärcomputern war er schon eingedrungen. Einmal war es ihm gelungen, ein Passagierflugzeug zu übernehmen, das dann aber abgestürzt war.
+
 
 
 Lasse: »Was geht, Sig?«
@@ -49,13 +176,26 @@ Lasse: »Was geht, Sig?«
 Sigur reagierte nicht und tippte weiter.
 
 
-Lasse lugte zu ihn herüber: »Ah! Du bist an der Firewall.
+Lasse lugte zu ihm herüber: »Ah! Du bist an der Firewall.
 Was ist das Problem?«
+
 
 Nach einiger Zeit sagte Sigur ohne vom Bildschirm wegzuschauen: »Ich weiß nicht.
 Nur so ein Gefühl.
 Irgendetwas stimmt nicht.«
 
+
+/////
+[Vermeide sagte. Nur in Ausnahmefällen. Zu unlebendig, gerade auf den ersten Seiten.
+Murmelte, stotterte, 
+wie wird etwas gesagt, an eine Person gerichtet, vor sich hin,...
+erzeuge eine Stimmung, ]
+//// 
+
+/////
+[Hier taucht ein grundsätzliches Problem auf. Die Story wird zum Sachtext. Das ist langweilig. Der ganze Abschnitt über die Firewall gehört in einen Dialog, dass der Leser ahnt, was eine Firewall macht. Du machst das sehr gut im Dialog. Es ist auch für das erste Kapitel unschädlich, noch nicht zu wissen, was eine Firewall ist.
+Könnte auch ins Glossar, das wir angedacht hatten.]
+//// 
 Die Firewall war das Programm auf jedem Computer, das ungebetene Besucher aus dem Internet abhalten sollte.
 Eine Art von Filter- oder Wächterprogramm.
 Jeder Informationsaustausch mit dem Internet geht in beide Richtungen: raus und rein.
@@ -63,29 +203,79 @@ Und auf dem Weg rein kann alles Mögliche mit hineinkommen, was Hacker oder Prog
 So etwas soll die Firewall herausfinden und unschädlich machen.
 Und wenn sich etwas im Computer festgesetzt hat, auch dafür sorgen, dass es keine Daten wieder herausschicken kann.
 
+
+/////
+[Jetzt wird es wieder interessant]
+//// 
 Sigur drehte sich zu Lasse um: »Es waren ein paar seltsame Angriffe von einem Yllil-Computer, aber eigentlich nichts Besonders.
-Er hat versucht, irgendwo hineinzukommen, aber die Firewall hat alles geblockt.
+
+/////
+irgendwo? Nein, konkret wo. Eine Firewall die alles blockt ist nicht irgendwo, sondern wo?
+//// 
+Der hat versucht, irgendwo hineinzukommen, aber die Firewall hat alles geblockt.
 Fühlt sich trotzdem komisch an ...«
 
 Lasse: »Yllil? Das klingt Afrikanisch.
 – Bei uns stehen heute aber die Chinesen auf dem Plan!« Er grinste.
 »Ich habe super Logdateien von einem Angriff auf einen chinesischen Satelliten gefunden, der fast geklappt hätte.
 Da finden wir bestimmt was drin.
+
+
+/////
+Hier wieder zu trockener Sachtext.
+//// 
 Logdateien waren Computerdateien, in denen man alles nachlesen konnte, was auf einem Computer so passiert, warum etwas schief gegangen ist, wie etwas geklappt hat und so weiter.
+
+
+/////
+Textumstellung
+//// 
+Für Lasse und Sigur waren Logdateien so etwas wie Zeitungen, nur dass darin genau beschrieben stand, was irgendwo passiert war und nicht nur die Meinung eines anderen Menschen darüber.
+/////
+[Wieder Irgendwo: Wo genau? "und nicht nur die Meinung eines anderen Menschen" kann gestrichen werden. der Vergleich Log-Datei <-> Zeitung ist ok,  muss aber nicht noch vertieft werden]
+//// 
+
+
+
+/////
+Das geht sprachlich besser
+//// 
 Da stand die genaue Zeit, das Programm, was etwas gemacht hatte und was genau passiert war.
-Für Lasse und Sigur waren Logdateien so etwas wie Zeitungen, nur dass darin genau beschrieben stand, was irgendwo passiert ist und nicht nur die Meinung eines anderen Menschen darüber.
 
-Lasse: »Noch einen Kakao vorher? Heute holen wir das Ding runter!«
 
-Sigur: »Nicht runter! Übernehmen, Daten kopieren, beobachten, unerkannt bleiben, so lange wie möglich.
+
+/////
+[Ich habe verstanden, dass dir diese Theaterdialoge wichtig sind. Aber ich finde das eher störend. Ich möchte als Leser im ersten Kapitel in eine Geschichte hineingezogen werden. Die Theaterdialoge für die Zeit um 1913 sind gut, aber hier habe ich meine Zweifel. Lasse und Sigur sind für mein inneres Auge noch nicht lebendig genug, als dass ich mich auf einen Theater-/Drehbuch-Dialog einlassen könnte.
+
+Die Figuren bewegen sich noch nicht richtig. Sie haben noch keine äußere Gestalt. Ich hoffe, du verstehst mich. Auch die Gemeinschaft und zugleich die Spannung zwischen Lasse und Sigur bleibt so farblos
+
+Lasse erhob sich und ... (wo gibt’s im Labor heiße Getränke?): »Auch einen Kakao vorher? Heute holen wir das Ding runter!« ]
+//// 
+
+
+Lasse: »Auch einen Kakao vorher? Heute holen wir das Ding runter!«
+
+Sigur: »Nein, nicht runter! Übernehmen, Daten kopieren, beobachten, unerkannt bleiben, so lange wie möglich.
 Das ist unsere Mission.«
 
-Lasse: »Ja, ist gut … Ich weiß.
+Lasse: »Ja, ist ja gut – Ich weiß.
 Die Mission.
 Aber schade.
 Ich würde so gerne wissen, was TRON macht, wenn wir den Satelliten tatsächlich abstürzen lassen würden.
-Das würde mindestens eine politische Krise geben, Vertuschungsversuche, eine Presseschlacht, ein Meer von Lügen, dann Veschwörungstheorien.
-Und dann jede Menge neue Missionen, um uns zu schnappen.
+
+/////
+[Sprechen so 14-jährige Schüler?]
+//// 
+Das würde mindestens eine politische Krise geben, Vertuschungsversuche, eine Presseschlacht, ein Meer von Lügen, dann Verschwörungstheorien.
+Und dann jede Menge neue Missionen, um uns zu schnappen.«
+
+/////
+ he,he streichen. Beschreiben: grinste über beide Ohren, lächelte unschuldig als könnte er kein Wässerchen trüben,...
+//// 
 He he.«
 
+
+/////
+[zum Dialog] »Ruhig, Alter, ruhig! [wie reden sich Jugendliche an?]
+//// 
 Sigur schaute ihn streng an: »Ruhig, ruhig! Wir wollen das Spiel gewinnen, nicht in fünf Minuten rausfliegen.«
