@@ -15,6 +15,7 @@
 *.dvi 
 *.fls
 *.glo 
+*.synctex.gz
 *.idv 
 *.idx 
 *.ilg 

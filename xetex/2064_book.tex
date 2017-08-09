@@ -60,9 +60,13 @@
 
 
 % % Für die Überarbeitung
-% \usepackage[draft, authormarkup=none]{changes}
-\usepackage[final]{changes}
-\definechangesauthor[color=orange]{rmf}
+\usepackage[draft, authormarkup=none]{changes}
+% \usepackage[final]{changes}
+
+\makeatletter
+\@namedef{Changes@AuthorColor}{cyan}
+\colorlet{Changes@Color}{cyan}
+\makeatother
 
 \usepackage{paralist}	% Extended List Environments für \begin{compactitem} bei \uppertitleback siehe Datei titelei.tex
 
@@ -137,7 +141,7 @@
 		
 		\include{01_2064_Spiele-Labor}
 
-		% \include{02_2019_Marianne}
+		\include{02_2019_Marianne}
 	
 
 	\backmatter
