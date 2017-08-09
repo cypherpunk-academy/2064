@@ -1,0 +1,149 @@
+% \RequirePackage{snapshot}
+% % Version 0.1: 1. Auflage Januar 2018
+% %
+% %
+% %
+\AtBeginDocument{\newcommand{\version}{0.1 -- 1.\,Auflage, Januar~2018}}
+% % in titelei.tex in den ersten Zeilen % \date{\small{\version}} auskommentieren, wenn \version gesetzt wird sonst \date{}
+% %
+\documentclass[ 12pt,%
+ 	 	smallheadings,% Für etwas kleinere Überschriften
+		% draft,
+		ngerman   		% Neue Rechtschreibung, d.\,h. (Silbentrennung)
+		]{scrbook}  	% Eine Klasse für beidseitige Texte mit Kapiteln
+
+\usepackage{xltxtra} 	% This package automatically loads the following packages: fixltx2e, metalogo, xunicode, fontspec
+\usepackage{ragged2e}		% Ermöglicht Flattersatz mit Silbentrennung
+\usepackage{microtype}	%
+\usepackage[babelshorthands]{polyglossia}
+
+\usepackage[automark]{scrlayer-scrpage}
+
+% \usepackage{scrlayer-scrpage}
+% \pagestyle{scrheadings}
+% \automark[chapter]{chapter}
+% \automark*[section]{}
+
+% % Vorgaben der Online-Druckerei
+% % Buchrückenstärke 36 mm
+\usepackage{geometry}
+\geometry{%
+	driver={xetex}				%
+	,paperheight=216mm		%
+	,paperwidth=154mm			%
+	,bindingoffset=18mm		%
+	% ,tmargin=8mm				%
+	% ,textwidth=110mm			% 98mm
+	,textwidth=108mm			% 98mm
+	,textheight=156mm			% 152mm
+	% ,layoutoffset={3mm,3mm}
+	% ,rmargin=22mm					%
+	,heightrounded				%
+  % ,includeheadfoot			%
+	% ,headheight=5mm  			%
+	% ,headsep=8mm  				%
+	% ,foot=18mm  					%
+	% ,marginparsep=2mm			%
+	% ,marginparwidth=18mm  %
+	}
+
+
+\usepackage{setspace}
+
+% % Typografie Kommandos für das Projekt laden, Anführungszeichen, Euro-Symbol,
+\input{typospec}
+
+\usepackage{pdfpages}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{wrapfig}
+
+
+% % Für die Überarbeitung
+% \usepackage[draft, authormarkup=none]{changes}
+\usepackage[final]{changes}
+\definechangesauthor[color=orange]{rmf}
+
+\usepackage{paralist}	% Extended List Environments für \begin{compactitem} bei \uppertitleback siehe Datei titelei.tex
+
+% % Silbentrennung
+\usepackage{hyphenat}
+% % % Wortliste Silbentrennung laden
+\input{trennungen}
+
+
+\usepackage{tocstyle}
+\usetocstyle{noonewithdot}
+
+% \usepackage[firstpage]{draftwatermark}
+% \SetWatermarkAngle{45}
+% \SetWatermarkColor{blue}
+% \SetWatermarkFontSize{30pt}
+% \SetWatermarkScale{0.5}
+% \SetWatermarkLightness{0}
+% \SetWatermarkHorCenter{8cm}
+% \SetWatermarkVerCenter
+% \SetWatermarkText{\version}
+
+% \usepackage[textsize=tiny]{todonotes}
+% \usepackage[obeyDraft]{todonotes}
+
+
+% %
+% TODO PDF Optionen ergänzen/korrigieren
+\usepackage{hyperref}
+\hypersetup{
+		pdfa=true,
+    bookmarks=true,bookmarksopen=true,bookmarksopenlevel=1,
+	  unicode=true,
+	  pdfauthor={Michael Peter Schmidt},
+	  pdftitle={2064},
+		pdfsubject={1. Auflage 2018},
+	  breaklinks,hidelinks,
+    colorlinks=false,%
+    linkcolor=black,% Print-PDF
+    urlcolor=black,%
+    % linkcolor=blue,% Online-PDF
+    % urlcolor=blue,%
+    % citecolor=orange,
+    % filecolor=orange,
+}
+
+\usepackage{ellipsis}	% korrekte Abstände um \dots Schreibeweise im Quelltext dann \dots\ muss als letztes Paket geladen werden	%Quelle typo-kurz
+
+\KOMAoptions{ %
+		cleardoublepage=plain %
+}
+
+\input{titelei}
+
+% \includeonly{%
+
+% 					}
+
+\begin{document}
+	\frontmatter
+		\pagenumbering{Roman}
+		\renewcommand{\contentsname}{\textbf{Inhalt}}
+
+		\maketitle
+		
+		\setkomafont{disposition}{\sffamily\mdseries}
+		\tableofcontents
+		\setkomafont{disposition}{\sffamily\bfseries}
+
+	\mainmatter
+		\pagenumbering{arabic}
+		
+		\include{01_2064_Spiele-Labor}
+
+		% \include{02_2019_Marianne}
+	
+
+	\backmatter
+		\begin{appendix}
+			\include{lastpage}
+		\end{appendix}
+	% \listofchanges
+
+\end{document}
