@@ -7,11 +7,11 @@ Zur Sonnenseite hin war sie offen.
 Dort brannte in der Mitte ein Lagerfeuer.
 Lilly saß vor der Hütte auf dem Felsen und blickte in eine weitläufige Landschaft aus Äckern, Gärten, Häusern und einem See.
 
-Lilly: „Hej, Lasse, hej, Sigur, geht nur rein.
+Lilly hieß die beiden willkomen: „Hej, hej, geht nur rein.
 Sie wartet schon.“
 
 Lasse und Sigur gingen links und rechts am Lagerfeuer vorbei in die Hütte.
-Drinnen saß Marianne auf einem großen Kissen, vor sich ein kleines Tischchen mit Tee.
+Drinnen wartete Marianne auf einem großen Kissen, vor sich ein kleines Tischchen mit Tee.
 Sie begrüßte sie mit einem warmen Lächeln.
 
 Marianne: „Setzt euch.
@@ -21,7 +21,7 @@ Sie musterte die beiden, wie sie ihren Tee einschenkten.
 Lasse mochte es, hier in dieser Hütte zu sein.
 Sie hatte eine besondere Atmosphäre.
 Vielleicht waren es die großen Steine, oder das schöne, sehr asymmetrische Holzdach, vielleicht auch einfach das Lächeln von Marianne.
-Er konnte hier ruhig werden.
+Er konnte hier innerlich ruhig werden.
 Sigur war zum ersten Mal hier.
 Er fühlte sich nicht wirklich wohl, verstand nicht, wozu das alles da war und warum er hierher kommen sollte.
 Er hätte viel lieber einfach im Spielbericht gelesen, was passiert war und was das für Folgen hatte.
@@ -48,7 +48,7 @@ Die offene Stelle muss oben sein.“
 Marianne nickte: „Genau! Das ist das Zeichen der Sorat Rangers.
 Es sind immer fünf.“
 
-Lasse: „Die Sorat Rangers.
+Lasse: „Die Sorat Rangers!
 Fünf.
 Soll das heißen, dass das eben … das eben waren die Sorat Rangers? Fuck.
 Nein.“
@@ -69,18 +69,18 @@ Das sind die Besten der Besten.
 Da bräuchten wir zwanzig fliegende Kampfroboter, und dann noch gut programmierte Formationen, eine gute Taktik.
 Aber nicht ich und Lasse einfach so, aus dem Stand.
 Vergiss es.
-TRON ist realistisch.“
+OSIRIS ist realistisch.“
 
 Marianne: „Wenn die Sorat Rangers das wären, für was sie gehalten werden, dann hättest du Recht.
 Dann wäre das für euch wahrscheinlich böse geendet.
 Sie sind es aber nicht.
 Du bist da leider auf die CIA-Einschüchterungs-Propaganda hereingefallen.
 Die Sorat Rangers sind eine Gruppe, die für gestellte Attentate zuständig sind, nicht für echte.
-Sie müssen nicht die Besten der Besten sein, weil ihre Aufträge allesamt gestellt sind.
+Sie müssen nicht die Besten der Besten sein, um immer Erfolg zu haben, weil ihre Aufträge allesamt gestellt sind.
 Sie sind gute Piloten, aber nicht absolute Elite.
-Das ist in TRON so und das war auch in Wirklichkeit so.“
+Das ist in OSIRIS so und das war auch in Wirklichkeit so.“
 
-Lasse: „Sie waren echt? Es gab sie in echt?“
+Lasse: „In Wirklichkeit? Sie waren echt? Es gab sie in echt?“
 
 Marianne nickte: „Mhmh.
 Und als ihr sie heute erwischt habt, war die Formation gerade unterwegs zu einer Mission, die in Wirklichkeit im Jahr 2025 stattgefunden hat.
@@ -90,18 +90,18 @@ einem befreundeten Geheimdienst geflogen werden.
 Wahrscheinlich war es der Mossad.
 Wir wissen das nicht sicher.
 Auf jeden Fall geht das gründlich schief.
-In TRON und auch in Wirklichkeit.
+In OSIRIS und auch in Wirklichkeit.
 Weil der Fünfstern nicht kommt.
 Sie werden kurz vorher abgeschossen.
 Ein paar Minuten vorher.
-Wir wissen nicht, warum das in Wirklichkeit so war … in TRON wissen wir es.
-In TRON ward ihr das.
+Wir wissen nicht, warum das in Wirklichkeit so war … in OSIRIS wissen wir es.
+In OSIRIS ward ihr das.
 Was jetzt gerade im weiteren Verlauf passiert, ist, dass durch einige Missverständnisse in der Leitstelle und zwei falsche Kommandos die gesamte Versammlung dort in die Luft gebombt wird.
 Alles wird dem Erdboden gleich gemacht.
 Es gab 122 Tote.
 Darunter sieben Staatspräsidenten.“
 
-Lasse: „Der Mittelost-Krieg! Dann kam der Mittel-Ost-Krieg!“
+Lasse: „Der Mittelost-Krieg! Dann kam der Mittelost-Krieg!“
 
 Sigur: „Mit der Atombombe auf Salina.
 Scheiße.“
@@ -117,15 +117,14 @@ Dann, dann erst kommt der Krieg.
 Sonst kommt etwas anderes.
 Und ihr sollt …“
 
-Lasse: „…
-wir sollen das aufdecken.
+Lasse: „… wir sollen das aufdecken.
 Wir sollen herausfinden, wer das bei der CIA gemacht hat.“
 
 Sigur: „Was käme denn Anderes, wenn nicht der Mittelost-Krieg?“
 
 Marianne: „Nein, nicht bei der CIA.
 Es gibt einen bislang unbekannten Geheimdienst in den USA, der für das hier verantwortlich ist.
-Die CIA ist in diesem Fall nur Tarnung.
+Die CIA ist in diesem Fall auch nur Tarnung.
 Die Sorat-Rangers fliegen für den unbekannten Geheimdienst.
 Und den müsst ihr finden.
 Das ist die Aufgabe.
@@ -152,5 +151,6 @@ Ich muss gehen.
 Viel Glück euch, ihr Cypherpunks.“
 
 Sie stand auf und ging hinaus.
+Lasse folgte ihr nach kurzer Zeit.
 
 „Ich bin kein Cypherpunk“, murmelte Sigur und trottete hinter Lasse aus der Hütte.
