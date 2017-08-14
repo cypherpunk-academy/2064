@@ -27,7 +27,8 @@ Das ist nicht mehr Teil des Spiel.
 Das ist Teil der Verteidigung.
 Der echten Verteidigung.«
 
-Lilly nahm ihre Augen nicht von Marianne. »Ich weiß. Taurus, die Verschwörung, Saruman.«
+Lilly nahm ihre Augen nicht von Marianne.
+Lilly: »Ich weiß. Taurus, die Verschwörung, Saruman.«
 
 Marianne schaute sie erstaunt an: »Woher weißt du das?«
 
@@ -45,7 +46,7 @@ Marianne: »Du hast mein Archiv gehackt? Fuck.«
 
 Lilly schaute kurz zu Boden: »Habe ich was Böses gemacht?
 Das war nicht soooo gut geschützt.
-Wenn du wirklich gewollt hättest, dass das niemand bekommt, dann ...«
+Wenn du wirklich gewollt hättest, dass das niemand bekommt, dann...«
 
 Marianne: »... es war ein privates Archiv, keine Schwachstellendatenbank ...«
 
@@ -55,7 +56,7 @@ Marianne: »Für alle Erwachsenen!«
 
 Sie schauten sich in die Augen.
 
-Marianne: »Gut.
+Marianne schaute kurz zu Boden und nickte dann: »Gut.
 Ok.
 Du bist selbstständig hineingekommen, du hast keine persönlichen Informationen gesehen.
 Ist ok.
@@ -74,8 +75,8 @@ Im Ernst.
 Ich weiß, dass die Akademie ständig angegriffen wird.«
 
 Marianne strich sich mit der Hand über den Mund und schloss die Augen.
-Nach einer Weile öffnete sie sie wieder und schaute Lilly ernst an:
-»Gut, dann komm mit ins WCT.«
+Sie stand eine Weile mit geschlossenen Augen, öffnete sie wieder und schaute Lilly ernst an:
+»Gut, dann komm mit ins KCT.«
 
 Lilly riss die Arme in die Höhe: »Japp!«
 
@@ -93,3 +94,4 @@ Lilly atmete durch: »Wow!«
 
 Marianne deutete auf die Tür und Lilly schritt hindurch.
 Marianne folgte ihr.
+s
