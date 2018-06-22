@@ -1,13 +1,13 @@
-== [big-number]#2021# Linda
+== [big-number]#2023# Linda
 
-[text-caps]#Paul saß allein# mit finsterer Miene im Besprechungsraum.
+[text-caps]#Marwin saß allein# mit finsterer Miene im Besprechungsraum.
 Alle Papierschiffe und -flieger lagen zusammengeknüllt auf einem Haufen vor ihm.
 Die Tür öffnete sich.
 Die Frau, die schon einmal im Raum war, kam herein und setzte sich dahin, wo vorher Night-Owl gesessen hatte.
-Paul ignorierte sie so gut es ging.
+Marwin ignorierte sie so gut es ging.
 Sie schwieg auch und schaute ihn an.
 
-Nach einer Weile fragte Paul: „Habt ihr Night-Owl jetzt auch ein Bein abgesägt?“
+Nach einer Weile fragte Marwin: „Habt ihr Night-Owl jetzt auch ein Bein abgesägt?“
 
 Die Frau atmete durch.
 
@@ -16,16 +16,16 @@ Sie streckte ihm die Hand entgegen.
 
 Er schaute ungläubig auf ihre Hand, dann auf sie.
 
-Paul: „Wissen Sie, das ist hier jetzt schon eine seltsame Geste.
+Marwin: „Wissen Sie, das ist hier jetzt schon eine seltsame Geste.
 Und ich meine das gar nicht sarkastisch.
 Seit wann behandeln Sie jemanden wie mich als Menschen?“
 
-Sie zog ihre Hand zurück, weil Paul kein Anzeichen machte, sie zu nehmen.
+Sie zog ihre Hand zurück, weil Marwin kein Anzeichen machte, sie zu nehmen.
 
 Linda: „Ich behandele Menschen immer als Menschen.
 Für mich sind alle Menschen auf der gleichen Ebene.“
 
-Paul schluckte.
+Marwin schluckte.
 
 Linda: „Das steht so in der amerikanischen Verfassung.
 Und die bedeutet mir viel.
@@ -33,7 +33,7 @@ Deswegen mache ich hier meinen Job.
 Ich bin mit der Verfassung aufgewachsen.
 Mein Vater ist Senator.“
 
-Paul: „Als die amerikanische Verfassung geschrieben wurde, galt sie für alle Menschen – außer für Sklaven, Ureinwohner und ... Frauen.
+Marwin: „Als die amerikanische Verfassung geschrieben wurde, galt sie für alle Menschen – außer für Sklaven, Ureinwohner und ... Frauen.
 Frauen waren mit der Verfassung gar nicht gemeint.
 Die ist für weiße Männer geschrieben.
 Also vielleicht für mich, aber nicht für Sie.
@@ -49,7 +49,7 @@ Das weiß ich nicht.
 Mit Kindern um mich herum, und ohne diesen täglichen Kampf im Büro, ohne Konkurrenz, ohne ständigen Druck.
 Und ohne mit bornierten Offizieren streiten zu müssen ...“
 
-Paul: „Sie haben sich mit dem Oberst gestritten.
+Marwin: „Sie haben sich mit dem Oberst gestritten.
 Nicht wahr?“
 
 Linda: „Ja.
@@ -57,7 +57,7 @@ Habe ich.
 Wir sind uns nicht immer einig.
 Sogar eher selten.“
 
-Paul: „Bei euch in der Verwaltung gibt es überall Streit, ihr seid euch meistens nicht einig, ihr spioniert euch gegenseitig aus, verdächtigt euch, kämpft um Posten, macht andere schlecht, intrigiert ...“
+Marwin: „Bei euch in der Verwaltung gibt es überall Streit, ihr seid euch meistens nicht einig, ihr spioniert euch gegenseitig aus, verdächtigt euch, kämpft um Posten, macht andere schlecht, intrigiert ...“
 
 Linda: „Nicht alle machen das.
 Aber es gibt solche Menschen.
@@ -67,26 +67,26 @@ Irgendwie läuft es überall ähnlich.
 Die schlechte Nachricht ist: Wir haben nur eine Welt und die ist eben nicht perfekt.
 Wir können die Welt so nehmen wie sie ist, unser Bestes versuchen, oder wir können uns eine bessere Welt erträumen und gegen die einzige, die wir wirklich haben, rebellieren, sie verachten und zerstören wollen.“
 
-Paul: „Oder wir können die Welt so nehmen wie sie ist, sie nicht verachten, nicht zerstören wollen und uns gleichzeitig eine bessere erträumen.
+Marwin: „Oder wir können die Welt so nehmen wie sie ist, sie nicht verachten, nicht zerstören wollen und uns gleichzeitig eine bessere erträumen.
 Wir können alle die Dinge ändern, die wir ändern können und alle übrigen so stark träumen wie wir nur können.
 Mit all unserer Macht.
 Bis diese Dinge sich dann schließlich auch verändern.
 Oder wir können aufgeben und uns der derzeitigen Weltordnung beugen, weil man an der eh nichts ändern kann.
 Auf die Knie fallen, sich fügen, alles das machen, was sie uns machen lassen will, alles das sagen, was sie uns sagen lassen will und uns selbst das damit erklären, dass wir eben nur eine Welt haben.“
 
-Linda: „Paul, du hast vorhin gesagt, dass wir von eurer Welt keine Ahnung haben, dass wir nicht wissen, was es heißt, nach eigenen Ideen zu leben.
+Linda: „Marwin, du hast vorhin gesagt, dass wir von eurer Welt keine Ahnung haben, dass wir nicht wissen, was es heißt, nach eigenen Ideen zu leben.
 Wie hast du das gemeint?
 Was ist eure Welt?
 Was meinst du damit?“
 
-Paul, gespielt erstaunt: „Ohh!
+Marwin, gespielt erstaunt: „Ohh!
 Du hast uns zugehört?“
 
 Linda wurde leicht rot im Gesicht.
 
 Linda: „Das ist ein Verhörraum. War dir das nicht klar?“
 
-Paul stöhnte: „Es geht doch nicht darum, ob mir das klar ist, oder nicht.
+Marwin stöhnte: „Es geht doch nicht darum, ob mir das klar ist, oder nicht.
 Natürlich war mir das klar.
 Es ist ein guter Umgang zwischen Menschen, wenn man nicht mithört, wenn andere ein privates Gespräch führen.
 Das ist für dich bei dir zu Hause doch normal.
@@ -95,7 +95,7 @@ Das machst du nicht.“
 
 Linda: „Wir sind hier in einem Gefängnis.“
 
-Paul: „Das ist mir egal!
+Marwin: „Das ist mir egal!
 Ich bin trotzdem Mensch.
 Es ist mir egal, ob wir in einem Gefängnis sind oder in einer Sauna oder in einem Hackerspace nachts um 3 Uhr.
 Wenn jemand bei einem anderen mitlauscht, wenn der mit jemandem persönlich spricht, dann behandelt er ihn nicht als Menschen, dann verletzt er seine Privatsphäre.
@@ -113,12 +113,12 @@ Dann gibt es bald keine Gemeinschaft mehr.
 Ich kann versuchen, auf die Regeln einzuwirken, sie menschlicher zu machen.
 Aber solange sie gelten, halte ich mich daran.“
 
-Paul: „Du darfst dich nicht an sie halten, wenn sie gegen die Verfassung verstoßen.
+Marwin: „Du darfst dich nicht an sie halten, wenn sie gegen die Verfassung verstoßen.
 Das sagt die Verfassung.“
 
 Linda: „Was verstößt gegen die Verfassung?“
 
-Paul: „Mithören.
+Marwin: „Mithören.
 Das verstößt gegen die Redefreiheit.
 Wenn jemand mithört, dann schränkt das die Redefreiheit ein.
 Menschen sprechen anders, wenn sie wissen, dass jemand mithört.
@@ -129,21 +129,21 @@ Und außerdem bist du kein Amerikaner.
 Da ist die Lage nochmal anders.
 Die Verfassung gilt für amerikanische Staatsbürger.“
 
-Paul schwieg.
+Marwin schwieg.
 Linda schaute ihn prüfend an.
 
 Linda: „Du kannst nicht allen Ernstes erwarten, dass du in einem Gefängnis ...“
 
-Paul unterbrach sie: „Du hast vorhin gesagt, dass du alle Menschen immer als Menschen behandelst.“
+Marwin unterbrach sie: „Du hast vorhin gesagt, dass du alle Menschen immer als Menschen behandelst.“
 
 Linda: „Hey.
 Du meinst, ich behandle dich nicht als Menschen, wenn ich hier so mit dir spreche und dann etwas erwähne, was ich vorhin mitgehört habe?“
 
-Paul: „Genau.“
+Marwin: „Genau.“
 
 Linda: „Fuck!“
 
-Paul: „Du behandelst mich nicht als Menschen, wenn du einen Unterschied machst zwischen Amerikanern und Nicht-Amerikanern, in Bezug auf ihre Menschenrechte.
+Marwin: „Du behandelst mich nicht als Menschen, wenn du einen Unterschied machst zwischen Amerikanern und Nicht-Amerikanern, in Bezug auf ihre Menschenrechte.
 Ob früher die Sklaven, Ureinwohner und Frauen in der Verfassung nicht gemeint waren, oder ob heute alle Nichtamerikaner nicht gemeint sind, ist genau das gleiche.
 Du kannst mich nicht gleichzeitig als Ausländer und als Menschen behandeln.
 Das geht nicht.
@@ -159,21 +159,21 @@ Ich weiß, dass du das nicht bist.
 Meinst du nicht, du könntest das würdigen?
 Ich meine, ich strenge mich hier an ...“
 
-Paul: „Wir sind nicht auf der gleichen Ebene.
+Marwin: „Wir sind nicht auf der gleichen Ebene.
 Du hast das Recht, jederzeit hier rauszugehen.
 Ich nicht.“
 
 Er stand auf und ging mit normalen Schritten Richtung Tür.
 Der Soldat an der Tür kam ihm entgegen und stellte sich in den Weg.
-Paul versuchte an ihm vorbeizuschlüpfen, aber der packte ihn und schaute ihn drohend an.
-Paul schlenderte zurück zu seinem Sitz.
+Marwin versuchte an ihm vorbeizuschlüpfen, aber der packte ihn und schaute ihn drohend an.
+Marwin schlenderte zurück zu seinem Sitz.
 
-Paul: „Und jetzt du.
+Marwin: „Und jetzt du.
 Schau mal, ob er bei dir einen Unterschied macht.“
 
 Linda lief im Gesicht rot an.
 
-Paul: „Und denk dran, du hältst mich für unschuldig.
+Marwin: „Und denk dran, du hältst mich für unschuldig.
 Du meinst, ich habe nichts gemacht dafür, dass ich hier bin.
 Also, ich bin unschuldig und werde anders behandelt als du.
 Und du machst nichts dagegen, du hältst das für normal.
@@ -186,20 +186,20 @@ Aber du willst ja offensichtlich nicht raus.
 Und ich will endlich verstehen, warum nicht.
 Und ich will das verstehen, was du vorhin mit eurer Welt gemeint hast.“
 
-Paul: „Du willst einen Weg finden?
+Marwin: „Du willst einen Weg finden?
 Ich kenne den Weg raus.“ Er stand wieder auf und ging Richtung Tür.
 Linda fasste ihn am Arm und wies ihn zurück auf seinen Platz.
 
 Linda: „Es gibt Regeln und wenn wir auf die nicht schauen, dann kommst du hier nie raus.“ 
 
-Paul: „Kannst du das Mikrofon ausschalten?
+Marwin: „Kannst du das Mikrofon ausschalten?
 Oder ist das auch eine von den Regeln, die man nicht brechen darf?“
 
 Linda überlegte kurz, stand auf, verließ den Raum und kam eine Minute später wieder.
 
 Linda: „Es ist aus.“
 
-Paul atmete durch.
+Marwin atmete durch.
 „Das fühlt sich gut an.
 Und die drei hier noch?“ Er zeigte im Raum herum.
 
@@ -210,20 +210,20 @@ Sie sind draußen.
 Wir sind allein.
 Jetzt sag mir: Warum willst du hier nicht raus?“
 
-Paul: „Ich will hier nicht raus, weil ihr über mich Marianne finden wollt.
+Marwin: „Ich will hier nicht raus, weil ihr über mich Marlene finden wollt.
 Ich will hier nicht raus, weil ich nichts lieber will, als sie wiederzusehen, sie zu umarmen, ihr dann auf die Schulter zu klopfen, dass sie es geschafft hat, zu überleben.
 Der Scheiß-NSA und der CIA zu entkommen, und sie fragen, was sie in der Zwischenzeit auf die Beine gestellt hat, um sie zu ficken.
 Und dann würde ich mir die ganzen Geschichten anhören und mich darüber freuen wie ein Schneekönig.
 Dann würden wir zusammen auf irgendeinem Berliner Dach sitzen, eine Mate trinken und den Sonnenuntergang anschauen.
 Scheiße.
 Aber ich kann nicht zu ihr gehen, weil ihr mir dann folgt und ich sie damit in Gefahr bringe.
-Und das halte ich nicht aus, rauszugehen und Marianne nicht zu sehen.
+Und das halte ich nicht aus, rauszugehen und Marlene nicht zu sehen.
 Deswegen will ich nicht raus.
 Ansonsten würde ich schon ganz gerne hinfahren, wohin ich will, Leute treffen, mit ihnen spannende Sachen machen, die uns gerade in den Sinn kommen, vielleicht zusammen kochen, mal wieder ein Spiel programmieren oder irgendetwas anderes hacken.“
 
-Linda: „Wir wollen über dich nicht Marianne finden.
+Linda: „Wir wollen über dich nicht Marlene finden.
 Das kann ich dir garantieren.
 Wir wollen ...“ Sie stockte.
-„Marianne, sie ist … wir wollen ...“ Linda stockte wieder, packte ihre Papiere zusammen und verließ den Raum.
+„Marlene, sie ist … wir wollen ...“ Linda stockte wieder, packte ihre Papiere zusammen und verließ den Raum.
 
-Paul schaute ihr mit offenem Mund nach.
+Marwin schaute ihr mit offenem Mund nach.

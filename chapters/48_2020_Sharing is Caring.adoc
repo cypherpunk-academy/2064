@@ -1,6 +1,6 @@
-== [big-number]#2020# Sharing is Caring
+== [big-number]#2022# Sharing is Caring
 
-[text-caps]#Marianne und Fred# in einem Zimmer im Dachgeschoss von Hans' Holzhaus.
+[text-caps]#Marlene und Fred# in einem Zimmer im Dachgeschoss von Hans' Holzhaus.
 Auf dem Boden und dem Schreibtisch standen vier Laptops.
 Beide saßen und tippten.
 
@@ -8,7 +8,7 @@ Fred: „Gutes Internet hier.
 Wie verschleierst du, dass du Tor benutzt?
 Es könnte schon auffallen, wenn jemand in der Mitte von Nirgendwo plötzlich jede Menge Tor-Daten ins Internet schickt, und Australien ist ja nicht gerade ein privatsphären-freundliches Land.“
 
-Marianne: „Ganz normal: über Tor Plugable Transports.
+Marlene: „Ganz normal: über Tor Plugable Transports.
 Da kannst du dir aus einer ganzen Palette aussuchen, wie du ins Tornetz gehen möchtest.
 Und auch immer wieder wechseln.
 Ich bin gerade dabei, mir einen eigenen Eingang zu bauen.
@@ -29,7 +29,7 @@ Daten sind fertig.
 Ich bin soweit.
 Wer kommt zuerst dran?“
 
-Marianne: „Wie gesagt: Tor, Tails, Cubes, Subgraph, GPG und OTR.
+Marlene: „Wie gesagt: Tor, Tails, Cubes, Subgraph, GPG und OTR.
 Wir schicken die Schwachstellen von allen ihren Projekten an sie.
 Ich habe die Kernleute schon vorgewarnt: 
 Da kommt ein Erdbeben, und eine Sintflut.
@@ -38,21 +38,21 @@ Und sie wissen auch wie man das verhindert.“
 
 Fred: „Schicken wir alles?“
 
-Marianne nickte: „Ja klar, alles über ihre Projekte.
+Marlene nickte: „Ja klar, alles über ihre Projekte.
 Genau die Liste, die du gemacht hast.
 Das ist wichtig, dass in den Programmen keine Lücken mehr sind, bevor die Sache richtig groß wird.
 Wir müssen ja kommunizieren können.“
 
 Fred: „Wie viel Zeit geben wir ihnen?“
 
-Marianne: „Das sollen sie selbst sagen.
+Marlene: „Das sollen sie selbst sagen.
 Drei Tage, schätze ich.“
 
 Fred: „DREI TAGE?!
 Bist du verrückt?
 Wie können sie die Lücken in drei Tagen stopfen?“
 
-Marianne: „Bei den sechs Projekten sind es nicht so viele.
+Marlene: „Bei den sechs Projekten sind es nicht so viele.
 Sie wissen genau, wonach sie schauen müssen.
 Sie sind im Projekt bei Sicherheitslücken hochaktiv, reagieren sofort.
 Aber wir fragen sie.
@@ -62,7 +62,7 @@ Ich schreibe noch, dass wir unter Zeitdruck sind.“
 Fred: „Und danach?
 Ich habe hier jeweils ein Info-Paket für verschiedene Linux-Varianten, für BSD, eines für Mozilla, vor allem Firefox und Thunderbird, Pidgin, KeePassX und noch ein paar.“
 
-Marianne: „Ja, das klingt gut.
+Marlene: „Ja, das klingt gut.
 Ich habe inzwischen jede Menge aktuelle Ricochet-Adressen von allen möglichen Teams.
 Die schicken wir sobald die Schwachstellen in den Basisprogrammen weg sind und wir alle die neuen Versionen haben.
 Diese Teams brauchen mehr Zeit.
@@ -71,7 +71,7 @@ Und dann lass uns alle anderen Linuxe, Libre Office und die Hardware-Dinge angeh
 
 Fred: „Jede Menge Arbeit.“
 
-Marianne: „Ja.“
+Marlene: „Ja.“
 
 Sie tippe auf ihrem Laptop.
 „Okay, so ... die Nachrichten an die ersten sechs Teams sind raus.
@@ -98,7 +98,7 @@ Sie hat mir die Hausadresse der Frau gegeben und gesagt, dass sie meistens um 18
 Na ja, Anita muss das wissen.
 Sie ist bei der NSA …“
 
-Marianne: „Shit.
+Marlene: „Shit.
 Hat uns jetzt bei der Aktion die NSA-Überwachung geholfen?“
 
 Fred: „Egal ...
@@ -114,11 +114,11 @@ Ich gehe wieder in mein Auto und muss dort erst einmal durchatmen und mich wiede
 Und dann fahre ich direkt heim.
 Das war es.“
 
-Marianne lachte: „Geil.
+Marlene lachte: „Geil.
 Nett.
 Eine Toilettenfrau.“
 
-„Pling“, kam es aus Mariannes Laptop.
+„Pling“, kam es aus Marlenes Laptop.
 „Roger hat geantwortet: Drei Tage!
 Ich hab es dir gesagt.
 Die sind super die Jungs!
@@ -129,8 +129,8 @@ Na, die sind jetzt alle am Arbeiten.
 Da gehen jetzt drei Tage lang keine Lichter aus.
 Darauf kannst du einen lassen.“
 
-Marianne: „Und dabei freuen sie sich wie Schneekönige ... endlich mal echte Daten.“
+Marlene: „Und dabei freuen sie sich wie Schneekönige ... endlich mal echte Daten.“
 
 Fred: „Sie tanzen im Kreis ...“
 
-Marianne: „Weihnachten und Geburtstag an einem Tag.“
+Marlene: „Weihnachten und Geburtstag an einem Tag.“

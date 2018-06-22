@@ -1,10 +1,10 @@
-== [big-number]#2019# Überraschende Nachricht
+== [big-number]#2021# Überraschende Nachricht
 
 [text-caps]#Mariane saß allein# vor ihrem Laptop, neben sich einen Teller mit Hühnchen und Reis.
 Sie aß mit einer Hand und tippte mit der anderen in ihren Laptop.
 Sie war in einem Chat mit einer Gruppe von Hackern.
 
-Torrorist: „Das war eine Show! Habt ihr die Logs von Marianne gelesen? Geile Sache.“
+Torrorist: „Das war eine Show! Habt ihr die Logs von Marlene gelesen? Geile Sache.“
 
 Mohammed: „Ja, vor allem das QR-Ding, die Idee, Daten mit einem QR-Film rauszuschaffen, das ist super.
 7 Stunden 53 Minuten würden der TAO-Rechner brauchen, auf dem die Datei liegt, um das Terabyte als QR-Film auf dem Bildschirm anzuzeigen.
@@ -20,7 +20,7 @@ Julian: „Und das Ganze in ein Taschenbuch einbauen und ins Regal gegenüber vo
 Fertig.
 Wie starten wir das Programm?“
 
-Marianne: „Du musst PAUL in Großbuchstaben auf der Konsole eintippen.“
+Marlene: „Du musst PAUL in Großbuchstaben auf der Konsole eintippen.“
 
 Julian: „Geil.
 Klingt gut.“
@@ -30,9 +30,9 @@ Wer bringt es rein und drückt die Tasten?“
 
 Eine Weile lang antwortete niemand im Chatraum.
 
-Marianne: „Scheiße! Das ist nicht witzig.“
+Marlene: „Scheiße! Das ist nicht witzig.“
 
-Julian: „Hej, Marianne, das war super gut.
+Julian: „Hej, Marlene, das war super gut.
 Wir hatten Spaß.
 Du hast es probiert.
 Sie haben jetzt noch mehr Schiss vor uns, und jede Menge Arbeit.
@@ -49,10 +49,10 @@ Pffff.“
 
 Torrorist: „Wer weiß.
 Vielleicht waren da noch mehr.
-Aber Marianne ist wieder raus gekommen.
+Aber Marlene ist wieder raus gekommen.
 Und keinen von uns hat's erwischt, keinen einzigen.
 Das ist das Allerbeste.
-Aber du Marianne, du musst jetzt wirklich da weg, wo du bist.
+Aber du Marlene, du musst jetzt wirklich da weg, wo du bist.
 Die suchen wie verrückt nach dir.“
 
 Mohammed: „Allerdings.
@@ -65,7 +65,7 @@ Torrorist: „Wo die Abzweigung liegt?“
 
 Mohammed: „Yupp.“
 
-Julian: „Shit, Marianne, du musst da sofort weg.
+Julian: „Shit, Marlene, du musst da sofort weg.
 Das sind sicher Academi-Leute.
 Ich habe einen Tipp bekommen, dass zwei Gruppen nach Dahab und Hurghada geschickt worden sind.“
 
@@ -73,9 +73,9 @@ Mohammed: „Okay.
 Machen wir dicht hier.
 Bis bald, ich bin weg.“
 
-Totaot: „Marianne! Guck gleich mal in dein Pond.“
+Totaot: „Marlene! Guck gleich mal in dein Pond.“
 
-Marianne: „Bis bald! Ich bin so froh, dass es euch gibt.“
+Marlene: „Bis bald! Ich bin so froh, dass es euch gibt.“
 
 Sie klickte das Chat-Fenster weg und wechselte die Tails-Identität.
 Auf ihrem Bildschirm erschien:
@@ -104,12 +104,12 @@ Pond-Secret: DECD !E02 (0E6 !82C B9E9
 ....
 ****
 
-Marianne atmete ein.
+Marlene atmete ein.
 „Corinne“, dachte sie.
 Sie hatte vier Monate nichts von ihr gehört.
 Shit.
 Ein Honeypot? Speziell um sie anzulocken? Niemand kannte Corinne in ihrem Umkreis.
-Nicht einmal Paul.
+Nicht einmal Marwin.
 
 Sie schloss die Augen.
 In 20 Minuten würde Achmed hierher kommen und sie würde für immer von hier verschwinden.
@@ -140,7 +140,7 @@ Key exchange with boatly_unknown_contact complete.
 ....
 ****
 
-„Wow!“, dachte Marianne.
+„Wow!“, dachte Marlene.
 „Das ging schnell.
 Fast ein bisschen zu schnell.“
 
@@ -150,7 +150,7 @@ Message received from boatly_unknown_contact.
 ....
 ****
 
-Marianne stutzte: „Und gleich eine Nachricht.
+Marlene stutzte: „Und gleich eine Nachricht.
 Da will wirklich jemand mit mir reden.“
 
 Normalerweise brauchten Nachrichten über Pond einige Minuten.
@@ -160,10 +160,10 @@ Sie tippte: „show“.
 
 ****
 ....
-Hallo Marianne,
+Hallo Marlene,
 
 du kennst mich nicht, aber ich weiß einiges über
-dich. Dein Bruder Paul sitzt in einem CIA-Gefängnis
+dich. Dein Bruder Marwin sitzt in einem CIA-Gefängnis
 irgendwo in den USA. Es geht ihm wohl den Umständen
 entsprechend gut. Über dich gibt es Vermutungen, dass
 du in Dahab oder in Hurghada bist und du bist vor drei
@@ -171,7 +171,7 @@ Stunden in die zentrale Datenbank der TAO eingebrochen.
 ....
 ****
 
-Marianne stockte der Atem: „Wow.“ Sie las weiter.
+Marlene stockte der Atem: „Wow.“ Sie las weiter.
 
 ****
 ....
@@ -211,7 +211,7 @@ Lieben Gruß, Anita
 ....
 ****
 
-„reply“, tippte Marianne:
+„reply“, tippte Marlene:
 
 ****
 ....
@@ -233,7 +233,7 @@ hier Hacker-Profile, die erfassen das.
 ....
 ****
 
-Marianne drückte sich mit der Hand auf ihre Brust.
+Marlene drückte sich mit der Hand auf ihre Brust.
 „Oh Gott“, dachte sie, „das kann echt sein.“ Sie sprang auf.
 Ging ein paar Mal um den Tisch herum, setzte sich wieder.
 In solchen Situationen vertraute sie nur ihrem Gefühl.
@@ -249,7 +249,7 @@ zu Serverraum der 07-Maschine?
 
 „send“.
 
-Marianne schaute gebannt auf den Monitor.
+Marlene schaute gebannt auf den Monitor.
 Es tat sich nichts.
 Wenn Anita fragen würde, warum, dann würde sie nicht mehr antworten.
 Sie muss direkt verstehen, dass sie es ernst meinte.
@@ -267,7 +267,7 @@ Message received from boatly_unknown_contact.
 ****
 
 erschien auf dem Bildschirm.
-„show“ tippte Marianne.
+„show“ tippte Marlene.
 
 ****
 ....
@@ -275,7 +275,7 @@ Ja.
 ....
 ****
 
-Marianne schloss die Augen.
+Marlene schloss die Augen.
 Es war ein Risiko.
 Aber alles war jetzt riskant.
 Sie schrieb:
@@ -299,11 +299,11 @@ dauern. Schreib ihm, wenn du den Stick fertig hast.
 Sie schickte die gleiche Nachricht auch an Totaot.
 
 „Klonck“, tönte die Tür dumpf unter dem Wasser.
-Sekunden später erschien Achmed, riss die Taucherbrille ab und rief: „Schnell, Marianne.
+Sekunden später erschien Achmed, riss die Taucherbrille ab und rief: „Schnell, Marlene.
 Sie kommen.
 Boote und ein Hubschrauber.“
 
-Marianne schaute umher.
+Marlene schaute umher.
 Sie packte ihre Laptops in die Gummitasche und begann, sich den Taucheranzug anziehen.
 „Hubschrauber“, dachte sie.
 „Shit.“
@@ -314,9 +314,9 @@ Sie zog sich die Sauerstoffflasche über, setzte die Maske auf und band sich den
 Achmed verschwand im Wasser.
 Sie sprang ihm nach.
 Außerhalb des Bootes schwamm er in eine andere Richtung als sonst.
-Marianne folgte.
+Marlene folgte.
 Es ging tiefer, dem Graben entlang.
-Und nach etwa 50 Metern erkannte Marianne auf dem Meeresboden ein kleines U-Boot, das normalerweise wohl Touristen zu Tauchgängen brachte.
-Achmed griff nach einem Haken und machte ihn vorne am Brustgürtel von Marianne fest.
+Und nach etwa 50 Metern erkannte Marlene auf dem Meeresboden ein kleines U-Boot, das normalerweise wohl Touristen zu Tauchgängen brachte.
+Achmed griff nach einem Haken und machte ihn vorne am Brustgürtel von Marlene fest.
 Dann einen für sich.
 Er gab dem Fahrer im U-Boot ein Zeichen und es ging los.

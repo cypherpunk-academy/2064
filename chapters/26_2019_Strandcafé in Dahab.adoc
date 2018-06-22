@@ -1,6 +1,6 @@
-== [big-number]#2019# Strandcafé in Dahab
+== [big-number]#2021# Strandcafé in Dahab
 
-[text-caps]#Marianne saß auf# einigen Sitzkissen in einem Strandcafé in Dahab, einem kleinen Touristennest am Roten Meer.
+[text-caps]#Marlene saß auf# einigen Sitzkissen in einem Strandcafé in Dahab, einem kleinen Touristennest am Roten Meer.
 Sie lehnte sich zurück und dachte an die Reise von Berlin bis zu diesem Ort.
 Drei Monate hatte es gedauert.
 Sie hatte den größten Teil der Strecke per Anhalter zurückgelegt.
@@ -14,7 +14,7 @@ Sie war allein im Café.
 Nur Achmed, der Barkeeper, war hinter dem Tresen gerade dabei, einen Milchshake zurecht zu machen.
 Achmed war Mitte zwanzig, mit wuscheligem schwarzen Haar und immer einem unscheinbaren Lächeln auf den Lippen.
 
-Mit einigen eleganten Schritten kam er mit dem Milchshake auf Marianne zu und stellte es vor sie auf das Tischchen.
+Mit einigen eleganten Schritten kam er mit dem Milchshake auf Marlene zu und stellte es vor sie auf das Tischchen.
 Sie war inzwischen wieder versunken in ihren Laptop und schien ihn nicht zu bemerken.
 Er schaute sie eine Weile an und setzte sich dann neben sie, woraufhin sie sich überrascht zu ihm drehte.
 Er lächelte warm.
@@ -22,11 +22,11 @@ Er lächelte warm.
 Achmed: „Achmed!“ Er streckte ihr die Hand entgegen.
 Sie nahm sie ein wenig zögernd.
 
-Marianne: „Waltraut.“
+Marlene: „Waltraut.“
 
 Achmed: „Woldraud?“
 
-Marianne: „Wal-t-rau-t.“
+Marlene: „Wal-t-rau-t.“
 
 Er nickte ihr freundlich zu.
 
@@ -38,11 +38,11 @@ Er wurde ein wenig unsicher.
 Barkeeper: „Du bist heute zwei Wochen hier.
 Das muss man feiern! Und ich feiere, dass ich nach zwei Wochen endlich deinen Namen weiß.“
 
-Marianne lächelte: „Danke!“
+Marlene lächelte: „Danke!“
 
 Achmed: „Du bist aus Deutschland?“
 
-Marianne schaute ihn überrascht an, zuckte mit den Schultern.
+Marlene schaute ihn überrascht an, zuckte mit den Schultern.
 Dann lächelte sie ihn an und drehte sich wieder zu ihrem Laptop.
 
 Er saß eine Weile stumm neben ihr und meinte dann: „Hej, du hast die ganze Zeit hier niemanden getroffen und kaum etwas gesprochen, außer, wenn du etwas zu trinken und zu essen willst, oder um zu sagen, dass dich niemand stören soll.“
@@ -61,21 +61,21 @@ Ein Freund von mir macht das auch so.
 Er ist Hacker.
 Du weißt sicher, was Hacker sind? Er ist ein richtiger Hacker!“
 
-Marianne: „Mohammed.“
+Marlene: „Mohammed.“
 
 Achmed nickte überrascht.
 
-Marianne: „Wegen ihm bin ich hier.
+Marlene: „Wegen ihm bin ich hier.
 Er hat mir gesagt, dass du okay bist.
 Der beste Platz für mich hier in Dahab.“
 
 Achmed schaute sie verblüfft an: „Er, er hat mir nichts gesagt.“
 
-Marianne: „Ich wollte das nicht.“
+Marlene: „Ich wollte das nicht.“
 
 Achmed: „Dann bist du auch ein Hacker?“
 
-Marianne: „Eine Hackerin.“
+Marlene: „Eine Hackerin.“
 
 Achmed schaute sie mit leicht geöffnetem Mund an.
 Pling! Klang es von der Bar.
@@ -84,7 +84,7 @@ Achmed: „Oh, ein Gast.
 Ich komme gleich wieder.
 Bleib hier!“
 
-Marianne drehte sich wieder zu ihrem Laptop.
+Marlene drehte sich wieder zu ihrem Laptop.
 Es war gerade so spannend.
 Sie war in den letzten Tagen einige große Schritte weitergekommen.
 Sie konnte eine Karte von einem Computernetz innerhalb der TAO, der Elite-Hackergruppe in der NSA, zeichnen.
@@ -102,7 +102,7 @@ Das wusste sie jetzt.
 Und sie wusste auch, dass sie dort inzwischen bekannt war.
 Sie hatte einen guten Ruf, man traute ihr.
 Und seit das so war, musste sie nur Fragen stellen, und ein paar Stunden oder Tage später hatte sie eine Antwort oder gleich ein Programm.
-Das einzige, was sie noch nicht herausbekommen hatte, aber unbedingt wissen wollte, war, wie es ihrem Bruder Paul ging.
+Das einzige, was sie noch nicht herausbekommen hatte, aber unbedingt wissen wollte, war, wie es ihrem Bruder Marwin ging.
 Sie wusste inzwischen nur, dass er am Leben war, irgendwo in den USA.
 Aber dass sie da noch nicht mehr herausgefunden hatte, spornte sie jetzt eher an, als dass es sie niederdrückte.
 Sie spürte die Kraft dieser dunklen Gemeinschaft, Menschen, die anonym lebten, die ihr Leben riskierten, für … ja, für was? Für eine bessere, menschlichere Art miteinander umzugehen, besser zusammenzuarbeiten, für weniger Ungerechtigkeit, mehr Offenheit.
@@ -134,12 +134,12 @@ Ein heilloses Chaos – aus der Sicht von Geheimdiensten.
 „Erzähl.
 Was machst du so? Hilfst du Mohammed?“
 
-Marianne: „Manchmal“.
+Marlene: „Manchmal“.
 Sie lächelte ihn an und dachte, dass sie doch gerne mit Achmed redete.
 Ihr Bruder hatte ihr gesagt, dass das, was „die“ wollen, damit meinte er meistens die Geheimdienste, ist, dass wir weniger miteinander kommunizieren, vorsichtiger oder sogar überhaupt nicht mehr.
 Was wir hingegen wollen, meinte er, ist, dass wir frei kommunizieren können, so viel wir wollen.
 
-Marianne: „Ich programmiere ein bisschen, halte meinen Computer von Eindringlingen frei und gerade versuche ich herauszufinden, welche Computer in einem bestimmten Computernetz sind und was die so machen.
+Marlene: „Ich programmiere ein bisschen, halte meinen Computer von Eindringlingen frei und gerade versuche ich herauszufinden, welche Computer in einem bestimmten Computernetz sind und was die so machen.
 Und vielleicht, wie ich da hineinkomme.“
 
 Achmed: „Klingt spannend.

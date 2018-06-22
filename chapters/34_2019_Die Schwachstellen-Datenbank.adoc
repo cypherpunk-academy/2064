@@ -1,49 +1,49 @@
-== [big-number]#2019# Die Schwachstellen-Datenbank
+== [big-number]#2021# Die Schwachstellen-Datenbank
 
-[text-caps]#Marianne saß konzentriert# über ihren Laptop gebeugt.
+[text-caps]#Marlene saß konzentriert# über ihren Laptop gebeugt.
 Ein weiterer stand aufgeklappt daneben.
 Auf der anderen Seite eine Schale mit Äpfeln und Orangen, ein Teller mit Nüssen, eine offene Mate-Flasche.
 
 „Pling“, kam es aus ihrem Computer.
 Das Chat-Programm öffnete sich.
 
-Marianne rief erfreut: „Mohammed!“
+Marlene rief erfreut: „Mohammed!“
 
-Mohammed: „Hi Marianne! Wie ist die Lage im Boatly? Irgendwelche Feinde in der Nähe?“
+Mohammed: „Hi Marlene! Wie ist die Lage im Boatly? Irgendwelche Feinde in der Nähe?“
 
-Marianne: „Jede Menge.
+Marlene: „Jede Menge.
 Aber nur im Internet, noch nicht im Boot.
 :)“
 
 Mohammed: „Es wird ernst.
 Die Jungs und Mädels sammeln sich.“
 
-Marianne: „Ich bin aufgeregt.
+Marlene: „Ich bin aufgeregt.
 Wie viele?“
 
 Mohammend: „34 haben zugesagt.“
 
-Marianne: „34!!! Wow.
+Marlene: „34!!! Wow.
 Wahnsinn!
 Shit.
 Ich werde das nicht vermasseln.
 Nicht diesmal.
-Für Paul!“
+Für Marwin!“
 
-Mohammed: „Für Paul! … Nein, für uns alle.
+Mohammed: „Für Marwin! … Nein, für uns alle.
 Wir brauchen das Ding, Mari.
 Seit du mit der Idee gekommen bist, ist es bei mir stärker und stärker geworden, dass wir ohne das gar nicht weiter kommen.
 Ich will es haben.
 Und die andern auch alle.
 Deswegen kommen 34! Julian und Kim sind auch dabei.“
 
-Marianne: „Julian und Kim! Wow.
+Marlene: „Julian und Kim! Wow.
 Ein Dreamteam.
 Aber ich dachte schon, dass die sich das nicht entgehen lassen.“
 
 Mohammed: „Bist du fertig?“
 
-Marianne: „Bereit.“
+Marlene: „Bereit.“
 
 Mohammed: „Gut.
 Das Ganze wird etwa in 15 Minuten starten.
@@ -57,12 +57,12 @@ Genau 5 Minuten nach dem Start gehst du rein und dann nach genau 10 Minuten wied
 Wir machen dann noch ein paar Minuten weiter.
 Nur zur Sicherheit.“
 
-Marianne: „Dann gehe ich wieder raus.“ Sie platzierte einen Digitalwecker direkt neben ihrem Laptop.
+Marlene: „Dann gehe ich wieder raus.“ Sie platzierte einen Digitalwecker direkt neben ihrem Laptop.
 
 Mohammed: „Okay.
 Dann sage ich mal: GO! 15 Minuten, ab jetzt.“
 
-Mariannes Herz raste.
+Marlenes Herz raste.
 Sie atmete kräftig ein und aus.
 Legte ihre Hände auf die Tasten.
 Ließ die einzelnen Schritte noch einmal durch ihre Gedanken laufen.
@@ -83,29 +83,29 @@ Achmed“, dachte sie.
 
 Achmed stieg aus dem Wasser, und zog seine Maske ab.
 
-Achmed laut: „Hi Marianne! Lange nicht gesehen …“ Er grinste über beide Ohren.
+Achmed laut: „Hi Marlene! Lange nicht gesehen …“ Er grinste über beide Ohren.
 „Guck mal, was ich hier habe.“ Er präsentierte einen großen Warmhaltetopf.
 „Hühnchen flambe, mit einer speziellen Kokossauce.“
 
-Marianne reagierte nicht.
+Marlene reagierte nicht.
 Achmed setzte den Topf vorsichtig auf den Boden, ging zu ihr und schaute über ihren Rücken.
 
 Achmed: „Oh, ein Hack! Dann will ich nicht stören.“ Er nahm gegenüber am Tisch Platz, zog ein verknittertes Taschenbuch hervor und legte es vor sich.
-Er schaute Marianne an, ein wenig verträumt, und schüttelte dann ungläubig, bewundernd den Kopf: „So eine Frau“, dachte er, „so ein Glück, dass ich sie getroffen habe.“
+Er schaute Marlene an, ein wenig verträumt, und schüttelte dann ungläubig, bewundernd den Kopf: „So eine Frau“, dachte er, „so ein Glück, dass ich sie getroffen habe.“
 
-Mariannes Blick wurde konzentrierter.
+Marlenes Blick wurde konzentrierter.
 Plötzlich fingen ihre Hände an, sich zu bewegen.
 Schnell, unfassbar schnell.
 Achmed staunte immer wieder darüber.
 Und diesmal hörte es nicht auf.
 Was machte sie? Er wagte nicht aufzustehen.
-Marianne wechselte zum anderen Laptop.
+Marlene wechselte zum anderen Laptop.
 Dann wieder zurück.
 Kurze Pause.
 Wieder ein Tastengewitter.
 Es hörte sich wirklich ein wenig wie Hagel an.
 
-Marianne wischte sich eine Schweißperle von der Stirn.
+Marlene wischte sich eine Schweißperle von der Stirn.
 Sie war drin! Im Herz der TAO, da wo die Schwachstellen-Datenbank war.
 Die komplette Datenbank.
 Sie lag vor ihr und niemand war da außer ihr.
@@ -123,7 +123,7 @@ Sie tippte:
 
 ****
 ....
-cp 2019_09_12_1403_ebup.gz /tmp1
+cp 2021_09_12_1403_ebup.gz /tmp1
 ....
 ****
 
@@ -132,7 +132,7 @@ Aber sie lag immer noch auf dem gleichen Computer im Hochsicherheitsbereich.
 Es dauerte endlose Sekunden.
 Ein Terabyte an Daten, Beschreibungen, Programme, Anwendungsbeispiele, Computer-Landkarten, Passwortdateien, eine riesige Schlüsseldatei.
 Alles huschte in diesen Sekunden durch das Innere der Computer im Herzen der TAO, irgendwo in Amerika.
-Und Marianne saß in ihrem Unterwasserversteck im Roten Meer.
+Und Marlene saß in ihrem Unterwasserversteck im Roten Meer.
 
 „Fertig!“, rief sie laut.
 Achmed schaute sie erstaunt an.
@@ -145,13 +145,13 @@ Mohammed: „Mari! Achtung! Eine Traffic-Sperre ist noch aktiv, und sie macht gl
 
 Traffic-Sperren waren dafür gedacht, Datenleitungen zu deaktivieren, wenn mehr Daten als üblich flossen.
 Und das war jetzt der Fall.
-Marianne hatte gedacht, alle deaktiviert zu haben, aber anscheinend war eine übrig geblieben.
+Marlene hatte gedacht, alle deaktiviert zu haben, aber anscheinend war eine übrig geblieben.
 
-Marianne: „Wie viel?“
+Marlene: „Wie viel?“
 
 Mohammed: „5 vielleicht 6 Megabyte.“
 
-Marianne: „Shiiiit.
+Marlene: „Shiiiit.
 Ich brauche ein Terabayte, eine Million Megabytes.
 Ich habe die Datei hier.
 Gib mir Platz.
@@ -160,15 +160,15 @@ Kannst du die Sperre nicht abschalten?“
 Mohammed: „Keine Chance.
 Ich habe alles probiert.“
 
-Marianne: „Mach! Mohammed.
+Marlene: „Mach! Mohammed.
 Zauber! Los! …“ 
 
 Mohammed: „Ich kann nicht.
 Ich komme nicht ran.“
 
-„Doch du kannst!!“ Marianne huschte Verzweiflung über das Gesicht: „Paul! Wo ist Paul.
+„Doch du kannst!!“ Marlene huschte Verzweiflung über das Gesicht: „Marwin! Wo ist Marwin.
 Ich brauche Hilfe.
-Paul!!!“
+Marwin!!!“
 
 Eine Träne drückte aus ihrem Auge.
 
@@ -185,7 +185,7 @@ Ich habe keine Idee mehr.
 Noch 3 Minuten.
 Scheiße.“
 
-Marianne liefen die Tränen über die Augen.
+Marlene liefen die Tränen über die Augen.
 Sie wischte sie weg.
 Schloss die Augen.
 Dachte nach.
@@ -200,13 +200,13 @@ Achmed rutschte neben sie und legte seinen Arm um ihre Schulter.
 
 Achmed: „Hej! Hast du es bekommen?“
 
-„Nein!“ schluchzte Marianne.
+„Nein!“ schluchzte Marlene.
 „Nein, ich habe sie nicht.
 Scheiße.“
 
 Sie schlug sich mit voller Kraft auf ihre Beine.
 
-Marianne: „Fast.
+Marlene: „Fast.
 Ich hatte sie in der Hand.
 Fast hätten wir sie gehabt.“
 
@@ -215,12 +215,12 @@ Sie saßen eine Weile so da.
 
 Achmed fragte vorsichtig: „QR-Codes? Luftbrücke?“ 
 
-Marianne winkte ab: „Ja, ich habe die Datei versteckt und ein Programm installiert, mit dem man sie dort in QR-Codes auf dem Bildschirm anzeigen könnte.
+Marlene winkte ab: „Ja, ich habe die Datei versteckt und ein Programm installiert, mit dem man sie dort in QR-Codes auf dem Bildschirm anzeigen könnte.
 Dann könnte man sie rausholen, wenn man auf der anderen Seite des Bildschirms einen QR-Code-Scanner plaziert und der Bildschirm an ist.“ 
 
 Achmed: „Das ist ein Plan!“
 
-Marianne schaute ihn hilflos an: „Da ist aber kein QR-Code-Scanner an der anderen Seite, wo der Rechner steht.
+Marlene schaute ihn hilflos an: „Da ist aber kein QR-Code-Scanner an der anderen Seite, wo der Rechner steht.
 Und wenn einer dort wäre, wer startet das Programm?
 Das ist ein Hochsicherheits-Rechenzentrum der NSA.
 Und nach dem, was passiert ist, kommen wir jetzt nicht mehr rein.“
@@ -229,7 +229,7 @@ Achmed: „Du schaffst das! Ich weiß das.
 Du schaffst alles, was du willst.
 Komm, jetzt essen wir erst einmal was Gutes.“
 
-Marianne schüttelte den Kopf und lehnte sich an seine Schulter:
+Marlene schüttelte den Kopf und lehnte sich an seine Schulter:
 „Ich habe keinen Hunger.“
 
 Sie stand auf und setzte sich an die Wand gegenüber auf den Boden.

@@ -1,10 +1,10 @@
-== [big-number]#2019# Wir holen sie nicht!
+== [big-number]#2021# Wir holen sie nicht!
 
 In der Zentrale des BND in Berlin.
 
 [text-caps]#„Wir holen sie nicht.# Basta!“ brüllte Frederik seinen Kollegen Heinz über den Schreibtisch hinweg an.
 
-„Sie und Paul Lasser haben sich gleich nach dem Einbruch getroffen.
+„Sie und Marwin Farras haben sich gleich nach dem Einbruch getroffen.
 Das ist kein Zufall.
 Sie muss etwas wissen“, antwortete Heinz etwas zornig, aber noch ruhig.
 
@@ -25,7 +25,7 @@ Frederik: „Schluss damit! Du verstehst es nicht.
 Es geht nicht immer nur darum, herauszufinden, was läuft.
 Das ist genau hier sogar nebensächlich.
 Es geht um mehr.
-Diese Lasser hängt da mit ihrem Herz drin.
+Diese Farras hängt da mit ihrem Herz drin.
 Sie ist infiziert von ihrem Bruder.
 Und darum geht es hier: Um eine Infektion, einen Tumor.
 Und den muss man behandeln, bevor er weiter wächst.
@@ -34,7 +34,7 @@ Aber andererseits soll er dann auch nicht mehr wieder kommen.
 Und das heißt, es geht nicht nur darum, so viel herauszuschneiden, wie nötig ist.
 Sondern die ganze Umgebung so zu behandeln, dass da nichts mehr wächst.
 Nur dann haben wir eine Chance, dass das aufhört.
-Und dafür können wir die Lasser gut einsetzen.“
+Und dafür können wir die Farras gut einsetzen.“
 
 Heinz: „Hey, Frederik, langsam.
 Das sind Menschen, kein Krebsgeschwür.“
@@ -42,7 +42,7 @@ Das sind Menschen, kein Krebsgeschwür.“
 Frederik: „Ja, ist ja nur ein Bild.
 Ich meine das nicht so hart.
 Du kennst mich.
-Aber was würde das Ganze bringen, wenn die Lasser da weiter macht, wo ihr Bruder aufgehört hat.
+Aber was würde das Ganze bringen, wenn die Farras da weiter macht, wo ihr Bruder aufgehört hat.
 Das Talent dafür hat sie.
 Auch Talent anonym zu bleiben.
 Ich habe schon einmal im Tor-Netzwerk nach ihr gesucht, mit Hilfe von ein paar Jungs von der NSA.
@@ -63,7 +63,7 @@ Heinz: „Komm mal, rüber“.
 Er zeigte auf seinen Bildschirm.
 „Guck, die Jungs von der NSA.
 Du glaubst es nicht.
-Marianne Lasser hatte gerade Chat-Kontakt … mit der Freundin von … Karl.
+Marlene Farras hatte gerade Chat-Kontakt … mit der Freundin von … Karl.
 Karl, du weißt, der Satelliten-Mann aus Virginia.
 Heiße Sache.“
 
@@ -74,7 +74,7 @@ Ich denke, die Amerikaner kümmern sich gut drum.
 Aber wirklich seltsam: Wie sind die beiden zusammen gekommen?“
 
 Heinz: „Bisher keine Spur davon.
-Wir könnten Marianne Lasser fragen … Sollen wir sie nicht doch …“
+Wir könnten Marlene Farras fragen … Sollen wir sie nicht doch …“
 
 Frederik: „NEIN! Sie bleibt da, wo sie ist.
 Ich werde noch einmal die Tails-Aktivitäten im Internet durchsuchen lassen, auf Chat-Verbindungen zwischen New Jersey und Berlin.

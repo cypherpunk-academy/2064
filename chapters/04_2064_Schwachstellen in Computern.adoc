@@ -178,8 +178,8 @@ Wenn du nur Abenteuer willst, dann bekommst du ihn nicht.“
 
 Sigur fauchte dazwischen: „Woher weißt du das alles?“
 
-Lilly: „Ich habe Marianne Lasser gelesen: Die Geschichte der Cypherpunks, bevor ich überhaupt angefangen habe, TRON zu spielen.
-Sie schreibt über 2019 und danach, bis zum Kriegsende.
+Lilly: „Ich habe Marlene Farras gelesen: Die Geschichte der Cypherpunks, bevor ich überhaupt angefangen habe, TRON zu spielen.
+Sie schreibt über 2021 und danach, bis zum Kriegsende.
 Wie es damals war, wie sie Hacken gelernt hat und dann Cypherpunk geworden ist.
 Und sie schreibt, um was es wirklich ging, wie die Leute bei den Geheimdiensten dachten und bei den Unternehmen und wie die Hacker waren, mit weißen, grauen und schwarzen Hüten, also solche, die nur erforschen und nichts kaputt machen, solche bei denen die Grenzen nicht ganz klar sind, die auf ihren eigenen Vorteil aus sind und solche, die echt klauen und zerstören wollen.
 Und dann die Hacks, die sie gemacht haben.
@@ -188,7 +188,7 @@ Da habe ich gedacht, das probiere ich in TRON aus, was sie da schreibt.
 Und das stimmte alles im Spiel.
 Ganz genau.
 Edward Snowden.
-Das war genau so, wie Marianne Lasser darüber geschrieben hat.
+Das war genau so, wie Marlene Farras darüber geschrieben hat.
 Genauso hat sie ihren eigenen Hack beschrieben, wie sie die Datenbank mit den Schwachstellen aus dem Hauptquartier der NSA herausschmuggeln konnte.
 Und das habe ich dann zusammen mit Marie gemacht.
 Das ging gut.

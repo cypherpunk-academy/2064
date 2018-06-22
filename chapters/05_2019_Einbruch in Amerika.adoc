@@ -1,6 +1,6 @@
-== [big-number]#2019# Einbruch in Amerika
+== [big-number]#2021# Einbruch in Amerika
 
-[text-caps]#Marianne zog einen vollgekritzelten Zettel# aus ihrer Tasche.
+[text-caps]#Marlene zog einen vollgekritzelten Zettel# aus ihrer Tasche.
 Auf ihm stand alles, was sie jetzt brauchte.
 Das letzte Mosaiksteinchen links unten war gestern erst dazugekommen.
 Zwei Worte.
@@ -11,9 +11,9 @@ Von dort ging es weiter nach New York, ein Abstecher nach Brasilien und dann nac
 Dort arbeitete Karl Bender und andere Wissenschaftler in einem Projekt, in dem auch amerikanische Geheimdienste mitmischten.
 Es ging um Satelliten, Spionage-Satelliten, natürlich streng geheim.
 Alles, sogar der Projektname war geheim.
-Aber Marianne wusste davon.
+Aber Marlene wusste davon.
 
-Karl Bender hatte ein Freundin, Corinne, und die war schon jahrelang Mariannes beste anonyme Freundin.
+Karl Bender hatte ein Freundin, Corinne, und die war schon jahrelang Marlenes beste anonyme Freundin.
 Das heißt, sie hatten sich niemals in Wirklichkeit getroffen und keinen Kontakt miteinander gehabt, von dem irgendjemand wissen konnte.
 Sie hatten sich geschützt im Tor-Netzwerk kennengelernt, in einem Chat-Raum, und beide hatten über die Jahre streng darauf geachtet, dass sie sich immer nur anonym begegneten, immer geschützt durch Tor-Masken.
 Sie erzählten sich voneinander, immer mehr auch Persönliches.
@@ -32,15 +32,15 @@ Und dann dort vergessen.
 Ein Geheimdienst-Schlüssel! Karl hatte das einen Tag später Corinne auf einem Spaziergang erzählt.
 Eigentlich hätte er ihn sofort löschen müssen, aber er hatte es nicht getan.
 
-Als Marianne davon erfahren hatte, begann sie sofort zu recherchieren.
-Ihr Bruder Paul war ein bekannter Cypherpunk.
+Als Marlene davon erfahren hatte, begann sie sofort zu recherchieren.
+Ihr Bruder Marwin war ein bekannter Cypherpunk.
 Cypherpunks waren Hacker, die Verschlüsselungsprogramme schrieben, und kostenlos an alle Menschen weitergaben, die sie haben wollten.
 Es waren die besten, die es gab.
 Selbst die größten Geheimdienste hatten vor ihnen Respekt.
-Marianne war oft nächtelang neben ihm gesessen, wenn er im funkgesicherten Keller saß und in der Welt herumreiste, und sie hatte dabei vieles gelernt.
-Paul nahm sich auch oft Zeit, ihr Dinge genauer zu erklären, ihr vergangene Hacks zu zeigen oder eine Programmiersprache beizubringen.
+Marlene war oft nächtelang neben ihm gesessen, wenn er im funkgesicherten Keller saß und in der Welt herumreiste, und sie hatte dabei vieles gelernt.
+Marwin nahm sich auch oft Zeit, ihr Dinge genauer zu erklären, ihr vergangene Hacks zu zeigen oder eine Programmiersprache beizubringen.
 Sie konnte immer zu ihm kommen, mit allem, hatte er gesagt, jederzeit.
-Und sie hatte auch daran gedacht, in dieser Sache Paul um Hilfe zu fragen.
+Und sie hatte auch daran gedacht, in dieser Sache Marwin um Hilfe zu fragen.
 Das würde vieles einfacher machen, aber sie hatte dann entschieden: Nein! Anonyme Beziehungen sind anonyme Beziehungen, Punkt.
 Dieser Schlüssel war für sie, für sie allein.
 
@@ -99,7 +99,7 @@ Sie hatten meistens zusätzlich auch lesbare Namen, wie www.torproject.org oder 
 Aber diese hier nicht.
 Und sie konnte auch nicht verfolgen, wohin Daten gingen, die sie an diese Adressen schickte.
 Auf dem Weg dorthin verschwanden sie in einer dunklen Internetwolke.
-Marianne hatte keine Ahnung, wo die Computer mit diesen Adressen standen, was das für Computer waren.
+Marlene hatte keine Ahnung, wo die Computer mit diesen Adressen standen, was das für Computer waren.
 Sie dachte kurz nach und öffnete dann ein Chat-Programm.
 Ihr Bruder war online und sie tippte die drei Adressen ein, mit drei Fragezeichen dahinter.
 Sonst nichts.
@@ -118,31 +118,31 @@ Ihr Bruder war wieder online.
 Marie stutzte.
 Was ist jetzt los?
 
-Paul: „WECHSLE DEINE TAILS IDENTITÄT!“
+Marwin: „WECHSLE DEINE TAILS IDENTITÄT!“
 
 Marie klickte auf „Neue Identität“ und bekam von Tor eine neue Verkleidung.
 
-Marianne: „Okay.“
+Marlene: „Okay.“
 
-Paul: „DU KANNST NICHT EINFACH SOLCHE ADRESSEN SCHICKEN, OHNE ZU WISSEN AN WELCHEM COMPUTER ICH GERADE SITZE!“
+Marwin: „DU KANNST NICHT EINFACH SOLCHE ADRESSEN SCHICKEN, OHNE ZU WISSEN AN WELCHEM COMPUTER ICH GERADE SITZE!“
 
 „Woher soll ich wissen, vor welchem Computer mein Bruder gerade sitzt?!?“ dachte Marie.
-„So ein Quatsch.“ Paul war immer in Tails mit Maske unterwegs, ohne Ausnahme.
+„So ein Quatsch.“ Marwin war immer in Tails mit Maske unterwegs, ohne Ausnahme.
 Sie hatte ihm immer schreiben können, ohne zu überlegen wohin.
 Sie verstand nicht.
 
-Paul: „WO HAST DU DIE ADRESSE HER?“
+Marwin: „WO HAST DU DIE ADRESSE HER?“
 
-Marianne platzte der Kragen: „Kannst du mal aufhören zu schreien???“
+Marlene platzte der Kragen: „Kannst du mal aufhören zu schreien???“
 
-Paul: „NEIN.
+Marwin: „NEIN.
 KANN ICH NICHT.
 WIR MÜSSEN SPRECHEN, SCHNELL, WO BIST DU?“
 
 Jetzt fühlte sie sich endgültig wie ein kleines Mädchen.
 Und das bei ihrem Bruder, bei dem sie das am Allerwenigsten erwartet hätte.
 
-Paul: „SAG JETZT!!!“
+Marwin: „SAG JETZT!!!“
 
 „NIRGNDWO!!!!!!!!!!“, tippe sie in das Chatfenster und schloss es.
 Dann klappte sie den Laptop zu und schaute über den Platz.
@@ -210,22 +210,22 @@ Sie umschloss ihn in ihrer Hand und lehnte sich zurück.
 
 „Hallo Mari“, sagte eine Stimme von der Seite und ein junger Mann setzte sich neben sie.
 
-„OSKAR!“, Marianne schaute ihn an, dann wieder weg und wieder an.
+„OSKAR!“, Marlene schaute ihn an, dann wieder weg und wieder an.
 „Was machst du hier??“
 
 Oskar war ein guter Freund von ihr und ihrem Bruder.
 Er war auch ein Cypherpunk.
 Von ihm hatte sie den Rechner bekommen, mit dem sie gerade bei der NSA war.
-Er war, wie Paul, auch unter direkter Überwachung von mindestens zwei Regierungsstellen.
+Er war, wie Marwin, auch unter direkter Überwachung von mindestens zwei Regierungsstellen.
 Vielleicht sogar von den Amerikanern.
 
 „Guter Platz“, meinte Oskar während er sich umschaute, „anonymes Internet und keine Überwachungskamera, wenn man sich an die Wand drückt.“
 
-Marianne: „Was machst du hier??? Scheiße! Mein Bruder hat dich geschickt?“
+Marlene: „Was machst du hier??? Scheiße! Mein Bruder hat dich geschickt?“
 
 Oskar nickte.
 
-Marianne: „Scheiße! Werde ich jetzt von meinem eigenen Bruder überwacht? Und … wie habt ihr rausgefunden wo ich bin?“
+Marlene: „Scheiße! Werde ich jetzt von meinem eigenen Bruder überwacht? Und … wie habt ihr rausgefunden wo ich bin?“
 
 Oskar: „Es ist alles okay.
 Wir haben nicht viel Zeit.
@@ -233,21 +233,21 @@ Du musst jetzt zum „The Bird“ in Kreuzberg gehen.
 Setz dich dort an den freien Tisch im ersten Hinterraum und bestell zwei Hamburger.
 So etwa in 20 Minuten.“
 
-Marianne: „Einen Scheiß werde ich.
+Marlene: „Einen Scheiß werde ich.
 Nur weil du das sagst? Warum soll ich das tun?“
 
 Oskar: „Ich weiß es nicht.“
 
-Marianne schaute ihn erstaunt an.
+Marlene schaute ihn erstaunt an.
 
 Oskar: „Ich weiß nur, dass es um Leben und Tod geht!“
 
 Er schaute sie ernst an.
-In Marianne ließ nicht von seinen Augen ab.
+In Marlene ließ nicht von seinen Augen ab.
 Sie kämpfte mit der Wut, die in ihr hochstieg, ihr Gesicht wurde rot.
 Oskar schaute ernst und ruhig zurück.
 
 Oskar: „Geh jetzt … aber langsam.
 Und geh nicht direkt, sondern kaufe vorher noch irgendetwas ein.“
 
-Marianne stand langsam auf und schritt die Stufen hinunter, ohne sich noch einmal umzudrehen.
+Marlene stand langsam auf und schritt die Stufen hinunter, ohne sich noch einmal umzudrehen.

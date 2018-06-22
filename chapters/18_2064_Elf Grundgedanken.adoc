@@ -1,6 +1,6 @@
 == [big-number]#2064# Elf Grundgedanken
 
-[text-caps]#Marianne: „Die elf Grundgedanken# haben uns geholfen, immer besser zu verstehen, wie man sich aus der Umklammerung durch übermächtige Gegner lösen kann, wie man sich frei bewegen und kommunizieren kann, auch wenn es Leute gibt, die das verhindern wollen.
+[text-caps]#Marlene: „Die elf Grundgedanken# haben uns geholfen, immer besser zu verstehen, wie man sich aus der Umklammerung durch übermächtige Gegner lösen kann, wie man sich frei bewegen und kommunizieren kann, auch wenn es Leute gibt, die das verhindern wollen.
 Egal, ob diese Leute für riesige Geheimdienste arbeiten, in schwer bewaffneten Armeen oder in großen und reichen Unternehmen.
 Es gibt Dinge, die stärker sind als all das.
 Und das haben die Cypherpunks gesucht und ausprobiert, so haben sie mitgeholfen, den Krieg vor jetzt über 30 Jahren zu beenden.

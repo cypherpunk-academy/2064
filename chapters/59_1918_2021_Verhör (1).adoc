@@ -1,4 +1,4 @@
-== [big-number]#1918, 2021#	Verhör (1) 
+== [big-number]#1918, 2023#	Verhör (1) 
 
 === SZENE 8
 
@@ -163,11 +163,11 @@ Wir machen gleich mit Stufe zwei weiter.“
 Bertold: „Jawoll, Herr Hauptmann!“ 
 ____
 
-/// BLENDE /// 2021, Marianne.
+/// BLENDE /// 2023, Marlene.
 
-Marianne legte das Buch weg und atmete ein paar Mal kräftig aus.
+Marlene legte das Buch weg und atmete ein paar Mal kräftig aus.
 
-Marianne: „Fuck!“
+Marlene: „Fuck!“
 
 Neben ihr lag eine äthiopische Zeitung mit ihrem Bild auf der Titelseite.
 Sie legte sich auf das Hotelbett in einem winzigen Zimmer, irgendwo mitten in Addis Abeba in Äthiopien.

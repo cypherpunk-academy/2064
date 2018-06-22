@@ -1,6 +1,6 @@
-== [big-number]#2019# Flucht aus dem Keller
+== [big-number]#2021# Flucht aus dem Keller
 
-[text-caps]#Marianne schreckte# im Bett hoch.
+[text-caps]#Marlene schreckte# im Bett hoch.
 Es war 2 Uhr 30.
 Ihr Wecker hatte einen kurzen Piepston von sich gegeben.
 Sie wischte sich die Augen und öffnete den Reißverschluss ihres Schlafsacks.
@@ -9,19 +9,19 @@ So hatte ihr das ihr Bruder gesagt: Werkzeuge immer bei sich behalten.
 Sie stand auf, zog sich eine Hose an und schlüpfte in ihre Sneakers.
 War das ein leises Kratzen draußen im Gang? Oder nicht? Da, noch einmal, fast unhörbar.
 Sie musste wirklich hier raus jetzt, sonst würde sie wirklich noch verrückt werden.
-Paul sagte immer, dass die Geheimdienste zu allem fähig seien, nichts wäre ihnen heilig, nicht einmal die eigene Wohnung.
-„Irgendwann werden sie dafür zur Rechenschaft gezogen“, dachte Marianne, „und wenn ich selbst dafür sorgen muss“.
+Marwin sagte immer, dass die Geheimdienste zu allem fähig seien, nichts wäre ihnen heilig, nicht einmal die eigene Wohnung.
+„Irgendwann werden sie dafür zur Rechenschaft gezogen“, dachte Marlene, „und wenn ich selbst dafür sorgen muss“.
 
 Sie schob den Schreibtisch beiseite.
 Dahinter kam ein Heizkörper zum Vorschein, der auf den ersten Blick wie ein normaler Heizkörper aussah.
 War er aber nicht.
-Paul hatte ihn dort angebracht, um einen Geheimgang zu verdecken, den er mit einem Freund vorletzten Sommer gebaut hatte.
+Marwin hatte ihn dort angebracht, um einen Geheimgang zu verdecken, den er mit einem Freund vorletzten Sommer gebaut hatte.
 Ein richtiger unterirdischer Gang, durch die Hausmauer hindurch, unter dem Rasen entlang bis hin zu einem Gartenhäuschen.
 Insgesamt etwa 25 Meter lang.
-Vielleicht brauchen wir den einmal, hatte er Marianne gesagt.
+Vielleicht brauchen wir den einmal, hatte er Marlene gesagt.
 Vielleicht müssen wir einmal aus dem Haus, ohne dass das jemand mitbekommt.
 Ein kleines Hebelchen löste eine Sperre, dann ließ sich die Heizung über zwei Scharniere wegschwingen.
-Marianne schaute in den dunklen Gang, es roch ein wenig modrig, aber sah sonst okay aus.
+Marlene schaute in den dunklen Gang, es roch ein wenig modrig, aber sah sonst okay aus.
 Dann suchte sie ein paar Kleidungsstücke zusammen und steckte sie zusammen mit einem Waschbeutel und ihren Laptops in einen Rucksack.
 Sie verschwand im Gang und zog den Heizkörper hinter sich zu, der mit einem satten Klack einschnappte.
 Leicht gebückt, aber relativ bequem ging sie den Gang entlang und stieg im Gartenhäuschen über eine kleine Leiter hinaus.
@@ -42,7 +42,7 @@ Mit der Zeit waren die Versuche immer ausgefeilter geworden, Hacker kamen von we
 Jeder erfolgreiche Angriff führte zu neuen Gegenmaßnahmen, so wurde das System immer besser und besser.
 Inzwischen musste man einen Riesenaufwand treiben, wenn man etwas mitschneiden oder hineinschmuggeln wollte.
 
-Marianne hatte seit einem Hackathon-Wettbewerb vor zwei Jahren einen Gutschein, einen eigenen Rechner dort unterzubringen.
+Marlene hatte seit einem Hackathon-Wettbewerb vor zwei Jahren einen Gutschein, einen eigenen Rechner dort unterzubringen.
 Und das wollte sie jetzt tun.
 Sie wollte sich zumindest für einige Zeit in der Öffentlichkeit verstecken, an Orten, an denen viele Menschen um sie herum waren.
 Sie ging davon aus, dass, welcher Geheimdienst auch immer hinter ihr her war, er sie irgendwo bei Freunden oder Bekannten versteckt vermuten würde.
@@ -56,5 +56,5 @@ Den wollte sie sich jetzt ganz genau anschauen.
 
 Es war etwa 5 Uhr morgens, als sie bei der c-base an ein Seitenfenster klopfte, wo sie noch eine Gruppe von Hackern um einige Laptops herum sah.
 Einer stand auf, warf einen flüchtigen Blick auf ihre Mitgliedskarte und ließ sie hinein.
-Drinnen ließ sich Marianne auf ein Sofa fallen, und atmete erst einmal durch.
+Drinnen ließ sich Marlene auf ein Sofa fallen, und atmete erst einmal durch.
 Einer der Jungs brachte ihr eine Mate.

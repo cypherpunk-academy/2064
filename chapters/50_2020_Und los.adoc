@@ -1,8 +1,8 @@
-== [big-number]#2020# Und los …  
+== [big-number]#2022# Und los …  
 
 [text-caps]#Drei Wochen später.#
 
-Marianne: „Es fühlt sich gut an, das neue Tor.
+Marlene: „Es fühlt sich gut an, das neue Tor.
 Auch Cubes OS.
 So frei.
 Und Tails.
@@ -10,25 +10,25 @@ Viel weniger Ungeziefer … Wahnsinn, was sich in den letzten drei Wochen getan 
 
 Fred: „Du fühlst das?“
 
-Marianne: „Ich glaube schon.
+Marlene: „Ich glaube schon.
 Vielleicht ist es Einbildung, aber irgendwie, wenn ich meine Finger über die Tastatur lege – es ist anders.
 Es fühlt sich frisch an.
 Doch, definitiv, es fühlt sich offener an.“
 Sie kicherte.
 
-Fred: „Marianne!“ Er schaute sie mit ernster Miene an.
-„Marianne!“
+Fred: „Marlene!“ Er schaute sie mit ernster Miene an.
+„Marlene!“
 
-Marianne schaute ernst zurück: „Ja.“
+Marlene schaute ernst zurück: „Ja.“
 
 Fred: „Ich glaube, es ist Zeit.“
 
-Marianne: „Ja, das glaube ich auch.“
+Marlene: „Ja, das glaube ich auch.“
 
 Fred: „Und du bist dir sicher, es so zu machen?
 Ich meine, echt konsequent.“
 
-Marianne: „Es geht nicht anders.
+Marlene: „Es geht nicht anders.
 Die gröbsten Löcher in den freien Programmen sind gestopft.
 Die Linuxe und die BSDs laufen einigermaßen stabil.
 Alle wichtigen Anwendungen auch.
@@ -36,15 +36,15 @@ Nicht perfekt, für viele Kleinigkeiten werden sie noch Monate brauchen, aber es
 
 Fred: „Das sind nicht einmal fünf Prozent aller Computer auf der Welt.“
 
-Marianne atmete durch.
+Marlene atmete durch.
 
 Fred: „Microsoft, Apple und Google haben nicht auf deine Fragen geantwortet?“
 
-Marianne: „Nein, nichts.“
+Marlene: „Nein, nichts.“
 
 Fred: „Aber sie ahnen etwas?“
 
-Marianne: „Klar.
+Marlene: „Klar.
 Sie sehen, was im Linux-Bereich gerade los ist.
 Außerdem machen sie überall bei der Entwicklung der freien Software mit.
 Sie finanzieren ja komplette Projekte.
@@ -61,18 +61,18 @@ Und den gesamten Quelltext ihrer Programme zu veröffentlichen und öffentlich a
 Das war wohl echt zu viel.
 Sie haben sicherlich unterschrieben, dass sie nichts über die Hintertüren sagen dürfen.“
 
-Marianne: „Das haben sie auf jeden Fall unterschrieben.
+Marlene: „Das haben sie auf jeden Fall unterschrieben.
 Aber was soll das?
 Es war genauso illegal sie einzubauen.“
 
 Fred: „Fuck.“
 
-Marianne: „Na dann, gehen wir ran.
+Marlene: „Na dann, gehen wir ran.
 Wie viele Webseiten haben inzwischen das ganze Terabyte verschlüsselt zum Downloaden bereit?“
 
 Fred: „253.“
 
-Marianne: „Das reicht.
+Marlene: „Das reicht.
 Wir haben es ja auch noch auf der WikiLeaks-Webseite.
 Okay, dann geben wir jetzt den Schlüssel dazu frei.
 Über Twitter: The Intercept, Chaos Computer Club, netzpolitik.org, Ed Snowden.
@@ -83,17 +83,17 @@ Alle sollen den Schlüssel gleich weitergeben, Dateien herunterladen, entschlüs
 Fred schaute über seine Schulter: „In jedem guten Krimi wäre jetzt der Augenblick, wo die Tür eingetreten wird und ein Swat-Team schreiend hereinkommt.“
 Er grinste und lauschte.
 Alles war ruhig.
-Marianne stand auf und schloss das Fenster.
+Marlene stand auf und schloss das Fenster.
 
-Marianne: „Es gibt andere, die den Schlüssel für solche Fälle hätten.“
+Marlene: „Es gibt andere, die den Schlüssel für solche Fälle hätten.“
 
 Fred: „Ich weiß, es sollte ein Scherz sein.“
 
-Marianne: „So, ich drücke … jetzt! … Weg!!“
+Marlene: „So, ich drücke … jetzt! … Weg!!“
 
 Fred: „Weg!“
 
-Marianne: „Weg!“
+Marlene: „Weg!“
 Sie atmete aus und beobachtete ihren Laptop.
 „The Intercept hat es schon retweeted, netzpolitik.org, WikiLeaks auch … Okay.
 Dann hat es die Welt. Ed Snowden auch.“
@@ -101,7 +101,7 @@ Sie nickte Fred zu und beide schauten sich lange in die Augen.
 
 Nach einer Weile zwinkerte Fred ihr zu: „Und jetzt den Brief.“
 
-Marianne: „Ach ja, klar, den Brief.
+Marlene: „Ach ja, klar, den Brief.
 Okay.
 An den Guardian, New York Times, Der Spiegel, Washington Post, etc.“
 
@@ -168,16 +168,16 @@ oder das Smartphone, das er verwendet, tatsächlich macht.
 ....
 ****
 
-Marianne schaute Fred mit einem dramatischen Blick an: „Na?
+Marlene schaute Fred mit einem dramatischen Blick an: „Na?
 Soll ich das jetzt abschicken?“
 
 „NEIN!“, rief Fred mit gespielter Panik.
 „BLOSS NICHT … Das bringt die Mächtigen der Welt durcheinander!!“
 Er riss die Augen auf und schaute sie an.
 
-„Zu spät“ grinste Marianne zurück.
+„Zu spät“ grinste Marlene zurück.
 
-Hans rief von unten: „Hey! Marianne! Wenn ihr noch rechtzeitig zum Schiff wollt, dann müssen wir jetzt gehen.“ 
+Hans rief von unten: „Hey! Marlene! Wenn ihr noch rechtzeitig zum Schiff wollt, dann müssen wir jetzt gehen.“ 
 
-Fred und Marianne klappten ihre Laptops zu, steckten sie in ihre gepackten Koffer und verließen das Zimmer.
+Fred und Marlene klappten ihre Laptops zu, steckten sie in ihre gepackten Koffer und verließen das Zimmer.
 Eine Stunde später saßen sie auf einem kleinen Frachter, der Richtung Festland fuhr.

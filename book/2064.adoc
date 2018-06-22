@@ -14,7 +14,7 @@ v1.0, 2016-10-02
 
 include::../chapters/01_2064_Das Spiele-Labor.adoc[]
 
-include::../chapters/02_2019_Marianne.adoc[]
+include::../chapters/02_2019_Marlene.adoc[]
 
 include::../chapters/03_2064_TRON-Attacke.adoc[] 
 
@@ -34,7 +34,7 @@ include::../chapters/10_2019_Auf dem Heimweg.adoc[]
 
 include::../chapters/11_2019_Verrat.adoc[]
 
-include::../chapters/12_2064_Marianne Lasser.adoc[] 
+include::../chapters/12_2064_Marlene Farras.adoc[] 
 
 include::../chapters/13_2019,1913_Rede.adoc[]
 
@@ -74,7 +74,7 @@ include::../chapters/30_2021_Nach Hause.adoc[]
 
 include::../chapters/31_2019_The Boatly Hackerspace.adoc[] 
 
-include::../chapters/32_2019_Wo ist Marianne Lasser.adoc[]
+include::../chapters/32_2019_Wo ist Marlene Farras.adoc[]
 
 include::../chapters/33_2021_Ich will hier bleiben.adoc[]
 
@@ -182,7 +182,7 @@ include::../chapters/84_2021_Das Interview 1.adoc[]
 
 include::../chapters/85_2021_Das Interview 2.adoc[]
 
-include::../chapters/86_2021_Linda und Marianne.adoc[]
+include::../chapters/86_2021_Linda und Marlene.adoc[]
 
 include::../chapters/87_2021_Im Flugzeug.adoc[]
 

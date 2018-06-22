@@ -1,4 +1,4 @@
-== [big-number]#2021# Die Ansprache
+== [big-number]#2023# Die Ansprache
 
 [text-caps]#Das Bild in der Schulklasse# hatte sich verändert.
 Überall lagen jetzt schwarze, etwas klobige Laptops auf den Tischen, viele Mini-Computer-Boards, Kabel, Netzteile, USB-Sticks, Schraubenzieher, ein Lötkolben.
@@ -56,7 +56,7 @@ Ein Flächenbrand.
 Es sind inzwischen über 200 Klassen in Deutschland, die mit uns streiken.
 Die unser Modell übernommen haben.
 Und es kommen täglich welche dazu.
-Jetzt stellen Sie sich vor, was bei den Geheimdiensten los sein wird, wenn wir es schaffen, das Bild von Marianne in der Öffentlichkeit wieder gerade zu rücken ... Wenn die meisten Menschen verstehen, dass das mit ihr alles ein Schauspiel war.“
+Jetzt stellen Sie sich vor, was bei den Geheimdiensten los sein wird, wenn wir es schaffen, das Bild von Marlene in der Öffentlichkeit wieder gerade zu rücken ... Wenn die meisten Menschen verstehen, dass das mit ihr alles ein Schauspiel war.“
 
 Reporter: „Sie haben inzwischen noch andere Ziele. Sie fordern die Aufhebung der Schulpflicht und freie Lehrerwahl.“
 
@@ -79,14 +79,14 @@ Das ist uralter Quatsch.
 Das will hier keiner mehr.
 Ich glaube, Sie finden in ganz Deutschland keine Klasse, in der fünf Schüler sind, die das dem hier vorziehen würden.“
 
-Reporter: „Sie sagen, Sie wollen das Bild von Marianne ‚gerade rücken‘.
+Reporter: „Sie sagen, Sie wollen das Bild von Marlene ‚gerade rücken‘.
 Man kann das aber auch durchaus als etwas Illegales sehen, wenn man in militärische Computer eindringt und dort Dokumente stiehlt.
 Wir brauchen ja Vereinbarungen in einer Demokratie, was erlaubt ist und was nicht.
 Das kann man dann nicht einfach übergehen ...“
 
 Sophie drehte sich zu ihm.
 
-Sophie: „Die Dokumente, die Marianne der Öffentlichkeit übergeben hat, gehören allen.
+Sophie: „Die Dokumente, die Marlene der Öffentlichkeit übergeben hat, gehören allen.
 Sie betreffen uns alle.
 Deswegen gehören sie uns allen.
 Wir leben in einer Demokratie und ohne diese Dokumente kann ich mir keine demokratische Meinung bilden.
@@ -115,7 +115,7 @@ Dann werden unsere Zustimmungswerte noch besser.
 Und wir sind schon zwischen 70% und 80% hier in Deutschland.“
 
 Reporter: „Andere Länder sehen das anders.
-In England wird Marianne in den Medien als Terroristin gesehen.“
+In England wird Marlene in den Medien als Terroristin gesehen.“
 
 Sophie und Kevin schauten sich an.
 Kevin zuckte mit den Schultern: „Das ist England. Ich kenne die Situation dort nicht.“
@@ -134,7 +134,7 @@ Sie lächelte.
 Insgesamt gibt es in Deutschland etwa 400.000 Schulklassen.
 Darauf legen wir gerade unsere Serverkapazitäten aus.
 In unserem Team sind einige Jungs und Mädels aus der Topliga im Hackerumfeld.
-Marianne ist auch aktiv dabei.
+Marlene ist auch aktiv dabei.
 Sie besorgen uns alles, was wir brauchen.
 Wir bekommen die beste Ausstattung, die es gibt.“
 
@@ -144,7 +144,7 @@ Haben Sie keine Angst?“
 Kevin: „Klar haben wir Angst.
 Jede Menge.
 Aber wir haben auch Mut.
-Marianne hat Mut.
+Marlene hat Mut.
 Sie ist immer noch aktiv, sie verwendet nicht all ihre Kraft darauf, sich zu verstecken.
 Sie hilft _uns_ tatsächlich mehr als wir ihr helfen.
 Also, da können wir bei unserem Mut noch eine Schippe drauf legen.
@@ -243,7 +243,7 @@ Ein paar Leute, die ich kenne, werden sich jetzt trauen, Schwachstellen zu melde
 Er zeigte zum Fernseher.
 „Das, das ist eine Katastrophe für die Geheimdienste.“
 
-Sophie: „Was ist mit Marianne?“
+Sophie: „Was ist mit Marlene?“
 
 Oskar: „Keine Ahnung.
 Aber das ist auch gut für sie, denke ich.“
