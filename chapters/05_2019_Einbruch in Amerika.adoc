@@ -8,9 +8,9 @@ Zwei Worte.
 Der Weg dorthin war eine kleine Weltreise, aber sie würde nicht lange dauern.
 Sie begann die Reise, indem sie sich an einem Berliner Unirechner anmeldete, mit einem Konto, das schon lange niemand mehr nutzte.
 Von dort ging es weiter nach New York, ein Abstecher nach Brasilien und dann nach New Jersey an die Princeton Universität.
-Dort arbeitete Karl Bender und andere Wissenschaftler in einem Projekt, in dem auch amerikanische Geheimdienste mitmischten.
+Dort arbeitete Karl Bender und andere Wissenschaftler in einem Projekt, bei dem auch amerikanische Geheimdienste mitmachten.
 Es ging um Satelliten, Spionage-Satelliten, natürlich streng geheim.
-Alles, sogar der Projektname war geheim.
+Alles, sogar der Projektname, war geheim.
 Aber Marlene wusste davon.
 
 Karl Bender hatte ein Freundin, Corinne, und die war schon jahrelang Marlenes beste anonyme Freundin.
@@ -25,8 +25,8 @@ Inzwischen kannten sie sich sehr, sehr gut.
 Corinne hatte ihr davon erzählt, dass bei Karl ein Geheimdienstmann der NSA zu Besuch war, um mit Karl den Start eines ganz neuen Satelliten vorzubereiten.
 Die NSA war ein Geheimdienst der Amerikanischen Armee, es war der größte Geheimdienst überhaupt.
 Und bei diesem Besuch ging fast alles schief.
-Nichts stimmte zusammen und um ein Haar hätten sie den Start abbrechen müssen.
-Aber gemeinsam schafften sie es gerade noch, ein Programm, das im Satelliten laufen sollte, fertig zu kriegen, buchstäblich in letzter Sekunde.
+Nichts funktionierte auf Anhieb und um ein Haar hätten sie den Start abbrechen müssen.
+Aber gemeinsam schafften sie es gerade noch, ein Programm, das im Satelliten laufen musste, fertig zu kriegen, buchstäblich in letzter Sekunde.
 Wohl in der Hektik hatte der NSA-Mann den Geheimschlüssel für seinen eigenen Computer bei der NSA auf Karls Rechner hinterlegt.
 Und dann dort vergessen.
 Ein Geheimdienst-Schlüssel! Karl hatte das einen Tag später Corinne auf einem Spaziergang erzählt.
@@ -35,13 +35,14 @@ Eigentlich hätte er ihn sofort löschen müssen, aber er hatte es nicht getan.
 Als Marlene davon erfahren hatte, begann sie sofort zu recherchieren.
 Ihr Bruder Marwin war ein bekannter Cypherpunk.
 Cypherpunks waren Hacker, die Verschlüsselungsprogramme schrieben, und kostenlos an alle Menschen weitergaben, die sie haben wollten.
-Es waren die besten, die es gab.
+Es waren die besten Programme, die es gab.
 Selbst die größten Geheimdienste hatten vor ihnen Respekt.
-Marlene war oft nächtelang neben ihm gesessen, wenn er im funkgesicherten Keller saß und in der Welt herumreiste, und sie hatte dabei vieles gelernt.
+Marlene war oft nächtelang neben ihm gesessen, wenn er in seinem funkgesicherten Keller saß und in der Welt herumreiste, und sie hatte dabei vieles gelernt.
 Marwin nahm sich auch oft Zeit, ihr Dinge genauer zu erklären, ihr vergangene Hacks zu zeigen oder eine Programmiersprache beizubringen.
 Sie konnte immer zu ihm kommen, mit allem, hatte er gesagt, jederzeit.
 Und sie hatte auch daran gedacht, in dieser Sache Marwin um Hilfe zu fragen.
-Das würde vieles einfacher machen, aber sie hatte dann entschieden: Nein! Anonyme Beziehungen sind anonyme Beziehungen, Punkt.
+Das würde vieles einfacher machen, aber dann hatte sie entschieden, es nicht zu tun.
+Anonyme Beziehungen sind anonyme Beziehungen, Punkt.
 Dieser Schlüssel war für sie, für sie allein.
 
 „k a r l i b e n d e r“ tippt sie hinter das Wort „login“ in die Konsole.
@@ -113,21 +114,22 @@ Dann muss ich eben allein weiter kommen.“ Sie begann im Internet nach Hinweise
 „Pling“ klang es einige Minuten später aus dem Laptop.
 Ihr Bruder war wieder online.
 
-„BIST DU VERRÜCKT GEWORDEN?“, erschien auf Maries Bildschirm.
+„BIST DU VERRÜCKT GEWORDEN?“, erschien auf Marlenes Bildschirm.
 
-Marie stutzte.
+Marlene stutzte.
 Was ist jetzt los?
 
 Marwin: „WECHSLE DEINE TAILS IDENTITÄT!“
 
-Marie klickte auf „Neue Identität“ und bekam von Tor eine neue Verkleidung.
+Sie klickte auf „Neue Identität“ und bekam von Tor eine neue Verkleidung.
 
 Marlene: „Okay.“
 
 Marwin: „DU KANNST NICHT EINFACH SOLCHE ADRESSEN SCHICKEN, OHNE ZU WISSEN AN WELCHEM COMPUTER ICH GERADE SITZE!“
 
-„Woher soll ich wissen, vor welchem Computer mein Bruder gerade sitzt?!?“ dachte Marie.
-„So ein Quatsch.“ Marwin war immer in Tails mit Maske unterwegs, ohne Ausnahme.
+„Woher soll ich wissen, vor welchem Computer mein Bruder gerade sitzt?!?“ dachte Marlene.
+„So ein Quatsch.“
+Marwin war immer in Tails mit Maske unterwegs, ohne Ausnahme.
 Sie hatte ihm immer schreiben können, ohne zu überlegen wohin.
 Sie verstand nicht.
 
@@ -208,10 +210,10 @@ Dann verwischte sie sorgfältig alle Spuren auf Karls Rechner, und zog den USB-S
 Alles, was sie gesammelt hatte war jetzt auf einem kleinen Stick.
 Sie umschloss ihn in ihrer Hand und lehnte sich zurück.
 
-„Hallo Mari“, sagte eine Stimme von der Seite und ein junger Mann setzte sich neben sie.
+„Hallo Marli“, sagte eine Stimme von der Seite und ein junger Mann setzte sich neben sie.
 
-„OSKAR!“, Marlene schaute ihn an, dann wieder weg und wieder an.
-„Was machst du hier??“
+„OSKAR!“, Marlene schaute ihn an, dann wieder weg und wieder hin.
+„Was machst DU hier??“
 
 Oskar war ein guter Freund von ihr und ihrem Bruder.
 Er war auch ein Cypherpunk.
@@ -233,7 +235,7 @@ Du musst jetzt zum „The Bird“ in Kreuzberg gehen.
 Setz dich dort an den freien Tisch im ersten Hinterraum und bestell zwei Hamburger.
 So etwa in 20 Minuten.“
 
-Marlene: „Einen Scheiß werde ich.
+Marlene: „EINEN SCHEISS WERD ICH.
 Nur weil du das sagst? Warum soll ich das tun?“
 
 Oskar: „Ich weiß es nicht.“

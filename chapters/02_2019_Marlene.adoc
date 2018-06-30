@@ -1,7 +1,6 @@
 == [big-number]#2021# Marlene
 
-[text-caps]#Marlene gähnte.# Deutsch-Unterricht, 10.
-Klasse, gedrückte Langeweile im Raum.
+[text-caps]#Marlene gähnte.# Deutsch-Unterricht, 10. Klasse, gedrückte Langeweile im Raum.
 Anni neben ihr chattete unter dem Tisch mit ihrem Smartphone.
 Sie selbst fischte eine Brotdose aus ihrer Schultasche und platzierte sie vor sich auf den Tisch.
 Sie öffnete sie, holte in Papier eingewickelte Butter, Käse und Gurkenscheibchen heraus und ordnete sie liebevoll nebeneinander an.
@@ -12,14 +11,19 @@ Lehrer: „Na? Und warum machst du das nicht zu Hause?“ Er wippte mit den Fü�
 Marlene schaute ihn mit ruhigem Blick an.
 In ihr stieg eine Wut hoch: „Das ist im Augenblick das Spannendste und Kreativste, was ich tun kann.“
 
-Lehrer spitz: „Spannender als Faust? Das kann ich mir kaum vorstellen.
+Lehrer spitz: „Spannender als Goethes Faust? Das kann ich mir kaum vorstellen.
 Entweder du ...“
 
 Marlene unterbrach ihn: „Ich sitze hier seit über einer Stunde rum und muss mir anhören, was Leute in den letzten 200 Jahren über Faust und Mephisto … ausgefurzt haben.
 Was soll ich damit? Ich kenne die Leute nicht einmal.
-Was hat das mit meinem Leben zu tun? Hat das überhaupt mit irgendwas heute zu tun?“ 
+Was hat das mit meinem Leben zu tun? Hat das überhaupt mit irgendwas heute zu tun?“
 
-Der Lehrer drehte sich abrupt um, atmete ein paar Mal kräftig durch, zeigte Richtung Tür und schrie „RAUS!“ Er schloss die Augen.
+Der Lehrer atmete durch.
+Er schaute sie an.
+
+Marlene: „Sie haben selbst keinen Bock da drauf, richtig?“
+
+Der Lehrer trat einen Schritt zurück, zeigte Richtung Tür und schrie „RAUS!“ Er schloss die Augen.
 Marlene packte ihre Sachen zusammen, nahm ihre Tasche und ging am Lehrer vorbei aus dem Zimmer.
 
 Er rief ihr hinterher: „Du wartest draußen, direkt vor der Tür.
@@ -28,7 +32,7 @@ Wir sprechen danach.“ Die Tür krachte zu.
 Marlene machte sich sofort auf den Heimweg.
 „So ein Weichei“, dachte sie, „wahrscheinlich war das 'ausgefurzt' zu viel für ihn gewesen.“ Immerhin hatte er eines der Bücher über Faust, die sie lesen mussten, selbst geschrieben und so konnte er es durchaus persönlich nehmen.
 Sie mochte ihn eigentlich, er war so ganz cool, als Mensch, aber in der Lehrerrolle … Wahrscheinlich mochte er die selbst nicht.
-„Echt ein Weichei“, dachte sie und schüttelte den Kopf.
+„Echt ein Weichei“, dachte sie, „kann nicht leben wie er will“. Sie schüttelte den Kopf.
 „Und was mache ich jetzt mit dem angefangenen Tag? ...
 Klar!“, sagte sie laut und schnippte mit den Fingern.
 
@@ -42,17 +46,17 @@ Er war unbenutzt, aber nicht mehr ganz neu.
 Er war aus dem Jahr 2009 und hatte noch nicht die Überwachungschips eingebaut, die inzwischen in allen neuen Computern zu finden waren.
 Mit ihnen konnten Geheimdienste jeden Computer über das Internet fernsteuern, konnten Dateien anschauen, kopieren, löschen, sogar ein neues Betriebssystem installieren, wenn sie wollten, und einige Computer konnte man darüber sogar über das Netz anschalten.
 
-
-Oskar, einer ihrer Freunde, hatte zehn der Computer in der Firma, in der er arbeitete, entdeckt.
+Oskar, einer ihrer Freunde, hatte zehn der Computer in der Firma, in der er arbeitete, in einer Ecke im Lager entdeckt.
 Niemand dort schien davon zu wissen, sie waren in der Lagerliste nicht aufgeführt, und so hatte er sie einfach mitgenommen.
 Er war mit einem Gabelstapler ins Lager gefahren und hatte eine Menge alter Kartons zusammen mit den Computern aufgeladen und war einfach damit herausgefahren.
 Dem Lagerleiter hatte er gesagt, dass er die Kartons für ein Schülerprojekt brauchen würde.
 Was für ein Geschenk in Zeiten, in denen die Seriennummer jedes Computers von der Produktion bis zur Müllhalde verfolgt und zusammen mit den E-Mail-Adressen, Telefonnummern, Aufenthaltsorten und Fotos der jeweiligen Besitzer abgespeichert wurde.
 
-Sie steckte einen Speicherstick mit der Aufschrift „Tails 2.3“ in einen Steckplatz am Computer und drückte den Anschaltknopf.
+Sie steckte einen Speicherstick mit der Aufschrift „Tails 4.8“ in einen Steckplatz am Computer und drückte den Anschaltknopf.
 Tails war ein Programm, oder besser gesagt ein Betriebssystem, das dafür sorgte, dass niemand herausfinden konnte, wer den Computer, auf dem es lief, gerade nutzte.
 Und auch wo er auf der Welt gerade war.
-Und wenn man den Stick wieder abzog, dann blieben keine Spuren von dem, was man gemacht hatte.
+Alle Computer, die mit diesem Betriesystem liefen, hatten die gleiche Zeitzone eingestellt.
+Wenn man den Stick wieder abzog, dann blieben keine Spuren von dem, was man gemacht hatte.
 Manche Menschen vertrauten sogar mit ihren Leben darauf, dass das funktionierte.
 Mit Tails konnte man alles machen, was man anonym machen wollte: E-Mails an Journalisten schicken, mit Hackerfreunden chatten, auf überwachten Seiten im Internet surfen oder auch einfach nur einen Artikel für ein Untergrund-Magazin schreiben.
 

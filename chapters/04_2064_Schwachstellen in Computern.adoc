@@ -24,8 +24,8 @@ Erst einmal gehe ich damit noch ein wenig auf Raubzug.
 Sie ist weit verbreitet und niemand kennt sie.“ Sie grinste breit.
 
 Schwachstellen oder Hintertüren gab es in allen Computern und Programmen.
-Man konnte sie schließen, wenn man wusste wie.
-Wenn man sie erst einmal kannte.
+Man konnte sie schließen, wenn man wusste wie sie funktionierten.
+Und wenn man sie erst einmal kannte.
 Über Schwachstellen konnte man Computer dazu bringen, alle möglichen Dinge zu tun, die die Programmierer und Computerverwalter nicht vorgesehen hatten.
 Manchmal ganz verrückte Dinge.
 Manchmal konnte man einen Computer aus der Ferne komplett übernehmen, als wäre es der eigene, und dann alles mit ihm machen, was man wollte.
@@ -44,9 +44,10 @@ Das ist ein Menschenrecht … habe ich in meinem Computerverwalterkurs gelernt.
 Außerdem ist das auch eine Cypherpunk-Regel.“ Man kann sogar sein Arbeitsrecht verlieren, wenn man eine Schwachstelle nicht bekannt macht.
 
 Lilly: „Heute … heute ist das so.
-Damals war es erlaubt, das geheim zu halten! Glaube ich zumindest.
-Auf jeden Fall war es Gang und Gäbe.
-Ich habe eine E-Mail gelesen, wo jemand eine noch unbekannte Schwachstelle einem anderen zum Verkauf angeboten hat.
+Damals war es erlaubt. Glaube ich zumindest.
+Auf jeden Fall war es echt Gang und Gäbe.“
+Sie schmunzelte.
+„Ich habe eine E-Mail gelesen, wo jemand eine noch unbekannte Schwachstelle einem anderen zum Verkauf angeboten hat.
 Für wahnsinnig viel Geld.
 Und der andere hat gekauft.“
 
@@ -54,11 +55,12 @@ Und der andere hat gekauft.“
 „Schwachstellen verkaufen?! Vielleicht wenn du die Mafia spielst, aber sonst nicht.
 Das wäre ja total korrupt.
 Super schlecht.
-Das ist so schlecht wie Leute krank machen und dann an der Medizin verdienen.“
+Das wäre so schlecht wie Leute krank machen und dann an der Medizin verdienen.“
 
 Lilly zog die Augenbrauen hoch.
 „Pfff.
-Hej, wacht auf.
+Klar.
+Aer hey, wacht auf!
 Die Welt damals war anders.
 Das haben alle gemacht damals.
 Regierungen, Unternehmen, Geheimdienste.
@@ -68,14 +70,14 @@ Massenweise.“
 
 Beide Jungs prusteten los.
 
-„Lilly, das ist jetzt wirklich Quatsch“, meinte Lasse immer noch lachend.
-„Wer hat dir so etwas erzählt?“
+„Lilly, das ist Quatsch“, meinte Lasse immer noch lachend.
+„Wer hat dir so einen Blödsinn erzählt?“
 
 Lilly verschränkte ihre Arme und machte ein ernstes Gesicht: „Nee.
 Echt! Massenweise, Berge … Ich sag euch.
-Ich habe …“ Sie stockte.
+Ich hab …“ Sie stockte.
 
-Lasse: „Lilly, bleib auf dem Teppich.“
+Lasse machte eine eschwichtigend Handewegung: „Lilly, bleib auf dem Teppich.“
 
 „Du hast …?“, fragte Sigur.
 „Was hast du?“ Er rutschte zu ihr herüber.
@@ -89,28 +91,29 @@ Jede Menge.
 Unglaubliche Sachen.
 Ihr könnt euch nicht vorstellen, was alles geht“, sie grinste.
 „Ich habe eine Datenbank bei der NSA gefunden: ‘Zero Day Exploits’, das sind alles Schwachstellen, die noch niemand kennt.
-Marie ist dort Agentin, sie hat mir dabei geholfen, da dran zu kommen.
-Sie selbst darf ja in der Datenbank alles nachschauen, aber sie darf nichts damit tun, was nicht zu ihrem Auftrag passt, und alles, was sie tut und sagt, wird aufgezeichnet, alles, jeder Tastendruck, jedes Gespräch, jeder Gesichtsausdruck.
+Marie ist dort Agentin, sie hat mir dabei geholfen, dran zu kommen.
+Sie selbst darf ja in der Datenbank alles nachschauen, aber sie darf nichts damit tun, was nicht zu ihrem Auftrag passt, und alles, was sie tut und sagt, wird aufgezeichnet. Alles, jeder Tastendruck, jedes Gespräch, jeder Gesichtsausdruck.
 Sie nehmen echt alles auf! Von allen Mitarbeitern.
 Bescheuert.
 Echt Scheiße, dort zu arbeiten.
 Aber ich konnte mit ihrer Hilfe die Datenbank dort heraus bekommen! War nicht ganz einfach … Und jetzt kann ich … Uuuuuhhhh“, sie schüttelte den Kopf, „… so viel machen … Hi.
 Hi.
-… Ich weiß, dass das unfair ist, aber es ist ein Spiel.
+… Ich weiß, dass das unfair ist, aber es ist ja ein Spiel.
 Da muss man auch verlieren können.“
 
 Sigur murrte: „Du arbeitest mit der NSA zusammen? Das sind Gegner.
-Das ist gemogelt.
+Das ist gegen die Regeln.
 Und Marie gibt dir die Informationen, weil ihr auch normal befreundet seid.“
 
 „Überhaupt nicht.
-Ich habe zwei Computer von Hackerinnen für sie geknackt, die sie für ihre Mission gebraucht hat.
-Sie hat die Mission dadurch fast fertig.
+Ich habe zwei Computer von Hackerinnen für sie geknackt. Die raucht sie für ihre Mission.
+Sie hat sie dadurch fast fertig.
 Die beiden Hackermädels müssen nur noch ins Gefängnis, und mehr als 10 Jahre bekommen.
 Sie sind gerade vor Gericht.
 Wenn das durch ist, hat sie es geschafft.
 Das war der Deal.
-Wir haben halt als Frauen gut zusammen gearbeitet, nicht gemogelt! Man kann ja noch jede Menge andere Dinge machen, viel Psychozeugs: Du kannst erpressen, anwerben, bestechen, einschüchtern, lügen.
+Wir haben halt als Frauen gut zusammen gearbeitet, nicht gemogelt!
+Man kann ja noch jede Menge andere Dinge machen, vor allem viel Psychozeugs: Du kannst erpressen, anwerben, bestechen, einschüchtern, lügen.
 Ihr wisst schon, was das für eine Welt damals war? Ich meine, wie wollt ihr einen fliegenden Kampfroboter bekommen, ohne jemand bei der CIA zu haben, der tut, was ihr wollt? Kein Wunder, dass ihr noch keinen habt.
 Marie hat schon einen.“
 
@@ -118,7 +121,8 @@ Lasse und Sigur schauten sich an.
 Fliegende Kampfroboter.
 Das war ihr höchstes Ziel.
 Sie kannten niemanden, der es geschafft hatte, einen zu übernehmen.
-Sigur fasste sich an den Bauch: „Mir wird schlecht.“ Lasse kniff seine Lippen zusammen und schaute zu Lilly rüber: „Wie kann man jemanden bei der CIA umdrehen? Aus dem Kampfroboter-Verband?“, fragte Lasse.
+Sigur fasste sich an den Bauch: „Mir wird schlecht.“
+Lasse kniff seine Lippen zusammen und schaute zu Lilly rüber: „Wie kann man jemanden bei der CIA umdrehen? Aus dem Kampfroboter-Verband?“, fragte Lasse.
 
 „Ich weiß nicht wie Marie das gemacht hat.
 Aber du musst halt rauskriegen wie sie dort ticken.
@@ -152,7 +156,7 @@ Das heißt ‘social engineering’, soziale Technik.“
 Sigur schwieg.
 
 Lilly: Wenn du das nicht willst, kannst du ja Cypherpunks-Missionen spielen.
-Da geht es nicht darum, möglichst viele Computer zu übernehmen oder Hacker zu fangen, sondern darum, dass Dinge ans Licht kommen, dass Ungerechtigkeiten ausgeglichen werden und dass immer mehr Menschen der Unterdrückung entkommen können.
+Bei denen geht es nicht darum, möglichst viele Computer zu übernehmen oder Hacker zu fangen, sondern darum, dass Dinge ans Licht kommen, Ungerechtigkeiten ausgeglichen werden und dass immer mehr Menschen der Unterdrückung entkommen können, die damals geherrscht hat.
 Da musst du eher so denken, wie wir heute denken.
 Dann kannst du vielleicht herausfinden, wie die Cypherpunks den Krieg gewonnen haben.
 Ich meine, das war schon eine Übermacht damals, die Geheimdienste, die Armeen, Riesenunternehmen.
@@ -176,7 +180,7 @@ Lilly: „Du kannst sie nicht bekommen, wenn du den Fragebogen am Anfang nicht s
 Julian ist ein Cypherpunk.
 Wenn du nur Abenteuer willst, dann bekommst du ihn nicht.“
 
-Sigur fauchte dazwischen: „Woher weißt du das alles?“
+Sigur fauchte dazwischen: „WOHER WEISST DU DAS ALLES?“
 
 Lilly: „Ich habe Marlene Farras gelesen: Die Geschichte der Cypherpunks, bevor ich überhaupt angefangen habe, TRON zu spielen.
 Sie schreibt über 2021 und danach, bis zum Kriegsende.
@@ -191,9 +195,9 @@ Edward Snowden.
 Das war genau so, wie Marlene Farras darüber geschrieben hat.
 Genauso hat sie ihren eigenen Hack beschrieben, wie sie die Datenbank mit den Schwachstellen aus dem Hauptquartier der NSA herausschmuggeln konnte.
 Und das habe ich dann zusammen mit Marie gemacht.
-Das ging gut.
+Das war kompliziert, aber ging genauso wie es wirklich war.
 Man braucht dafür einen NSA-Mitarbeiter, sogar einen bestimmten.
-Und so haben wir alle Schwachstellen herausgebracht.“
+Und so haben wir alle Schwachstellen herausgeschafft.“
 
 Sigur: „Alle? – Wie viele sind das?“
 
