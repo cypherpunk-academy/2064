@@ -3,7 +3,7 @@
 === SZENE 3
 ____
 Nach der Rede, im Gastraum einer Wirtschaft.
-Wilhelm, Hilde, ein Fahrer und Adolf, ein Parteisekretär.
+Wilhelm, Hilde, ein Fahrer und Adolf, ein Parteifunktionär.
 
 Wilhelm: „Danke, Hilde! Für deine Standpauke vorhin.
 Ich wäre sonst wirklich nicht auf die Bühne gegangen.
@@ -65,7 +65,7 @@ Wilhelm: „Was wollen Sie von mir?“
 Nach einer kurzen Weile antwortet der Mann, der ihm gegenüber sitzt: „Schöne Rede eben.
 Schlau ausgedacht.
 Reines Gift.
-Das kann einer Masse den Kopf verdrehen.“
+Das kann einer Volksmasse den Kopf verdrehen.“
 
 Zweiter Mann mit leicht rotem Gesicht: „Du Vaterlandsverräter! Wenn es nach Burschen wie dir geht, ist in Deutschland bald niemand mehr bereit zu kämpfen.
 Und dann überrennt uns der Franzose und der Russe und aus ist es mit Deutschland.“
@@ -85,7 +85,8 @@ Wir haben überall Leute.
 Überall um dich herum.
 Dass du hier mit uns allein sitzt, ist nur eine Kostprobe von dem, was wir können.
 Heute wirst du überleben.
-Beim nächsten Mal vielleicht nicht.“ Er schnippt mit den Fingern.
+Beim nächsten Mal vielleicht nicht.“
+Er schnippt mit den Fingern.
 
 Der zweite Mann schaut ihn kalt an und grinste: „Wäre mir ein Vergnügen.“
 
