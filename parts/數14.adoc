@@ -1,9 +1,0 @@
-:includedir: ../chapters
-
-include::{includedir}/40_2064_Im Strand-Appartment.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/41_2064_Ein Plan.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/42_1915_In einer Suppenküche.adoc[]

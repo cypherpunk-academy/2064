@@ -1,9 +1,0 @@
-:includedir: ../chapters
-
-include::{includedir}/45_2064_Spezial-Kommando.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/46_2064_Nichts wie weg hier.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/47_2020_An einem See in Tasmanien.adoc[]

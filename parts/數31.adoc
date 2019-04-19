@@ -1,6 +1,0 @@
-:includedir: ../chapters
-
-include::{includedir}/91_2064_Dmitri.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/92_2064_Die Cypherpunk-Akademie.adoc[]

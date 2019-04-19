@@ -1,6 +1,0 @@
-:includedir: ../chapters
-
-include::{includedir}/03_2064_TRON-Attacke.adoc[] 
-
-[role="chapter-start"]
-include::{includedir}/04_2064_Schwachstellen in Computern.adoc[]

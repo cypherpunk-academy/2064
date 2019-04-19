@@ -1,9 +1,0 @@
-:includedir: ../chapters
-
-include::{includedir}/37_2021_Der Oberst.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/38_2019_Academi.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/39_2064_Fortunato.adoc[]

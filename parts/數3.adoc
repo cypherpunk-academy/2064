@@ -1,9 +1,0 @@
-:includedir: ../chapters
-
-include::{includedir}/05_2019_Einbruch in Amerika.adoc[] 
-
-[role="chapter-start"]
-include::{includedir}/06_2064_Ein Überraschungspaket.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/07_2019_Nur 30 Sekunden.adoc[]

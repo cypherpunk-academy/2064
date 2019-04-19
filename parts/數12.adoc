@@ -1,9 +1,0 @@
-:includedir: ../chapters
-
-include::{includedir}/34_2019_Die Schwachstellen-Datenbank.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/35_1915_Nach der Bombe.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/36_2019_Überraschende Nachricht.adoc[]

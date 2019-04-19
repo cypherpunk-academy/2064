@@ -1,9 +1,0 @@
-:includedir: ../chapters
-
-include::{includedir}/19_2019_Die Psychologin.adoc[] 
-
-[role="chapter-start"]
-include::{includedir}/20_2019_Unterschiedliche Strategien.adoc[]
-
-[role="chapter-start"]
-include::{includedir}/21_2064_Die Sphinx.adoc[]

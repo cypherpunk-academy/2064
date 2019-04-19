@@ -1,3 +1,0 @@
-projectDirectory = "$CWD"
-TM_LATEX_MASTER = "$CWD/2064_book.tex"
-TM_GIT         = "/usr/local/bin/git"

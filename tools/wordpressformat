@@ -1,4 +1,0 @@
-perl -C -p -i -e 's/([\?\.\!])\n/$1 /g' $1
-perl -i -pe 'BEGIN{undef $/;} s/\<\/div>\n\<\/div>\n\<\/div>\n\<div id\=\"footer\"\>.*//smg' $1
-perl -i -pe 'BEGIN{undef $/;} s/\<\!DOCTYPE html\>.*(\<div id\=\"content\"\>)//smg' $1
-

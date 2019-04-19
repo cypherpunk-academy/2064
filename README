@@ -3,22 +3,5 @@
 ## File structure
 
 chapters/ | The chapters of the book. Change texts here.
-parts/ | Include file defining how the chapters are grouped
 html/ | HTML pages of all parts
-mail/ | Subscriber data
-tools/ | Conversion and mailing tools
-
-## Utilities & Functions
-
-### make 
-
-Builds all parts of the book. They are stored in html/.
-
-### make publish
-
-Publishes changed html pages in wordpress. Password file tools/wppwd needed.
-
-### tools/sendparts.sh
-
-Sends all current parts to all subscribers listed in the file mail/mail.json
-Only sends mail out on mailing days. And only sends them out once.
+book/ | Book definitions
