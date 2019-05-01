@@ -1,0 +1,9 @@
+## **2064** Heimweg
+
+Die Sonne ging hinter dem Spiele-Labor unter und tauchte das ganze Schulgelände in ein goldenes Licht.
+Lasse und Sigur sprangen über den Bach, der um das Haus herumfloss.
+Hinter ihnen kamen Marlene und Lilly.
+Sie liefen zwei und zwei den Hauptweg des Schulgeländes hinunter und unterhielten sich angeregt, mit vielen Gesten und voller Freude.
+Lasse ließ sich zurückfallen und sagte etwas zu Marlene.
+Sie nickte.
+Er blieb stehen, hielt sich die Augen zu und lachte.

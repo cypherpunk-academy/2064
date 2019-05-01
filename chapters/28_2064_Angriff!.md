@@ -1,0 +1,86 @@
+## **2064** Angriff!
+
+<span style="font-variant:small-caps;">Lasse und Sigur</span> standen in ihrem Spiele-Raum vor ihren schwebenden Bildschirmen.
+Jeder hielt in seinen Händen zwei etwa faustgroße Spielkontroller, die er auf komplizierte Weise bewegte, drückte und drehte.
+Beide waren äußerst konzentriert und angespannt.
+In einem etwa zwei mal zwei mal zwei Meter großen Raum vor den Bildschirmen war ein Luftkampf zu sehen, verschiedene fliegende Kampfroboter, die sich gegenseitig jagten und auszuweichen versuchten.
+Unten rechts stand ein Datum: 22.
+März 2028.
+
+Sigur: „VON LINKS!“
+
+Lasse: „HINTER DIR!“
+
+Sigur: „HOL IHN WEG VON MIR! HOL IHN WEG …“
+
+Lasse: „Klein’ Moment.“
+
+Lasse sprang ein wenig nach links, riss seinen rechten Arm hoch, schüttelte zweimal den Kontroller in der linken Hand und begann dann wie wild auf beide Kontroller zu drücken.
+Kurz darauf hörte man laute Explosionsgeräusche.
+
+Lasse lachte laut auf, als er durch die riesige Feuerwolke vor ihm hindurchflog: „BOUMMM! Weg ist er!“
+
+Sigur atmete durch: „Danke dir.
+Einer noch.
+Den machen wir zusammen.
+Komm, wir fliegen eine Flügelspirale.
+Drei, zwei, eins, go …“
+
+Die beiden Kampfroboter von Lasse und Sigur flogen in einer Schleife nach oben, entfernten sich dabei von einander, um sich dann um die eigene Achse zu drehen und gemeinsam um 90 Grad versetzt auf den feindlichen Kampfroboter zu stürzten.
+Der versuchte mit allerlei Flugmanövern zu entkommen.
+Aber Lasse und Sigur waren ein zu gut eingespieltes Team, als dass sie ihm eine Lücke lassen würden.
+Sigur setzte sich direkt hinter ihn.
+Er ließ einige Möglichkeiten zu schießen verstreichen, blieb gelassen hinter ihm, bis er so nah dran war, dass sein Gegner aufgab und einfach geradeaus weiterflog.
+Sigur drückte die Knöpfe an seinen beiden Kontrollern einmal kurz, zwei Scram-Raketen schossen los und der Kampfroboter vor ihm verschwand ebenfalls in einem Feuerball.
+
+Lasse, Sigur: „YEAH!!“ Sie schmissen ihre Kontroller auf den Tisch und klatschten sich ab.
+
+Lasse: „Das war geil! Wow.
+So einen Luftkampf hatte ich noch nie.
+Das war ja richtig ernst.
+Ich bin fast ins Schwitzen gekommen.“
+
+Sigur: „Die waren echt gut.
+Die haben sich gar nicht wie Computerspieler angefühlt.
+Toll programmiert.
+Cool.“
+
+Lasse: „Vielleicht waren es keine Computerspieler.“
+
+Sigur: „Komm … hej … du meinst wir haben gerade fünf echte Spieler vom Himmel geholt? Das wäre ja der Hammer.
+Nee.
+Warum sollten sie sich einfach so trauen uns anzugreifen? Sie müssen doch wissen, wer wir sind.“
+
+Lasse hob seine Stirn: „Vielleicht weil sie zu fünft waren?“
+
+Sigur schmunzelte: „Okay, lass uns die Dinger heim fliegen.
+Es sind eh nur noch 10 Minuten heute.“
+
+Vor ihren Bildschirmen erschien Lilly als etwa 50 cm große dreidimensionale Figur.
+Beiden stockte der Atem.
+Sie schauten gebannt auf sie.
+
+Lilly: „Ich habe eine Nachricht für euch von Marlene.
+Ihr müsst sofort kommen.“
+
+Das Bild von Lilly verschwand.
+Lasse und Sigur schauten sich fassungslos an.
+
+Lasse: „Warum jetzt? Was ist passiert? Das verstehe ich nicht.
+Wir haben doch nur ein paar Flugroboter vom Himmel geholt.“ Er spürte seinen Herzschlag stärker werden.
+„Wie waren noch ihre Signaturen?“
+
+Sigur: „Alle falsch.
+Habe ich geprüft.
+Tarnung.“
+
+Lasse: „Tarnung, oder …“
+
+Sigur: „Lass uns gehen.
+Wir haben nicht viel Zeit.“
+
+Lasse und Sigur stellten sich vor ihre Monitore auf zwei Gleichgewichtssensoren, quadratische Platten von etwa 60 cm Größe, mit denen man sehr gut gehen, sitzen, springen, drehen, rennen, liegen und kauern simulieren konnte.
+Der Raum verdunkelte sich.
+Sie nahmen zwei Glaskugeln von etwa 50 cm Durchmesser.
+Sie waren sehr leicht, nach unten hin offen und hatten ein Schulterpolster.
+Sie setzen sie auf und beide Kugeln erstrahlten in weißem Licht.

@@ -1,0 +1,36 @@
+## **2021** Academi
+
+<span style="font-variant:small-caps;">Die Sonne ließ</span> ihre letzten Strahlen auf die Küstenlinie von Saudi-Arabien scheinen.
+Mehrere Boote der ägyptischen Küstenwache kreuzten an der Stelle, wo auf dem Meeresgrund das Hackerspace-Schiff lag.
+Über ihnen schwebte ein Hubschrauber.
+Ein Armee-Offizier auf einem Boot hielt Marlenes nassen Taucheranzug in den Händen.
+Neben ihm standen zwei Academi-Soldaten.
+
+Armee-Offizier: „Eine halbe Stunde, nicht mehr.
+Shit.
+Aber danke für den Tipp mit der Abzweigung im Hotel.“
+
+Erster Academi-Soldat: „Sie können nicht weit kommen.
+Es war sicherlich ein Touristen-U-Boot.
+Höchstens bis Sharm-El-Sheik. Oben nach Israel werden sie sich nicht hineinwagen.
+Wir haben Leute an der ganzen Küste.“
+
+Armee-Offizier: „Wir kriegen die Satelliten-Daten.
+Was ist mit Saudi-Arabien?“
+Er zeigte in Richtung des entfernten Ufers.
+
+Zweiter Academi-Soldat: „Um Gottes Willen.
+Auf keinen Fall.
+Der saudische Geheimdienst ist da überall.
+Und die haben alle Befugnisse.“ Er lächelte.
+„Und wir haben ihnen schon Bescheid gesagt.
+Die haben dort überhaupt keine Skrupel, egal womit.
+Nein, da gehen sie nicht rein.
+Das wäre Selbstmord.“
+
+Erster Academi-Soldat: „Sharm-El-Sheik! Sie gehen nach Sharm-El-Sheik.
+Er hat Familie dort.
+Da hat er sicher auch das Boot her.
+Ich schicke meine Männer dahin.“
+
+Armee-Offizier: „Wir bleiben in Kontakt.“

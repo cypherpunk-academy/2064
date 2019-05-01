@@ -1,0 +1,99 @@
+## **2023** Antwort 
+
+<span style="font-variant:small-caps;">Kevin schaute auf</span> die Uhr.
+Ein halbe Stunde war vergangen, seit sie die Nachricht an WikiLeaks geschickt hatten.
+Immer noch kein Tweet, keine Antwort, überhaupt keine Reaktion.
+
+Lukas: „Sie schreiben schon noch, Kevin.
+Mach dir keine Sorgen.
+Sonst finden wir einen anderen Weg.“
+
+Kevin war ein wenig unsicher: „Zeig mir nochmal den Brief.“
+
+Lukas schob ihm Sophies Laptop herüber.
+Es klopfte an der Tür.
+Anni stand auf und öffnete.
+„Kein Lehrer würde klopfen“, dachte sie und lächelte.
+
+Draußen stand ein etwa 25-jähriger Mann.
+
+Mann: „Darf ich reinkommen?“
+
+Anni: „Ja, bitte.“
+
+Lukas schaute zur Tür und rief: „Oskar!
+Was machst du hier?“
+
+Oskar lachte: „Luke, du bist hier?
+In _der_ Klasse.
+Das wusste ich nicht.
+Das ist ja gut!“
+
+Er ging auf ihn zu und sie umarmten sich.
+
+Lukas: „Hej, das ist kein Zufall, dass du hier bist, nicht?“
+
+Oskar schüttelte den Kopf: „Nein.
+Ich komme von WikiLeaks.
+Ich war gerade am nächsten an euch dran, und so haben sie mich gefragt, ob ich bei euch vorbeischauen will.
+Sie brauchen eine Information.“
+
+Lukas: „WikiLeaks!“
+
+Er drehte sich um und rief in die Klasse: „Hej, Oskar hier kommt von WikiLeaks.“
+
+Alle schauten auf.
+Kevin und Anni stellten sich um Lukas.
+Andere kamen hinzu.
+
+Lukas: „Was für eine Information braucht ihr?“
+
+Oskar: „Habt ihr gerade diese Nachricht an WikiLeaks geschickt?“ Er hielt Lukas ein Blatt Papier entgegen.
+
+Lukas nahm es, schaute es an und nickte: „Allerdings, das haben wir.“ Er gab das Blatt an Kevin weiter.
+
+Oskar ballte eine Faust: „Geil!
+Dann ist das echt!
+Super!
+Hej, was ihr da macht ist echt gut!
+Das hat Sprengkraft, sage ich euch.
+Da warten im Augenblick einige bei WikiLeaks super gespannt auf eine Bestätigung, das könnt ihr glauben.
+Die machen gerade nichts anderes.
+Sie sind völlig aus dem Häuschen.
+Das wird ein Riesending.
+
+Also, wenn ihr einen Retweet wollt, dann schickt das Codewort: „Marlene for President“ an WikiLeaks.
+Und wenn ihr wollt, dass sie nicht nur retweeten, sondern mit dem Brief machen, was sie wollen, dann schickt: „Marlene for President!!“, mit zwei Ausrufezeichen.
+Dann werden sie das so richtig bekannt machen.“
+
+Die ganze Klasse hatte sich inzwischen um die Gruppe gesammelt.
+Kevin setzte sich vor seinen Laptop und begann zu tippen. „Marlene for President Ausrufezeichen Ausrufezeichen“, las er laut.
+„Irgendwer dagegen?“ Er schaute sich um.
+„Nein?
+– Okay.
+Weg ist sie!
+Yeah!“
+
+Er sprang auf und klatschte sich mit Lukas ab, dann mit etwas Zögern auch mit Oskar.
+Andere Schüler machten das Gleiche, viele umarmten sich.
+
+Kevin sprang herum: „Geil, geil, geil.“ Er sprang auf Sophie zu und umarmte sie.
+
+Oskar lachte und schaute auf Kevin, dann auf die Klasse: „Hey, hier ist es cool.
+Ich glaube, hier bleibe ich ein bisschen.
+Das fühlt sich gut an.
+Vielleicht kann ich euch auch ein wenig helfen.
+Wie sieht es bei euch mit Opsec aus?“
+
+„Opsec?“ fragte Lukas.
+
+Oskar: „Operational Security.
+Wie gut seit ihr gegen Überwachung gesichert?
+Habt ihr Linux?
+Cubes?
+AMT-freie Computer?
+Eine Blechdose für alle Smartphones?
+Ich meine, das hier wird ein Ding für die Geheimdienste.
+Die wollen hier live dabei sein, davon könnt ihr ausgehen.
+Aber das kriegen wir hin.
+Die werden wir ein bisschen fluchen lassen.“
