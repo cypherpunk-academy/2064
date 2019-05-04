@@ -1,4 +1,4 @@
-¢== **2064** Die Cypherpunk-Akademie
+== **2064** Die Cypherpunk-Akademie
 
 <span style="font-variant:small-caps;">Edgar sprach eindringlicher:</span> „Marlene Farras war 16 Jahre alt, als sie die NSA-Schwachstellen-Datenbank gehackt hat.
 Und vor allem dann allen Menschen zur Verfügung gestellt hat.

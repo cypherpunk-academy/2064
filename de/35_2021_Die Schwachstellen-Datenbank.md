@@ -121,12 +121,9 @@ Da! Die Datei war fertig.
 Sie tippte: 
 
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 cp 2021_09_12_1403_ebup.gz /tmp1
-....
-****
-
+</div>
 Der Befehl machte eine Kopie der Datei.
 Aber sie lag immer noch auf dem gleichen Computer im Hochsicherheitsbereich.
 Es dauerte endlose Sekunden.

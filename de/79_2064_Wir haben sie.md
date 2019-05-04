@@ -4,13 +4,10 @@
 Zwei Agenten saßen ohne Jackets auf dem Sofa.
 Er schaute in Richtung Fernseher, wo unter einer Nachrichtensendung eine Laufschrift erschien: 
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 „2.7 Millionen Bitcoins, für Turkmenistan, Afghanistan, Usbekistan, 
 Iran, Pakistan …“ 
-....
-****
-
+</div>
 Er fuchtelte mit den Armen und schrie so laut er konnte: „HUAARRRKRMPLSIGURRRR“
 Dann zog er eine Pistole aus seiner Hose und feuerte zweimal auf den Monitor.
 Splitter flogen durch den Raum.

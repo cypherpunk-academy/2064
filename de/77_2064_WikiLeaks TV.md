@@ -126,12 +126,9 @@ Oh, shit!
 Was steht da am unteren Bildrand?
 
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Mehr Informationen in zehn Minuten.
-....
-****
-
+</div>
 Das wird ein Bekennerschreiben.
 Das ist orchestriert.
 WikiLeaks ist da mit an Bord.

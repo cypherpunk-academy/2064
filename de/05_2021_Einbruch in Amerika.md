@@ -51,13 +51,10 @@ Jetzt wurde es zum ersten Mal spannend: „War das Passwort in der Zwischenzeit 
 
 „L V 7 j o l g S 7 b r T 5 M“ und dann die Enter-Taste.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 
 „karlibender@trt.princeton.edu: ~$“,
-....
-****
-
+</div>
 erschien auf dem Bildschirm.
 
 „JAH!“, rief sie laut und schaute sofort über den Rathausplatz.
@@ -84,16 +81,13 @@ Und nach einigem Stöbern hatte sie Spuren zu sieben Computern gefunden, davon f
 Drei waren also übrig.
 Ihre Adressen waren:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 23.66.234.12
 
 23.66.177.120
 
 23.66.177.121
-....
-****
-
+</div>
 Internet-Adressen von Computern bestanden aus mit Punkten getrennten Zahlen, oft aus vier Zahlen zwischen 0 und 255.
 Jeder Computer im Internet hatte eine solche Adresse, darüber konnte man sie erreichen.
 Sie hatten meistens zusätzlich auch lesbare Namen, wie www.torproject.org oder www.google.com.
@@ -162,12 +156,9 @@ Wieder drin! Sie atmete kurz durch.
 
 „Weiter!“, dachte sie und tippte:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 ssh randw@23.66.234.12
-....
-****
-
+</div>
 Ihr Herz klopfte.
 ssh, dass waren nur drei Buchstaben, aber ein Schlüssel, um andere Welten aufzuschließen.
 Damit konnte man von einem zum nächsten Computer springen.
@@ -175,8 +166,7 @@ Und jetzt war sie vielleicht in einen NSA-Computer gesprungen.
 „randw“ war anscheinend der Name des NSA-Manns, zumindest stand er so in den Logdateien.
 Sie drückte die Enter-Taste.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 *** NSA T.A.O.
 SECTION 23-54 ***
 * THIS COMPUTER IS FOR AUTHORIZED ACCESS ONLY.
@@ -189,9 +179,7 @@ SECTION 23-54 ***
 Welcome, Randy!
 
 randw@randy.tao.nsa.mil:~$
-....
-****
-
+</div>
 Sie konnte kaum atmen.
 Ihr Herz schlug spürbar.
 Sie war drin! In einem NSA-Computer.

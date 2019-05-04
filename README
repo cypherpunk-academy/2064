@@ -5,3 +5,5 @@
 chapters/ | The chapters of the book. Change texts here.
 html/ | HTML pages of all parts
 book/ | Book definitions
+
+pandoc

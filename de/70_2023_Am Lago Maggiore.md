@@ -137,8 +137,7 @@ Luigi: „Ja, ich glaube“.
 Er ging weg und kam mit einem Block und einem Kugelschreiber wieder.
 Marlene legte den Block auf ihren Laptop und begann zu schreiben:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Liebe Sophie, Anni, Kevin, Aischa, Lukas, Janis, Lisa, Leonie,
 Felix, Berem, Jannik, Jannick, Philip, Moritz, Antonia, Aylin,
 Johanna, Tom, Jonas, Devin, Marie, Lena, Nils, Marwin, Emilie,
@@ -200,9 +199,7 @@ Ich hoffe, ich sehe euch mal wieder …
 
 
 Marlene
-....
-****
-
+</div>
 Luigi: „Hej!
 Das liest sich gut!
 Und du hast Recht.

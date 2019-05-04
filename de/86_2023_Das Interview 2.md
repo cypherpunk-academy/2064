@@ -56,8 +56,7 @@ Dafür gibt es dann eine Zusatzfrage.“
 
 Marlene zog einen Zettel heraus und las: „Erste Frage:“
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Was hat Ihrer Meinung nach in einer Demokratie eine größere
 Bedeutung: Das Recht der mündigen Bürger, die Dinge zu erfahren,
 die sie etwas angehen? Damit meine ich alles, was sie als mündige 
@@ -67,9 +66,7 @@ leisten. Oder auf der anderen Seite die Geheimhaltung von solchen
 Dingen aus taktischen Überlegungen, damit sie nicht von feindlichen
 Kräften ausgenutzt werden?
 
-....
-****
-
+</div>
 
 Die Präsidentin lachte: „Oh, ja.
 Das ist eine gute Frage ...
@@ -108,8 +105,7 @@ Marlene: „Zweite Frage?“
 
 Die Präsidentin nickte.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Wenn ein Hacker oder eine Hackerin Schwachstellen öffentlich
 macht, die er oder sie in einem Hack herausgefunden hat und
 dafür international gesucht wird, würden Sie im Rahmen eines
@@ -118,9 +114,7 @@ aufheben?
 
 
 Würden Sie im konkreten Fall meinen Haftbefehl aufheben?
-....
-****
-
+</div>
 Moderatorin: „Stop!
 Marlene, das ist eine persönliche Frage.
 Das ist gegen die Regeln dieser Sendung.
@@ -150,8 +144,7 @@ Marlene: „Meine dritte Frage:“
 
 Sie zögerte und schaute kurz zur Präsidentin, atmete durch.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Wenn ich einen Bruder hätte, der wegen meines Hacks verhaftet
 wurde und seit jetzt zwei Jahren in einem geheimen CIA-Gefängnis
 sitzt, ohne dass er irgendetwas damit zu tun hat, der vermutlich
@@ -159,9 +152,7 @@ nur festgehalten wird, weil er mein Bruder ist, würden Sie mir
 helfen, ihn da herauszubekommen?
 
 Und wenn ...
-....
-****
-
+</div>
 Die Moderatorin ging verärgert dazwischen: „Marlene!
 Das sind persönliche Fragen.
 Wir hatten gesagt, keine persönlichen Fragen.

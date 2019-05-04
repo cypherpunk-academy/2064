@@ -80,16 +80,12 @@ Marlene: „Bis bald! Ich bin so froh, dass es euch gibt.“
 Sie klickte das Chat-Fenster weg und wechselte die Tails-Identität.
 Auf ihrem Bildschirm erschien:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 „New message received from Totaot.“ 
-....
-****
-
+</div>
 Sie schrieb: „show“
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Ich bin gerade über Jabber kontaktiert worden. Jemand,
 der dich über Pond sprechen will. Keine Ahnung, wo der
 meine Adresse her hat. Ist ein bisschen scary. Er hat
@@ -101,9 +97,7 @@ ist. Keine Ahnung welche Corinne er meint.
 LG, Fred
 
 Pond-Secret: DECD !E02 (0E6 !82C B9E9
-....
-****
-
+</div>
 Marlene atmete ein.
 „Corinne“, dachte sie.
 Sie hatte vier Monate nichts von ihr gehört.
@@ -124,32 +118,23 @@ Konnte sie es wagen?
 
 Alle ihre Gedanken verschwanden und sie begann zu tippen:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 new-contact boatly_unknown_contact DECD !E02 (0E6 !82C B9E9
-....
-****
-
+</div>
 Mit diesem Befehl sagte man Pond, dass man Kontakt zu jemandem aufnehmen wollte: Man gab einen Namen ein und ein Geheimnis.
 Der andere tat mit dem selben Geheimnis genau dasselbe.
 Und wenn sich die beiden Geheimnisse irgendwo im dunklen Teil des Internets trafen, dann wurde eine sichere Verbindung zwischen beiden Seiten errichtet.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Key exchange with boatly_unknown_contact complete.
-....
-****
-
+</div>
 „Wow!“, dachte Marlene.
 „Das ging schnell.
 Fast ein bisschen zu schnell.“
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Message received from boatly_unknown_contact.
-....
-****
-
+</div>
 Marlene stutzte: „Und gleich eine Nachricht.
 Da will wirklich jemand mit mir reden.“
 
@@ -158,8 +143,7 @@ Aber es war möglich, die Zeit abzukürzen.
 
 Sie tippte: „show“.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Hallo Marlene,
 
 du kennst mich nicht, aber ich weiß einiges über
@@ -168,13 +152,10 @@ irgendwo in den USA. Es geht ihm wohl den Umständen
 entsprechend gut. Über dich gibt es Vermutungen, dass
 du in Dahab oder in Hurghada bist und du bist vor drei
 Stunden in die zentrale Datenbank der TAO eingebrochen.
-....
-****
-
+</div>
 Marlene stockte der Atem: „Wow.“ Sie las weiter.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Corinne ist tot. Sie war im gleichen Gefängnis wie
 dein Bruder und hat es nicht geschafft. Ich weiß nicht
 genau, wie es passiert ist. Aber die wollten Dinge über
@@ -208,45 +189,34 @@ Orten, wo du Freunde und Familie hast. Wenn du Fragen hast,
 schreib. Ich bin jetzt hier.
 
 Lieben Gruß, Anita
-....
-****
-
+</div>
 „reply“, tippte Marlene:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Woher weiß du, dass ich in der Datenbank war?
-....
-****
-
+</div>
 „send“.
 
 Kaum eine Minute später:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Die Reihenfolge, wie du die Logdateien der zwölf Rechner
 geholt hast, war dieselbe wie die, als du beim ersten 
 Mal vor einigen Monaten in einem TAO-Rechner warst. Und
 noch einige andere Dinge haben übereingestimmt. Wir haben
 hier Hacker-Profile, die erfassen das.
-....
-****
-
+</div>
 Marlene drückte sich mit der Hand auf ihre Brust.
 „Oh Gott“, dachte sie, „das kann echt sein.“ Sie sprang auf.
 Ging ein paar Mal um den Tisch herum, setzte sich wieder.
 In solchen Situationen vertraute sie nur ihrem Gefühl.
 Nach zwei weiteren Minuten schrieb sie:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Kannst du heute noch einen aktuellen Raspberry PI kaufen,
 eine HD-Kamera, einen 2TB-Memory-Stick? Und hast du Zugang
 zu Serverraum der 07-Maschine? 
-....
-****
-
+</div>
 „send“.
 
 Marlene schaute gebannt auf den Monitor.
@@ -260,28 +230,21 @@ War sie eine Frau oder eine Mann?
 Wie alt?
 Oder vielleicht sogar eine Gruppe, die jetzt gerade alle vor einem NSA-Monitor standen und sich berieten, was sie als nächstes schreiben sollten?
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Message received from boatly_unknown_contact.
-....
-****
-
+</div>
 erschien auf dem Bildschirm.
 „show“ tippte Marlene.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Ja.
-....
-****
-
+</div>
 Marlene schloss die Augen.
 Es war ein Risiko.
 Aber alles war jetzt riskant.
 Sie schrieb:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Anita,
 
 du bekommst in ein paar Stunden ein Programm für den
@@ -292,9 +255,7 @@ Raspberry damit starten. Du platzierst es nicht weiter als
 3 Meter vom Monitor von der 07-Maschine weg. Du tippst P A U L
 ein. Alles Weitere passiert automatisch. Es wird ca. 8 Stunden
 dauern. Schreib ihm, wenn du den Stick fertig hast.
-....
-****
-
+</div>
 „send“.
 Sie schickte die gleiche Nachricht auch an Totaot.
 

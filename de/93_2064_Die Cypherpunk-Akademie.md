@@ -426,16 +426,13 @@ Tin zeigte auf die Lichtung mit der Lotusblume.
 Tin schickte eine Libelle zur Lotusblume.
 Über ihr erschien eine Schrift aus Blütenstaub, die seltsam leuchtete.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Man muss sich anpassen, um im Leben etwas zu erreichen, um
 erfolgreich zu sein. Und alles, was man nicht macht, weil
 man sich anpasst, das muss man ersetzen. Zum Beispiel dadurch,
 viel Geld zu haben, das schönste Haus, die aufregendsten Reisen,
 zu machen oder irgendetwas anderes Spannendes oder Schönes.
-....
-****
-
+</div>
 „Auf den Ebenen-Inseln wirst du einen Menschen finden, auf den dieser Gedankenfehler passt.
 Es passt ja für fast alle Menschen dieser Zeit, aber bei diesem einen ist es ganz besonders deutlich.
 Er oder sie sucht nach dem Gedanken und du kannst ihm oder ihr dann den Gedanken schenken, dann wirst du dafür etwas bekommen.“

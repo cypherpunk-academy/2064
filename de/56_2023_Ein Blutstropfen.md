@@ -78,24 +78,18 @@ Er zog das Büchlein zu sich hin, riss alle schon beschriebenen Seiten heraus un
 Dann schlug er die erste Seite auf und nahm den Stift.
 Er dachte: „Eric Hughes ... Verschlüsselung“  und begann zu schreiben:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Alles beginnt mit Verschlüsselung.
-....
-****
-
+</div>
 Er schaute auf den ersten Satz, nickte und schrieb weiter.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 1 -- Verschlüsselung ist die Grundlage unserer persönlichen Frei-
 heit. Wir müssen wählen können, wer unsere Informationen bekommt
 und wer nicht. Wir müssen uns verstecken können, uns den Blicken
 derer entziehen, die zerstören wollen, was wir schaffen. Jeder
 Anfang braucht Schutz.
-....
-****
-
+</div>
 Ein Blutstropfen fiel von seiner Nase auf das Papier.
 Es schaue ihn fasziniert an und achtete darauf, dass er nicht verlief, sondern so trocknete wie er war.
 

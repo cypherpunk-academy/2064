@@ -7,8 +7,7 @@ Anni: „Ich lese ihn vor:“
 
 Kevin: „Super.“
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Liebe Marlene!
 
 
@@ -60,9 +59,7 @@ du vorhast. Es wäre so schön, dich jetzt hier bei uns zu haben.
 
 
 Deine Klasse
-....
-****
-
+</div>
 Kevin schaute in die Runde: „Sind alle einverstanden?“
 
 Anni wischte sich eine Träne aus den Augen: „Ja.“

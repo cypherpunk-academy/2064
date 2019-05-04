@@ -36,3 +36,6 @@
 *.xmpi 
 *.xref 
 *blx.bib 
+progit
+tools
+.vscode

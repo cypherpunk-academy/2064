@@ -94,8 +94,7 @@ Mal gucken, was das so kann.
 Gib mal … nein, nicht deine! Um Gottes Willen.
 Die von Edward Snowden ein.“
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Edward Snowden
 
 Tätigkeitsschwerpunkt: Hacker, Internetaktivist, Internet-Sicherheit
@@ -115,9 +114,7 @@ Finanzdaten: 12334
 Portrait-Fotos: 72
 
 Kommunikationskontakte: 781
-....
-****
-
+</div>
 Sigur: „Shit, der hat im Bewegungsprofil nur 2% Abdeckung.
 Wie macht der das?
 Und schau mal, was das kostet: Volle Daten $ 65.000, Metadaten $38.000.

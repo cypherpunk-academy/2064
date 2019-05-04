@@ -8,20 +8,14 @@ Lasse startete Pond.
 Er schaute gebannt auf den Bildschirm.
 Zunächst die übliche Nachricht:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 >>> There are no messages waiting to be transmitted.
-....
-****
-
+</div>
 Er tippte „log“.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 - Jan 14 10:32:08 | Next network transaction in 5m23.029s seconds
-....
-****
-
+</div>
 „Fünf Minuten warten. Okay!“, dachte er.
 Pond holte und sendete Nachrichten nicht sofort, sondern nach zufällig bestimmten Zeiten.
 Dadurch konnten sich Geheimdienste schwerer ausrechnen, ob jemand gerade Pond nutzte.
@@ -30,19 +24,15 @@ Lasse: „Nee, nicht okay.“
 Er tippte „transact now“.
 Nach wenigen Augenblicken erschien:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 (Jan 14 10:40) Message received from sig
-....
-****
-
+</div>
 „Shit. Shit!
 Sie ist da: Die Nachricht von Sig“, dachte er, „Jetzt wird es spannend.
 Ist er frei?“
 Er tippte „show“.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Hi Lasse,
 
 ich bin bei Tim!!! Ja! Ich bin raus! Alles hat geklappt. Das ist
@@ -95,13 +85,10 @@ kommst du?
 
 
 Sig
-....
-****
-
+</div>
 Lasse schrieb: „reply“
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Hi Sig!
 
 Wow, super! Ich bin mit dem Hitchhiking gerade auf der dritten
@@ -109,18 +96,13 @@ Station. Ich denke, der Fahrer ist nicht vom LBI. Ist ein Kurier-
 fahrer und hat offensichtlich einen Kollegen dabei. Er bringt mich
 nach Phoenix. Dort wartet Trevor. Ich sehe dich morgen früh,
 denke ich.
-....
-****
-
+</div>
 Er speicherte die Nachricht und gab „send“ ein.
 Pond antwortete:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 >>> There is one message waiting to be transmitted.
-....
-****
-
+</div>
 Lasse atmete aus.
 Zwei Stunden noch bis Phoenix.
 „Okay“, dachte er, „Zeit, die erste Bombe zu entschärfen und ihre Bitcoins zurückzuschicken.“
@@ -129,38 +111,26 @@ Er öffnete das Terminal-Programm und stellte eine Verbindung zu dem Computer im
 Er schaute sie an: Noch 25 Minuten bis zur Detonation.
 Dann tippte er:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 bbomb --disarm
-....
-****
-
+</div>
 Das Programm antwortete:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Passphrase:
-....
-****
-
+</div>
 Er atmete durch.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 KvTsS#Fwf+w/~pOIet19
 
 Bitcoin bomb disarmed.
-....
-****
-
+</div>
 „So einfach ist das“, dachte er. „Okay, jetzt noch zurücküberweisen.“
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 bbomb --transfer-all 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy
-....
-****
-
+</div>
 In dem Augenblick, als er mit dem Finger die Eingabe-Taste drücken wollte, fuhr das Auto über eine Bodenwelle.
 Lasse machte zusammen mit dem Laptop einen Satz nach oben.
 
@@ -203,14 +173,11 @@ Nur diesmal viel näher.
 Er war bestimmt zwanzigmal größer als normale Heißluft-Ballons.
 Und auf ihm stand über die ganze Fläche geschrieben:
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 AK768-X5P
 
 sZEf\~ofUA+
-....
-****
-
+</div>
 Lasse starrte ihn an und nickte langsam.
 Er kannte den Ballon gut.
 Er kam von TRON.
@@ -244,8 +211,7 @@ Das wird ein Spaß.“
 
 Er lächelte und tippte.
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Hi Sig,
 
 Vom AK768-X5P aus werden die LBI-Kampfroboter gesteuert. Einer
@@ -254,7 +220,5 @@ MQ-11. Kannst du ihn finden? Ich komme dazu, wenn ich in
 Phoenix das Auto gewechselt habe. Das Passwort ist sZEf\~ofUA+
 
 Lasse.
-....
-****
-
+</div>
 Er wartete, bis Pond die Nachricht verschickt hatte, und klappte seinen Laptop zu.

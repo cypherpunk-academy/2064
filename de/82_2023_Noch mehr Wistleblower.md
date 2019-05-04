@@ -24,8 +24,7 @@ Kevin legte Lukas eine Hand auf die Schulter: „Geil.
 Da, klick auf den Button!“
 
 
-****
-....
+<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 AMAZON - APPLE - FACEBOOK - GOOGLE - MICROSOFT - TWITTER - DROPBOX
 
 GEMEINSAME STELLUNGNAHME
@@ -78,9 +77,7 @@ trotzdem, weil wir überzeugt sind, dies jetzt tun zu müssen.
 
 
 Wir hoffen auf Ihre Unterstützung.
-....
-****
-
+</div>
 Anni, Sophie und Oskar waren in der Zwischenzeit zum Rechner von Lukas gekommen und hatten mitgelesen.
 Andere Schüler kamen hinzu.
 
