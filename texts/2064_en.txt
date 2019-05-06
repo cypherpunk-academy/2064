@@ -1,5 +1,6 @@
 
-{{{en/01_2064_The Game Lab.md}}}}
+{{{en/001_2064_The Games Lab.md}}}
+
 
 ## **2064** The Games Lab
 <span style="font-variant:small-caps;">It was the</span> best time of the year. Lasse strolled joyfully towards the games lab, which stood in the middle of the school grounds, where the stream branched and flowed around the lab on both sides.
@@ -86,7 +87,9 @@ Hey hey."
 Sigur looked at him closely and made a gesture: "Calm!
 We want to win this game, not get kicked out in five minutes."
 
-{{{en/02_2021_Marlene.md}}}
+
+{{{en/002_2021_Marlene.md}}}
+
 ## **2021** Marlene
 
 <span style="font-variant:small-caps;">Marlene gähnte.</span> German lessons, 10th grade, pressed boredom in the room.
@@ -167,7 +170,9 @@ With the terminal program everything went much faster and more accurate than wit
 And that was now important: to be fast.
 That's right.
 
-{{{en/03_2064_TRON-attack.md}}}
+
+{{{en/003_2064_TRON-Attack.md}}}
+
 ## **2064** TRON attack
 
 <span style="font-variant:small-caps;">Lasse and Sigur entered</span> their game room.
@@ -243,7 +248,9 @@ During the first game she had already found the documents that Edward Snowden of
 TRON had immediately added some missions to catch Lilly and many players accepted these missions.
 But she had managed to survive and keep the documents until the end of the game.
 
-{{en/04_2064_weaknesses in computers.md}}}}
+
+{{{en/004_2064_Vulnerabilities in Computers.md}}}
+
 ## **2064** Vulnerabilities in computers
 
 <span style="font-variant:small-caps;">Lasse and Sigur sat</span> at the dining table of the kitchen and both held on to a large cup of thick cocoa.
@@ -460,7 +467,9 @@ Lilly: "No.
 First, she already had Marie, and second, she'd have cheated.
 You're on the run for now."
 
-{{{en/05_2021_Burglary in America.md}}}
+
+{{{en/005_2021_Break-in in America.md}}}
+
 ## **2021** Break-in in America
 
 <span style="font-variant:small-caps;">Marlene pulled a scribbled note</span> out of her pocket.
@@ -705,7 +714,9 @@ And don't go directly, but buy something first."
 
 Marlene slowly got up and walked down the stairs without turning around again.
 
-{{{en/06_2064_A surprise package.md}}}}
+
+{{{en/006_2064_A Surprise Package.md}}}
+
 ## **2064** A surprise package
 
 <span style="font-variant:small-caps;">"Pling", said the communicator</span> of Lilly, and shortly afterwards, "pling, pling", also those of the two boys.
@@ -771,7 +782,9 @@ Lasse: "Marlene Farras? Is she still alive?"
 
 Sigur: "If she can drink cocoa, maybe..."
 
-{{{en/07_2021_only 30 seconds.md}}}}
+
+{{{en/007_2021_Only 30 Seconds.md}}}
+
 ## **2021** Only 30 seconds
 
 <span style="font-variant:small-caps;">Marlene bit </span> into a big hamburger and looked with slightly pinched eyes at her brother Marwin, who was sitting next to her.
@@ -881,7 +894,9 @@ Marwin got up and left the restaurant.
 Marlene pulled a paperback from her laptop bag and began to read.
 A play about Hilde von Papenburg, a freedom fighter during the First World War.
 
-{{{en/08_1913_Wilhelm.md}}}}
+
+{{{en/008_1913_Wilhelm.md}}}
+
 ## **1913**** William
 
 ### SCENE 1: Berlin 1913
@@ -925,8 +940,10 @@ From outside you can hear "Wilhelm, Wilhelm" shouts getting louder.
 He's breathing heavy.
 ____
 
-{{en/09_2021_Finite Action!.md}}}
-## **2021** Action at last!
+
+{{{en/009_2021_Some action at last.md}}}
+
+## **2021** 009_2021_Some action at last!
 
 <span style="font-variant:small-caps;">Frederik sat like </span> every morning at his desk on the 6th floor.
 The first floor of the headquarters of the Federal Intelligence Service in Berlin, the largest German secret service.
@@ -970,7 +987,9 @@ Who else needs to know? Do we have the license plates?"
 Frederik: "Yup.
 I'll send you over..."
 
-{{{en/10_2021_on the way home.md}}}
+
+{{{en/010_2021_On the way home.md}}}
+
 ## **2021** On the way home
 
 <span style="font-variant:small-caps;">Marlene trotted discontentedly</span> next to Marwin.
@@ -1033,7 +1052,9 @@ A so-called mesh network was an important building block for getting free Intern
 And all town halls also had a place somewhere without video surveillance.
 She briefly wondered if she should get a new computer, but decided to go directly there.
 
-{{{en/11_2021_treason.md}}}}
+
+{{{en/011_2021_Betrayal.md}}}
+
 ## **2021**** Betrayal
 
 <span style="font-variant:small-caps;">Marlene sat in the shade</span> leaning against a wall in front of Wedding City Hall.
@@ -1151,7 +1172,9 @@ After a while, she said quietly:
 
 "Shit, shit, shit, shit." She put her hands in her face and started crying.
 
-{{{en/12_2064_Marlene Farras.md}}}
+
+{{{en/012_2064_Marlene Farras.md}}}
+
 ## **2064** Marlene Farras
 
 <span style="font-variant:small-caps;">Marlene Farras entered</span> the small school stage of the assembly house, which lay on a hill at the edge of the school grounds.
@@ -1220,7 +1243,9 @@ But anything you want is possible.
 And so this way was found.
 Especially children and teenagers like you."
 
-{{en/13_2064_The Cypherpunk Academy.md}}}
+
+{{{en/013_2064_The Cypherpunk Academy.md}}}
+
 == **2064** The Cypherpunk Academy
 
 <span style="font-variant:small-caps;">Edgar spoke more forcefully:</span> "Marlene Farras was 16 years old when she hacked the NSA vulnerability database.
@@ -1305,7 +1330,9 @@ Marlene nodded, "I'm happy to do it." She turned to the audience.
 "But first we'll take a little break, right? The buffet's waiting.
 And food is also important."
 
-{{{en/14_2021,1913_Rede.md}}}
+
+{{{en/014_2021,1913_The speech.md}}}
+
 ## **2021, 1913**** The speech
 
 <span style="font-variant:small-caps;">Marlene was still sitting </span> in front of the Weddinger Rataus.
@@ -1411,7 +1438,9 @@ Together! He tore his fist in the air.
 Everything else goes down in the loud cheers of the masses.
 ____
 
-{{en/15_2021_We're not taking her!.md}}}
+
+{{{en/015_2021_We're not taking her!.md}}}
+
 ## **2021**** We're not taking her!
 
 At the headquarters of the BND in Berlin.
@@ -1494,7 +1523,9 @@ Frederik: "No! She stays where she is.
 I will once again search the Tails activities on the Internet for chat connections between New Jersey and Berlin.
 Maybe we'll find something."
 
-{{{en/16_2021_alone.md}}}}
+
+{{{en/016_2021_Alone.md}}}
+
 ## **2021**** Alone
 
 <span style="font-variant:small-caps;">Marlene lay on </span> the bed in her brother's basement bedroom.
@@ -1564,7 +1595,9 @@ And with Corinne...
 
 "Corinne!" called Marlene and stared spellbound at her laptop.
 
-{{en/17_2021_A friend.md}}}
+
+{{{en/017_2021_A friend.md}}}
+
 ## **2021** A girlfriend?
 
 <span style="font-variant:small-caps;">Marlene wondered,</span> what she should write Corinne, what she could write.
@@ -1744,7 +1777,9 @@ You..."
 
 Marlene clicked the window away and pulled the Tails Stick out of the computer.
 
-{{{en/18_2064_Elf basic ideas.md}}}}
+
+{{{en/018_2064_Eleven basic ideas.md}}}
+
 ## **2064** Eleven basic ideas
 
 <span style="font-variant:small-caps;">Marlene: "The eleven basic ideas</span> have helped us to understand better and better how one can free oneself from the clutches of superior opponents, how one can move and communicate freely, even if there are people who want to prevent this.
@@ -1833,7 +1868,9 @@ Especially the last two.
 Well, let's keep this a little exciting.
 You will know them when you are through the first seven thoughts in the Academy."
 
-{{{en/19_2021_The Psychologist.md}}}}
+
+{{{en/019_2021_The psychologist.md}}}
+
 ## **2021** The psychologist
 
 <span style="font-variant:small-caps;">It knocked on</span> Marlene's door.
@@ -1955,7 +1992,9 @@ Do you want that?"
 Marlene slowly looked up at Stefanie with a questioning look.
 Then she rose and disappeared into her room.
 
-{{en/20_2021_Different strategies.md}}}
+
+{{{en/020_2021_Different strategies.md}}}
+
 ## **2021** Different strategies
 
 <span style="font-variant:small-caps;">In the BND central.</span>
@@ -2058,7 +2097,9 @@ Frederik: "We tell them that she will soon be in a psychiatric ward.
 That's where they get access.
 Not now."
 
-{{en/21_2064_The Sphinx.md}}}}
+
+{{{en/021_2064_The Sphinx.md}}}
+
 ## **2064** The Sphinx
 
 [text-caps]#Lilly to Marlene Farras: "Thank you!
@@ -2157,7 +2198,9 @@ Mostafa grumbled next to her: "She can't come normal once like everyone else.
 Not even when the academy's inaugurated.
 Such a poop nose."
 
-{{{en/22_2021_Flux from the cellar.md}}}
+
+{{{en/022_2021_Escape from the basement.md}}}
+
 ## **2021**** Escape from the basement
 
 <span style="font-variant:small-caps;">Marlene scared</span> up in bed.
@@ -2219,7 +2262,9 @@ One stood up, glanced at her membership card and let her in.
 Inside, Marlene dropped onto a sofa and breathed deeply.
 One of the boys brought her a mate.
 
-{{{en/23_1913_Drohung.md}}}}
+
+{{{en/023_1913_Threat.md}}}
+
 ## **1913** Threat
 
 ### SCENE 3
@@ -2322,8 +2367,10 @@ Then both stand up greetingless and leave the room.
 Wilhelm puts his face in his hands.
 ____
 
-{{{en/24_2021_Night-Raid.md}}}
-## **2021**** Night Raid
+
+{{{en/024_2021_Night-raid.md}}}
+
+## **2021**** Night raid
 
 <span style="font-variant:small-caps;">The bedroom of </span> Marlene's parents was on the first floor of the house.
 Both slept deeply when suddenly there was a loud crash on the ground floor and a bright flash of lightning shone through the bedroom window.
@@ -2391,7 +2438,9 @@ The father jumped to the window and tried to get a look at him.
 
 The mother fell out of her room: Marlene! Marlene!"
 
-{{{en/25_2023_two years later.md}}}
+
+{{{en/025_2023_Two years later.md}}}
+
 ## **2023** Two years later
 
 <span style="font-variant:small-caps;">Marwin's prison cell was</span> three by two meters tall.
@@ -2463,7 +2512,9 @@ Soldier: "Up! Hurry, hurry, hurry.
 Shower first.
 You stink to heaven."
 
-{{{en/26_2021_Strandcafé in Dahab.md}}}
+
+{{{en/026_2021_Beach cafe in Dahab.md}}}
+
 ## **2021** Beach cafe in Dahab
 
 <span style="font-variant:small-caps;">Marlene sat up </span> some seat cushions in a beach café in Dahab, a small tourist nest at the Red Sea.
@@ -2623,7 +2674,9 @@ Lots going on today.
 "Will you program me something?" He jumped up and hurried to the bar.
 She smiled after him.
 
-{{{en/27_1915_Fight at the Brandenburg Gate.md}}}
+
+{{{en/027_1915_Fight at the Brandenburg Gate.md}}}
+
 ## **1915** Fight at the Brandenburg Gate
 
 ### SCENE 4
@@ -2672,7 +2725,9 @@ Billets appeared, flags were rolled up, the crowd began to move.
 Wilhelm turned to some men standing around the platform to protect it: "You go too! I can manage here."
 ____
 
-{{en/28_2064_attack!.md}}}
+
+{{{en/028_2064_Attack!.md}}}
+
 ## **2064**** Attack!
 
 <span style="font-variant:small-caps;">Lasse and Sigur</span> stood in their game room in front of their floating screens.
@@ -2760,7 +2815,9 @@ They took two glass balls about 50 cm in diameter.
 They were very light, open at the bottom and had a shoulder pad.
 They put them on and both bullets shone in white light.
 
-{{en/29_2064_A new task.md}}}
+
+{{{en/029_2064_A new task.md}}}
+
 ## **2064** A new task
 
 <span style="font-variant:small-caps;">Lasse and Sigur</span> ran up the grass path to a round hut standing on a big rock.
@@ -2918,8 +2975,10 @@ Lasse followed her after a short time.
 
 "I'm not a cypher punk," Sigur mumbled and trotted out of the hut behind Lasse.
 
-{{{en/30_2064_The Command Center.md}}}}
-## **2064** The command center
+
+{{{en/030_2064_The Command Center.md}}}
+
+## **2064** The Command Center
 
 <span style="font-variant:small-caps;">Marlene ran down the rock with Lilly</span>. At the dark green hyper-door, which stood at the foot of the rock, they passed by. Lasse and Sigur disappeared behind them with a slight blue twitch of light.
 
@@ -3017,7 +3076,9 @@ Marlene pointed to the door and Lilly walked through.
 Marlene followed her.
 s
 
-{{{en/31_2023_Home.md}}}}
+
+{{{en/031_2023_Home.md}}}
+
 ## **2023** Home?
 
 <span style="font-variant:small-caps;">Marwin sat in</span> a windowless meeting room at a table.
@@ -3147,7 +3208,9 @@ I'm staying here! If Mari has made it so far, then she has ploughed through the 
 He knew her well.
 He smiled a little and thought, "You've been messing with Mari ... now you'll just have to see how you get out."
 
-{{en/32_2021_The Boatly Hackerspace.md}}}
+
+{{{en/032_2021_The Boatly Hackerspace.md}}}
+
 ## **2021** The Boatly Hackerspace
 
 <span style="font-variant:small-caps;">Achmed came into the café from </span> the beach side and sneaked up on Marlene from behind.
@@ -3292,8 +3355,10 @@ Marlene: "Wow.
 
 She unpacked one of the laptops and plugged in power and network cables.
 
-{{{en/33_2021_Where is Marlene Farras.md}}}
-## **2021** Where's Marlene Farras?
+
+{{{en/033_2021_Where is Marlene Farras.md}}}
+
+## **2021** Where is Marlene Farras?
 
 <span style="font-variant:small-caps;">In the headquarters of the CIA</span> in Langley/Virginia/USA, a spacious office with a wide window front.
 A woman and two men in business attire sit opposite each other at the oval conference table.
@@ -3402,7 +3467,9 @@ Frau: "I think that's it for today.
 I'd also rather we had more.
 The XKeyScore code for the relevant data is here." She pushed two handwritten notes over to the two of them.
 
-{{{en/34_2023_I want to stay here.md}}}
+
+{{{en/034_2023_I want to stay here.md}}}
+
 ## **2023** I want to stay here
 
 <span style="font-variant:small-caps;">The woman looked </span> at Marwin with confidence: "We want to make you an offer you can't resist."
@@ -3511,7 +3578,9 @@ After a while he straightened up, looked into the room apathetically and started
 The man grabbed his folder and left the room.
 The woman looked at the table in front of her for a while, then at Marwin again, and then followed him.
 
-{{{en/35_2021_The vulnerabilities database.md}}}}
+
+{{{en/035_2021_The vulnerabilities database.md}}}
+
 ## **2021** The vulnerability database
 
 <span style="font-variant:small-caps;">Marlene sat concentrated</span> bent over her laptop.
@@ -3745,8 +3814,10 @@ Marlene shook her head and leaned against his shoulder:
 
 She stood up and sat down on the floor opposite the wall.
 
-{{{en/36_1915_After the bomb.md}}}
-## **1915**** After the bomb.
+
+{{{en/036_1915_After the bomb.md}}}
+
+## **1915**** After the bomb
 
 ### SCENE 5: Brandenburg Gate, after a bomb explosion
 ____
@@ -3860,7 +3931,9 @@ They're after those who think for themselves, who don't want to subordinate them
 Hilde: "Come, Wilhelm. I don't want to stay here right now. We're going home. There's a meeting tonight, so you can talk what you want to do with it."
 ____
 
-{{{en/37_2021_Surprising_News.md}}}
+
+{{{en/037_2021_Surprising message.md}}}
+
 ## **2021** Surprising message
 
 <span style="font-variant:small-caps;">Mariane sat alone</span> in front of her laptop, next to her a plate of chicken and rice.
@@ -4145,7 +4218,9 @@ Achmed grabbed a hook and tied it to Marlene's chest belt at the front.
 One for yourself, then.
 He gave a signal to the submarine driver and it started.
 
-{{{en/38_2023_The Colonel}}}}
+
+{{{en/038_2023_The Colonel}}}
+
 ## **2023** The Colonel
 
 <span style="font-variant:small-caps;">Marwin was still sitting </span> alone at the table in the meeting room.
@@ -4335,7 +4410,9 @@ His face turned turkey red, almost violet.
 He breathed out and inhaled a few times, grabbed the document, got up and left the room.
 The two officers followed him.
 
-{{{en/39_2021_Academi.md}}}
+
+{{{en/039_2021_Academi.md}}}
+
 ## **2021** Academi
 
 <span style="font-variant:small-caps;">The sun let</span> its last rays shine on the coastline of Saudi Arabia.
@@ -4373,7 +4450,9 @@ I'll send my men there."
 
 Army officer, "We'll be in touch."
 
-{{{en/40_2064_Fortunato.md}}}
+
+{{{en/040_2064_Fortunato.md}}}
+
 ## **2064** Fortunato
 
 <span style="font-variant:small-caps;">Lasse and Sigur</span> ran through the streets of Caracas in Venezuela.
@@ -4711,7 +4790,9 @@ It's just around the corner.
 Then we'll eat something good and keep looking."
 He started the car and drove back onto the road.
 
-{{{en/41_2064_In the Beach Apartment.md}}}
+
+{{{en/041_2064_In the Beach Apartment.md}}}
+
 ## **2064** In the beach apartment
 
 <span style="font-variant:small-caps;">Sigur and Lasse sat</span> in the living room of the beach apartment in two huge armchairs.
@@ -4845,7 +4926,9 @@ The people who care have more money?"
 Sigur: "Never mind.
 I'll keep looking. There's certainly more lying around on the computer."
 
-{{{en/42_2064_A Plan.md}}}}
+
+{{{en/042_2064_A plan.md}}}
+
 ## **2064** A plan
 
 <span style="font-variant:small-caps;">Fortunato sat at a table in </span> a beach café and spooned soup.
@@ -4917,7 +5000,9 @@ I don't want to kill him by accident."
 
 Jonny dry: "Okay."
 
-{{{en/43_1915_In a soup kitchen.md}}}
+
+{{{en/043_1915_In a soup kitchen.md}}}
+
 ## **1915** In a soup kitchen
 
 ### SCENE 6
@@ -5066,7 +5151,9 @@ Hilde starts to make soup again and smilingly says to the man who just had his t
 "He knows exactly how to do it. You can learn a lot from him."
 ____
 
-{{en/44_2064_Vault Burglary.md}}}
+
+{{{en/044_2064_Vault breach.md}}}
+
 ## **2064** Vault breach
 
 <span style="font-variant:small-caps;">Sigur closed his eyes</span> and grinned into himself.
@@ -5342,7 +5429,9 @@ Good night to you."
 
 "Night," Sigur gave back and they both climbed the stairs.
 
-{{{en/44a_2064_WIP_Amadeus.md}}}
+
+{{{en/045_2064_WIP_Amadeus.md}}}
+
 ## **2064** Amadeus
 
 <span style="font-variant:small-caps;">...</span>
@@ -5352,7 +5441,9 @@ Lilly at Command Center, along with another admin. Marlene in the background.
 Lilly as Mozart of the Hacker World
 
 ....
-{{{en/45_2023_Night-Owl.md}}}}
+
+{{{en/046_2023_Night-Owl.md}}}
+
 ## **2023**** Night-Owl
 
 <span style="font-variant:small-caps;">Marwin sat in the </span> meeting room at his table.
@@ -5565,7 +5656,9 @@ Amon rose and followed him outside.
 Marwin closed his eyes and said quietly, "Shit! That was a trick."
 He distorted his face, wiped the tears from his eyes and then stuffed the leaf into his mouth.
 
-{{en/46_2064_Special_Command.md}}}
+
+{{{en/047_2064_Special_Command.md}}}
+
 ## **2064** Special Command
 
 <span style="font-variant:small-caps;">In the games lab.</span> Lasse and Sigur stood opposite each other with light balls on their heads in front of the floating monitors.
@@ -5874,7 +5967,9 @@ He took another deep breath and entered the password for his Bitcoin safe.
 
 Edgar took his hand off Sigur's shoulder and left the room without a word.
 
-{{{en/47_2064_Nothin' like going here.md}}}
+
+{{{en/048_2064_Let's leave.md}}}
+
 ## **2064**** Let's get out of here!
 
 In a cab.
@@ -5943,7 +6038,9 @@ Lasse ran towards the door and shook the handle.
 No one seemed to notice him.
 Only a few passengers looked in astonishment as they passed by.
 
-{{{en/48_2022_A lake in Tasmania.md}}}
+
+{{{en/049_2022_By a lake in Tasmania.md}}}
+
 ## **2022** By a lake in Tasmania
 
 <span style="font-variant:small-caps;">Marlene sat on </span> a jetty at a beach in Tasmania.
@@ -6162,7 +6259,9 @@ And dessert.
 Hans makes a great Tiramisu.
 "Let's go, then I'll show you the garden where the things we'll eat are from."
 
-{{{en/49_2022_Sharing is Caring.md}}}
+
+{{{en/050_2022_Sharing is Caring.md}}}
+
 ## **2022**** Sharing is Caring
 
 <span style="font-variant:small-caps;">Marlene and Fred</span> in a room in the attic of Hans' wooden house.
@@ -6300,7 +6399,9 @@ Fred: "They dance in circles..."
 
 Marlene: "Christmas and birthday in one day."
 
-{{{en/50_2023_Linda.md}}}}
+
+{{{en/051_2023_Linda.md}}}
+
 ## **2023**** Linda
 
 <span style="font-variant:small-caps;">Marwin sat alone</span> with a dark face in the conference room.
@@ -6531,7 +6632,9 @@ We want..." She stopped.
 
 Marwin looked after her with his mouth open.
 
-{{{en/51_2022_And los.md}}}}
+
+{{{en/052_2022_And go.md}}}
+
 ## **2022** And go ...
 
 <span style="font-variant:small-caps;">Three weeks later.</span>
@@ -6713,7 +6816,9 @@ Hans shouted from below: "Hey! Marlene! If you want to get to the ship in time, 
 Fred and Marlene closed their laptops, put them in their packed suitcases and left the room.
 An hour later they were sitting on a small freighter heading for the mainland.
 
-{{{en/52_1915_English_National.md}}}
+
+{{{en/053_1915_The Nation First.md}}}
+
 ## **1915** German National!
 
 ### SCENE 7
@@ -6796,8 +6901,10 @@ First officer, say, "One for all."
 All together: "And all for one!"
 ____
 
-{{en/53_2064_where is the LBI.md}}}
-## **2064** Where's the LBI?
+
+{{{en/054_2064_Where is the LBI.md}}}
+
+## **2064** Where is the LBI?
 
 <span style="font-variant:small-caps;">Lasse and Sigur</span> sat again in the kitchen of the games lab.
 Each again with a big cocoa in his hand.
@@ -6918,7 +7025,9 @@ So we can lure the LBI to us..."
 
 Sigur: "Cool."
 
-{{{en/54_2064_intimidating.md}}}}
+
+{{{en/055_2064_Intimidate!.md}}}
+
 ## **2064** Intimidate!
 
 <span style="font-variant:small-caps;">Marlene and Lilly</span> sat together over a cup of tea in the stone hut.
@@ -7028,8 +7137,10 @@ That depends on what they're doing now."
 
 She smiled at Lilly.
 
-{{{en/55_1918_Detention.md}}}
-## **1918** Arrest
+
+{{{en/056_1918_Detention.md}}}
+
+## **1918** Detention
 
 ### SCENE 7
 ____
@@ -7080,7 +7191,9 @@ Adolf grabs his chest, feels warm blood.
 He collapses on the cold stone floor, below him a large pool of blood forms.
 ____
 
-{{{en/56_2023_A drop of blood.md}}}}
+
+{{{en/057_2023_One drop of blood.md}}}
+
 ## **2023** One drop of blood
 
 <span style="font-variant:small-caps;">Marwin looked at the door</span> and thought: "Still no guards ... It's been at least half an hour since Linda fled the room.
@@ -7177,7 +7290,9 @@ A drop of blood fell from his nose onto the paper.
 It looked at him with fascination and made sure that he did not walk, but dried as he was.
 
 
-{{{en/57_2064_bomb threat.md}}}}
+
+{{{en/058_2064_Bombing threat.md}}}
+
 ## **2064** Bombing threat
 
 <span style="font-variant:small-caps;">Lasse sat in</span> a restaurant on the 10th floor.
@@ -7351,7 +7466,9 @@ On the horizon, far out, a huge white balloon floated.
 Lasse looked at him dreamily.
 
 
-{{en/58_2023_The arrest warrant.md}}}
+
+{{{en/059_2023_The arrest warrant.md}}}
+
 ## **2023** The arrest warrant
 
 <span style="font-variant:small-caps;">Anni ran with her smartphone in her hand behind the last row of tables in the classroom.
@@ -7557,7 +7674,9 @@ Sophie: "We gotta piss right on these motherfuckers' legs."
 
 Anni and Kevin looked a little surprised at Sophie and then nodded.
 
-{{en/59_2023_crisis_session.md}}}
+
+{{{en/060_2023_Crisis meeting.md}}}
+
 ## **2023** Crisis meeting
 
 <span style="font-variant:small-caps;">Heinz and Frederik</span> sat in casual clothes at a large, fully occupied conference table in the headquarters of the BND. Some wore suits, others were dressed casually.
@@ -7660,7 +7779,9 @@ Man: "And I'm going to increase the pressure on our darknet hacker a little bit 
 President: "Okay, let's get to work!
 That this is going to be a real secret service again."
 
-{{{en/60_1918_2023_interrogation_1.md}}}}
+
+{{{en/061_1918_2023_Interrogation_1.md}}}
+
 ## **1918, 2023** Interrogation (1)
 
 ### SCENE 8
@@ -7835,7 +7956,9 @@ Marlene: "Fuck!"
 Next to her was an Ethiopian newspaper with her picture on the front page.
 She lay down on the hotel bed in a tiny room somewhere in the middle of Addis Ababa in Ethiopia.
 
-{{en/61_2023_Class_Meeting.md}}}
+
+{{{en/062_2023_Class meeting.md}}}
+
 ## **2023** Class meeting
 
 <span style="font-variant:small-caps;">The whole class</span> discussed lively in small groups throughout the classroom.
@@ -8107,7 +8230,9 @@ Luke took a step forward, turned his head and said calmly: "Do you also want to 
 The principal turned red.
 He tried to say something, moved his hand, but then turned around and left the room, the teacher followed him.
 
-{{{en/62_2023_Open Letter.md}}}
+
+{{{en/063_2023_Open letter.md}}}
+
 ## **2023** Open letter
 
 <span style="font-variant:small-caps;">All students sat</span> together in a large circle of chairs in the middle of the classroom.
@@ -8186,7 +8311,9 @@ It's gone.
 WikiLeaks has it.
 Let's see when they retweet it."
 
-{{{en/63_2023_The Manifesto_1.md}}}}
+
+{{{en/064_2023_The Manifesto_1.md}}}
+
 ## **2023** The Manifesto (1)
 
 <span style="font-variant:small-caps;">Marwin walked up and down the meeting room with </span> a pen in his mouth.
@@ -8250,8 +8377,10 @@ He put the pencil on the table and straightened up and said loudly: "Yes, we can
 Then he said, "But how?
 How do we unlearn that?"
 
-{{{en/64_2023_reply.md}}}}
-## **2023** Reply
+
+{{{en/065_2023_Answer.md}}}
+
+## **2023** Answer
 
 <span style="font-variant:small-caps;">Kevin looked up</span> the clock.
 Half an hour had passed since they had sent the message to WikiLeaks.
@@ -8351,7 +8480,9 @@ They want to be here live, that's for sure.
 But we can do that.
 We'll let them swear a little."
 
-{{{en/65_2064_A flying battle robot.md}}}}
+
+{{{en/066_2064_A flying combat robot.md}}}
+
 ## **2064** A flying combat robot
 
 <span style="font-variant:small-caps;">Lasse sat up</span> the back seat of a van and worked on his laptop.
@@ -8577,7 +8708,9 @@ Lasse.
 </div>
 He waited until Pond had sent the message and closed his laptop.
 
-{{{en/66_2064_back in the 20th century.md}}}
+
+{{{en/067_2064_Back in the 20th century.md}}}
+
 ## **2064** Back in the 20th century
 
 <span style="font-variant:small-caps;">In Fortunato's Beach House.</span> Fortunato was walking around the beach apartment with a high red head.
@@ -8659,7 +8792,9 @@ I want her in this room before sundown today.
 I won't go through with this anymore.
 We're gonna do this the way we used to do it."
 
-{{{en/67_1918_2023_interrogation_2.md}}}}
+
+{{{en/068_1918_2023_Interrogation_2.md}}}
+
 ## **2023, 1918** Interrogation (2)
 
 <span style="font-variant:small-caps;">A dirty street café</span> in a shopping street somewhere in Addis Ababa. Marlene was sitting in a corner, halfway behind a column, drinking tea.
@@ -8830,8 +8965,10 @@ Then she pulled a laptop out of her backpack and turned it on.
 
 Marlene quietly: "Lago Maggiore? Yah."
 
-{{en/68_2064_My fighting robot, your K.md}}}
-## **2064** My robot fighter, your robot fighter
+
+{{{en/069_2064_My combat robot, your combar robot.md}}}
+
+## **2064** My combat robot, your combar robot
 
 <span style="font-variant:small-caps;">A police car</span> at normal speed on the highway.
 The driver in uniform with black sunglasses looked into the rearview mirror.
@@ -9091,7 +9228,9 @@ The information doesn't flow that fast.
 We'll have at least a few hours of rest.
 So now this thing is banging on the ground somewhere in the desert!"
 
-{{{en/69_2023_The Manifesto_2.md}}}}
+
+{{{en/070_2023_The Manifesto_2.md}}}
+
 ## **2023** The Manifesto (2)
 
 <span style="font-variant:small-caps;">Marwin turned the page on </span> and continued: "6 -- We don't listen to each other.
@@ -9212,7 +9351,9 @@ Exactly, we must develop a broad love of technology..."
 
 He formed his fingers again in the most absurd way and moved them over the full-written sheet: "Abrakadubrabra," he said loudly, "fly to Marlene, fly to Oskar, fly to Julian and Tobi.
 
-{{{en/70_2023_Am Lago Maggiore.md}}}
+
+{{{en/071_2023_On Lago Maggiore.md}}}
+
 ## **2023** On Lake Maggiore
 
 <span style="font-variant:small-caps;">Marlene sat with</span> a large, round hat on the terrace of a vacation apartment on Lake Maggiore, in northern Italy.
@@ -9434,7 +9575,9 @@ Then he took a picture of the letter.
 Marlene took it, went to the patio fireplace and set it on fire.
 Then she went to her laptop, plugged in the camera's SD card and started typing.
 
-{{{en/71_2064_An Albatros.md}}}}
+
+{{{en/072_2064_An albatros.md}}}
+
 ## **2064** An albatross
 
 <span style="font-variant:small-caps;">In front of a mountain hut</span> stood two off-road motorcycles.
@@ -9632,8 +9775,10 @@ Sigur: "Lasse?
 Are you there, man?
 Lasse?"
 
-{{en/72_1918_On one channel.md}}}
-## **1918** On one channel
+
+{{{en/073_1918_On the Panama Canal.md}}}
+
+## **1918** On the Panama Canal
 
 ### SCENE 10
 
@@ -9653,7 +9798,9 @@ Driver to the other three: "Good work!"
 The passenger nods: "Thank you!"
 ____
 
-{{en/73_2064_The plan.md}}}
+
+{{{en/074_2064_The plan.md}}}
+
 ## **2064** The plan
 
 <span style="font-variant:small-caps;">Lasse sat on the bench in front of the mountain hut with </span> a gloomy face and crossed arms.
@@ -9854,13 +10001,17 @@ Sigur: "Yepp."
 
 Lasse: "Oh, my God."
 
-{{en/73a_2064_WIP_Inferno.md}}}
+
+{{{en/075_2064_WIP_Inferno.md}}}
+
 ## **2064** Inferno
 
 <span style="font-variant:small-caps;">...</span>
 
 Full attack on the KFC. Lilly in the middle. C.H: Win everything or lose everything
-{{{en/74_2023_The Address.md}}}}
+
+{{{en/076_2023_The Address.md}}}
+
 ## **2023** The address
 
 <span style="font-variant:small-caps;">The picture in the school class</span> had changed.
@@ -10121,7 +10272,9 @@ I think this is gonna be a report."
 
 Sophie: "Yeah, sure."
 
-{{{en/75_2023_Spaghetti Milanese.md}}}
+
+{{{en/077_2023_Spaghetti Milanese.md}}}
+
 ## **2023** Spaghetti Milanese
 
 <span style="font-variant:small-caps;">Marlene and Luigi</span> sat on the terrace in front of their laptops and listened intently to the President's last words.
@@ -10195,14 +10348,18 @@ Luigi disappeared into the apartment.
 
 Marlene said to herself after a while, "No wine for me."
 
-{{{en/75a_2064_WIP_Lilly.md}}}
+
+{{{en/078_2064_WIP_Lilly.md}}}
+
 ## **2023**** Lilly
 <span style="font-variant:small-caps;">Marlene and Luigi</span>
 
 Lilly shows a brilliant moment.
 
-{{{en/76_2023_The little poison noodle.md}}}}
-## **2023** The little poison noodle
+
+{{{en/079_2023_You little vixen.md}}}
+
+## **2023** You little vixen
 
 <span style="font-variant:small-caps;">In front of the main entrance</span> of the BND headquarters in Berlin a convoy of one armoured Maybach limousine and several Mercedes limousines with two police cars at the head and two at the end stopped.
 The president of the BND already waited there with some officials.
@@ -10372,7 +10529,9 @@ When it is done, the President will have to confess: "Is she on the side of the 
 
 Heinz nodded with great effort and understanding.
 
-{{{en/77_2064_WikiLeaks TV.md}}}
+
+{{{en/080_2064_WikiLeaks TV.md}}}
+
 ## **2064** WikiLeaks TV
 
 <span style="font-variant:small-caps;">A group of journalists</span> sat around a table in one of the CNN editorial meeting rooms.
@@ -10522,7 +10681,9 @@ Take this as your first message until we know more.
 Hopefully there will be others.
 Otherwise, it's gonna be a hell of a mess in the media."
 
-{{{en/78_2064_Sigur.md}}}}
+
+{{{en/081_2064_Sigur.md}}}
+
 ## **2064** Sigur
 
 <span style="font-variant:small-caps;">Sigur sat in</span> a large, comfortable armchair in the bunker in front of five monitors of different sizes.
@@ -10708,8 +10869,10 @@ Good luck!"
 
 Lasse: "You too!"
 
-{{en/79_2064_We have them.md}}}
-## **2064**** We got her!
+
+{{{en/082_2064_We have them.md}}}
+
+## **2064**** We have them!
 
 <span style="font-variant:small-caps;">Fortunato wore a </span> Brazilian carnival hat and had a beautiful, scantily dressed young woman in her arms.
 Two agents were sitting on the sofa without jackets.
@@ -10843,7 +11006,9 @@ Looked at the wounds, shook her.
 Checking her artery on her neck.
 She was dead.
 
-{{{en/80_2023_Press_Conference.md}}}
+
+{{{en/083_2023_Press conference.md}}}
+
 ## **2023** Press conference
 
 <span style="font-variant:small-caps;">The classroom was </span> full of rows of chairs.
@@ -11032,8 +11197,10 @@ I hope we're further along in Germany."
 
 Kevin: "Yeah, I hope so, too."
 
-{{en/81_1922_The Swastika Man.md}}}
-## **1922** The Swastika Man
+
+{{{en/084_1922_The swastika man.md}}}
+
+## **1922** The swastika man
 
 ### SCENE 11: In the same vaulted cellar.
 
@@ -11126,7 +11293,9 @@ Captain nodded and looked at Bertold, "We're in."
 Bertold nodded back.
 ____
 
-{{{en/82_2023_Not more Wistleblower.md}}}}
+
+{{{en/085_2023_More wistleblower.md}}}
+
 ## **2023** More wistleblowers.
 
 <span style="font-variant:small-caps;">Kevin stormed into the classroom.</span>
@@ -11237,7 +11406,9 @@ Oskar: "And ten minutes later pardoned by the president."
 
 Everybody laughed.
 
-{{en/83_2023_I have.md}}}
+
+{{{en/086_2023_I got it.md}}}
+
 ## **2023**** I got it!
 
 <span style="font-variant:small-caps;">Marlene and Luigi</span> sat on the terrace, both together at the table, in front of each other a laptop.
@@ -11474,7 +11645,9 @@ That's what we do!
 That's awesome.
 I can do that."
 
-{{{en/84_2023_Am Telefon.md}}}}
+
+{{{en/087_2023_On the phone.md}}}
+
 ## **2023** On the phone
 
 <span style="font-variant:small-caps;">Luigi at a phone</span> in an internet café in Lecco at Lake Garda, about two hours by car from Luino.
@@ -11489,7 +11662,9 @@ She'll be there, at any rate, you can count on her... call the Courage Foundatio
 They're right around the corner from you in Berlin ... yes, I'm coming too.
 Nobody else... See you tomorrow."
 
-{{en/85_2023_The interview 1.md}}}
+
+{{{en/088_2023_The interview 1.md}}}
+
 ## **2023** The interview (1)
 
 <span style="font-variant:small-caps;">Heinz and Frederik</span> sat in very casual clothes at Heinz's home on the sofa in front of the TV, each holding a bottle of beer.
@@ -11771,7 +11946,9 @@ She nodded slightly. A tear ran down her cheek. She stood there, 10 seconds, 20 
 
 (continued)
 
-{{en/86_2023_The interview 2.md}}}
+
+{{{en/089_2023_The interview 2.md}}}
+
 ## **2023** The interview (2)
 
 <span style="font-variant:small-caps;">The host looked</span> at Marlene: "Yes!"
@@ -12048,7 +12225,9 @@ Thank you very much, sir. And good luck!"
 
 Marlene looked again into the clapping audience, waved and then disappeared behind the curtain.
 
-{{{en/87_2023_Linda and Marlene.md}}}
+
+{{{en/090_2023_Linda and Marlene.md}}}
+
 ## **2023** Linda and Marlene
 
 <span style="font-variant:small-caps;">Linda expected Marlene</span> behind the curtain. Robert was standing next to her.
@@ -12129,7 +12308,9 @@ You will be picked up by our security service.
 You can stay here in any rooms as long as I understand.
 Robert will show them."
 
-{{{en/88_2023_in the plane.md}}}}
+
+{{{en/091_2023_on the plane.md}}}
+
 ## **2023** On the plane
 
 <span style="font-variant:small-caps;">Marlene sat next to </span> Linda in a wide aircraft chair.
@@ -12198,7 +12379,9 @@ You'll see them both.
 It gives people hope.
 And that gives us room to maneuver."
 
-{{{en/89_2023_Linda, Robert and the Colonel.md}}}
+
+{{{en/092_2023_Linda, Robert and the Colonel.md}}}
+
 ## **2023** Linda, Robert and the Colonel
 
 <span style="font-variant:small-caps;">The colonel stood up,</span> supported both hands on the meeting table and looked threateningly at Linda and Robert sitting opposite him. Linda looked very concentrated.
@@ -12375,7 +12558,9 @@ Linda and Marwin walked past him and sat down opposite him.
 
 Linda: "Marwin Farras?" She nodded to him nicely.
 
-{{{en/90_2023_bye.md}}}
+
+{{{en/093_2023_Goodbye.md}}}
+
 ## **2023**** Goodbye
 
 <span style="font-variant:small-caps;">Marwin was still sitting </span> alone in the meeting room. He formed his fingers again in the most absurd way and moved them over the full-written sheet: "Abrakadubrabra", he said loudly, "fly to Marlene, fly to Oskar, fly to ...".
@@ -12425,8 +12610,8 @@ Yesterday evening there was a talk show on German television, and Marlene appear
 They didn't know about it this morning."
 
 Marwin trimmed.
-He felt no lie in their answers.
-He breathed in and thought, "Go on, I've got to catch her somewhere."
+He felt no lie in her answers.
+He breathed in and thought, "Go on! I've got to catch her somewhere."
 
 He said, "And why couldn't you wait another day or a week?"
 
@@ -12446,7 +12631,7 @@ He looked deep into her eyes.
 He asked excitedly, "Where's Marlene now?"
 
 Linda: "Left, down the hall and then right to the main gate.
-Don't you want those dresses first?"
+Don't you want those clothes first?"
 
 Marwin walked past her, pushed Robert aside and was stopped at the door by a soldier.
 
@@ -12491,14 +12676,14 @@ They fell into each other's arms.
 He burst into tears.
 They stood there, hugged each other, one minute, two minutes.
 He felt her breath, her warmth, her heart beating clearly perceptible.
-"Ohhh, madness..." he thought and said quietly in her ear, "It's a thing!" Then he started looking around the room.
-"Horny!
-Sweet.
-Sweet.
+"How ... crazy ..." he thought and said quietly, "That's quite something" Then he started looking around the room.
+"Wow!
+Wow.
+Shit.
 Uhh.
 Who is that?" he asked, frightened, while they were still hugging each other.
 
-Marlene: "This is the President of the United States."
+Marlene: "This, this is the President of the United States."
 
 Marwin: "Shiiiit!
 I'm going crazy." Then he pressed her harder and said, "My sister! My sister." He breathed two, three times strong and then whispered "These are not our friends.
@@ -12541,7 +12726,9 @@ What do you say to this incident?"
 
 The colonel looked at her grimly, pointed to his shoulder badge and said, "I don't give interviews." He looked deep into her eyes.
 
-{{en/91_2064_where to go to the academy.md}}}
+
+{{{en/094_2064_Where's the Academy.md}}}
+
 ## **2064**** Where's the Academy?
 
 <span style="font-variant:small-caps;">Tims house was located</span> in a quiet, American suburb.
@@ -12679,7 +12866,9 @@ What do you mean?"
 
 Sigur looked in astonishment in that direction and quietly said to himself: "Well, that one ..."
 
-{{{en/92_2064_Dmitri.md}}}}
+
+{{{en/095_2064_Dmitri.md}}}
+
 ## **2064** Dmitri
 
 <span style="font-variant:small-caps;">The mountains were</span> behind them.
@@ -12763,7 +12952,9 @@ Do you know where Lasse is?"
 
 Mitya: "Yes, we're flying straight there."
 
-{{{en/93_2064_The Cypherpunk Academy.md}}}}
+
+{{{en/096_2064_The Cypherpunk Academy.md}}}
+
 ## **2064** The Cypherpunk Academy
 
 <span style="font-variant:small-caps;">The plane had landed</span> at a regional airport.
@@ -13325,7 +13516,9 @@ Lasse has only been with him twice in all his time!"
 Wunderlich: "Yes, yes.
 You fucked up, you cypher punk!"
 
-{{{en/94_2064_Wonderful.md}}}
+
+{{{en/097_2064_Wunderlich.md}}}
+
 ## **2064** Wonderful
 
 Sigur looked at Wunderlich defiantly: "Where did I screw up?"
@@ -13828,7 +14021,9 @@ A flash of light enveloped him, he felt weightless for a fraction of a second, h
 He bent down, patted Sigur on the shoulder and said, "Hi!
 What took you so long?"
 
-{{{en/95_2064_The Cypherpunk Cafe.md}}}}
+
+{{{en/098_2064_The Cypherpunk Cafe.md}}}
+
 ## **2064** The Cypherpunk Café
 
 The Cypherpunk Café was at the top of the balloon, out in the open.
@@ -13952,7 +14147,9 @@ Sigur: "Let's go to Wim."
 The book closed. They stood up, climbed the stone wall and sat down to the left and right of Wim.
 He put his arms around both of them.
 
-{{{en/96_2023_On a Berlin Roof Terrace.md}}}}
+
+{{{en/099_2023_On a Berlin roof terrace.md}}}
+
 ## **2023** On a Berlin roof terrace
 
 Marwin sat next to Marlene on a deck chair on a large roof terrace in the middle of Kreuzberg.
@@ -14005,7 +14202,9 @@ Marwin and Marlene looked a little questioningly at the scene.
 Oskar wiped his face with his sleeve, pointed in the direction of the two and said dryly to Marwin and Marlene: "May I introduce myself: "Ali Steffens and Eduardo Lampresa," then to the two: "Marwin and Marlene Farras." Then he went to them and they hugged each other for a long time.
 Marwin and Marlene joined them, as did Kevin and Anni.
 
-{{{en/97_2064_Heimweg.md}}}}
+
+{{{en/100_2064_Heimweg.md}}}
+
 ## **2064** Way home
 
 The sun went down behind the games laboratory and bathed the entire school grounds in a golden light.
@@ -14015,6 +14214,7 @@ They walked two and two down the main path of the school grounds and talked exci
 Lasse let herself fall back and said something to Marlene.
 She nodded.
 He stopped, covered his eyes and laughed.
+
 
 {{{en/_title.md}}}
 ---
