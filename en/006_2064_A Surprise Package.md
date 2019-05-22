@@ -2,28 +2,28 @@
 ## **2064** A surprise package
 
 <span style="font-variant:small-caps;">"Pling", said the communicator</span> of Lilly, and shortly afterwards, "pling, pling", also those of the two boys.
-Some time after the end of the game, all players received the results for that day.
+Sometime after the end of the game, all players received the results for that day.
 TRON almost always made the answers completely automatic. Sometimes, however, the team controlling TRON intervened.
 
-Lasse: "And? What do you got, Lilly?"
+Lasse: "And? What did you get, Lilly?"
 
 Lilly: "First you.
 What did you get?"
 
 Sigur looked gloomily and said, "We've been blown by your hack.
 Thank you." He nodded towards Lilly.
-"NSA is after us now and we must escape.
+"NSA is after us now, and we must escape.
 Your Marie is really super fast."
 
 Lilly: "Oh, exciting ... new time ... Well then: fake passports, new laptops, new look and off you go ... You can score a lot of points.
 Do you have any contact points the NSA doesn't know? Can you get computers that can't be traced back to you?"
 
 Lasse ironically: "Thanks for the tips, Lilly! And also zero experience points today.
-Zero point zero." He clenched his fist.
-"What do you got?" He turned to Lilly.
+Zero." He clenched his fist.
+"What did you get?" He turned to Lilly.
 
-Lilly: "Your computers gave me 20 points, awesome.
-And I'm an unofficial associate at Marie now, so I can do a lot of things.
+Lilly: "Your computers gave me 20 points, excellent.
+And I'm an unofficial associate at Marie now so I can do a lot of things.
 And, wow, I got a surprise package..."
 
 Surprise packages were sometimes available for special events, mostly when players had accomplished a mission that had taken place in the real world.

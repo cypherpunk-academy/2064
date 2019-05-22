@@ -30,56 +30,30 @@ AMAZON - APPLE - FACEBOOK - GOOGLE - MICROSOFT - TWITTER - DROPBOX
 
 JOINT OPINION
 
-As a technology company, we have focused so far on the
-centers what we do best: As many users as possible
-the best technology experience there is. At the same time
-we have always endeavoured to comply with the legal framework conditions.
-which apply in the respective countries. These are very
-different. The rules in China are different from those in Russia,
-in the U.S.A. other than in Europe.
+As a technology company, we have so far concentrated on what we do best: To offer as many users as possible the best technology experience there is. At the same time, we have always endeavored to comply with the legal frameworks that apply in each country. These are very different. China has different rules as Russia, the U.S. has different rules as Europe.
 
 
-In our home country, we naturally had a closer bond
-to government agencies. We had the confidence that this wouldn't be
-would be exploited. We have direct access to
-User data set up. Hundreds of thousands of enquiries were received
-specific accounts. We never analyzed them.
+In our home country, we naturally had closer ties to government agencies. We had the confidence that this would not be exploited. We have set up direct access to user data. There were hundreds of thousands of requests to specific accounts. We never analyzed them.
 
 
-After the recent events, we have done this now. What
-did we find out? Only a very small percentage of them
-was actually Homeland Security. The bulk was as
-requests for criminal cases. We knew that.
-already. What we didn't know was that the vast majority of criminals
-the new cases were merely suspicious. There's been no indictment
-and a trial was still in progress. The mere statement of a
-Suspicion was enough reason for a request. This is a
-Misuse of the access systems that we made available to you
-have. We've shut down these systems for good.
-deleted.
+Following recent events, we have now done that. What did we find out? Only a very small percentage of them were actually homeland security. Most of it was marked as requests for criminal cases. We already knew that. What we did not know was that the vast majority of criminal cases were suspicious. No charges were brought, and no trial was underway. The mere expression of suspicion was enough to justify a question. This is an abuse of the access systems that we have made available. We have now finally shut down and deleted these systems.
 
 
-As of today, we will no longer obey instructions that
-again requires direct access. Requests must be made in writing
-by mail. We'll also be back six weeks after each request.
-automatically inform the affected user about the access.
+As of today, we will no longer follow instructions which again require direct access. Inquiries must be made in writing by post. We will also automatically inform the user concerned of the access six weeks after each request.
 
 
 We have activated a website:
 
 www.nsl-and-gag-orders.com
 
-There everyone can see which instructions we are currently receiving from governmental
-I got this page. NSL means National Security Letter. In it
-to find the actual instructions, for example, a weak-
-to the new position. GAG orders are instructions for secrecy. you
-threaten the disclosure of NSLs with imprisonment. We do
-anyway, because we are convinced that we have to do this now.
+There everyone can see which instructions we currently get from the government. NSL means National Security Letter. It contains the actual instructions, for example, how to install a vulnerability. GAG orders are instructions for secrecy. They threaten the disclosure of NSLs with imprisonment. We do it anyway because we are convinced that we must do it now.
 
+
+Translated with www.DeepL.com/Translator
 
 We hope for your support.
 </div>
-In the meantime Anni, Sophie and Oskar had come to the computer of Lukas and had read along.
+In the meantime, Anni, Sophie, and Oskar had come to the computer of Lukas and had read along.
 Other students joined them.
 
 Oskar: "This is real.
@@ -92,20 +66,20 @@ Lukas: "I'm flat."
 Sophie: "I find it understandable that they do that.
 What are they supposed to do, according to the NSA director?"
 
-Annie: "Companies become Wistleblower! That's awesome."
+Annie: "Companies become whistleblowers! That's awesome."
 
 Oskar: "Right, that's all that matters here:
 They publish live.
-And because they still have Wistleblower in their ranks, they have to publish everything.
+And because they still have whistleblowers in their ranks, they have to publish everything.
 If they report something new without anything moving on this website ..."
 
 Kevin: "If our boys and girls report anything new at all ... You've said that CEOs are more likely to go to jail than continue to do what the intelligence agencies want."
 
-Annie giggled: "Right now I would like to go to prison as CEO.
+Annie giggled: "Right now, I would like to go to prison as CEO.
 That'd be nice.
 Imagine that: Larry Page in handcuffs for publishing a National Security Letter."
 
-Oskar: "And ten minutes later pardoned by the president."
+Oskar: "And ten minutes later, pardoned by the president."
 
 Everybody laughed.
 

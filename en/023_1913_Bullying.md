@@ -1,5 +1,5 @@
 
-## **1913** Threat
+## **1913** Bullying
 
 ### SCENE 3
 ____
@@ -18,10 +18,10 @@ And the comrades have taken it well, I hear.
 It's in the world now.
 That's good ... and again not ..."
 
-Hilde: "Again not either?"
+Hilde: "Again, not either?"
 
-Wilhelm: "Yes, again not." He closed his eyes.
-At that moment a messenger approached from behind and asked with a confidential voice: "Hilde Brandenburg?
+Wilhelm: "Yes, again, not." He closed his eyes.
+At that moment, a messenger approached from behind and asked with a soft voice: "Hilde Brandenburg?
 
 Hilde: "That's me."
 
@@ -40,7 +40,7 @@ And I can't leave now.
 
 Hilde: "Adolf can accompany me, can't he?"
 
-Wilhelm nodded and Adolf began to pack his things together.
+Wilhelm nodded, and Adolf began to pack his things together.
 Wilhelm stood up and walked around the table to embrace Hilde.
 
 Wilhelm: "Take care of yourself!"
@@ -55,7 +55,7 @@ Wilhelm to the driver: "Now we are alone, Alfons.
 It can go that fast, can't it?"
 
 The driver does not look at him, but stands up and leaves the room without giving a sign as to why.
-At the same moment two middle-aged men in grey suits sit next to and opposite Wilhelm and look at him.
+At the same moment, two middle-aged men in grey suits sit next to and opposite Wilhelm and look at him.
 
 Wilhelm was frightened: "What is this?" He takes turns looking at both of them.
 His voice trembles slightly.
@@ -63,13 +63,13 @@ The two men look back a little indifferently.
 
 Wilhelm: "What do you want from me?"
 
-After a short while the man sitting opposite him answers: "Nice speech.
+After a short while, the man sitting opposite him answers: "Nice speech.
 Smart thinking.
 Pure poison.
 It can turn a crowd's head."
 
-Second man with a slightly red face: "You traitor of your country! If it's up to guys like you, no one in Germany will be ready to fight anymore.
-And then the Frenchman and the Russian overrun us and it's over with Germany."
+A second man with a slightly red face: "You traitor of your country! If it's up to guys like you, no one in Germany will be ready to fight anymore.
+And then the Frenchman and the Russian overrun us, and it's over with Germany."
 
 First man: "We will prevent that.
 Are you maybe even Russian? Or French? Or English?"
@@ -89,14 +89,14 @@ Today you will survive.
 Maybe not next time."
 He snaps his fingers.
 
-The second man looked at him coldly and grinned, "Would be my pleasure."
+The second man looked at him coldly and grinned, "It would be my pleasure."
 
-First man: "It all depends on how you behave in the near future.
+First man: "It all depends on how you behave from now on.
 The people I work for have little patience.
 You're on the fag end.
 Think carefully about your next steps."
 
-Then both stand up greetingless and leave the room.
+Then both stand up and leave the room.
 
 Wilhelm puts his face in his hands.
 ____

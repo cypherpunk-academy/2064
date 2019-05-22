@@ -7,7 +7,7 @@ At the headquarters of the BND in Berlin.
 
 "Why? She met her brother right after the break-in.
 That's no coincidence.
-She must know something," Heinz replied somewhat angry, but still calm.
+She must know something," Heinz replied, somewhat angry, but still calm.
 
 Frederik: "Maybe she knows something about it.
 Maybe she's just guessing.
@@ -45,7 +45,7 @@ I don't mean that so hard.
 You know me. You know me.
 But what good would it do if the Farras continued where their brother left off?
 She's got the talent for it.
-Also talent to remain anonymous.
+Also, the talent to remain anonymous.
 I've been looking for her on the Tor network before, with the help of some NSA guys.
 We had quite a few computers in use at the time to find their tracks, a few thousand, just for them.
 But we didn't find anything.
@@ -53,14 +53,14 @@ Nothing. Nothing.
 She does it very skilfully.
 
 But now we have her in the corner! Her brother's gone, she's looking for him.
-There is not much missing, nor a few really bad news, a few actions in her environment and she leaves the hacking for all time.
-And everyone around her will see that, they'll think she's paranoid or schizophrenic and eventually she really will be.
-And only then is there real peace.
+There is not much missing, just a few horrible news, a few actions in her environment and she leaves the hacking for all time.
+And everyone around her will see that they'll think she's paranoid or schizophrenic and eventually she really will be.
+And only we can have real peace.
 Your whole environment must think you have to be crazy to mess with us.
 That's worth more than another hacker in prison who might be making new plans there.
 Or worse, like Edward Snowden or Julian Assange ... "Better a man goes through a difficult time than everything gets on fire."
 
-Heinz: "Come on, over here".
+Heinz: "Come on, over here."
 He pointed to his screen.
 "Look, the guys from NSA.
 You wouldn't believe it.

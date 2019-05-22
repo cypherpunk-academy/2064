@@ -6,7 +6,7 @@ She leaned back and thought about the journey from Berlin to this place.
 It had taken three months.
 She had hitchhiked most of the way.
 Once she was able to fly in a tiny private plane.
-On the journey she wore only hippi clothes.
+On the journey, she wore only hippie clothes.
 She smiled at the thought.
 
 On the low table in front of her was a laptop and another on her lap.
@@ -15,9 +15,9 @@ She was alone in the café.
 Only Achmed, the bartender, was just behind the counter preparing a milkshake.
 Achmed was in his mid-twenties, with fluffy black hair and always an inconspicuous smile on his lips.
 
-With some elegant steps he approached Marlene with the milkshake and placed it in front of her on the table.
-In the meantime she had sunk back into her laptop and didn't seem to notice it.
-He looked at her for a while and then sat next to her, whereupon she turned to him in surprise.
+With some elegant steps, he approached Marlene with the milkshake and placed it in front of her on the table.
+In the meantime, she had sunk back into her laptop and didn't seem to notice it.
+He looked at her for a while and then sat next to her, at which point she turned to him in surprise.
 He smiled warmly.
 
 Achmed: "Achmed!" He reached out his hand to her.
@@ -56,11 +56,11 @@ It's not good not to talk to each other.
 It's not good to be alone.
 For example, I'd like to know what you're doing.
 You use strange programs.
-Just colourful lyrics and stuff.
+Just colorful words and stuff.
 No movies, no Facebook.
 A friend of mine is doing the same thing.
 He's a hacker.
-Sure you know what hackers are? He's a real hacker!"
+Sure, you know what hackers are? He's a real hacker!"
 
 Marlene: "Mohammed."
 
@@ -74,7 +74,7 @@ Achmed looked at her in amazement: "He, he didn't tell me anything."
 
 Marlene: "I didn't mean it."
 
-Achmed: "Then you are also a hacker?"
+Achmed: "Then, you are also a hacker?"
 
 Marlene: "A hacker."
 
@@ -87,7 +87,7 @@ Stay here!"
 
 Marlene turned back to her laptop.
 It was just so exciting.
-She had made some big strides in the last few days.
+She had made some significant strides in the last few days.
 She was able to draw a map of a computer network within the TAO, the elite hacker group in the NSA.
 She had added two more computers this morning.
 She was there in a very, very central place.
@@ -102,10 +102,10 @@ There was, in fact, the hidden network of hackers.
 She knew that now.
 And she also knew that she was known there by now.
 She had a good reputation, she was trusted.
-And since then she only had to ask questions, and a few hours or days later she had an answer or even a program.
+And since then she only had to ask questions, and a few hours or days later, she had an answer or even a program.
 The only thing she hadn't found out yet, but wanted to know, was how her brother Marwin was doing.
 All she knew by now was that he was alive, somewhere in the United States.
-But the fact that she hadn't found out any more now spurred her on rather than depressing her.
+But the fact that she hadn't found out anymore now spurred her on rather than depressing her.
 She felt the power of this dark community, people who lived anonymously, who risked their lives for ... yes, for what? For a better, more humane way of dealing with each other, for better cooperation, for less injustice, more openness.
 Yeah, for a new way of living together.
 And this community was incredibly powerful.
@@ -116,12 +116,12 @@ But Mohammed said that she could trust him with everything, with everything! It 
 But that meant a lot to her.
 
 She talked to Mohammed several times a day, a lot of personal things.
-It was good to talk about feelings, also about Achmed, about his funny black curls and his warm eyes, how insecure he was towards her and how he constantly cheated on guests.
+It was good to talk about feelings, also about Achmed, about his funny black curls and his warm eyes, how insecure he was towards her and how he always cheated on guests.
 He was best when they realized it.
 He always made it out somehow.
 And most of them came back after that.
 
-To write Mohammed she used Pond, an email program that was made for Tails.
+To write Mohammed, she used Pond, an email program that was made for Tails.
 She didn't have much choice in how to communicate anymore, she was quite high on the worldwide intelligence wanted list.
 But Pond trusted her.
 As soon as it was started, Pond would send evenly-sized packets of messages to the Tor network at irregular intervals.
@@ -129,7 +129,7 @@ Whether she had just written a message or not.
 If not, then empty messages were sent.
 No one could find out from the outside whether someone was sending something or not, not even to whom or how much.
 And in the net the parcels of all Pond users, which could not be distinguished from the outside, rushed all over the place between the gate nodes, it was impossible to assign them to individual Pond users.
-A hopeless chaos - from the point of view of secret services.
+Hopeless chaos - for secret services.
 
 "Now!" Achmed fell on a pillow next to her.
 "Tell.
@@ -140,7 +140,7 @@ She smiled at him and thought she liked to talk to Achmed after all.
 Her brother had told her that what "they" want, by which he meant mostly the secret services, is that we communicate less with each other, more cautiously or even not at all anymore.
 What we want, however, he said, is that we can communicate freely as much as we want.
 
-Marlene: "I program a bit, keep my computer free from intruders and I'm trying to find out which computers are in a certain computer network and what they do.
+Marlene: "I program a bit, keep my computer free from intruders, and I'm trying to find out which computers are in a specific computer network and what they do.
 And maybe how I get in there."
 
 Achmed: "Sounds exciting.
@@ -148,13 +148,13 @@ I don't know anything about that.
 But I can cook and dive, I was 65 meters deep last week, at night.
 That's awesome.
 It makes you feel like you're in space.
-You float weightless in the darkness.
+You float weightlessly in the darkness.
 It's a whole different world down there."
 
 "Pling," it sounded from the bar.
 
 Achmed: "Shit.
 Lots going on today.
-"Will you program me something?" He jumped up and hurried to the bar.
+"Will you program something for me?" He jumped up and hurried to the bar.
 She smiled after him.
 

@@ -31,7 +31,7 @@ Anni shouted from the door: "1220."
 The journalist shouted, "Wow!" and typed something into her iPad.
 
 Oskar entered the room and looked around.
-Then he went to Kevin, put a USB stick on his table and said: "The transcript.
+Then he went to Kevin, put a USB stick on his table, and said: "The transcript.
 The stick's clean.
 You can take it right away." Kevin got up and took the stick to Lukas.
 He nodded.
@@ -46,15 +46,15 @@ Some journalists had to stand.
 
 Kevin: "So, I think we can get started..." He cleared his throat.
 "Welcome!
-The procedure for today is that first we have a whole new thing for you, then we say something about the strike network and then you can ask questions.
-Anyone don't have Internet?
+The procedure for today is that first, we have a whole new thing for you, then we say something about the strike network and then you can ask questions.
+Anyone doesn't have Internet?
 - Good, good, good. Okay. He was looking at a little monitor next to him.
 "Wow, we have over 600,000 Internet viewers.
 All right, then.
 Point one.
 Luke!"
 
-The beamer went on and the face of the director of the NSA appeared.
+The beamer went on, and the face of the director of the NSA appeared.
 
 Kevin: "You know this gentleman, don't you?" A soft laugh went through the room.
 
@@ -66,28 +66,28 @@ Luke pressed a button.
 
 Director's voice: "We must step up our efforts.
 In the wake of last year's major attack, we have seen a radical increase in attacks on our infrastructure.
-This blatantly refutes the cyber-terrorists' claim that publishing vulnerabilities leads to greater security on the Internet.
+This blatantly refutes the cyber-terrorists' claim that publishing vulnerabilities lead to greater security on the Internet.
 The opposite is true.
-Hundreds of thousands, perhaps millions of criminals have used the publications to invade people's privacy, cheat, blackmail and destroy their data.
+Hundreds of thousands, perhaps millions of criminals have used the publications to invade people's privacy, cheat, blackmail, and destroy their data.
 And terrorists now communicate freely wherever they want to communicate.
 "Without us being able to intervene."
 
 Luke pressed a button.
 
-Kevin: "So far the NSA chief two weeks ago.
+Kevin: "So far, the NSA chief two weeks ago.
 I don't want to comment on the content here.
 That's not what it's about today.
 It's about his voice today.
 How he speaks, how he sounds.
 Because there is a second recording that we want to play for you.
 And it was made five days ago, here in Berlin,
-shortly after the President of the United States announced the amnesty for Wistleblower.
+shortly after the President of the United States announced the amnesty for whistleblowers.
 The conversation was here on Chausseestraße, by the way."
 
 Luke pressed a button.
 
 Voice of the director: "The next time I meet the little poison noodle from the white house, I'll button it up.
-We have responsibility here for the greatest nation in the world, and for our friends too.
+We have a responsibility here for the greatest nation in the world, and for our friends too.
 We cannot accept that she castrates us in such a way.
 
 We've, damn it, built the best news system the world has ever known in recent years.
@@ -101,7 +101,7 @@ We were so close to achieving what we had set out to achieve.
 And then this shit now.
 I don't care what she said in that speech."
 
-Kevin: "The little poison noodle he means here is the president of the United States.
+Kevin: "The little poison noodle he means here is the President of the United States.
 His top boss.
 And he doesn't care what she says.
 He thus also whistles at the legislation of the USA, at the legal system, at the political system, he shows America the middle finger."
@@ -113,8 +113,8 @@ Does that mean anything to him that has been reality since yesterday?"
 
 Luke pressed a button.
 
-Voice of the director: "We continue with vigour as before.
-And if we get more headwind from the companies now, good!
+Voice of the director: "We continue with vigor as before.
+And if we get more headwind from the companies now, okay!
 Then we'll make more wind.
 We can.
 We can do the same with the CEOs of American companies.
@@ -152,10 +152,10 @@ There are far fewer dangerous people on it.
 And I don't care what kind of fuss it makes.
 When it is done, the President will have to confess: "Is she on the side of the terrorists or on our side?"
 
-Kevin: "This is incitement to murder.
+Kevin: "This is an incitement to murder.
 On German soil.
-And a state conspiracy in his own country." He looked seriously into the audience.
-"I'm now expecting, and I mean it seriously, an investigation and then a prosecution charge against the NSA director.
+And a state conspiracy in his own country." He looked thoughtfully into the audience.
+"I'm now expecting, and I mean it sincerely, an investigation and then a prosecution charge against the NSA director.
 Marlene is a German citizen.
 The director must be arrested the next time he steps on German soil."
 
@@ -167,11 +167,11 @@ Reporter: "Where'd you get that?"
 Kevin: "Unfortunately, we cannot say anything about the source at this time.
 Just this much: She works at the BND and is already in contact with the Courage Foundation.
 Your legal defense will be prepared.
-I don't know where she is right now either."
+I don't know where she is right now, either."
 
 Sophie got up.
 She looked into the audience and waited a short time.
-Then she said in a calm, serious tone: "Actually, I actually hope that we don't need this any more.
+Then she said in a calm, solemn tone: "Actually, I actually hope that we don't need this anymore.
 I don't want her to have to defend herself.
 She dared a lot.
 It's a personal statement she leaked there, but it's everybody's business.
@@ -182,7 +182,7 @@ Just like Marlene Ny did in Sweden for many years with Julian Assange.
 She could have waived the warrant for Julian at any time.
 She didn't do it.
 Even when the UN Human Rights Council said it was illegal, it did not take it back.
-And in the meantime she has retired normally without ever having to answer for it.
+And in the meantime, she has retired without ever having to answer for it.
 I hope we're further along in Germany."
 
 Kevin: "Yeah, I hope so, too."

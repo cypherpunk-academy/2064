@@ -1,8 +1,7 @@
 
-## **2064** Bombing threat
+## **2064** Bomb threat
 
-<span style="font-variant:small-caps;">Lasse sat in</span> a restaurant on the 10th floor.
-Floor of a shopping center in San Diego, USA, with a magnificent view over the ocean.
+<span style="font-variant:small-caps;">Lasse sat in</span> a restaurant on the 10th floor of a shopping center in San Diego, USA, with a magnificent view of the ocean.
 Opposite him, two men in black suits were sitting.
 The atmosphere was heated up, both sides tried to appear calm.
 
@@ -18,19 +17,19 @@ We have as many computers and hackers available as we want.
 We'll just download all the servers that can run the transactions during that time."
 
 Lasse laughed out loud.
-"All 700,000?
+"All, 700,000?
 Don't joke!
 And even if it did, it would only delay everything for a few minutes, half an hour at the most.
 Most servers have an auto backup:
 They automatically reappear elsewhere on the Internet and pick up where they left off last.
 Some even open several servers at the same time: as with the Hydra in ancient Greece.
-You cut off one head and three new ones grow.
+You cut off one head, and three new ones grow.
 They've all learned from Wikileaks and Piratebay, and you never really got them under control.
 Maybe for a few days.
 And now you want to paralyze Bitcoin as a whole.
 Come on, guys, seriously..."
 
-First man: "Other scenario.
+First man: "Another scenario.
 The bombs exploded.
 The money's gone.
 Then what?
@@ -50,12 +49,12 @@ Lasse looked him in the eye: "Okay.
 Then you'll kill me.
 And then what?"
 
-Second man laughed, "What then?
+The second man laughed, "What then?
 Then you're dead!"
 
 Lasse turns to the second man: "Yes, well, and then?"
 
-He ran slightly red on his face, grabbed his jacket and pulled out a pistol so far that Lasse could see it.
+He ran slightly red on his face, grabbed his jacket, and pulled out a pistol so far that Lasse could see it.
 
 Second man cold: "We can do this right now.
 It's silenced and got uranium ammunition.
@@ -64,7 +63,7 @@ I always shoot three times.
 First twice in the heart, then in the face.
 Your body's going into the sea, 5,000 meters deep.
 And we'll make you a good story about how the rest of the world will see you.
-For example: Lasse Brodowin, the defector, submerged, actually leads a luxurious life.
+For example, Lasse Brodowin, the defector, submerged, actually leads a luxurious life.
 We won't let you die for your friends.
 You'll be a normal traitor to them."
 
@@ -90,12 +89,12 @@ I don't give guarantees before."
 
 First man: "It's not working."
 
-Second man with a red head to the first: "We can also take him with us.
+The second man with a red head to the first: "We can also take him with us.
 The night is long until 8:31 tomorrow morning.
 If I may, he'll tell us before midnight how to get to the Bitcoins.
-And I don't make pill pill pillboards like waterboarding or leave them naked in a cold, dirty corner.
+And I don't make cute things like waterboarding or leave them naked in a cold, dirty corner.
 It's faster with me.
-You'll see some of it afterwards."
+But you'll see some of it afterward."
 
 He kicked Lasse under the table firmly with his boot.
 
@@ -104,13 +103,13 @@ Asshole!
 Shit! Shit! Shit!
 Why do you have so many assholes?"
 
-First man cool: "He had a difficult childhood.
+First man cold: "He had a difficult childhood.
 His mother beat him up at the hospital a couple times.
 She was a drug addict and manic-depressive.
 Single parent.
 That's what shaped him."
 
-Lasse and he looked each other in the eye for a while.
+He and Lasse looked at each other in the eye for a while.
 
 First man: "It won't happen the way you say.
 We need security."
@@ -131,10 +130,10 @@ You don't even have anything that can be used.
 You can't just turn it off."
 
 They looked at each other silently for a while, eye to eye.
-Lasse with quiet view.
+Lasse with a calm expression.
 
 First man: "You must give me something.
-When I come back with the result, then I am away from the assignment and then they give you for example alone into the hands of him here.
+When I come back with the result, then I am away from the assignment, and then they give you, for example, alone into the hands of him here.
 Even after the Bitcoins are gone.
 They just do that for revenge, they're not good losers.
 That's what they call prevention.
@@ -145,7 +144,7 @@ The second man gritted his teeth and breathed deeply, forcefully, hissing: "I ha
 That'll cut off your index finger first.
 No need for me to expend force.
 Off.
-Normal household scissors, specially sharpened.
+Regular household scissors, specially sharpened.
 And then the ring finger.
 Off.
 Then the little one.
@@ -155,13 +154,13 @@ Lasse looked across the ocean.
 He closed his eyes and breathed out.
 "Don't go against it," he thought.
 "Otherwise, it's over.
-Otherwise I have no chance ...
+Otherwise, I have no chance ...
 What an asshole.
 Assholes like that.
 What happened to them later?
 Where are they in our time?
 What have they done with their lives?" He clasped the push button in his trouser pocket, which would change the passwords for the bombs somewhere in the Tor network.
-One long push, and he couldn't get to her, and nobody else could.
+One long push of a button and he couldn't get to it anymore, nobody else could.
 
 He leaned back and looked at the first man: "I'll push the button now!"
 

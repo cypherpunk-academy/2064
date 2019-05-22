@@ -5,19 +5,19 @@
 She ate with one hand and typed into her laptop with the other.
 She was in a chat with a group of hackers.
 
-Torrorist: "That was a show! Have you read Marlene's logs? Horny thing."
+Torrorist: "That was a show! Have you read Marlene's logs? Tough thing."
 
 Mohammed: "Yes, especially the QR thing, the idea of creating data with a QR film, that's great.
 7 hours 53 minutes would take the TAO computer on which the file is stored to display the terabyte as a QR movie on the screen.
 But what do you take for the other side? A good camera, small, with battery, more than 1TB memory, fast enough?"
 
-Totaot: "A normal Raspberry Pi is enough full.
+Thaedaot: "A regular Raspberry Pi is enough.
 I'll write you the program to convert the QR film into data in half an hour.
 You always have the same perspective on the QR code.
 It'll go really fast.
 "A USB flash drive with two terabytes in, HD camera, normal battery pack."
 
-Julian: "And put the whole thing in a paperback and put it on the shelf opposite the computer.
+Julian: "And put the whole thing in a booklet and put it on the shelf opposite the computer.
 There you go.
 How do we start the program?"
 
@@ -26,7 +26,7 @@ Marlene: "You have to type PAUL in capital letters on the console."
 Julian: "Geil.
 Sounds good."
 
-Totaot: "I'm building this thing.
+Thaedaot: "I'm building this thing.
 Who brings it in and presses the keys?"
 
 For a while, no one in the chat room answered.
@@ -39,13 +39,13 @@ You tried it.
 They're scared the shit out of us now, and they got a lot of work to do.
 We all need new computers now.
 Some people move all the way.
-We've lost a lot of accesses.
+We've lost a lot of entrance doors.
 You, above all, put that in the TAO.
 But, what the hell.
 The hack was awesome.
 The idea big."
 
-Mohammed: "A popily traffic barrier.
+Mohammed: "A simple traffic barrier.
 Pffff."
 
 Torrorist: "Who knows.
@@ -57,7 +57,7 @@ But, Marlene, you really have to go where you are.
 They're looking for you like crazy."
 
 Mohammed: "Yes, it is.
-Here in Dahab some strange creatures have been buzzing around for two days.
+Here in Dahab, some strange creatures have been buzzing around for two days.
 We're watching them.
 That doesn't look good.
 They've even been to the hotel."
@@ -74,7 +74,7 @@ Mohammed: "Okay.
 Let's close up here.
 See you soon, I'm gone."
 
-Totaot: "Marlene! Look in your pond."
+Thaedaot: "Marlene! Look in your Pond."
 
 Marlene: "See you soon! I'm so glad you exist."
 
@@ -82,18 +82,16 @@ She clicked the chat window away and changed the Tails identity.
 On her screen appeared:
 
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
-"New message received from Totaot."
+"New message received from Thaedaot."
 </div>
 She wrote, "show."
 
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 I've just been contacted through Jabber. Someone,
-who wants to talk to you about Pond. I don't know where the
-my address here. It's a little scary. He's got
+who wants to talk to you about Pond. I don't know where they have
+my address from. It's a little scary. He's got
 a pond-secret for you and said that it would take 30 minutes
-is valid. Oh, shit. Could be a trap. Real passport
-on! He said he knew what was happening to Corinne.
-is. I don't know what Corinne he's talking about.
+is valid. Oh, shit. It could be a trap. Pay attention! He said he knew what happened to Corinne. I don't even know what Corinne he's talking about.
 
 LG, Fred
 
@@ -107,14 +105,14 @@ A honeypot? Especially to attract them? No one knew Corinne in her area.
 Not even Marwin.
 
 She closed her eyes.
-In 20 minutes Achmed would come here and she would disappear from here forever.
+In 20 minutes, Achmed would come here, and she would disappear from here forever.
 He had said that he would take her over to the other side, to Saudi Arabia, that was only 35 km.
 Achmed was Bedouin, he had a large family, with many connections, also in Saudi Arabia.
 "We'll help each other," he had said, "we've been doing this for centuries."
 That was her best option now.
 The Saudi Coast Guard was brutal, but it was also slow and not particularly motivated.
-Saudi Intelligence? Didn't sound very scary to her anymore.
-20 minutes time.
+Saudi Intelligence? It didn't sound terrifying to her anymore.
+20 minutes.
 Could she dare?
 
 All her thoughts disappeared and she started typing:
@@ -139,7 +137,7 @@ Message received from boatly_unknown_contact.
 Marlene took a stance: "And a message right away.
 Someone really wants to talk to me."
 
-Normally, news about Pond took a few minutes.
+Typically, news over Pond took a few minutes.
 But it was possible to shorten the time.
 
 She typed "show."
@@ -149,32 +147,25 @@ Hello, Marlene,
 
 you don't know me, but I know a lot about
 you. Your brother Marwin is in a CIA prison.
-somewhere in the United States. I'm afraid he's not feeling well under the circumstances.
-is correspondingly good. About you, there are suspicions that
-you're in Dahab or Hurghada and you're three months ago.
-hours into the central database of the TAO.
+Somewhere in the United States. I'm afraid he's not feeling well under the circumstances.
+But he is quite good. About you, there are suspicions that
+you're in Dahab or Hurghada, and you were three months ago.
+Hours into the central database of the TAO.
 </div>
 Marlene stopped breathing. "Wow." She kept reading.
 
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Corinne's dead. She was in the same prison as
-your brother and didn't make it. I don't know.
-just like it happened. But they wanted to know things about
-her boyfriend who she didn't know, didn't know.
-could. I learned that a few days ago. I'm
-herself was present at her friend's death. I was sitting in the
-I don't know what happened in that room. A blow to the head.
-
+your brother and didn't make it. I don't know exactly how it happened. But they wanted to know things about her boyfriend which she didn't know, couldn't know. I learned this a few days ago. I'm was present at her friend's death. I was sitting in the room when it happened. A blow to the head.
 Brutal!
 
-He was lying there. He didn't get up again. I had to get
-I threw up on him when I realized that he was really
-was dead. That was a turning point for me. I've been meaning
-but it's not that simple,
+He was lying there. He didn't get up again. I had to get out and throw up when I realized that he was really
+was dead. That was a turning point for me. I decide to quit, go out.
+But it's not that simple,
 where I work. I'm here at TAO headquarters,
 in the NSA. I'm a liaison officer with the CIA. I'm in charge
-data that the CIA uses to track down hackers, to
-to arrest, question and kill. I have no will
+of data that the CIA uses to track down hackers,
+to arrest them, question and kill. I have no will
 to be a part of this. I've been following your story.
 I want to help you.
 
@@ -203,13 +194,12 @@ Hardly a minute later:
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 The order in which you want to save the log files of the twelve computers
 was the same as the one you took the first time
-you were in a TAO computer a few months ago. And
-and a few other things agreed. We have
+you were on a TAO computer a few months ago. And a few other things agreed. We have
 Hacker profiles here, they're capturing that.
 </div>
 Marlene squeezed her chest with her hand.
 "Oh, God," she thought, "this can be real." She jumped up.
-Went around the table a few times, sat down again.
+I went around the table a few times, sat down again.
 In such situations, she trusted only her feelings.
 After two more minutes she wrote:
 
@@ -222,10 +212,10 @@ to the server room of the 07 machine?
 
 Marlene looked spellbound at the monitor.
 Nothing happened.
-If Anita asked why, she wouldn't answer anymore.
+If Anita asked why she wouldn't answer anymore.
 She needs to directly understand that she was serious.
 Come right in.
-Otherwise it wouldn't work.
+Otherwise, it wouldn't work.
 She didn't know about Anita.
 Was she a woman or a man?
 How old?
@@ -258,10 +248,10 @@ one. Everything else happens automatically. It'll be about eight hours
 take a while. Write to him when you've finished the stick.
 </div>
 "Send."
-She sent the same message to Totaot.
+She sent the same message to Thaedaot.
 
 "Klonck," the door sounded dull under the water.
-Seconds later Achmed appeared, tore off his diving goggles and shouted: "Quick, Marlene.
+Seconds later, Achmed appeared, tore off his diving goggles and shouted: "Quick, Marlene.
 They're coming.
 Boats and a helicopter."
 
@@ -272,14 +262,14 @@ She put her laptops in the rubber bag and began to put on the diving suit.
 
 "No time.
 Just the bottle," Achmed shouted.
-She pulled over the oxygen bottle, put on the mask and tied the suitcase around herself.
+She pulled over the oxygen bottle, put on the mask, and tied the suitcase around herself.
 Achmed disappeared into the water.
 She jumped after him.
-Outside the boat he swam in a different direction than usual.
+Outside the boat, he swam in a different direction than usual.
 Marlene followed.
 It went deeper, along the trench.
 And after about 50 meters Marlene recognized a small submarine on the seabed, which normally brought tourists to dives.
 Achmed grabbed a hook and tied it to Marlene's chest belt at the front.
 One for yourself, then.
-He gave a signal to the submarine driver and it started.
+He gave a signal to the submarine driver, and it started.
 

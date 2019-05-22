@@ -1,10 +1,9 @@
-
 ## **2023** Open letter
 
 <span style="font-variant:small-caps;">All students sat</span> together in a large circle of chairs in the middle of the classroom.
 The tables were stacked on top of each other on the wall.
 
-Anni: "I'll read it to you:"
+Anni: "I read it aloud:"
 
 Kevin: "Super."
 
@@ -12,68 +11,38 @@ Kevin: "Super."
 Dear Marlene!
 
 
-We learned a few hours ago that you'd been in contact with
-on an international warrant for your arrest because you're
-you're supposed to have hacked into the vulnerability database. That you
-that you were, we can all introduce ourselves here. Thank you. I'll take care of it.
-for that. Thank you for having the courage to make your life
-for it, for us. Thank you for not having yourself.
-I'll let you intimidate me.
+We learned a few hours ago that you were wanted on an international warrant for hacking the vulnerability database. We can all well imagine that you were. Thank you for that. Thank you for having the courage to risk your life for it, for us. Thank you for not letting yourself be intimidated.
 
 
-That's how we know you. No one's ever intimidated you. We
-everyone here is very proud of you, everyone, without exception. And
-nothing will stop us from doing that: not the nonsense that is
-media about you, not any promises,
-like the companies, not to install back doors anymore,
-and also not threats from our teachers or from anybody else.
-who. We're not gonna be intimidated anymore.
+That's how we know you. No one has ever intimidated you. We are all very proud of you here, all of us, without exception. And nothing will stop us from doing that: not the nonsense that is spread about you in the media, not any promises, like those of the companies, not to install back doors anymore, and not threats from our teachers or from anyone else. We don't let ourselves be intimidated anymore.
 
 
-No matter what we do here, you've been braver than us.
-we're going to strike here in class until your picture is in
-is corrected in the public mind so that we can keep you
-I recognize you.
+No matter what we do here, you were braver than us, and that's why we're on strike here in class until your public image is corrected to recognize you.
 
 
-We miss you very much. We could use your abilities now.
-I'm not afraid I'm gonna need it too. We didn't know all this time,
-that you're on the run. We've been told that with your
-I'm gonna take you on a trip around the world with your brother. The teachers and your family
-I've said that before. None of this was right, neither was the
-what's in the paper today about you, which is even an
-Teacher of ours in our room represented and defended. We
-threw him out of the room. He's also the principal he's been working with.
-came back after that.
+We miss you very much. We could use your skills right now. We didn't know you were on the run the whole time. We were told that you were on a trip around the world with your brother. The teachers and your family told us so. None of this was true, just as none of what is written about you in the newspaper today is true, what even one of our teachers represented and defended in our room. We threw him out of the room. Also the rector, with whom he came back afterward.
 
 
-We know that you haven't changed, and the things that
-you're doing because you're convinced that you can
-she has to do. Just like we're doing now what we believe we're doing.
-to have to.
+We know that you have not changed and that the things you do are because you are convinced that they must be done. Just as we now do what we believe we have to do.
 
 
-We hope so much that somewhere out there in the world.
-is going well. That they won't find you and that you'll go on
-you can do what you want to do. We're with you no matter what.
-you're up to. It would be so nice to have you here with us right now.
+We hope so much that you are well out there somewhere in the world. That they won't find you and that you can go on doing what you want to do. We are with you no matter what you have in mind. It would be so nice to have you here with us now.
 
 
 Your class
 </div>
-Kevin looked around and said, "Everyone agree?"
+Kevin looked around and said, "Everyone agrees?"
 
-Anni wiped a tear from her eyes: "Yes."
+Anni wiped a tear out of her eyes: "Yes."
 
 Kevin: "Then we send it away.
 I just opened a new Twitter account: @MarlenesClass.
 Okay?
 
-Lukas: "Great.
+Lukas: "Super.
 Send it off."
 
 Kevin pressed a button: "Okay.
 It's gone.
 WikiLeaks has it.
 Let's see when they retweet it."
-

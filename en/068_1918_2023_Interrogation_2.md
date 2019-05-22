@@ -2,7 +2,7 @@
 ## **2023, 1918** Interrogation (2)
 
 <span style="font-variant:small-caps;">A dirty street café</span> in a shopping street somewhere in Addis Ababa. Marlene was sitting in a corner, halfway behind a column, drinking tea.
-Two native young men with black sunglasses looked over at her from a neighboring table. She looked away, reached into her backpack and took out the paperback. She was just about to start reading when suddenly a platform truck stopped and men in uniform and sunglasses jumped down. Three of them stood in front of the café with their submachine guns in front of them. On the other side of the street, something similar seemed to be going on.
+Two native young men with black sunglasses looked over at her from a neighboring table. She looked away, reached into her backpack, and took out the paperback. She was just about to start reading when suddenly a platform truck stopped, and men in uniform and sunglasses jumped down. Three of them stood in front of the café with their submachine guns in front of them. On the other side of the street, something similar seemed to be going on.
 
 Marlene proud. She watched closely what was happening, put one hand on her backpack.
 
@@ -25,7 +25,7 @@ And Wilhelm, too?
 I'll tell you the price: You choose one of the boys here who is allowed to take you in.
 They're all hungry.
 Then you write the names down for me.
-If the names are right, you can go home and cook yourself a plate of noodles.
+If the names are right, you can go home and cook a plate of noodles.
 Maybe take a shower first... Hmm?
 How's that?
 ...
@@ -34,8 +34,8 @@ But that's how it is in life, the longer you wait, the more expensive it gets."
 
 Hilde shows no emotion.
 
-"Klock!", the door jumps open and two of the soldiers drag in a man who pedals his legs powerlessly.
-They put him on a chair about ten meters from Hilde, so that she can just see him from the corner of her eye.
+"Klock!", the door jumps open, and two of the soldiers drag in a man who pedals his legs powerlessly.
+They put him on a chair about ten meters from Hilde so that she can just see him from the corner of her eye.
 He can barely hold himself upright on the chair.
 
 Hilde looks over and thinks, "Oh, no.
@@ -80,9 +80,9 @@ Abort?
 I mean, you know we can do more than that.
 You Spartacists must have talked about it before.
 Oh, I see. You can't talk.
-Bertold!"
+Berthold!"
 
-Bertold comes and takes off her gag. Hilde coughs and spits on the floor, but doesn't answer.
+Berthold comes and takes off her gag. Hilde coughs and spits on the floor, but doesn't answer.
 
 Captain: "Hmm.
 Isn't it?
@@ -92,13 +92,13 @@ It's getting more expensive.
 I told you."
 
 "Wait, Captain.
-I have an intermediate layer," calls Bertold.
+I have an intermediate layer," calls Berthold.
 
 Captain: "Intermediate insert?
 Good.
-You always have good interludes."
+You always have pleasant interludes."
 
-Bertold slowly approaches Wilhelm from behind.
+Berthold slowly approaches Wilhelm from behind.
 Then he opens his trousers, grabs his penis and pisses Wilhelm over his back and shoulder with a wide beam, accompanied by loud laughter from all the other soldiers.
 
 Captain: "Joah.
@@ -107,33 +107,33 @@ That'll help.
 But it smells terrible, all the way over here!
 Don't do things like that too often.
 But now: Phase 2.
-All but Bertold leave the room."
+All but Berthold leave the room."
 
 The room empties.
-Bertold goes to a shelf on the wall in which there are some pliers and knives.
+Berthold goes to a shelf on the wall in which there are some pliers and knives.
 He looks for a while and then takes a big little pair of pincers.
 
-Bertold: "The toe and finger forceps." He's holding it towards the captain.
+Berthold: "The toe and finger forceps." He's holding it towards the captain.
 Hilde looks over at him, closes her eyes again and breathes heavily.
 
-Captain loudly: "First the fingers, first the thumb", then he looks at Hilde: "Well?" Hilde's breathing harder.
+Captain loudly: "First the fingers, first the thumb," then he looks at Hilde: "Well?" Hilde's breathing harder.
 She's starting to sweat.
 
-Bertold: "Thumb?
+Berthold: "Thumb?
 That's good."
 He takes Wilhelm's hand.
 He's fighting back.
-Bertold grabs harder.
+Berthold grabs harder.
 Wilhelm snatches his hand from him with his last strength.
 
-Bertold: "Well, you don't want to?
+Berthold: "Well, you don't want to?
 No problem."
 
-Bertold sits down on his lap with a swing so that he wedges Wilhelm's arm under him.
+Berthold sits down on his lap with a swing so that he wedges Wilhelm's arm under him.
 He takes his hand by force.
 Wilhelm can't do anything anymore.
 He's trying to pull her away, but he can't.
-Bertold uses the pliers.
+Berthold uses pliers.
 
 Hilde: "STOP!"
 
@@ -157,12 +157,12 @@ It's better that way anyway.
 Then you're still fresh when you write.
 Come on, table over here!"
 
-Bertold carries the table to Hilde, she gets a pencil and the sheet on which already "Wilhelm Papenburg" with his address was written above.
-Bertold opens her handcuffs.
+Berthold carries the table to Hilde, she gets a pencil and the sheet on which already "Wilhelm Papenburg" with his address was written above.
+Berthold opens her handcuffs.
 She breathes deeply and begins to write.
 ____
 
-Marlene closed the paperback and looked at the three submachine gun men.
+Marlene closed the paperback and looked at the three submachine gunmen.
 Then she pulled a laptop out of her backpack and turned it on.
 
 "Pling!" it came off the speaker. Marlene taps the keyboard and smiles.

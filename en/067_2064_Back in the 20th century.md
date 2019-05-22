@@ -6,10 +6,10 @@ Jonny was sitting in an armchair.
 Two men in black suits stood to his side, overlooking Fortunato and on two life-size monitors showing the two agents Lasse had spoken to in San Diego.
 A camera followed Fortunato automatically.
 
-Fortunato: "This is a CATASTROPE!
+Fortunato: "This is a CATASTROPHE!
 I give you two super hackers on a silver platter, and you just let them go.
-Ha! You call the CIA Trantüten and the NSA Schnarchnasen and then two hackers escape you with a simple car interplay ...
-The first one's already gone and we haven't had a signal from the second one in 35 minutes."
+Ha! You call the CIA Trantüten and the NSA Schnarchnasen, and then two hackers escape you with a simple car interplay ...
+The first one's already gone, and we haven't had a signal from the second one in 35 minutes."
 He showed a display on the wall that showed the names of Lasse and Sigur and behind each of them a map section with a question mark in the middle and a time.
 
 First agent:
@@ -28,7 +28,7 @@ Not only under camouflage from our enemies, no, also under camouflage from CIA, 
 Maybe 11 or 12 people in Washington know about us.
 That's why we have to protect our people's cover!
 That's why we pay them with Bitcoins.
-In the year 2028 such a thing does not cost dollars or Euros, that costs Bitcoins, many Bitcoins.
+In the year 2028, such a thing does not cost dollars or Euros, that costs Bitcoins, many Bitcoins.
 By Monday, the supplies will be used up.
 Get away!
 Then we can no longer serve our contacts.
@@ -58,7 +58,7 @@ We don't know what they're talking about, we don't know what they're doing, we d
 And now both stations are silent, we don't even have a location.
 Are we back in the 20th century now?"
 
-First agent: "I just got word... We lost him!"
+First agent: "I just got the word... We lost him!"
 
 Fortunato: "WAAASSS?" He turned powder red on his face.
 "NO! LAPP NOSES! INCAPABLE!
@@ -66,7 +66,7 @@ They'll neuter you."
 
 He closed his eyes and then suddenly screamed:
 "S C H E I S S E !"
-He stepped against one of the large screens, which fell backwards and smashed into thousands of splinters.
+He stepped against one of the giant screens, which fell backward and smashed into thousands of splinters.
 He yelled at the agents on the remaining monitor:
 "Change of plans! Change of plans. I want him here, I want both of them here now!
 We'll do this the old way.

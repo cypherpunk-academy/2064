@@ -2,7 +2,7 @@
 ## **2021**** Night raid
 
 <span style="font-variant:small-caps;">The bedroom of </span> Marlene's parents was on the first floor of the house.
-Both slept deeply when suddenly there was a loud crash on the ground floor and a bright flash of lightning shone through the bedroom window.
+Both slept deeply when suddenly there was a loud crash on the ground floor, and a bright flash of lightning shone through the bedroom window.
 Marlene's parents were shocked.
 Voices roared in confusion.
 Loud trampling in the stairwell, then after a short time a rumble again.
@@ -38,8 +38,8 @@ And put your hands up when they come in.
 Then nothing happens."
 His voice trembled.
 
-The trampling came closer, up the stairs.
-The door to the bedroom was blown open with a noise, bright light.
+The trampling came closer, it came up the stairs.
+The door to the bedroom was blown open with noise, bright light.
 Father and mother both raised their arms.
 
 Father: "Don't shoot! We're unarmed."
@@ -61,7 +61,7 @@ I don't know."
 The soldier turned around and disappeared into the next room.
 The others are after him.
 After about ten minutes they left the house.
-The team van with which they had come roared away with squeaking tires.
+The team van with which they had come roared away with screeching tires.
 
 The father jumped to the window and tried to get a look at him.
 

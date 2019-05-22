@@ -2,12 +2,12 @@
 ## **2023** Crisis meeting
 
 <span style="font-variant:small-caps;">Heinz and Frederik</span> sat in casual clothes at a large, fully occupied conference table in the headquarters of the BND. Some wore suits, others were dressed casually.
-Four participants sat on chairs on a wall, at the head end the president of the BND sat.
+Four participants sat on chairs on a wall, at the head end, the president of the BND sat.
 
 President: "Okay, what do we know?"
 
 A man in a grey suit stood up and went to the projector, who threw a picture of Marlene and some personal data on the wall: "Marlene Farras, 18 years old, Eckener-Gymnasium here in Mariendorf until two years ago, until then nine months under intensive supervision from us, then worldwide manhunt, initiated by the CIA.
-Shortly appeared in Dahab, Egypt two years ago, then probably Saudi Arabia, last year probably Tasmania ..."
+Shortly appeared in Dahab, Egypt two years ago, then probably Saudi Arabia, last year possibly Tasmania ..."
 
 President: "Presumably?
 I suppose so.
@@ -33,31 +33,31 @@ I understand ...
 So, she had no contact with the family?
 To friends?
 No usual seats?
-Hacker spaces?"
+Hackerspaces?"
 
 Frederik: "Negative.
 We check everything regularly.
-We can't say hacker spaces for sure.
-There are too many of them, that goes from the number towards the stations ... And because of the mess last year we lost the overview at some points.
+We can't say hackerspaces for sure.
+There are too many of them, that goes into the tens of thousands ... And because of the mess last year we lost the overview at some points.
 Smartphones were often unavailable, Facebook, WhatsApp accounts closed, there was much more encrypted communication, much more was bought with cash and Bitcoins.
 But now we have complete access to the family, to the class, to friends we know.
 Pond spreads, Ricochet, GPG is very strong, used more and more on the command line, Tor, OTR... The usual suspects."
 
 Another man: "Since last week there are new leaks!
-iPhone could become more difficult again in the near future."
+iPhone could become more problematic again soon."
 
 Frederik: "Android as well.
-Wistleblowers are active in both companies.
+Whistleblowers are active in both companies.
 Still.
 They can't handle it there.
-Probably there are 15, 16 Wistleblower alone at Apple, Google, Microsoft, Facebook and Yahoo.
+Probably there are 15, 16 whistleblower alone at Apple, Google, Microsoft, Facebook, and Yahoo.
 Keeping them out of the public eye is hard work.
 We intercepted some stuff before it happened last week.
 Our media people do almost nothing else anymore..."
 
-President: "What channels do the pipes use, uh, Wistleblower?"
+President: "What channels do the pipes use, uh, whistleblower?"
 
-Frederik smiled briefly tormented and continued: "SecureDrop, GlobalLeaks, WikiLeaks, own things ... It gets confusing.
+Frederik smiled briefly, tormented and continued: "SecureDrop, GlobalLeaks, WikiLeaks, own things ... It gets confusing.
 You can open a pretty good drop with a little Linux know-how.
 Spiegel Online has one of those."
 
@@ -67,8 +67,8 @@ The Chancellor is worried.
 She spoke to me personally about it.
 The warrant now is out of time.
 This increases attention once again by leaps and bounds.
-People begin to attach importance to the matter over a longer period of time.
-The warrant may work in America, but here in Germany it's a disaster.
+People begin to attach importance to the matter over a longer period.
+The warrant may work in America, but here in Germany, it's a disaster.
 Suggestions?"
 
 Heinz: "Marlene's brother is sitting over in the USA in an NSA prison.
@@ -93,7 +93,7 @@ Frederik: "I'll call you there."
 
 Heinz: "And we are taking an even closer look at their school class.
 We take the next hop into the intensive surveillance: their friends and relatives, as well as the family.
-In the hacker environment we cannot do more than now.
+In the hacker environment, we cannot do more than now.
 That's where we're at."
 
 Man: "And I'm going to increase the pressure on our darknet hacker a little bit more."

@@ -32,7 +32,7 @@ Captain: "Quiet!
 It's not your turn now.
 It's my turn now. We warned you several times.
 You just moved on.
-All this wouldn't be necessary if you'd backed off, if you'd acted reasonable.
+All this wouldn't be necessary if you'd backed off if you'd acted reasonably.
 But you leave us no choice."
 
 Hilde stammers again.
@@ -42,8 +42,8 @@ And that's how you all want to hug: Englishmen, Americans, Russians, Chinese, Ne
 It's pure stupidity to trust everyone.
 This is suicide.
 We can only trust in our own strength and nothing else.
-The weak has no friends.
-The weak becomes a slave."
+The weak have no friends.
+The weak become slaves."
 
 He looks her in the eye.
 
@@ -58,7 +58,7 @@ They want to steal only from those who work hard and honest.
 And you're helping them.
 German nature works hard and honestly.
 That's why everyone buys our goods, all over the world.
-"Made in Germany", that has sound.
+"Made in Germany," that has sound.
 This is the future.
 We are better than everyone else, we can work better, we can organize better.
 We have the best inventors.
@@ -90,7 +90,7 @@ Hilde in a rough voice: "Never!"
 The captain grins, "I was kind of hoping you'd say that.
 Your whitewashing with the scum was always repugnant to me.
 It has its charm to kill someone.
-Especially when it's an assignment, when it's a duty.
+Especially when it's an assignment when it's a duty.
 It's quite an experience.
 Not many people can kill.
 It'll be my pleasure.
@@ -100,24 +100,22 @@ He's aiming the gun at Hilde's forehead again:
 Ah.
 Berthold, the tub.
 I don't want this to be another mess."
-Bertold comes back and pushes a metal tub with his foot behind Hilde's chair.
+Berthold comes back and pushes a metal tub with his foot behind Hilde's chair.
 
-Hilde looks at the captain seriously: "You are responsible for what you do.
-You personally.
+Hilde looks at the captain seriously: "You are responsible for what you do, you personally.
 You're an adult.
 You can't hide behind an order or any group or leader.
 What you do, you do it yourself."
 
-The captain laughs: "Yes, I will.
-Me alone.
+The captain laughs: "Yes, I will, me alone.
 Out of conviction."
 He's grinning.
-"Together with Bertold."
+"Together with Berthold."
 He presses the pistol harder against Hilde's forehead and shouts slightly excited: "Think your last thought!" Then he pulls the trigger.
 Hilde's face freezes, her neck twitches.
 "Click!"
 
-The captain laughs: "Boom! You're still alive.
+The captain laughs "Boom! You're still alive.
 Did you think I'd just shoot you here?
 No, no, no, no, no, no, no.
 We still need you.
@@ -133,7 +131,7 @@ We already have it.
 Now I need nine more.
 We know three of them for sure.
 If they're not on your list, I'll shoot you in the foot once for everyone who's missing." He turned around.
-"Bertold, do you have the bandages?"
+"Berthold, do you have the bandages?"
 
 Bertold: "Yes! Here.
 
@@ -145,7 +143,7 @@ Are there any volunteers?"
 
 From the group: "Yes!", "Yes!", "Here!"
 
-Captain comes close to her face: "Well?
+The captain comes close to her face: "Well?
 Which would you prefer?
 One of them or your foot?"
 Hilde spits a big chunk of saliva in his face.
@@ -153,8 +151,8 @@ The captain straightens up, trembles and wipes his face.
 He takes a deep breath and then hits Hilde in the face with his hand.
 
 Captain: "You bitch! We can do it differently! Slut!"
-He's walking around the room excited.
-"Slut! Bertold!!"
+He's walking around the room, excited.
+"Slut! Berthold!!"
 
 Bertold: "Yes!"
 

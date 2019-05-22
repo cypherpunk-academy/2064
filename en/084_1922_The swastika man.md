@@ -4,7 +4,7 @@
 ### SCENE 11: In the same vaulted cellar.
 
 ____
-The captain, Bertold, another uniformed man with a swastika bandage on his upper arm.
+The captain, Berthold, another uniformed man with a swastika bandage on his upper arm.
 You're standing in the middle of the room.
 
 Swastika man: "So!
@@ -14,7 +14,7 @@ I like it!
 Special treatments... Good name.
 I like it too!
 You have to know what they're called.
-The people want to be seduced.
+People want to be seduced.
 He wants to be seduced."
 
 Captain: "If you choose the order of the special treatments well, then they talk pretty fast.
@@ -34,14 +34,14 @@ They will not be converted."
 Captain: "And first they have to be specially treated.
 Information is important."
 
-Hakenkreuzmann: "A technical question: You have to know in advance what they know, otherwise it's difficult, isn't it?"
+Hakenkreuzmann: "A technical question: You have to know in advance what they know. Otherwise, it's difficult, isn't it?"
 
 Captain: "Then it will take longer.
 "Someday they'll talk."
 
 Hakenkreuzmann: "But then what are they talking about?
 If a poor bird like that doesn't know anything, he'll start inventing something.
-And that's a serious problem.
+And that's a severe problem.
 The whole thing's missing something."
 
 Captain: "What do you mean?"
@@ -55,7 +55,7 @@ Someone to catch his breath with.
 Then he gets hope.
 If you then extend it over a few weeks or months, I think you can find out quite a lot."
 
-Captain thoughtfully: "Hmmm. Yeah, that might be true." Bertold nodded to him.
+Captain thoughtfully: "Hmmm. Yeah, that might be true." Berthold nodded at him.
 
 Hakenkreuzmann: "You need illusions everywhere.
 Illusions of good, that's hope.
@@ -73,22 +73,22 @@ Do you know him?"
 Captain: "No."
 
 Swastika man: "Great man.
-Very good language.
+Excellent language.
 Powerful voice.
-And if something doesn't work out that way, he talked for a while, and in the end everyone thinks that it went well anyway.
+And if something doesn't work out that way, he talked for a while, and in the end, everyone thinks that it went well anyway.
 He can get anybody.
-Stays out of all the fights, but with his mouth he flattens everyone.
+Stays out of all the fights, but with his mouth, he flattens everyone.
 This is an important thing.
 Words!
 
 Captain: "I see.
-Sounds good to me.
+It sounds good to me.
 I wish we had a real leader here."
 
 Hakenkreuzmann: "We will soon be coming to Berlin.
 We need people like you."
 
-Captain nodded and looked at Bertold, "We're in."
-Bertold nodded back.
+Captain nodded and looked at Berthold, "We're in."
+Berthold nodded back.
 ____
 

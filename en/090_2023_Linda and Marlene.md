@@ -3,12 +3,12 @@
 
 <span style="font-variant:small-caps;">Linda expected Marlene</span> behind the curtain. Robert was standing next to her.
 
-She reached out her hand: "Linda Meyer".
-She looked at her seriously.
+She reached out her hand: "Linda Meyer."
+She looked at her.
 
-Robert: "Robert Foster" You shook hands.
+Robert: "Robert Foster," They shook hands.
 
-Linda: "I would exaggerate if I said: 'It is a pleasure to meet you'.
+Linda: "I would exaggerate if I said: 'It is a pleasure to meet you.'
 There's already been a lot of excitement about you.
 And this will only be the beginning.
 But all right, we'll make the best of it."
@@ -28,10 +28,10 @@ It's just the United States..."
 He nodded towards Linda and grinned at her.
 To Marlene: "Nah, really, go on with that: That's real Cypherpunk."
 
-Marlene laughed at him and they hugged each other for a long time.
+Marlene laughed at him, and they hugged each other for a long time.
 
 Marlene: "Thank you for everything!
-And sorry I stole your show today."
+And sorry, I stole your show today."
 
 Julian grinned mischievously.
 "Ciao!" He turned around and left.
@@ -46,12 +46,12 @@ I know you have a plan of your own, but we don't want to risk it.
 In Germany you are still officially wanted with an arrest warrant, here you are known nationwide.
 This is putting the authorities in trouble.
 In the United States, maybe one percent of people know her.
-We can put that under the Wistleblower amnesty.
+We can put that under the whistleblower amnesty.
 It is also not suitable for the masses to make a scandal report now about a president who brings a hacker with her to Washington.
 It's not a good time.
 That's not in the flow of news for a few weeks.
 Maybe a few right-wing fringe groups, but nothing of any importance.
-We'll have the prosecution suspend the warrant tomorrow and then you can fly back free with your brother."
+We'll have the prosecution suspend the warrant tomorrow, and then you can fly back free with your brother."
 
 Marlene: "If a German television team can fly with me, that's fine with me."
 
@@ -76,6 +76,6 @@ Marlene: "Yes."
 Linda: "But tweet about it only in the airplane.
 We leave tomorrow at 7:30.
 You will be picked up by our security service.
-You can stay here in any rooms as long as I understand.
-Robert will show them."
+I understood you can stay here until then.
+Robert will show it to you."
 

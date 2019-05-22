@@ -137,9 +137,8 @@ Das ist bescheuert, das ist krank.
 Das LBI nimmt den Tod von tausenden Menschen in Kauf, jedes Jahr.
 Und sie sagen: Sonst würden mehr Menschen sterben. Sie sagen: Sonst würden Amerikaner sterben.
 Und dann sage ich ihnen: Hej, und wenn ich sterbe, dann ist das nicht so schlimm.
-Ich bin zwar Amerikaner, aber Südamerikaner und die sind für euch weniger wert.
-Was ist das?
-Aber sie meinen, das würde mein Land genauso sehen.
+Ich bin zwar Amerikaner, aber aus dem Süden, Südamerikaner, und die sind für euch weniger wert.
+Aber sie meinen, das jedes Land die eigenen Menschen als wertvoller ansieht.
 Jedes Land hat die Aufgabe, für seine eigenen Bürger zu sorgen.
 Das ist der Preis dafür, dass es ein freies Land ist.“
 
@@ -155,7 +154,7 @@ Vieles mache ich genauer als die NSA.
 Auf jedem Fall unkomplizierter und schneller.
 Sie schicken mir eine E-Mail-Adresse oder eine Handy-Nummer und sie bekommen einen Link zu einem Tor-Hidden-Service, wo sie den aktuellen Aufenthaltsort und alle anderen in den letzten acht bis neun Jahren abrufen können.
 Ich arbeite gerade daran, dass auch die ganzen Überwachungskameras dazu kommen.
-Es gibt da inzwischen tolle Händler, die bieten dir 30 bis 40 Prozent aller Überwachungskameras in einer Stadt wie Caracas: Ort, Richtung, Reichweite und komplette Aufnahmen.
+Es gibt da inzwischen tolle Händler, die bieten dir 30 bis 40 Prozent aller Überwachungskameras in einer Stadt wie Caracas: Ort, Richtung, Reichweite. Alles, was die die letzten Jahre aufgenommen haben.
 Wenn du weißt, wo genau jemand ist, dann kannst du die passenden Überwachungskamerabilder einblenden.
 Live.
 Dann kannst du verfolgen, wo der Kerl oder das Mädel gerade steckt und was es tut.

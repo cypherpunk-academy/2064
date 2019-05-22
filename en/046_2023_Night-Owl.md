@@ -2,14 +2,14 @@
 ## **2023**** Night-Owl
 
 <span style="font-variant:small-caps;">Marwin sat in the </span> meeting room at his table.
-Before him lay five paper planes and two ships.
-He was humming "Don't worry, be happy" quietly.
+In fro him lay five paper planes and two ships.
+He was humming, "Don't worry, be happy" quietly.
 
-The door handle slowly moved down and the door opened.
-A slim young man in prison clothes came in, early 20s, looking a little cautiously, sneaking past Marwin and sitting on the chair opposite.
+The door handle slowly moved down, and the door opened.
+A slim young man in prison clothes came in, in his early 20s, looking a little cautiously, sneaking past Marwin and sitting on the chair opposite.
 He had neither handcuffs nor ankle cuffs, but bruises were visible.
-Both looked at each other, but didn't speak for a long time.
-At some point Marwin reached out his hand to him.
+Both looked at each other but didn't speak for a long time.
+At some point, Marwin reached out his hand to him.
 
 Marwin: "Marwin."
 
@@ -57,7 +57,7 @@ Not you?"
 Amon: "Forget it.
 They're tricks.
 They've let me out three times already.
-I signed papers, promised that I wouldn't say anything - until the end of my life, otherwise they would bring this end of life forward.
+I signed papers, promised that I wouldn't say anything - until the end of my life. Otherwise, they would bring this end of life forward.
 That's exactly what they said.
 And all I wanted was to get out.
 I would have signed everything ... And then I stood three times already outside at the bus stop, with all my things and then came no bus but a jeep and they got me again.
@@ -71,7 +71,7 @@ Then you take her side..."
 
 Amon held his hands in front of his face: "I can't do this anymore.
 I'm going crazy here.
-Of course I'll take her side when I get out of here."
+Of course, I'll take her side when I get out of here."
 
 Marwin took his hand: "Don't lie!
 Otherwise, you're really going crazy.
@@ -96,7 +96,7 @@ Amon wrote, "I don't know.
 They said you went crazy and didn't want to get out of here.
 And you need someone to talk to."
 
-Marwin read the note and looked at him confused.
+Marwin read the note and looked confused at him.
 Amon shrugged his shoulders.
 
 Amon wrote, "Don't you want to get out?"
@@ -112,7 +112,7 @@ Marwin nodded and wrote, "My sister."
 
 Amon: "What?? Marlene ... is your sister?
 Sweet.
-I played with her at a hackaton once.
+I played with her at a hackathon once.
 She's so fast."
 
 Marwin: "She hacked a TAO computer two years ago.
@@ -142,7 +142,7 @@ Amon had to laugh.
 Marwin said at normal volume: "Night-Owl, when we get out of here, we'll do a hack together - No, no, fun ... We'll be good."
 
 Marwin wrote on the next sheet: "We have already made one together.
-Your 'Bachelor thesis', that's what you used to call him.
+Your 'Bachelor thesis,' that's what you used to call him.
 But please, don't write my real name."
 
 Amon laughed all over his face.
@@ -164,16 +164,15 @@ Amon pushed the paper away and said: "Why do they do something like this? Why ar
 Marwin: "They know nothing of our world.
 They know nothing of what it means to live according to one's own ideas and not according to what others command or pretend or have persuaded them to do.
 They think it's naive when people want to stand on their own ground.
-They think it's naive if they don't adapt to the system, that they can't do anything anymore, that they get a bad resume that says they can't be relied on or that they don't work well.
-They don't think they could live without a resume like that.
-They couldn't afford a house anymore or a car, a family, if they didn't do a job where someone told them what to do.
+They think it's naive if they don't adapt to the system, they wouldn't be able to do meaningful things in life. They fear to get a bad resume or a bad reputation.
+They couldn't afford a house anymore or a car, support a family if they didn't do a job where someone told them what to do.
 It's so sick.
-They are adult people and they think they have to bow, otherwise their lives won't work out."
+They are adult people and think they have to bow. Otherwise, their lives won't work out."
 
 Amon: "This is really sick!
 And we haven't hurt anybody.
 Not really.
-There's no harm in turning off or converting a few thousand surveillance cameras, or using the giant advertising displays for a few days to play Tetris.
+There's no harm in turning off or converting a few thousand surveillance cameras or using the giant advertising displays for a few days to play Tetris.
 Do they have to lock us up for this?
 Okay, I hacked the V people database at the BND.
 That was stupid.
@@ -203,11 +202,11 @@ I didn't get any questions about the things I was in on."
 
 Amon said out loud, "Shit! They're just shit."
 
-A door opened and a soldier appeared.
+A door opened, and a soldier appeared.
 
-Soldier: "Night-Owl, resign!"
+Soldier: "Night-Owl, enough!"
 
 Amon rose and followed him outside.
 Marwin closed his eyes and said quietly, "Shit! That was a trick."
-He distorted his face, wiped the tears from his eyes and then stuffed the leaf into his mouth.
+He distorted his face, wiped the tears from his eyes, and then stuffed the leaf into his mouth.
 

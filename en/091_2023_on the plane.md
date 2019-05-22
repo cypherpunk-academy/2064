@@ -2,14 +2,14 @@
 ## **2023** On the plane
 
 <span style="font-variant:small-caps;">Marlene sat next to </span> Linda in a wide aircraft chair.
-Through the window you could see a carpet of clouds and bright sunshine.
+Through the window, you could see a carpet of clouds and bright sunshine.
 They talked excitedly.
 Further behind them, the president gave an interview to a television team at a conversation table.
 
 Robert came by and quietly said to Linda, "She wants to talk to you.
 In her cabin."
 
-Linda nodded, got up and disappeared behind a door.
+Linda nodded, got up, and disappeared behind a door.
 The president followed her.
 
 Inside, they both looked at each other.
@@ -50,7 +50,7 @@ Where we can act freely.
 Where millions of people don't look.
 And we spend most of our time keeping things under the covers."
 
-Linda: "The good thing is that with Marlene Farras the masses in Europe will relieve us of the many changes in the NSA and the CIA.
+Linda: "The good thing is that with Marlene Farras, the masses in Europe will relieve us of the many changes in the NSA and the CIA.
 This gives us the freedom to kick out a large number of people now and make them free for the LBI.
 There are certainly some foreign secret services biting on and enticing people away, which we officially drop.
 Then we get LBI in FSB or LBI in Mossad or better, the Chinese.

@@ -7,13 +7,13 @@ They both sat and typed.
 
 Fred: "Good Internet here.
 How do you conceal using Tor?
-It might be noticeable if someone in the middle of nowhere suddenly sends a lot of goal data to the Internet, and Australia is not exactly a private-sphere friendly country."
+It might be noticeable if someone in the middle of nowhere suddenly sends a lot of goal data to the Internet, and Australia is not precisely a private-sphere friendly country."
 
 Marlene: "Quite normal: via Tor Plugable Transports.
-There you can choose from a whole range of how you want to go into the goal net.
+There you can choose from a whole range of how you want to go into the Tor network.
 And change again and again.
 I'm in the process of building my own entrance.
-But now I mostly use the web or Skype option: Either it looks like I'm surfing normally or I'm skyyping with someone, but in reality I'm getting and sending gate data.
+But now I mostly use the web or Skype option: Either it looks like I'm just surfing around or I'm skyping with someone, but in reality, I'm getting and sending gate data.
 Teenagers abroad surf and Skype a lot.
 And the operators who are responsible for this at the NSA have to take a closer look.
 They're mostly snorers, I think.
@@ -26,7 +26,7 @@ But these are mostly unmotivated civil servants in a giant apparatus.
 Lunch break and holiday account are more important than a few hackers at the other end of the world.
 And with that attitude, they can't find us.
 - Okay. (laughs)
-Data is ready.
+The data is ready.
 I'm ready.
 Who's first?"
 
@@ -34,14 +34,14 @@ Marlene: "As I said: Tor, Tails, Cubes, Subgraph, GPG and OTR.
 We send the weaknesses of all your projects to you.
 I've already warned the core people:
 There's an earthquake coming, and a deluge.
-They know exactly what happens if the information goes to the wrong people right now.
+They know precisely what happens if the information goes to the wrong people right now.
 And they also know how to prevent it."
 
 Fred: "Are we sending everything?"
 
 Marlene nodded: "Yes, of course, everything about her projects.
 Exactly the list you made.
-It is important that there are no more gaps in the programs before things get really big.
+It is crucial that there are no more gaps in the programs before things get huge.
 We must be able to communicate."
 
 Fred: "How much time do we give them?"
@@ -68,7 +68,7 @@ I now have a lot of current Ricochet addresses from all kinds of teams.
 We will send them as soon as the vulnerabilities in the base programs are gone and we all have the new versions.
 These teams need more time.
 That's a lot of stuff.
-And then let's get on with all the other Linuxe, Libre Office and hardware things."
+And then let's get on with all the other Linux, Libre Office and hardware things."
 
 Fred: "Lots of work."
 
@@ -83,17 +83,17 @@ Fred: "Yes! Anita and the terabyte.
 It's a story.
 So, after the meeting with everyone: I get your pond message, which you also sent to Anita, and fall off the chair.
 I hadn't really meant that with the Raspberry Pi in the chat: you could do it.
-Then I get up again, breathe deeply, sit upright and write the Raspberry program.
+Then I get up again, breathe deeply, sit upright, and write the Raspberry program.
 Not so difficult.
-Three quarters of an hour.
+45 minutes.
 Then I test it with a few thousand QR codes, it's okay, make an image of it and send it via Pond to Anita.
-No answer, just a normal pond acknowledge.
+No answer, just a regular pond acknowledge.
 She got it.
-Good, good, good.
+Okay, good, good.
 Next, 22 hours 10 minutes later, I get a message that the files are safe on two 1TB sticks with the question of how to deliver them.
-I fall from my chair for the second time, crawl out again, sit upright again and continue reading.
+I fall from my chair for the second time, crawl out again, sit upright again, and continue reading.
 She writes she may be followed by NSA people.
-Her suggestion is that she gives a stick in a restroom to the toilet attendant there who has been sitting there for 10, 15 years for sure.
+She suggests that she gives a stick in a restroom to the toilet attendant there who has been sitting there for 10, 15 years for sure.
 She gives her 50 dollars and says that a man will come to her home who will give her another 50 dollars for the stick.
 She gave me the woman's house address and said that she usually arrives at home at 6:20 pm.
 Well, Anita must know that.
@@ -104,10 +104,10 @@ Did NSA surveillance help us with this operation now?"
 
 Fred: "Never mind ...
 So I'm going there at 6:30.
-She opens the door, looks at me from top to bottom, turns around and gets the stick.
-I give her 50 bucks and she says 100 bucks!
-I close my eyes, wait two seconds and then get another $50 bill out of my pocket.
-She makes a face at all this, as if she had just drowned a group of young poodles for fun.
+She opens the door, looks at me from top to bottom, turns around, and gets the stick.
+I give her 50 bucks, and she says 100 dollars!
+I close my eyes, wait two seconds, and then get another $50 bill out of my pocket.
+She makes a face at all this as if she had just drowned a group of young poodles for fun.
 She takes the two bills and gives me the stick.
 I've got him in my hand.
 My hand's starting to tingle.
@@ -127,10 +127,10 @@ It's so good that they exist."
 
 Fred: "And girls.
 Well, they're all at work now.
-There's no lights going out for three days now.
-You bet your ass you do."
+No lights are going out for three days now.
+You bet your ass, you do."
 
-Marlene: "And they rejoice like snow kings ... finally some real data."
+Marlene: "And they rejoice like snow kings ... finally, some real data."
 
 Fred: "They dance in circles..."
 

@@ -3,9 +3,9 @@
 
 <span style="font-variant:small-caps;">In front of a mountain hut</span> stood two off-road motorcycles.
 Roger sat in front, leaning on a bench against the wall of a house, his hands crossed behind his head, cigarette in his mouth, legs stretched out.
-In the house you could see Lasse on his laptop.
+In the house, you could see Lasse on his laptop.
 He wore headphones and had a big joystick in his hand.
-Before him on the screen one saw a control program for a flying combat robot.
+Before him, on the screen, one saw a control program for a flying combat robot.
 It was active.
 The combat robot flew over a steppe landscape.
 Another combat robot came into view before him.
@@ -17,7 +17,7 @@ Back right behind you."
 Sigur: "Geil!
 The team's back together.
 Feels good.
-You know, the last thing we did together was get the Five Star out of the sky.
+You know, the last thing we did together was getting the Five Star out of the sky.
 The last loop, the two of us together, remember?"
 
 Lasse: "Sure, I remember that.
@@ -27,12 +27,12 @@ Where are the helicopters?"
 Sigur: "I've already done that.
 They're lying somewhere in the desert sand, maybe 20 miles west of us.
 It was very simple.
-The XJ-11 really has a lot more fighting power than its predecessors, and is super agile.
+The XJ-11 really has a lot more fighting power than its predecessors and is super agile.
 I never felt in danger at any time.
 That's why I didn't wait for you.
 I brought them all down in 30 seconds.
 It was really easy.
-But of course I only have one Hellfire rocket left now."
+But of course, I only have one Hellfire rocket left now."
 
 Lasse: "SHIT!
 Sigur!
@@ -51,7 +51,7 @@ They're not toys.
 I was in danger."
 
 Lasse: "They have no chance against you.
-There are people in there who have to take care of their lives.
+There are people there who have to take care of their lives.
 "In the worst case, you'll lose a combat robot."
 
 Sigur: "Hej, these are people who work for a totalitarian regime, they have to reckon with something coming back as an answer to everything they do.
@@ -114,7 +114,7 @@ Sigur!"
 
 Sigur: "Little moment."
 
-Lasse hears hectic movements of Sigur, button and key presses through his headphones.
+Lasse hears hectic movements of Sigur, button, and key presses through his headphones.
 Then a keyboard storm.
 A curse now and then.
 
@@ -136,7 +136,7 @@ I'll be done in a minute."
 
 Lasse: "Finished with what?"
 
-Sigur: "Well, now I've got her!"
+Sigur: "Well, now, I've got her!"
 
 Lasse: "You took them all from heaven?"
 
@@ -145,9 +145,9 @@ He laughed.
 "Nah, they brought them all to me, all of them!
 All 27 of them.
 This is so awesome when you deal with software that is not open source.
-Sometimes there are such cheap bugs in it that you can control the program completely.
+Sometimes there are such cheap bugs in it that you can control the program entirely.
 It's their own fault.
-If the software was open source, that wouldn't have happened.
+If the software were open source, that wouldn't have happened.
 I have picked one after the other, automatically, and am now in the Albatros formation flight on the way to you.
 27 battle robots, wedge-shaped, my lead albatross in front.
 It works great.
@@ -165,7 +165,7 @@ We're about to see a few F22s ascending."
 
 Sigur: "No problem.
 There's an F22 fighting mode.
-I can have the combat robots fall over an F22 like a bunch of hornets, or over two or three at the same time.
+I can have the combat robots fall over an F22 like a bunch of hornets or over two or three at the same time.
 I wouldn't need more combat robots until four.
 I've seen the simulations.
 This is so awesome."
@@ -190,7 +190,7 @@ Sigur: "Will you come to me with your two?
 We could use any combat robot we can get.
 I have a plan."
 
-Lasse got up, put his headset on the table and left the cabin.
+Lasse got up, put his headset on the table, and left the cabin.
 
 Sigur: "Lasse?
 Are you there, man?

@@ -166,9 +166,9 @@ Raum, als es passiert ist. Ein Schlag gegen den Kopf.
 
 Brutal!
 
-Er lag da. Er ist nicht wieder aufgestanden. Ich musste
-mich damals übergeben, als mir klar wurde, dass er wirklich
-tot war. Das war für mich ein Wendepunkt. Ich wollte schon
+Er lag da. Er ist nicht wieder aufgestanden. Ich musste damals raus gehen, als mir klar wurde, dass er wirklich tot war.
+Ich habe mich übergeben. 
+Das war für mich ein Wendepunkt. Ich wollte schon
 einige Zeit davor aussteigen, aber das ist nicht so einfach,
 da wo ich arbeite. Ich bin hier in der Zentrale der TAO,
 in der NSA. Ich bin Verbindungsoffizier zur CIA. Ich leite

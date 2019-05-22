@@ -18,7 +18,7 @@ Und Hilfe zu erhalten.
 Und zu sehen, wie das, was man selbst macht, von anderen verwendet wird.
 Wir haben nichts davon in den letzten Jahren in unserer Schule gehabt.
 
-Wenn Sie das hier mit einer normalen Situation in irgendeinem Unterricht vergleichen, dann sehen Sie, dass wir Schüler normalerweise im Unterricht nicht voll dabei sind, eher dahinvegetieren.
+Wenn Sie das hier mit einer normalen Situation in irgendeinem Unterricht vergleichen, dann sehen Sie, dass wir Schüler normalerweise im Unterricht nicht voll dabei sind.
 Aber hier leben wir.
 Alle sind hellwach und voll dabei.
 Und bei uns kommen Superleute vorbei, vor allem aus dem Hackerumfeld. 

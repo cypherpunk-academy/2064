@@ -27,16 +27,16 @@ These were extremely dangerous facilities.
 Externally in they appeared to be legal.
 They don't exist anymore.
 The secret services of that time have become our information services through which we can all learn all kinds of things about how people in all countries of the world work together, what they decide together, who does what particularly well and what people all over the world need to live and work.
-Sometimes they even use successors to computer programs that used to be used to hunt humans and control private life on this earth.
+Sometimes they even use successors to computer programs that used to be used for hunting humans and controlling private life on this Earth.
 Today, thank God, this manhunt and the control of everything and everyone is a thing of the past.
-You learn about these old secret services only in history lessons, that is concretely in your case, essentially through TRON, because that's what TRON was originally made for: to show you the liberation struggle of the Internet."
+You learn about these old secret services only in history lessons, that is concretely in your case, mostly through TRON, because that's what TRON has initially been made for: to show you the liberation struggle of the Internet."
 
 Lasse and Sigur looked at each other and then at Lilly.
 She smiled back and winked her eyes.
 
-Edgar stepped forward and sat down facing the pupils at the edge of the stage, at the same time the light darkened somewhat.
+Edgar stepped forward and sat down facing the pupils at the edge of the stage, at the same time, the light darkened somewhat.
 He became calmer in tone: "In this world back then, which was so different from today's, it was normal for people to try to control other people's lives.
-Many said that there was no other way because there was so much selfishness, so many criminals and bad people.
+Many said that there was no other way because there were so much selfishness, so many criminals and bad people.
 Many even had the right to have states screen their citizens.
 Most thought it was normal for armies to monitor their soldiers, companies their employees, and even teachers their students and parents their children: whether they went to school, whether they had learned what they should learn, and whether they did something better or worse than the other students, how much they played on the computer, all sorts of things.
 Control and monitoring were widespread at the time.
@@ -46,10 +46,10 @@ Between countries, companies, political parties, but also in schools, families, 
 That was perfectly normal.
 That's why people kept things secret, didn't show how they really were, what they really thought.
 Either to avoid an argument or to have an advantage over others.
-More and more things were kept secret that were vital to people who should have known them.
-The silence went all the way up to world politics and the big companies.
+More and more things were kept hidden that were vital to people who should have known them.
+The silence went all the way up to world politics and big companies.
 That was the worst part.
-Environmental disasters were kept secret, wars, surveillance and in the end the worst things could happen in the world and almost nobody knew about it.
+Environmental disasters were kept hidden, wars, surveillance, and in the end, the worst things could happen in the world, and almost nobody knew about it.
 
 That was the field of work of the Cypherpunks.
 They were not only programmers who wrote encryption programs and searched for and repaired vulnerabilities on the Internet.
@@ -57,12 +57,12 @@ They were hackers, too.
 They were concerned about much more than that.
 It was about a new world, a new way of living together, it was about finding a way that all people can live as they are, according to their own ideas.
 It was about nobody having to bend over for anyone else anymore.
-It was about a world where there was less and less fear and coercion and lies.
+It was about a world where there were less and less fear and coercion and lies.
 
 And although it did not look like it for a long time at all, the way was found into this new world.
 Many people had considered this impossible at the time, although most would have preferred to live in such a world.
-The forces that stood in the way, the forces you tried out in TRON, they seemed to be overpowering.
-What could have been done against the giant armies, giant corporations and powerful governments?
+The powers that stood in the way, the powers you tried out in TRON, they seemed to be overpowering.
+What could have been done against the giant armies, giant corporations, and powerful governments?
 But anything you want is possible.
 And so this way was found.
 Especially children and teenagers like you."

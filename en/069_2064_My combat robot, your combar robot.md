@@ -1,5 +1,5 @@
 
-## **2064** My combat robot, your combar robot
+## **2064** My combat robot, your combat robot
 
 <span style="font-variant:small-caps;">A police car</span> at normal speed on the highway.
 The driver in uniform with black sunglasses looked into the rearview mirror.
@@ -7,9 +7,9 @@ Phoenix slowly disappeared on the horizon.
 He smiled and then said out loud: "The air is clear! You can come out."
 
 From behind the back seat of the car came a loud knock: "boom" Then again: "boom ... boom!"
-The driver whistled quietly a melody.
+The driver whistled a melody quietly.
 He looked over the rearview mirror to the rear seat and smiled.
-"Boom!" the back seat folded forward and Lasse put his head through the opening.
+"Boom!" the back seat folded forward, and Lasse put his head through the opening.
 He looked at the driver.
 He turned around and grinned, "We're out!"
 Lasse: "Geil!
@@ -25,7 +25,7 @@ That's a cop car.
 Like the Blues Brothers."
 
 Trevor: "Sure!
-With bull engine and bull tyres.
+With cop engine and cop tires.
 Do you like it?"
 
 Lasse: "I love it.
@@ -47,7 +47,7 @@ Money and secrecy make you tired and stupid.
 Especially in ultra-secret intelligence that no one knows.
 It's as bad as an ultra-secret encryption program where no one ever controls what it really does."
 
-Lasse: "And they're scared, they're so scared of everything they do.
+Lasse: "And they're scared, they're so afraid of everything they do.
 Nothing can go wrong.
 They need a superior force of people everywhere.
 Not ten times more people, no, fifty times more.
@@ -63,7 +63,7 @@ Lasse: "We will turn the tables a little, I think.
 You made a mistake.
 They showed us one of their combat robots.
 And Sigur might have found him by now.
-We have an access code - game gift from TRON."
+We have an access code - a game gift from TRON."
 
 Trevor blinked with his eyes: "What's that over there?"
 He pointed to a small dot in the sky about two kilometers ahead of them.
@@ -94,14 +94,14 @@ Get behind that truck over there.
 Hurry.
 Lasse reached forward with his arm, but couldn't quite reach the steering wheel.
 
-Trevor: "It's good, it's good, it's good.
+Trevor: "It's right, it's okay, it's good.
 I'll drive."
 He drove the car behind the truck.
-A few moments later a flying combat robot hissed past them in close proximity.
+A few moments later, a flying combat robot hissed past them in close proximity.
 They both pulled their heads in.
 
 Lasse threw himself back and looked out the back window: "Shit!
-It flies at the speed of ten meters altitude.
+It flies at a speed of ten meters altitude.
 Is he stupid?
 This is complete insanity.
 They have new pilots."
@@ -113,7 +113,7 @@ Leave excited: "GOD!
 Four Hellfire missiles.
 What'll we do?
 I can't think of anything.
-I don't know nothing.
+I don't know anything.
 Stop the car!
 Get out of the car, side ditch."
 
@@ -135,7 +135,7 @@ You said you had a code."
 
 "Nonsense!" Lasse shouted, "this is a Reaper MQ-11, this is not Sigur ...
 That's not Sigur... That's... Hey, maybe that's Sigur!"
-He jumped up and jumped back to the car, took the laptop and started the jabber chat program.
+He jumped up and jumped back to the car, took the laptop and started the Jabber chat program.
 "Pling!" a message came in.
 
 Sigur: "Hej, don't you recognize me?
@@ -162,7 +162,7 @@ Hello, I have full access to the satellite, root.
 It controls 29 combat robots as a hidden side function.
 Otherwise, he'll be broadcasting TV stations and telephone conversations.
 The planes are all in the hangar now, except two.
-All they have to do is come out and I can take them.
+All they have to do is come out, and I can take them.
 I'm going to fly mine behind the hill now, maybe it's not so good here right on the highway."
 
 The battle robot flew off the highway.
@@ -171,7 +171,7 @@ Police are coming in the back."
 
 Lasse closed his door and looked back.
 The police car came closer.
-Then the blue lights came on and it drove out to the right and stopped behind them about 20 meters away.
+Then the blue lights came on, and it drove out to the right and stopped behind them about 20 meters away.
 Two policemen got out and moved towards Lasse and Trevor with guns drawn.
 
 Trevor: "Oh, yes.
@@ -182,8 +182,8 @@ Lasse: "Shit!
 It doesn't look like we could talk to them.
 Too dangerous.
 Step on it!"
-Trevor started the engine and drove away with screeching tyres.
-The cops ran back, jumped into their car and followed them.
+Trevor started the engine and drove away with screeching tires.
+The cops ran back, jumped into their car, and followed them.
 
 Lasse activated Jabber's speech recognition so that Sigur could also hear what was being said in the car.
 He said, "Sigur, police.
@@ -191,11 +191,11 @@ They wanted to stop us.
 We drove away."
 
 Sigur replied, "Okay.
-I'll look into it." After a short time the robot reappeared in the sky.
+I'll look into it." After a short time, the robot reappeared in the sky.
 He flew about a hundred meters to the right behind the police car, which raced at high speed across the highway with blue lights.
 
 Trevor: "30 miles to Cornville.
-Roger gets there around 1:00 in the morning and you can wait in an empty house."
+Roger gets there around 1:00 in the morning, and you can wait in an empty house."
 
 Lasse: "But we're not going there as long as the police are after us."
 
@@ -221,9 +221,9 @@ Sigur: "Okay.
 You're pretty alone on the freeway right now."
 
 Lasse screamed: "SIGUR! NOT!"
-He looked at the combat robot and seconds later saw a fireball flickering and the police car behind them disappeared in a huge explosion.
+He looked at the combat robot and seconds later saw a fireball flickering, and the police car behind them disappeared in a massive explosion.
 
-Lasse and Trevor flinched and both looked at the burning wreck and then at each other.
+Lasse and Trevor flinched, and both looked at the burning wreck and then at each other.
 
 Lasse, Trevor: "Shit! Sigur!"
 
@@ -242,7 +242,7 @@ Trevor didn't stop and said: "I'll drive you about 20 kilometers from here somew
 That's the safest way.
 They won't be coming right away with thermal cameras.
 They're not prepared.
-And then I try to get to the car I was going to drive back in anyway.
+And then I try to get to the car I was going to drive back in any way.
 We're prepared.
 Not you."
 

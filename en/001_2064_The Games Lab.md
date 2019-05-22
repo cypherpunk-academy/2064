@@ -2,8 +2,8 @@
 
 ## **2064** The Games Lab
 <span style="font-variant:small-caps;">It was the</span> best time of the year. Lasse strolled joyfully towards the games lab, which stood in the middle of the school grounds, where the stream branched and flowed around the lab on both sides.
-He looked around, walking by, looking at the houses built in completely different ways, of clay, wood and large stones, with imaginatively shaped windows and colorful roofs.
-He liked to discover a new detail in them again and again.
+He looked around, walking by, looking at the houses built in entirely different ways, of clay, wood and large stones, with imaginatively shaped windows and colorful roofs.
+He liked to discover new detail in them again and again.
 And you could really see in the houses who worked and lived in them.
 He smiled.
 
@@ -13,23 +13,22 @@ He grabbed her carefully from his hand and turned around with it.
 
 There was no bridge to the gaming lab island.
 To get in, you had to jump over the creek and Lasse chose a place where he could make it.
-In front of the house he took a quick look at the lock of the door and it jumped open with a quiet click.
+In front of the house, he took a quick look at the lock of the door, and it jumped open with a quiet click.
 
 It was nine o'clock, half an hour before the start of the third matchday.
 He loved the TRON Weeks, a huge computer game tournament in which thousands of players from many countries played together and against each other for world domination in a virtual computer world.
-And not in a fictitious world, but in a fairly faithful replica of the Internet from 2023 to 2033, a grandiose simulation with infinitely many realistic details from that time.
+And not in an imaginary world, but in a reasonably faithful replica of the Internet from 2023 to 2033, a grandiose simulation with infinitely many realistic details from that time.
 He and his friends had been preparing for this for months.
 
-One goal was to accomplish missions, such as conquering computers, getting them under control and defending them, in banks, in companies or even at someone's home who did something interesting.
+One goal was to accomplish missions, such as conquering computers, getting them under control and defending them, in banks, in companies or even at someone's home who did something unusual.
 One could also take over satellites, ships or airplanes, unmask agents and hackers.
-A very popular but also difficult mission was to hunt down well-known hackers like Kevin Mitnick, Adrian Lamo or Julian Assange.
-The most points were when you got secret documents, journals of secret wars, secret agreements between companies, secret operations of governments.
+A very popular but also tricky mission was to hunt down well-known hackers like Kevin Mitnick, Adrian Lamo or Julian Assange.
+The most points were when you got secret documents, journals of secret wars, secret agreements between companies, covert operations of governments.
 You could sell them for a lot of money.
 
-A very popular but also difficult mission was to hunt down well-known hackers like Kevin Mitnick, Adrian Lamo or Julian Assange.
-Lasse had wanted to play Julian Assange himself, but too many others wanted to, too, and that's probably why he had become a lesser known hacker, with the mission to take over satellites, flying combat robots, and other weapons in a war zone. You had to know a lot about computer systems, the political situation at that time and how people thought and felt.
+Lasse had wanted to play Julian Assange himself, but too many others wanted to, also, and that's why he had probably become a lesser known hacker, with the mission to take over satellites, flying combat robots, and other weapons in a war zone. You had to know a lot about computer systems, the political situation at that time and how people thought and felt.
 
-At that time there was war on the Internet and in many parts of the world.
+At that time there was a war on the Internet and in many parts of the world.
 The world was full of terrible conflicts between countries and companies, in governments, everywhere, even in schools and many families.
 It was a completely different world.
 
@@ -43,7 +42,7 @@ He was his friend too, though not the best.
 He'd told him that many times before.
 
 But as a wingman, Sigur was a great thing.
-At the age of 14 he had already taken over a lot of computers in banks and oil companies. He had even penetrated military computers that were particularly difficult to crack. Once he had managed to take over a passenger plane that had crashed.
+At the age of 14, he had already taken over a lot of computers in banks and oil companies. He had even penetrated military computers that were particularly difficult to crack. Once he had managed to take over a passenger plane that had crashed.
 
 Lasse: "What's up, Sig, hey?"
 Sigur didn't react and kept typing.
@@ -72,7 +71,7 @@ Log files were computer files where you could read everything that happened on a
 For Lasse and Sigur, log files were like newspapers, only they described what had happened somewhere and not just someone else's opinion.
 There was the exact time, the program, what had done something and what had happened exactly.
 
-Lasse: "Even a cocoa before? We're gonna get this thing down today!"
+Lasse: "Even cocoa before? We're gonna get this thing down today!"
 Sigur: "No, not down! Take over, look at everything, copy data, remove traces and run away again.
 That's the mission."
 Lasse: "Yes, it's all right - I know.

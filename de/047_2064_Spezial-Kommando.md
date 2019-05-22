@@ -278,7 +278,7 @@ Ich verschiebe den Abflug um eine Stunde.
 Dann müsst ihr euch nicht beeilen.“
 
 Lasse schaute ihn an.
-Sigur nickte und Fortuanto griff zum Telefon und telefonierte mit drei verschiedenen Stellen.
+Sigur nickte und Fortunato griff zum Telefon und telefonierte mit drei verschiedenen Stellen.
 
 Fortunato: „Taxi kommt in 10 Minuten.
 Jungs, ist mit euch alles in Ordnung?

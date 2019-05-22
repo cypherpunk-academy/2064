@@ -2,7 +2,7 @@
 ## **2023** Spaghetti Milanese
 
 <span style="font-variant:small-caps;">Marlene and Luigi</span> sat on the terrace in front of their laptops and listened intently to the President's last words.
-They looked each other in the eye for a moment.
+They looked at each other in the eye for a moment.
 Then they both pulled up their arms and laughed.
 
 Marlene: "Yeah!
@@ -43,7 +43,7 @@ She put her face in her hands.
 Maybe he won't even notice."
 
 She closed her eyes.
-After a while she got up and walked towards the railing.
+After a while, she got up and walked towards the railing.
 
 Luigi: "Marlene!!"
 
@@ -59,12 +59,12 @@ Most likely in a CIA prison.
 There's nothing new about it.
 But try it again."
 
-Marlene: "Someday I'll find a trail."
-She got up, sat down on her chair, took her laptop and started typing.
+Marlene: "Someday, I'll find a trail."
+She got up, sat down on her chair, took her laptop, and started typing.
 
 Luigi: "I make spaghetti Milanese.
 With Parmigiano-Reggiano and a hint of pepper.
-And a Valpolicella rossa."
+And a Valpolicella Rossa."
 
 Marlene didn't react.
 She typed and looked spellbound at her screen.

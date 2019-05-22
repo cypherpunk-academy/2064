@@ -4,21 +4,21 @@
 <span style="font-variant:small-caps;">The whole class</span> discussed lively in small groups throughout the classroom.
 Kevin gesticulated wildly in front of some classmates.
 Anni and Sophie showed others the smartphone and explained excitedly.
-A teacher came into the room, stood in the middle in front of the blackboard, looked around and waited for rest.
-After a while he shouted into the room: "Now there is peace here!
+A teacher came into the room, stood in the middle in front of the blackboard, looked around, and waited for rest.
+After a while, he shouted into the room: "Now there is peace here!
 Sit down.
-Take your places.
+Take your place.
 Everybody!
 And that's NOW!"
 
 None of the students responded.
-He gasped for air, waited, looked, then shouted louder: "RUN!
+He gasped for air, waited, looked, then shouted louder: "STOP!
 QUIET NOW! GO TO YOUR SEATS!
-What's the matter with you LOS?"
+What's the matter with you, GUYS?"
 
-No response again.
+No response from the students again.
 
-Teacher says out loud: "I know ... I know what happened.
+Teacher: "I know ... I know what happened.
 I know it! I know it!
 Marlene Farras was in your class.
 I understand you're upset about this.
@@ -34,37 +34,37 @@ Some turned forward.
 
 The teacher stood with his legs apart in the direction of Kevin: "I decide had happened here, not you, Kevin!
 And we're going to class now!
-Everybody take your places.
+Everybody, take your place.
 Right now!
 I won't say that again."
 
-In the room it became quite quiet and everyone looked to the teacher and to Kevin.
+In the room, it became quite quiet, and everyone looked at the teacher and to Kevin.
 
 Kevin replied calmly, "No, that's not for you to decide.
 This is more important.
 Marlene's life is at stake.
 And we speak until we know what we're doing for them."
 Now it had become eerily quiet.
-The teacher and Kevin looked each other in the eye.
+The teacher and Kevin looked at each other.
 Kevin crossed his arms.
 
 Teacher: "Kevin, you risk a reprimand.
 You already have one.
 There's nothing we can do for Marlene.
-She got herself into this and now she has to see how she gets out.
+She got herself into this, and now she has to see how she gets out.
 It is forbidden to hack into other people's computers and steal secret data.
 No matter what it is.
 She wasn't an insider, she didn't work there.
-So she's not a Wistleblower either.
-We live in a constitutional state and there are laws that have to be obeyed.
+So she's not a whistleblower either.
+We live in a democratic state, and there are laws, that have to be obeyed.
 Marlene obviously didn't do that.
 And he's breaking into the world's biggest secret service.
 Besides, people have died."
 
 Anni excitedly, loudly: "I FASSE IT NOT!
 I don't believe this.
-They were on a school trip with us and Marlene.
-You've known her almost 10 years, you know how Marlene thinks.
+They were on a school trip with Marlene and us.
+You've known her for almost 10 years, you know how Marlene thinks.
 You know why she does this.
 And now you're chattering the media shit.
 That's pure propaganda.
@@ -85,8 +85,8 @@ Until that's cleared up."
 
 Teacher: "I, um, I..."
 
-Kevin: "I don't do classes anymore either.
-"Until Marlene's picture is right again and we can't hear any more shit like that."
+Kevin: "I don't do classes anymore, either.
+"Until Marlene's picture is right again, and we can't hear any more shit like that."
 
 Teacher: "KEVIN! ...Kevin!"
 He looked around the classroom.
@@ -108,14 +108,14 @@ And I mean it.
 And you let the media shit your brains out.
 It smells like this."
 
-Teacher breathed out and inhaled: "NO! OUT!"
+The teacher breathed out and inhaled: "NO! OUT!"
 He pointed his finger at the door.
 
 Kevin didn't move.
 The students around him stood demonstratively in front of him.
 The teacher looked them in the faces one by one.
 Everyone looked back calmly and resolutely.
-After a while he turned to the door and hurried out of the room.
+After a while, he turned to the door and hurried out of the room.
 She fell into the castle behind him with a loud crash.
 
 Kevin stood in the middle of the class and looked like absent towards the blackboard.
@@ -129,9 +129,9 @@ Who's in?"
 "I can't go along with this.
 I can't do this."
 
-"Absolutely." Kevin replied.
+"Absolutely," Kevin replied.
 "But nobody has to go along with it, it's perfectly okay for me if someone doesn't want to go along with it.
-But me, I can't help it."
+But for me, I can't help it."
 
 "I'm in, too," Sophie shouted.
 "For Marlene!"
@@ -140,7 +140,7 @@ But me, I can't help it."
 "For Marlene!"
 
 There were some more "Me too!" shouts.
-In the meantime Tatjana had packed her bag and was on her way to the door.
+In the meantime, Tatjana had packed her bag and was on her way to the door.
 She turned around once more and looked into the class.
 Then she put her bag down and said, "Fuck it, I'm staying, too."
 Kevin ran up to her and hugged her.
@@ -170,7 +170,7 @@ Who wants to write?"
 "Yes, Sophie," another one.
 
 Sophie: "Okay, but you have to help me."
-She took her bag, sat down at the table in the back corner of the window, unpacked her stationery and started.
+She took her bag, sat down at the table in the back corner of the window, unpacked her stationery, and started.
 Kevin followed her and sat down in front of her on the table.
 
 The door bursts open.
@@ -188,21 +188,21 @@ A student said, "She was totally incompetent."
 
 Principal: "Shut up!
 I'm talking now!
-After a teacher quit because of you and we spoke, I thought that peace would come.
+After a teacher quit because of you and me spoke, I thought that peace would come.
 And now this!
-Mr. Brunner has given you a clear instruction.
+Mr. Brunner has given you explicit instruction.
 You have disobeyed them..."
 
 A student: "That was Kevin, Kevin disobeyed her, not us."
 
-Principal: "This is not possible at our school, not in this time.
-The teachers bear a great responsibility, and therefore they must be able to say here what happens.
+Principal: "This is not possible at our school, not at this time.
+The teachers bear a great responsibility, and therefore, they must be able to say here what happens.
 And that must be followed.
 Absolutely.
 Otherwise, chaos will break out."
 
 A second pupil: "Do they also have responsibility for Marlene?
-There are people who want to kill her."
+Some people want to kill her."
 
 Principal: "Hell!
 Marlene Farras is no longer at this school!
@@ -259,13 +259,13 @@ Don't make it worse."
 
 Anni stood up and looked him in the eye, "No!" She trembled slightly.
 
-Luke took the hand of the rector with power from Annis shoulder: "That does not work.
+Luke took the hand of the rector with power from Annis' shoulder: "That does not work.
 "Teachers are not allowed to reach out to schoolgirls at this school."
 
 The headmaster pulled out and slapped Luke in the face so that his head flew to the side.
 Lukas held his cheek, gasped for air and looked at the headmaster with astonished eyes.
 He held his breath and looked back.
-Luke took a step forward, turned his head and said calmly: "Do you also want to hit the other side? Wanker!"
+Luke took a step forward, turned his head, and said calmly: "Do you also want to hit the other side? Wanker!"
 
 The principal turned red.
 He tried to say something, moved his hand, but then turned around and left the room, the teacher followed him.

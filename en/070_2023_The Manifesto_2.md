@@ -22,8 +22,8 @@ He turned the page.
 
 "7 -- We need transparency, openness from everything public, from everything that concerns us, from everything that is not private.
 When I use or consume something, I have a human right to know what happened to it before:
-Who produced my electricity, which I take out of the socket, how was it produced?
-Who helped build my computer, who wrote my software and what did he or she do?
+Who produced my electricity, which I take out of the socket, how was it built?
+Who helped build my computer, who wrote my software, and what did he or she do?
 What do companies do to develop a product, to build it, to sell it?
 How does the state ensure my safety?
 What's he doing for it?
@@ -35,18 +35,18 @@ Is he suppressing?"
 He turned the page.
 
 "8 - We need courage, much courage, to overcome fear.
-Fear is one of the two great instruments of oppression.
+Fear is one of the two main instruments of oppression.
 The more anxious people are, the easier it is to manipulate and control them.
 Intimidation makes slaves.
 Courage is the strength to overcome fear.
 Courage is as contagious as fear.
 
-And anger, it is the warm, powerful power in our body.
+And anger, it is the warm, mighty power in our body.
 Anger is not aggression.
 We need a lot of anger to overcome crippling hope.
 Hope made from the outside paralyzes you.
 We don't need this.
-We always have enough hope of our own in us.
+We always have enough hope for our own in us.
 We just lose sight of them sometimes.
 Hope dies last."
 
@@ -55,8 +55,8 @@ He turned the page.
 "9-- people can't be numbers anymore.
 A person cannot be statistically recorded.
 It kills him.
-The sentence "Eleven people died in firefight" kills people a second time.
-In reality it was Anke, Helmut, Tim, Trevor, Silke, Antje, Lisa, Jochen, Leon, Aischa and Finn.
+The sentence "Eleven people died in a firefight" kills people a second time.
+In reality, it was Anke, Helmut, Tim, Trevor, Silke, Antje, Lisa, Jochen, Leon, Aischa, and Finn.
 They all died in different ways, they all had individual lives.
 They were just together when they died.
 People can't be numbers anymore, people are people."
@@ -97,8 +97,8 @@ Marlene!
 Oskar!
 Julian!
 ... But how?" He closed his eyes.
-Then he raised his hands, opened his eyes and shouted, "I need magic!"
-He looked at the booklet intensively, rolled his eyes, spread his fingers over it in strange shapes and said mysteriously as he moved his hands up and down: "Abara kadabara, find your way to ... Marlene ... Oskar ... Julian ... Tobi".
+Then he raised his hands, opened his eyes, and shouted, "I need magic!"
+He looked at the booklet intensively, rolled his eyes, spread his fingers over it in strange shapes and said mysteriously as he moved his hands up and down: "Abara Kadabra, find your way to ... Marlene ... Oskar ... Julian ... Tobi".
 
 He looked astonished at his fingers and said to them, "Hmm?
 What do you want?
@@ -111,11 +111,11 @@ I miss it so much!
 Shit! Shit! Shit!
 That would be better than a mate on a Berlin roof at sunset." He took the pen and wrote:
 
-"Love of technology"
+"Love of technology."
 
 He looked at the list and nodded.
 "Now it's beautiful.
-Exactly, we must develop a broad love of technology..."
+That's correct, we must develop a deep love of technology..."
 
 He formed his fingers again in the most absurd way and moved them over the full-written sheet: "Abrakadubrabra," he said loudly, "fly to Marlene, fly to Oskar, fly to Julian and Tobi.
 

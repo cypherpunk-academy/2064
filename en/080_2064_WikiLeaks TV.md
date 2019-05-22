@@ -13,26 +13,26 @@ I get calls all the time."
 First journalist: "This must be a super hot thing!
 That'll keep us busy for days, maybe weeks.
 I get messages in, your neck hair goes up.
-The Darknet's in a state of excitement.
+The Darknet is in a state of excitement.
 I'm telling you."
 
 Third journalist: "All major government buildings on the east coast have been evacuated.
 But we still can't get official information about what it is." He pointed to the monitor. "What is this now?"
 
-WikiLeaks-TV showed live pictures in tiles from nine different locations, each with local time displayed.
+WikiLeaks-TV showed live pictures in tiles from nine different locations, each with the local time displayed.
 On one was the Golden Gate Bridge, on the next the MGM Hotel in Las Vegas, on one the White House, the Freedom Tower in New York, Sears Tower in Chicago, the Pentagon.
-Below right the picture of the NSA headquarters.
+Below right, the picture of the NSA headquarters.
 The time there is 18:07.
 
 First journalist: "Targets.
 These are potential targets."
 
-Third journalist: "Ajjjj. shiiiitic A live attack."
+Third journalist: "Ajjjj. Shiiiit... A live attack."
 
 First journalist: "And the station outage today is also supposed to have something to do with it.
 You must have hacked a satellite before."
 
-Third journalist quietly: "Wow."
+The third journalist quietly: "Wow."
 
 First journalist: "See the two F22s in the background, behind the White House, and here one behind the Pentagon, to the right of Freedom Tower.
 They're everywhere.
@@ -81,7 +81,7 @@ He counted.
 "Four, five, six, seven."
 
 Second journalist: "15.
-it's 15.
+It's 15.
 What are they up to?"
 
 First journalist: "What are they up to?
@@ -119,7 +119,7 @@ Third journalist: "Full of madness!
 The whole right side's collapsing!
 Fuck!"
 
-First journalist: "Who goes on the air?
+First journalist: "Who goes on air?
 I have to stay here, more information is coming soon."
 
 Second journalist: "I'm on my way.
@@ -138,13 +138,13 @@ What is the message?
 America is under attack?"
 
 First journalist: "We already had that.
-Take 'Terrorists attack our nerve centre'."
+Take 'Terrorists attack our nerve center.'"
 
 Second journalist: "And WikiLeaks is a terrorist organization!"
 
-First journalist: "No, 'WikiLeaks is the mouthpiece of terrorists'.
+First journalist: "No, 'WikiLeaks is the mouthpiece of terrorists.'
 You can see that now.
 Take this as your first message until we know more.
-Hopefully there will be others.
+Hopefully, there will be others.
 Otherwise, it's gonna be a hell of a mess in the media."
 

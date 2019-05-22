@@ -10,11 +10,11 @@ The chat program opened.
 
 Marlene exclaimed, "Muhammad!"
 
-Mohammed: "Hi Marlene! What's the situation at Boatly? Any enemies nearby?"
+Mohammed: "Hi, Marlene! What's the situation at Boatly? Any enemies nearby?"
 
 Marlene: "Plenty.
 But only on the Internet, not yet in the boat.
-:)“
+:) "
 
 Mohammed: "It's getting serious.
 The boys and girls are gathering."
@@ -22,7 +22,7 @@ The boys and girls are gathering."
 Marlene: "I'm excited.
 How many?"
 
-Mohammend: "34 have confirmed."
+Mohammed: "34 have confirmed."
 
 Marlene: "34!!! Wow. Wow.
 Awesome!
@@ -54,11 +54,11 @@ All relevant people at the TAO will be looking everywhere.
 You'll be busy.
 You can count on that.
 This is gonna be a riot :-)
-Exactly 5 minutes after the start you go in and then after exactly 10 minutes you go out again.
+Exactly 5 minutes after the start you go in and then after precisely 10 minutes you go out again.
 We'll just be a few more minutes.
 Just to be safe."
 
-Marlene: "Then I'll go out again." She placed a digital alarm clock right next to her laptop.
+Marlene: "Then, I'll go out again." She placed a digital alarm clock right next to her laptop.
 
 Mohammed: "Okay.
 Then I say: GO! 15 minutes, from now on."
@@ -91,8 +91,8 @@ Achmed loudly: "Hi Marlene! Long time no see..." He grinned at both ears.
 Marlene didn't react.
 Achmed put the pot carefully on the ground, went to her and looked over her back.
 
-Achmed: "Oh, a hack! Then I won't disturb you." He sat across the table, pulled out a crumpled paperback and laid it in front of him.
-He looked at Marlene, a little dreamy, and then shook his head in disbelief and admiration: "Such a woman," he thought, "such a luck that I met her."
+Achmed: "Oh, a hack! Then I won't disturb you." He sat across the table, pulled out a crumpled paperback, and laid it in front of him.
+He looked at Marlene, a little dreamy, and then shook his head in disbelief and admiration: "Such a woman," he thought, "such a bit of luck that I met her."
 
 Marlene's gaze became more focused.
 Suddenly her hands started moving.
@@ -109,7 +109,7 @@ It really sounded a little like hail.
 Marlene wiped a bead of sweat off her forehead.
 She was inside! In the heart of the TAO, where the vulnerability database was.
 The complete database.
-She was lying in front of her and no one was there but her.
+She was lying in front of her, and no one was there but her.
 The others must have been doing a lot of work right now.
 She was alone with the database, 12 networked computers.
 Seven minutes and 30 seconds were left.
@@ -117,7 +117,7 @@ And their calculations were correct.
 The backup file was almost ready.
 Every day around this time, this backup was automatically created and then sent to another high-security area.
 She wanted to wait for the moment when it was finished and lay there quietly for a few seconds.
-Then make a copy, cover the tracks and get out again.
+Then make a copy, cover the tracks, and get out again.
 There! The file was ready.
 She typed:
 
@@ -137,29 +137,29 @@ Achmed looked at her in astonishment.
 She didn't respond to him.
 
 "Let's get out of here," she thought.
-The chat window plingte.
+The chat window pinged.
 
 Mohammed: "Mari! Watch your step! A traffic block is still active, and it's about to close."
 
 Traffic blocks were designed to disable data lines when more data flowed than usual.
 And that was the case now.
-Marlene thought she had disabled them all, but apparently there was one left.
+Marlene thought she had disabled them all, but apparently, there was one left.
 
 Marlene: "How much?"
 
 Mohammed: "5 maybe 6 megabytes."
 
 Marlene: "Shiiiit.
-I need a terabayte, a million megabytes.
+I need a terabyte, a million megabytes.
 I have the file here.
-Give me room.
+Give me room for it.
 Can't you turn the lock off?"
 
 Mohammed: "No chance.
 I've tried everything."
 
 Marlene: "Do it! Mohammed.
-Magic! Let's go! Let's go! Let's go! Let's go! …“
+Magic! Let's go! Let's go! Let's go! Let's go! … "
 
 Mohammed: "I can't.
 I can't reach it."
@@ -189,7 +189,7 @@ Closed his eyes.
 Thought about it.
 Then she bit her teeth together and started drumming on the keyboard with her fingers again.
 She now changes laptops every ten seconds.
-From the corner of her eye she saw that Mohammed had written something, she ignored it.
+From the corner of her eye, she saw that Mohammed had written something, she ignored it.
 "We need an airlift," she said out loud to herself.
 "Yes! Now I know.
 QR codes.
@@ -214,7 +214,7 @@ You sat like that for a while.
 Achmed asked carefully: "QR codes? Airlift?"
 
 Marlene waved: "Yes, I hid the file and installed a program to display it on the screen in QR codes.
-Then you could get it out if you placed a QR code scanner on the other side of the screen and the screen was on."
+Then you could get it out if you placed a QR code scanner on the other side of the screen, and the screen was on."
 
 Achmed: "This is a plan!"
 

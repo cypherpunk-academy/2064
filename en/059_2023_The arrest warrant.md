@@ -5,7 +5,7 @@
 Sophie followed her, put a hand on her shoulder.
 Anni got loose.
 
-Anni: "Such a ass!"
+Anni: "Such an ass!"
 She stamped her foot on the ground.
 "I can't believe it!
 He did it again!
@@ -43,9 +43,9 @@ no ...
 No. No.
 She yelled at the smartphone, "You fucker, ass, birdbrain."
 
-She dropped onto a chair, put her head in her hands and cried.
+She dropped onto a chair, put her head in her hands, and cried.
 Sophie carefully put her hand on her back: "Come on, now we're really going to do it.
-We'll report him!
+We'll report him to the principal!
 You know, like, police and stuff.
 Everyone knows it was him.
 He's done it before and boasted about it.
@@ -61,23 +61,23 @@ Why me again?
 Why still?
 I thought it was over.
 I didn't pick up my smartphone for three months last year.
-Until everyone said there were no more back doors in there."
+Until everyone said, there were no more back doors in there."
 
 Kevin joined the two from behind: "Yes, yes, that's what they said:
-The most private and secure iPhone ever, transparent and secure Android phones like never before.
+The most private and secure iPhone ever, transparent, and secure Android phones, like never before.
 No more back doors for the first time.
 None at all.
 Never again.
 Apple and Google celebrate their liberation from the intelligence agencies.
-Big show.
-All thumbs up.
+Great show.
+Thumbs up.
 But then they installed new back doors again.
 You can't leave it alone.
 Maybe they'll be forced.
 Throw away your iPhone.
 As long as it's not open source, you can forget it."
 
-Sophie pushed him with her elbow: "Hey, you idiot, can't you see: She's in a bad way.
+Sophie pushed him with her elbow: "Hey, you idiot, can't you see: She's in bad condition.
 She doesn't need a lecture now."
 
 Anni wiped tears from her eyes: "He is right.
@@ -111,7 +111,7 @@ Sophie: "The parents said that they had problems with secret services and wanted
 Kevin: "Do you believe that?
 Marlene Hacken?
 A cat becomes vegan.
-Marlene repentantly admits that hacking is not good, that one does not do this in our world and becomes "reasonable".
+Marlene repentantly admits that hacking is not ethical, that one does not do this in our world and becomes "reasonable."
 They'd have to torture her or something, brainwash her..."
 
 Sophie: "Mhmh.
@@ -139,16 +139,16 @@ ____
 
 * German hacker exposed in NSA spy scandal*
 
-The Berlin hacker Marlene Farras (18) is said to have played a decisive role behind last year's heavy revelations about vulnerabilities in computer systems.
+The Berlin hacker Marlene Farras (18) is said to have played a decisive role behind last year's massive revelations about vulnerabilities in computer systems.
 She's already been on the run for over two years on other charges.
 Yesterday evening, the United States government issued an international warrant for their arrest.
-The US accuses her of betraying military secrets that have led to millions of thefts, fraud, copyright and personal rights violations and, in three proven cases, murder.
+The US accuses her of betraying military secrets that have led to millions of thefts, fraud, copyright, and personal rights violations and, in three proven cases, murder.
 She's to be charged under the 1917 Espionage Act.
 Should she be sentenced, she expects a life sentence or the death penalty in the USA.
 
 Federal Justice Minister Lamprecht said: "We are against the death penalty and will only extradite it if we get a guarantee from the USA.
 Unfortunately, however, the legal situation is otherwise clear in this case.
-She didn't work for NSA, so she's not a Wistleblower.
+She didn't work for NSA, so she's not a whistleblower.
 She apparently hacked into the NSA and stole the vulnerability database, supported by a larger group of hackers.
 This is computer violence, a definite case of espionage.
 As far as we know, she was blackmailing money with it first.

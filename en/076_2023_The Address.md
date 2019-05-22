@@ -2,16 +2,16 @@
 ## **2023** The address
 
 <span style="font-variant:small-caps;">The picture in the school class</span> had changed.
-Everywhere now lay black, somewhat clumsy laptops on the tables, many mini computer boards, cables, power supplies, USB sticks, screwdrivers, a soldering iron.
+Everywhere now lay black, somewhat clumsy laptops on the tables, many microcomputer boards, cables, power supplies, USB sticks, screwdrivers, a soldering iron.
 Everywhere small groups sat around one or more laptops.
-They typed, discussed and gestured.
+They typed, discussed, and gestured.
 Kevin stood at the front of the table with Sophie and gave an interview to a journalist in front of a television camera.
 
-"What you're seeing here is a new form of school." He pointed into the room.
+"What you see here is a new form of school." He pointed into the room.
 "We have all learned more together in the last three weeks than in the previous three years. And I really mean it.
 Not only technically.
 Also human.
-And that's because it's serious for the first time, because it has to do with real life.
+And that's because it's serious for the first time because it has to do with real life.
 Most people here did not know how easy it is to work with hundreds of thousands of people on the Internet all over the world.
 We did not know that there was a whole culture of knowledge sharing and mutual help.
 It's so much fun helping others.
@@ -19,12 +19,12 @@ And get help.
 And to see how what you do is used by others.
 We haven't had any of this in our school in recent years.
 
-If you compare this to a normal situation in any class, you will see that we students are usually not fully involved in the classroom, rather vegging out.
+If you compare this to a typical situation in any classroom, you will see that we students are usually not fully involved in the classroom.
 But this is where we live.
 Everyone is wide awake and fully involved.
 And we have superpeople coming by, especially from the hacker environment.
-They tell us what they know about computers, programming, computer management, our legal system, our political system or whatever.
-But we have also had lawyers, policemen and entrepreneurs here.
+They tell us what they know about computers, programming, computer management, our legal system, our political system, or whatever.
+But we have also had lawyers, policemen, and entrepreneurs here.
 
 It's a super trusting atmosphere.
 When someone doesn't understand something, they ask.
@@ -43,7 +43,7 @@ When this action is over here, I definitely want to continue with school, and th
 Personally, I don't give a damn about my high school diploma.
 It's all a fake, it's all made up."
 
-Reporter: "Aylin, Jonas and Devin have left the group.
+Reporter: "Aylin, Jonas, and Devin have left the group.
 What do you say to that?
 Are there any other students who are considering aborting?"
 
@@ -56,12 +56,12 @@ For them, this is an unpredictable mess.
 A conflagration.
 There are now over 200 classes in Germany who are on strike with us.
 Who took over our model.
-And there are more every day.
+And there is more every day.
 Now imagine what will happen in the secret services if we manage to straighten Marlene's image in the public eye ... If most people understand that she was all a spectacle."
 
 Reporter: "They have other goals in the meantime. They demand the abolition of compulsory education and free choice of teachers."
 
-Kevin: "These are not 'demands'.
+Kevin: "These are not 'demands.'
 It's common sense.
 Do we need compulsory schooling?
 Look around you!
@@ -69,14 +69,14 @@ Does any student here need compulsory schooling?
 Should any student here spend even one lesson with a teacher he is not interested in?
 That's bullshit.
 We are all old enough here to choose our teachers ourselves, and the teachers are also old enough to choose their students.
-We learn here at a speed that is breathtaking.
+We learn here at a breathtaking speed.
 Real talents suddenly show up here.
 It's a great learning environment.
 When I imagine what we would have done and learned if we had had such a school all these years ...
 
 This cannot be the case in a hierarchically structured school system in which it is specified what we are to learn, when we are to learn it, from whom we are to learn it, even how.
 People who have been teachers their whole lives and don't know anything about life.
-That's ancient nonsense.
+That's complete nonsense.
 Nobody here wants that anymore.
 I don't think you'll find a class in the whole of Germany with five students who would prefer that here."
 
@@ -90,9 +90,9 @@ Sophie turned to him.
 Sophie: "The documents that Marlene handed over to the public belong to everyone.
 They concern us all.
 That's why they belong to all of us.
-We live in a democracy and without these documents I cannot form a democratic opinion.
+We live in a democracy, and without these documents, I cannot develop a democratic opinion.
 If someone kidnaps your child, do you have a right to break into the house it is in and get it out?
-Of course you did!
+Of course, you did!
 Democracy is more important than tactical secrecy."
 
 Reporter: "Wait a minute! You don't have the right to break the law to get your child back."
@@ -107,11 +107,11 @@ That must be allowed.
 And if laws allow the secrecy of documents that have significance for the public, then that is also an error, like an error in a computer program.
 We need to correct such laws and publish new law versions.
 
-And in the secret services there are apparently so many undemocratic and anti-democratic activities that it would be the worst thing for them if these activities came to light.
+And in the secret services, there are apparently so many undemocratic and anti-democratic activities that it would be the worst thing for them if these activities came to light.
 And that's why they're trying everything to stop us.
 They're dependent on secrecy.
 Imagine if we could prove that the intelligence services were responsible for Aylin's mother being bullied and released.
-And that afterwards they put more pressure on her, scared her so much that she collapsed.
+And that afterward they put more pressure on her, scared her so much that she collapsed.
 Then our approval ratings will be even better.
 And we're already between 70% and 80% here in Germany."
 
@@ -125,7 +125,7 @@ Reporter: "What are your next steps?"
 
 Sophie: "We are networking better and better with the other classes, now throughout Germany.
 There are 217 classes on strike.
-And even more consider whether they also take this step.
+And even more, consider whether they also take this step.
 We're getting a lot of popularity.
 Many students use our new, pretty bug-proof communication system."
 
@@ -171,7 +171,7 @@ Everyone looked spellbound at the screen.
 
 President: "Dear compatriots, this is my weekly address on our situation here in the country and worldwide.
 Today I want to talk mainly about a current topic, and that will be a little different than usual.
-That's because even in the best family you can disagree, you can even argue.
+That's because even in the best family you can disagree, you can also argue.
 And I don't mean Republicans and Democrats now, because there's traditionally a lot of fighting between us."
 She smiled.
 "No, I mean institutions that form the backbone of our great nation: our global corporations, our intelligence services, and the political center of the world: our government organization.
@@ -181,7 +181,7 @@ They're putting their lives on the line so we can live here in peace in our own 
 You've done a great job over the last few years.
 But terrorism has challenged us more and more in recent decades.
 Much of this battle is now taking place on the Internet.
-In order to keep the Internet a safe place for all of us, our secret services have built up a surveillance system in recent decades that reports us very early when terrorist attacks are being prepared, riots are taking place or attacks on America are being prepared.
+To keep the Internet a safe place for all of us, our secret services have built up a surveillance system in recent decades that reports us very early when terrorist attacks are being prepared, riots are taking place or attacks on America are being prepared.
 
 But in recent years we have overstepped the mark in some respects in these efforts.
 Against the will of corporations, intelligence agencies have built surveillance software into programs like Facebook Messenger, WhatsApp, Google Plus, and so on, making the communications of billions of people more insecure.
@@ -198,8 +198,8 @@ President: "Any product bearing this seal is free of rear doors and intentionall
 More laughter in the room.
 
 President: "Most of the American companies I've talked to about this are willing to do so.
-They will subject their programmes to regular, rigorous state scrutiny.
-The secret services, I can say frankly here, were not enthusiastic about the plan, but in the end they accepted it.
+They will subject their programs to regular, rigorous state scrutiny.
+The secret services, I can say frankly here, were not enthusiastic about the plan, but in the end, they accepted it.
 There is no legal way for them to intercept and decrypt the communication of such programs."
 
 Lukas: "Then they'll make it illegal..."
@@ -209,15 +209,15 @@ This means that secret courts like FISA are no longer allowed to give permission
 The companies won't let her in anymore.
 And Google is pissed off at the intelligence services."
 
-President: "I know a lot of trust has been lost.
+President: "I know, a lot of trust has been lost.
 I am willing to fight for that trust to return.
-Therefore I will bring in the next days a bill into the congress, which makes all reports of technical safety gaps, weak points, back doors exempt from punishment.
-Wistleblowers who report such vulnerabilities are guaranteed by this law that they will not be prosecuted.
+Therefore I will bring in the next days a bill into the Congress, which makes all reports of technical safety gaps, weak points, back doors exempt from punishment.
+Whistleblowers who report such vulnerabilities are guaranteed by this law that they will not be prosecuted.
 Even if they are company secrets."
 
 It got quieter in the classroom.
 
-President: "And today I signed an amnesty order for all Wistleblowers of technical security breaches that are currently in detention or on trial in our country.
+President: "And today I signed an amnesty order for all whistleblowers of technical security breaches that are currently in detention or on trial in our country.
 You will be dismissed as soon as possible and entitled to compensation."
 
 It was quiet in the room.
@@ -239,7 +239,7 @@ Even if that doesn't mean they've gone from wolves to sheep now."
 Sophie: "But then how can we trust them?"
 
 Oskar: "We can't do that.
-But the situation for the Wistleblowers has improved.
+But the situation for the whistleblowers has improved.
 A few people I know will now dare to report vulnerabilities that have not dared to do so before."
 He pointed to the TV.
 "This, this is a disaster for the intelligence services."

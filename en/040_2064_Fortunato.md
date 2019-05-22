@@ -15,9 +15,9 @@ He looked at a note.
 Room 433.
 Up.
 
-They showed their IDs at the entrance, ran up the stairs and sat down on a bench in a dreary corridor.
-The massive wooden door to room 433 was closed.
-Inside there were very quiet voices.
+They showed their IDs at the entrance, ran up the stairs, and sat down on a bench in a dark corridor.
+The heavy wooden door to room 433 was closed.
+Inside there were hushed voices.
 
 Lasse looked at his watch and said, "3:31.
 Now he wants us to meet him."
@@ -33,20 +33,20 @@ We're not in room 433 right now." He started knocking again.
 
 Lasse: "Wait, we..."
 
-The door swung open and a small, sympathetic looking, obviously native man rushed out.
+The door swung open, and a small, sympathetic looking, obviously native man rushed out.
 He almost bumped into Sigur.
-They both looked each other in the eye for a moment.
+They both looked at each other in the eye for a moment.
 The man took a step to the side and hurried past Lasse towards the elevator.
 
 Sigur looked at him perplexed.
 
-Lasse shouted: "Mr. Petterson", although the man didn't look a bit like "Petterson", much more like "Rodriguez".
+Lasse shouted: "Mr. Petterson," although the man didn't look a bit like "Petterson," much more like "Rodriguez."
 
 The man stopped, waited a moment, then turned to Lasse and approached him.
 He whispered, "Fortunato, not Petterson, not here."
 He looked at both of them wildly.
 "Come with me! We must go to a place where we can speak freely."
-In the parking lot in front of the courthouse they got into a huge Toyota pickup, an older model, with bumps and scratches on all sides.
+In the parking lot in front of the courthouse, they got into a huge Toyota pickup, an older model, with bumps and scratches on all sides.
 Fortunato drove off.
 After they had turned from the courthouse parking lot to the main street, he turned to them and asked, "You're hackers, aren't you?"
 
@@ -56,14 +56,14 @@ Lasse: "Maybe."
 
 Frederick: "You're hackers.
 I'm always very well informed.
-Must be me.
+It must be me.
 That's my job."
 
 Sigur: "What are you doing?"
 
-Frederick: "I deal drugs.
+Frederick: "I deal with drugs.
 But no street vending, no soft drugs.
-Just wholesale, just real stuff, just the Internet.
+Just wholesale, just real stuff, only on the Internet.
 Do you need a ship with cocaine? 500 kilos? Colombia, wonderful stuff.
 In two weeks you'll have it..."
 
@@ -74,10 +74,10 @@ How much is that?"
 The smile disappeared on Fortunato's mouth, he answered as dryly as Sigur:
 "You're not here for drugs.
 You wouldn't have enough money either.
-You only have an account with 6500 euros on it, the apartment where you live belongs to your parents and your Bitcoins are currently," he typed with one hand on a somewhat clumsy-looking smartphone, "27.
+You only have an account with 6500 euros on it, the apartment where you live belongs to your parents, and your Bitcoins are currently," he typed with one hand on a somewhat clumsy-looking smartphone, "27.
 Whoa! That's a lot for a 19-year-old white-hat hacker.
 27 Bitcoins.
-Of course you could pay me in Bitcoins, but that's more like 2700.
+Of course, you could pay me in Bitcoins, but that's more like 2700.
 But as I said, that's not why you're here."
 
 Sigur pushed himself into the back seat with his mouth slightly open.
@@ -110,22 +110,22 @@ Fortunato smiled again: "I am not only a drug dealer.
 You know, it's not really worth it anymore.
 The money's right, but it's not enough fun.
 It's become so industrial.
-They throw tons of the stuff at you, you can order it on the internet directly from the field, you have no risk anymore, but there is no real friendship anymore, is no longer necessary, everything is professional.
+They throw tons of the stuff at you, you can order it on the Internet directly from the field, you have no risk anymore, but there are no real friends anymore. It is no longer necessary, everything is professional.
 And that's boring.
 No, I'm trading more and more valuable goods now: Information. Big data.
 Great thing, I'm telling you.
 I do in individuals and companies, and there everything: whereabouts, bank details, correspondence, pictures, movies.
 In real time and the whole history.
-In addition, suggestions for blackmail and bribery opportunities.
+Besides, suggestions for blackmail and bribery opportunities.
 I don't care who.
 I have 230 million individuals in my database.
-Do you want the private e-mails from the next president of the United States? No problem. No problem.
+Do you want private e-mails from the next president of the United States? No problem. No problem.
 
 I already knew your data in the courtroom.
-A sensor told me you were outside the door. You're in my database... But you're wondering how I know where you are. You don't have smartphones. Funny, isn't it? No problem for me. When it comes to whereabouts, I have a specialty, almost a monopoly: "I not only have GPS, but also RFID."
+A sensor told me you were outside the door. You're in my database... But you're wondering how I know where you are. You don't have smartphones. Funny, isn't it? No problem for me. When it comes to whereabouts, I have a specialty, almost a monopoly: "I not only have GPS but also RFID."
 
 Sigur: "RFID? This is used for payment and access control.
-I don't have an RFID chip on me, neither to pay, nor to get in anywhere.
+I don't have an RFID chip on me, neither to pay nor to get in anywhere.
 How are you gonna locate me with that?"
 
 Fortunato pulled out a small sheet of paper with a QR code.
@@ -134,11 +134,11 @@ Fortunato pulled out a small sheet of paper with a QR code.
 Lasse and Sigur leaned towards him, but could not see anything.
 
 Fortunato: "Remember the sweet girls at the entrance to your conference?
-The ones who hang your day pass every morning, say something nice and give you a kiss of welcome?
+The ones who hand out your day pass every morning, say something friendly and give you a kiss of welcome?
 Super cute, huh?
 These are my girls.
 And they're super smart.
-They take one of these leaves, wipe it somewhere against clothing or hair and then register the corresponding QR code.
+They take one of these leaves, wipe it somewhere against clothing or hair, and then register the corresponding QR code.
 And you can track where you're going.
 Hair's the best.
 You don't leave them at the dressing room or change them at some point.
@@ -161,13 +161,13 @@ Fortunato: "In Caracas? All over the city.
 We have tens of thousands here.
 They cost nothing.
 A scanner is a small plate, 15 x 15 millimeters in size and sends via GSM.
-They transmit over twenty metres and last about a year." He pulled out a tablet computer that looked like an iPad and grinned: "It's not an iPad, don't worry.
-Is something of its own ...
-Look!" He showed them a map of Caracas, on which a huge number of red, green and blue dots could be seen.
+They transmit over twenty meters and last about a year." He pulled out a tablet computer that looked like an iPad and grinned: "It's not an iPad, don't worry.
+It is something of its own ...
+Look!" He showed them a map of Caracas, on which a considerable number of red, green and blue dots could be seen.
 Some seemed to move, individually, in groups.
-A large cloud of dots was visible around the conference centre.
+A large cloud of dots was visible around the conference center.
 
-Fortunato: "That's exactly 3243 participants from your conference.
+Fortunato: "That's precisely 3243 participants from your conference.
 At present, 2230 of them have no GPS phone with them.
 But I have the data! In real time!"
 
@@ -187,11 +187,11 @@ Sigur a little louder: "I'm getting nauseous."
 Lasse: "You won't get away with this system long, Fortunato.
 There are so many RFID scanners at the conference, it's noticeable when suddenly there are a few thousand more chips."
 
-Fortunato: "My chips do not work with the normal frequency.
+Fortunato: "My chips do not work with the standard frequency.
 There's a whole factory in China that only makes my chips.
 Hello boys, wake up.
 Today you have to do something if you want to be successful.
-The world isn't nice.
+The world isn't friendly.
 There's a war out there.
 I didn't make it.
 But if you know this world, if you know what everything works and what doesn't, then you can still furnish it quite nicely today.
@@ -205,11 +205,11 @@ It's not for sale."
 Lasse held his breath.
 Sigur looked at him with a slightly panic-stricken gaze, hinting at getting out.
 
-Fortunato: "Hej boys.
+Fortunato: "Hej, boys.
 We are not as far apart from each other in what we are doing as it may now seem.
 Having things under control technically is about dealing with the circumstances in an inventive way.
 You know the concept: hacking, converting technology, using something different than the inventors intended.
-That's exactly what I'm doing.
+That's precisely what I'm doing.
 Hej, it's also not very moral to steal experimental air combat robots and shoot elite units out of the sky with them.
 You caused almost half a billion dollars of damage."
 
@@ -217,7 +217,7 @@ Lasse was grumbling, "I don't do business with NSA."
 
 Sigur hissed to Lasse, "Let's get out of here."
 
-Leave quietly back: "Wait still.
+Lasse quietly back: "Wait still.
 Marlene sent us here."
 
 Sigur very quietly: "I do not make a deal with the asshole.
@@ -234,7 +234,7 @@ Fortunato gave it some thought.
 Fortunato: "LBI.
 Lubricious Bureau of Intelligence.
 Home of the Sorat Rangers.
-Actually, Localized Bureau of Intelligence.
+Actually, the Localized Bureau of Intelligence.
 But they're really greasy.
 If there are assholes in this business, it's them.
 You really don't have to pick on me there.
@@ -251,7 +251,7 @@ It doesn't even have its own building.
 Nowhere.
 None at all.
 All employees have a 100% camouflage identity, even the boss.
-They don't exist, not at all, they're all over the place: CIA, NSA, government, even foreign intelligence, oil companies, Google, Apple has some ... And you want that? Let me guess what you want from them: You want to steal a combat robot satellite so you can control your own fleet.
+They don't exist, not at all, they're all over the place: the CIA, NSA, government, even foreign intelligence, oil companies, Google, Apple has some ... And you want that? Let me guess what you want from them: You want to steal a combat robot satellite so you can control your own fleet.
 You can only get that there.
 Anywhere else it would be exposed.
 But the LBI has a few that nobody knows about.
@@ -269,7 +269,7 @@ Sigur moaned.
 
 Fortunato: "Okay, okay, I know you don't work with them.
 I already learned that.
-I don't know why you're limiting yourselves, but okay, you don't do this.
+I don't know why you're limiting yourself, but okay, you don't do this.
 Morale? Morals can be pretty expensive these days.
 It could cost her her life.
 But then say, what are you going to do?"
@@ -295,12 +295,12 @@ But this one, LBI, that's a little over the top.
 It's not just NSA, it's not just an introverted hacker company that leaks into every computer and smartphone in the world and stores all the data it gets its hands on.
 No, no, no, no, no, no, no.
 That's more violent.
-LBI, these are placed world events, assassinations, blown up buildings, invented rebel groups, invented wars, invented revolutions.
+LBI, these are placed world events, assassinations, blown up buildings, designed rebel groups, created wars, invented revolutions.
 You have no idea what all LBI is.
 If you uncover this, a lot of people will die.
 Dead sure.
 Think about it:
-Alone, what would happen if you uncovered Khandahar!
+Alone, what would happen if you uncovered Kandahar!
 What just went wrong because of you.
 Seven presidents dead.
 If this turns out to be a fake, there'll be a war.
@@ -315,7 +315,7 @@ Sigur: "Now you're getting scared, aren't you?
 You can control everything, but only if it doesn't come to light.
 Whistleblowing is the real enemy!
 What you need is a dark balance:
-Everyone plays his part, everything remains secret, then the worst things can happen and nobody is really responsible.
+Everyone plays his part, everything remains secret, then the worst things can happen, and nobody is really responsible.
 Are you responsible for the combat robot deaths that die based on your position data? Or because of the friend lists you calculate and pass on to the NSA? No.
 
 But if we uncover anything, we're supposed to be responsible.

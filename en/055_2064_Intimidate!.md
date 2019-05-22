@@ -10,12 +10,12 @@ Marlene: "I haven't experienced this myself.
 When Ali Steffens and Eduardo Lampresa cracked the LBI-Bitcoin safe, I was in prison.
 I didn't hear anything about that.
 But it may well have been so, it was already very brutal back then.
-I myself never had a capsule in my body.
+I never had a capsule in my body.
 Just a laser tattoo on his forehead that you can read from satellites.
-But there were real torture centres, for example, where many people died.
-First in East Africa and the Middle East, but later more and more in the central cities such as Berlin, Moscow, San Francisco, Quito and Paris.
+But there were real torture centers, for example, where many people died.
+First in East Africa and the Middle East, but later more and more in the central cities such as Berlin, Moscow, San Francisco, Quito, and Paris.
 They were mainly for intimidation.
-It wasn't so much about punishing people or getting information, it was about the message: "Be quiet and nothing will happen to you.
+It wasn't so much about punishing people or getting information, it was about the message: "Be quiet, and nothing will happen to you.
 And if you don't shut up, then it's gonna be bad...
 
 And that worked.
@@ -46,7 +46,7 @@ Marlene: "Yes, it was already a beginning.
 That was where it got serious.
 I used to play a lot before.
 I just did what I had to do.
-Also the NSA database.
+Also, the NSA database.
 After that, it got heavier and darker.
 That's why I got caught once.
 And I've been limping a little ever since."
@@ -54,10 +54,10 @@ And I've been limping a little ever since."
 Lilly looked surprised at Marlene's leg, "That's why?"
 
 Marlene: "That was in prison.
-They're really bad guys, not people, at least if they're soldiers.
+They're evil guys, not people, at least if they're soldiers.
 They may be people in their private lives.
 This is really schizophrenic.
-Absolutely ice-cold and brutal at work and soft and nice at home to partners and children.
+Absolutely ice-cold and brutal at work and soft and sweet at home to partners and children.
 This was also the case for many people in the companies at that time.
 
 But even that can be understood.
@@ -81,8 +81,8 @@ Or it was just intimidation again.
 It's so much about intimidation, they want to look omnipotent.
 
 Ali and Eduardo were great.
-It was completely impossible to intimidate her.
-They had just somehow decided not to be intimidated and they went through with it.
+It was utterly impossible to intimidate them.
+They had just somehow decided not to be intimidated, and they went through with it.
 And now Lasse and Sigur are playing this one.
 Who knows, maybe they will manage the whole mission and then there will be a meeting between Ali and Eduardo and Lasse and Sigur.
 That's what I want to see.

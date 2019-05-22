@@ -3,7 +3,7 @@
 
 <span style="font-variant:small-caps;">Fortunato wore a </span> Brazilian carnival hat and had a beautiful, scantily dressed young woman in her arms.
 Two agents were sitting on the sofa without jackets.
-He looked towards the television set, where a ticker appeared under a news programme:
+He looked towards the TV, where a ticker appeared under a news program:
 
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 "2.7 million Bitcoins, for Turkmenistan, Afghanistan, Uzbekistan,
@@ -12,7 +12,7 @@ Iran, Pakistan..."
 He waved his arms and shouted as loud as he could: "HUAARRRKRMPLSIGURRR"
 Then he pulled a gun out of his pants and fired twice at the monitor.
 Splinters flew through the room.
-He looked angrily at the big hole in the middle of the screen.
+He glared at the big hole in the middle of the screen.
 
 The woman had turned away in shock and covered her ears with two fingers.
 She shouted, "Fortunato!
@@ -44,7 +44,7 @@ Agent: "What are you up to?"
 Fortunato: "I have a plan.
 I know how to catch these guys.
 I'll grill them.
-I will tear out their fingernails one by one and then I get the finger forceps, then it really starts.
+I will tear out their fingernails one by one, and then I get the finger forceps, then it really starts.
 Sigur.
 He shall see his own blood."
 
@@ -55,14 +55,14 @@ It'll work.
 Not like the Fuck other plans we had.
 I left the boys here in my apartment.
 What a fucking plan.
-Here and here they sat with their laptops and I was here in the room as Sigur ... Sigur ..."
+Here and here they sat with their laptops, and I was here in the room as Sigur ... Sigur ..."
 He breathed hard.
-„...
+"...
 Sig..."
 
 One of the two video conference monitors went down from the ceiling and showed the agent from San Diego.
 
-Agent on monitor: "Fortunato?"
+Agent on a monitor: "Fortunato?"
 
 Fortunato dry: "Yes."
 He stood up in front of the monitor.
@@ -112,9 +112,9 @@ It looked around his room.
 His gaze was drawn out to the sea, to the horizon, to a small black dot beneath the clouds.
 He yelled, "ROSANNA. COME ON!
 
-He grabbed her, pulled her by force to the patio door, opened her and ran off with her towards the stone wall to the sea.
+He grabbed her, pulled her by force to the patio door, opened it, and ran off towards the stone wall to the sea.
 Shortly before he let her go and jumped on the wall.
-"COME ON! SPRING!"
+"COME ON! JUMP!"
 
 He was diving into the sea.
 Rosanna was about to climb the wall when a rocket hissed past her into the house.
@@ -122,7 +122,7 @@ Everything disappeared into a giant explosion.
 It was thrown into the sea by the force of the blast wave.
 A second missile hit.
 Deeper into the foundation.
-A big fireball stood over the place, where the beach apartment had stood before.
+A big fireball stood over the place, where the beach apartment had stood moments before.
 
 Fortunato was plunged four, five meters before he turned around.
 He saw Rosanna just below the surface, drifting towards him.

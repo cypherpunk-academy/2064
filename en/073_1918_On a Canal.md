@@ -1,5 +1,5 @@
 
-## **1918** On the Panama Canal
+## **1918** On a Canal
 
 ### SCENE 10
 
@@ -14,7 +14,7 @@ They are led to the water and must kneel down.
 Then driver and passenger each pull a pistol, they hold the two to the head.
 They pull the trigger without hesitation.
 The bodies collapse together in itself and remain at the edge of the shore.
-One of the soldiers pushes them with several steps into the water, until they are carried along by the current.
+One of the soldiers pushes them with several steps into the water until they are carried along by the current.
 Driver to the other three: "Good work!"
 The passenger nods: "Thank you!"
 ____

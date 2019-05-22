@@ -4,12 +4,12 @@
 ### SCENE 6
 ____
 Hilde in a soup kitchen behind a huge pot, a ladle in her hand.
-People lining up with plates and spoons.
+People line up with plates and spoons.
 At the entrance a group of Spartacists with assault rifles.
 
-An older beggar enters the room, takes a plate and looks at the end of the queue for a while.
+An older beggar enters the room, takes a plate, and looks at the end of the queue for a while.
 Then he holds the plate in front of him and walks straight towards Hilde, but nobody in the queue gives him room.
-Hilde and he look at each other.
+He and Hilde look at each other.
 She makes a sign to the woman who's next and waves the beggar over.
 The man behind the woman grumbles loudly into his beard.
 Hilde looks briefly with a matter-of-fact look and then fills the beggar's plate.
@@ -26,17 +26,17 @@ He just came from the cemetery."
 
 The woman nods and looks after the beggar.
 
-Hilde: "Besides, he gets bad rage outbursts if he has too little in his stomach.
+Hilde: "Besides, he gets terrible rage outbursts if he has too little in his stomach.
 That's why I let him in.
 There's nothing he can do.
 That's innate." She smiles at the woman and then turns to the man behind her.
 
 Wilhelm sits in a corner of the room at a table with three others and talks with wild gestures.
 The three of them listen to him spellbound and occasionally pull expressions as a reaction to what Wilhelm says.
-At the next table a woman sleeps with her head on the table, three children next to her playing a finger game.
-Around them there are a lot of bags filled with all kinds of things.
-Opposite her a man reads a leaflet to others, which is commented again and again vividly.
-One table further on sit two dark figures, one spooning a soup, the other in front of him a glass of beer.
+At the next table, a woman sleeps with her head on the table, three children next to her playing a finger game.
+Around them, there are a lot of bags filled with all kinds of things.
+Opposite her, a man reads a leaflet to others, which is commented again and again vividly.
+One table further on sitting two dark figures, one spooning a soup, the other in front of him a glass of beer.
 
 The beggar sits on the floor leaning against a wall and spoons his soup very concentrated with a slightly trembling hand.
 When the plate is empty, he carefully places it on his lap and turns his gaze to Hilde.
@@ -69,7 +69,7 @@ That's the rules."
 Hilde: "I know.
 We'll have to pay a fine if we don't have one, won't we?
 30 Reichsmarks, I think.
-I understand that, the law is the law.
+I understand that the law is the law.
 And there's been some infection from bad kitchens.
 Our group here has a lot of experience.
 We've made hundreds of lunch soups already.
@@ -115,12 +115,12 @@ The beggar makes himself heavy and blinks again.
 
 Beggar: "I want to rest a little here."
 
-With strength they pick it up, so that it stands more bad than right.
+They pick him up with effort so that he stands more or less strait.
 He's staggering.
 When they let him loose a little, he bends away again and sinks back to the wall.
 He looks at both of them calmly.
 
-Beggar: "Just get some sleep and then I'll go to the cemetery."
+Beggar: "Just get some sleep, and then I'll go to the cemetery."
 
 The first policeman bends over him again.
 The beggar looks at him with big eyes, blinking almost childlike.
@@ -139,7 +139,7 @@ I just want to get some rest."
 
 He's sinking back against the wall.
 The four policemen stand helpless around him for a moment.
-The captain approaches from behind, looks at the beggar and then says: "Come, leave him alone.
+The captain approaches from behind looks at the beggar, and then says: "Come, leave him alone.
 We're leaving!"
 
 They're leaving the hall.

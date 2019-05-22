@@ -10,7 +10,7 @@ With official entry permit from Germany.
 You get €50 000 in cash for a fresh start and no restrictions on your Internet activities."
 
 Man: "And that's very unusual.
-Normally that would mean: "No Internet for at least five years."
+Usually, that would mean: "No Internet for at least five years."
 
 Marwin moaned slightly.
 
@@ -36,12 +36,12 @@ You have nothing to do with what you were arrested for.
 I would release you directly.
 But that's not the reality."
 
-Man in slightly threatening tone: "If you don't cooperate with us, others will come and talk to you who want other things.
+Man in a slightly threatening tone: "If you don't cooperate with us, others will come and talk to you who want other things.
 Or nobody anymore.
 That's not in our power.
 We're here now.
 This will open the window for some options.
-But not for long either."
+But not for long, either."
 
 Marwin to the woman: "Why do you come now? And don't give me that shit.
 Something's happened.
@@ -64,7 +64,7 @@ Just this much: There was a rethink at the highest level, in the government, wit
 They're talking about dissolving the NSA." She looked at him insistently.
 Marwin looked back slightly absent.
 
-Frau: "You can imagine that there is a lot going on in our country.
+Frau: "You can imagine that a lot is going on in our country.
 And in the course of that, prisoners are also released.
 Especially the innocent." She lowered her eyes to the table.
 
@@ -102,7 +102,7 @@ Marwin froze.
 Sudo hasn't lost a leg.
 Sudo hasn't lost a leg." He laid his head on the table and buried it under his hands.
 The man and the woman looked at him.
-After a while he straightened up, looked into the room apathetically and started humming quietly "Allways on the bright side of life".
+After a while, he straightened up, looked into the room apathetically, and started humming quietly, "Allways on the bright side of life."
 
 The man grabbed his folder and left the room.
 The woman looked at the table in front of her for a while, then at Marwin again, and then followed him.

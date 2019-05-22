@@ -17,7 +17,7 @@ Lasse: "Really? Great!"
 
 Sigur: "But unfortunately encrypted in a Veracrypt file.
 It's clear: all of the shop's revenues go into it.
-I've looked through the Bitcoin block chain: There must be hundreds of thousands or maybe even millions of Bitcoins in there."
+I've looked through the Bitcoin blockchain: There must be hundreds of thousands or maybe even millions of Bitcoins in there."
 
 Lasse: "Billions of euros.
 Great! ... Scary ... But what's in it for us? We can't access a Veracrypt file.
@@ -35,10 +35,10 @@ I can run a password cracker on the side, but I don't think that's going to work
 This is all very professionally done.
 Looks like intelligence work, maybe even directly TAO.
 But I've just got the Go program on the wrap that brings the Bitcoins from the shop into the vault.
-The log files say that he normally starts the program once a day, in the morning, and then he enters the password for the Bitcoin vault.
-And then I let it automatically start a small program that doesn't write the newly earned coins into the safe, but takes them together with all the other Bitcoins from the safe and sends them into my little cave to my home, into my little Raspberry Pi, my faithful helper over the years.
+The log files say that he usually starts the program once a day, in the morning, and then he enters the password for the Bitcoin vault.
+And then I let it automatically start a small program that doesn't write the newly earned coins into the safe but takes them together with all the other Bitcoins from the safe and sends them into my little cave to my home, into my little Raspberry Pi, my faithful helper over the years.
 You know him.
-:-)“
+:-) "
 
 Lasse: "You're crazy!
 You're gonna steal all of it?
@@ -51,7 +51,7 @@ My program will sleep first.
 I send him a ping every day to keep him asleep: If that comes, it won't wake up.
 Only when it fails once, then it strikes: Wumms!"
 
-"RUMMS," they heard a car slam outside.
+"WROOOMS," they heard a car slam outside.
 Both were frightened and looked first in the direction of the car and then at each other.
 It was the Fortunato pickup.
 
@@ -62,7 +62,7 @@ He put on his headphones and went into his laptop.
 
 Fortunato unlocked the front door and came in with a big bag under his arm.
 
-Fortunato: "Hi boys! Up this late? Don't you want to go to bed?" He laughed.
+Fortunato: "Hi, boys! Up until this late? Don't you want to go to bed?" He laughed.
 "Nah, sure, hackers are night workers." I got you some local stuff.
 He put the bag on the living room table in front of Sigur and Lasse.
 
@@ -77,7 +77,7 @@ He stuffed his mouth with nuts and grinned at Fortunato.
 
 Fortunato nodded and let himself fall into the third chair that stood on the other side of the table.
 
-Fortunato: "And? How is working here?
+Fortunato: "And? How is it working here?
 Caribbean beach, panoramic view, own boat mooring.
 You can stand it there, can't you?
 You're welcome to stay here for a few more days."
@@ -88,7 +88,7 @@ Our flights leave around 12."
 
 Fortunato: "Okay.
 I'll take care of your cab.
-You don't have to be there as much soon as normal.
+You don't have to be there as much soon as usual.
 I've got my extra entrance there.
 No waiting, no suitcase control.
 So, if you want to take any more coke, I'd be happy to..."
@@ -99,7 +99,7 @@ Coke, thank you, no."
 Fortunato: "What does Sigur actually do?"
 
 Lasse: "He programs.
-Again determines some such guard program that waits on a computer for a certain event and then becomes active.
+Again determines some such guard program that waits on a computer for a specific event and then becomes active.
 And until it becomes active, it is so well hidden that it doesn't even find the TAO.
 And after it runs, it erases itself from the computer, and you don't find any traces.
 That's Sigur's specialty.
@@ -133,14 +133,13 @@ The only thing you achieve with all this publicity is that everyone wakes up and
 Why are you doing this?
 It's better to change things from the inside.
 The "not-against" is one of the Cypherpunk ideals, isn't it?
-I don't like a lot of what's going on, for example that some people are still killing or commissioning people without hesitation.
+I don't like a lot of what's going on, for example, that some people are still killing or commissioning people without hesitation.
 This is stupid, this is sick.
 The LBI accepts the death of thousands of people every year.
 And they say, "Otherwise, more people would die. They say Americans would die otherwise.
 And then I tell them: Hello, and when I die, it's not so bad.
-I may be American, but South Americans, and they're worth less to you.
-What's that? What's that?
-But they think my country would see it the same way.
+I may be American, but from the South, a South American, and they're less valuable to you.
+But they think that every country considers its own people more valuable.
 Every country has the task of caring for its own citizens.
 That's the price of being a free country."
 
@@ -154,9 +153,9 @@ Neither are you little lights on your territory.
 The LBI buys people's whereabouts from me.
 I do a lot more precise than the NSA.
 In any case, less complicated and faster.
-They send me an email address or a cell phone number and they get a link to a Tor hidden service where they can check their current whereabouts and everyone else in the last eight to nine years.
+They send me an email address or a cell phone number, and they get a link to a Tor hidden service where they can check their current whereabouts and everyone else in the last eight to nine years.
 I'm working on getting all the security cameras in there, too.
-There are now great dealers who offer you 30 to 40 percent of all surveillance cameras in a city like Caracas: location, direction, range and complete shots.
+There are now great dealers who offer you 30 to 40 percent of all surveillance cameras in a city like Caracas: location, direction, range. Everything they've recorded over the years.
 If you know exactly where someone is, you can display the appropriate surveillance camera images.
 Live.
 Then you can track where the guy or girl is right now and what it's doing.
@@ -180,12 +179,12 @@ Lasse shook his head, "Just a minute or two, shit..."
 Sigur wrote: "I get all angry.
 I'll slam his throat.
 He has zero respect for privacy.
-Zero point zero."
+Zero points zero."
 
 Fortunato moaned quietly: "Uh.
-He's dead. He's dead.
+He's dead. He's gone.
 Died May 17, 2024.
-That's amonium, that's his hacker name."
+That's Ammonium, that's his hacker name."
 
 He looked at Lasse questioningly.
 
@@ -197,7 +196,7 @@ Fortunato groaned loudly: "You wanted to see how the system works.
 And now we're unveiling again.
 It's not my thing.
 I'm not tearing down walls.
-I can show you the pictures from May 16th."
+I can show you the pictures from May 16."
 
 Leave excited: "You have the pictures.
 Isn't it?
@@ -205,7 +204,7 @@ You know what happened there."
 
 Fortunato: "No, I don't have them.
 I erased it.
-The whole May 17th has been erased.
+The whole of May 17 has been erased.
 Everyone deleted it."
 
 Lasse's face turned red.
@@ -214,13 +213,13 @@ Delete history?
 Lies?
 Manipulate?
 That was a friend of mine, of both of us.
-And I mean my boyfriend.
-We could completely rely on him.
+And I mean, my friend.
+We trusted him with our lives.
 He used to watch my laptop sometimes.
 I would have trusted him with my life.
 And then he is pushed in front of a tram and dies, and all the pictures of it are gone, nothing there.
 We've looked everywhere for it.
-Town hall, shops, railroad, everything was gone.
+Townhall, shops, railroads, everything was gone.
 Just gone.
 That's bullshit.
 And you're in on it!
@@ -243,7 +242,7 @@ Lasse: "He was pushed."
 Fortunato: "Yes."
 
 Lasse buried his face in his hands.
-Amonium, Sigur and him.
+Ammonium, Sigur and him.
 There were always three of them on the way.
 They'd shredded the world.
 The three of them had learned everything they could now.
@@ -268,9 +267,9 @@ He looked back completely unmoved, a little bored.
 
 He looked at Fortunato: "If you ever run into pictures of May 17 again, please send them to me."
 
-Fortunato: "Your rooms are on the gallery, up the stairs and to the left.
+Fortunato: "Your rooms are on the gallery, up the stairs, and to the left.
 I'm gonna watch some more TV.
 Good night to you."
 
-"Night," Sigur gave back and they both climbed the stairs.
+"Night," Sigur gave back, and they both climbed the stairs.
 

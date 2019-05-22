@@ -2,11 +2,11 @@
 ## **2064** Where is the LBI?
 
 <span style="font-variant:small-caps;">Lasse and Sigur</span> sat again in the kitchen of the games lab.
-Each again with a big cocoa in his hand.
+Each again, with a big cocoa in his hand.
 
 Sigur: "And where are you right now?"
 
-Lasse: "At the end of the game I was on a plane home to San Diego."
+Lasse: "At the end of the game, I was on a plane home to San Diego."
 
 Sigur: "You got in?"
 
@@ -18,7 +18,7 @@ And then I can't do much there.
 Better from home, from our beach apartment.
 I don't even trust him anymore that he didn't know about the robbery."
 
-Sigur: "Neee.
+Sigur: "Nooo.
 Of course, he's in this all the way.
 That was played by him.
 But really, see that there are such assholes: They'll cut your belly open and put a remote cyanide capsule in it.
@@ -31,7 +31,7 @@ Where are you now?"
 Sigur: "Still in the room where the guards took me.
 You've been ignoring me for a few hours.
 Just stupid.
-My skull is booming too and I feel sick.
+My head is throbbing, too, and I feel sick.
 I feel the pressure in my stomach, gag reflex.
 I'm really a little nauseous... even here."
 
@@ -48,7 +48,7 @@ Lasse: "Yes, it's just a pity that we don't know where they are, they don't even
 Sigur: "They hide safely in the Tor network, they have their data distributed via hashes on the Internet and use Tails or Cubes OS as their operating system.
 They have nothing better of their own.
 They need free software.
-And then somehow we put a back door in tails and over there we go to their computers."
+And then somehow we put a back door in tails, and over there we go to their computers."
 
 Lasse: "Are you crazy?
 In Tails, a back door?
@@ -62,7 +62,7 @@ Sigur: "Hej, that was fun!
 You know where I am right now.
 How am I supposed to do anything?
 Drugs, no computers, prussic acid in the stomach...
-It's getting rather boring for me now."
+It's getting rather dull for me now."
 
 Lasse: "Yes, it will be like Tim.
 He once spent two whole match days in a psychiatric ward, in a mini-room without a window, in a straitjacket.
@@ -76,7 +76,7 @@ Yeah, right!
 Fortunato, he's at the LBI.
 He works for them.
 He's LBI.
-Of course I do.
+Of course, I do.
 We were in an LBI house.
 How does he make such a change from drug baron to information vendor?
 Without help?
@@ -95,7 +95,7 @@ Sigur: "Yes ... I'll steal from you.
 Sweet!
 The Bitcoins should be on their way by now.
 I'm sure he looked up what happened in his shop.
-If you're at home, after three days you'll get a pond message from me with the key to my raspberry cave.
+If you're at home, after three days, you'll get a pond message from me with the key to my raspberry cave.
 It'll go off automatically if I don't hear from me for three days.
 And from the looks of it, that's probably how it is."
 
@@ -109,7 +109,7 @@ Sigur: "That's a lot of money.
 I don't think they can do without it that easily.
 They're Bitcoins.
 They'll have to pay a lot of people past the normal payment channels.
-And now they can't do that any more, or at least much less well.
+And now they can't do that anymore, or at least much less well.
 They'll be after the money.
 Bitcoins are not anonymous.
 You have to be careful how you spend them."

@@ -8,8 +8,8 @@ Lilly sat cross-legged on the table and still smiled.
 "That went too fast.
 That was a computer program, wasn't it?"
 
-Lilly: "Sure! I've been writing on it all night last night.
-This morning I only entered one command and butzzz ..."
+Lilly: "Sure! I was writing on it all night last night.
+This morning I only entered one command and ..."
 
 Sigur: "But how did that work? I had it all sealed up.
 I went over everything again yesterday and this morning.
@@ -17,22 +17,22 @@ There was no void.
 Where did you get through?"
 
 Lilly: "A still unknown vulnerability in your firewall.
-A big American secret service had it installed and paid a lot of money for it.
+A large American secret service had it installed and paid a lot of money for it.
 It works great.
 You can have a look at it after the game in the log files, there is everything in it.
 First of all, I'm going on a little raid with it.
 You can get into a lot of computers through that back door.
-It's widespread and no one knows it." She grinned broadly.
+It's widespread, and no one knows it." She grinned broadly.
 
 There were vulnerabilities or backdoors in all computers and programs.
 You could close them if you knew how they worked.
 And once you knew her.
 Vulnerabilities could get computers to do all sorts of things that programmers and computer administrators hadn't planned for.
 Sometimes crazy things.
-Sometimes you could take over a computer completely from a distance, as if it were your own, and then do whatever you wanted with it.
+Sometimes you could take over a computer entirely from a distance, as if it were your own, and then do whatever you wanted with it.
 
 "That's unfair!" grumbled Sigur.
-"You know a back door and you don't tell anyone.
+"You know a back door, and you don't tell anyone.
 There shouldn't be secret back doors in the game.
 That's stupid.
 How can you protect yourself against that? I really did a lot of work, there wasn't a gap left."
@@ -42,7 +42,7 @@ That's against the rules.
 Weak points belong to the general public such as water and air.
 They must be made known immediately.
 It's a human right... I learned it in my computer management class.
-"It's also a cypher punk rule." You can even lose your labor law if you don't make a vulnerability known.
+"It's also a cypherpunk rule." You can even lose your labor law if you don't make a vulnerability known.
 
 Lilly: "Today ... today is like that.
 It was allowed back then. At least, I think so.
@@ -55,7 +55,7 @@ And the other one bought."
 "Bullshit!" Sigur shook his head.
 "Sell vulnerabilities?! Maybe when you're playing Mafia, but not otherwise.
 That would be totally corrupt.
-Super bad.
+Superbad.
 That would be as bad as making people sick and then earning on medicine."
 
 Lilly pulled her eyebrows up.
@@ -78,7 +78,7 @@ Lilly crossed her arms and made a serious face: "Nope.
 I'm serious. Masses, mountains... I'm telling you.
 I have..." She stopped.
 
-Lasse made a very important hand move: "Lilly, stay on the carpet."
+Lasse made a calming hand move: "Lilly, stay on the carpet."
 
 "You have...?" Sigur asked.
 "What do you got?" He slipped over to her.
@@ -91,20 +91,20 @@ Lilly looked back: "Pfffff.
 Plenty.
 Incredible stuff.
 You can't imagine what it's all about," she grinned.
-"I found a database at NSA: 'Zero Day Exploits', they're all vulnerabilities nobody knows yet.
+"I found a database at NSA: 'Zero Day Exploits,' they're all vulnerabilities nobody knows yet.
 Marie's an agent there. She helped me get to it.
-She herself is allowed to look everything up in the database, but she is not allowed to do anything with it that does not fit her mission, and everything she does and says is recorded. Everything, every keystroke, every conversation, every facial expression.
+She is allowed to look everything up in the database, but she is not allowed to do anything with it that does not fit her mission, and everything she does and says is recorded. Everything, every keystroke, every conversation, every facial expression.
 They're really recording everything! Of all the employees.
 Stupid.
 It sucks to work there.
-But I could get the database out of there with her help! Was not quite easy ... And now I can ... Uuuuuhhhhh", she shook her head, "... do so much ... Hi.
+But I could get the database out of there with her help! It was not quite easy ... And now I can ... Uuuuuhhhhh", she shook her head, "... do so much ... Hi.
 Hi.
 ... I know it's unfair, but it's a game.
 You have to be able to lose."
 
 Sigur grumbled: "You work with the NSA? They're enemies.
 That's against the rules.
-And Marie gives you the information because you're normal friends, too."
+And Marie gives you the information because you're friends in real life, too."
 
 "Not at all.
 I cracked two computers for her from hackers. She's smoking it for her mission.
@@ -127,7 +127,7 @@ Lasse pinched his lips together and looked over to Lilly: "How can you turn some
 
 "I don't know how Marie did it.
 But you gotta figure out how they tick there.
-I mean, she has access to all communication data: she sees what kind of e-mails he writes and gets, who he calls, who he meets on the phone, what he buys, whether he has enemies, a relationship of which his wife is not allowed to know anything, debts, and then she sees whether she finds something with which she can blackmail him.
+I mean, she has access to all communication data. She sees what kind of emails he writes and receives, who he meets or talks to on the phone, what he buys, whether he has enemies, a relationship of which his wife is not allowed to know anything, debts, and then she sees whether she finds something with which she can blackmail him.
 She apparently found something.
 Or maybe someone is just really unhappy with their job.
 Then you might be able to recruit him.
@@ -152,14 +152,14 @@ Lilly: "He doesn't.
 Marie can access her combat robot at any time and see what it's doing.
 And you can't do that without blackmail.
 It's clearly part of the game.
-That means 'social engineering'."
+That means 'social engineering.'"
 
 Sigur was silent.
 
 Lilly: If you don't want that, you can play Cypherpunks missions.
 These are not about taking over as many computers as possible or catching hackers, but about bringing things to light, making up for injustice, and allowing more and more people to escape the oppression that prevailed back then.
 You'd better think the way we think today.
-Then maybe you can figure out how the cypher punks won the war.
+Then maybe you can figure out how the cypherpunks won the war.
 I mean, that was already a superior force back then, the secret services, the armies, giant corporations.
 But in the end, they made it.
 I was wondering if it wouldn't be exciting to play Cypherpunk, too.
@@ -169,7 +169,7 @@ Lasse and Sigur looked at each other.
 Lilly was about to tell them what the real purpose of TRON was, the game they had spent hundreds of hours playing with, watching, trying, learning everything they had come across.
 
 Lasse: "Hej, Lilly.
-I've been playing TRON for three years now and it's all about conquering the world, determining politics, changing the course of history, but not the liberation of the Internet.
+I've been playing TRON for three years now, and it's all about conquering the world, determining politics, changing the course of history, but not the liberation of the Internet.
 I didn't want to play Julian Assange to break the surveillance system of that time, to abolish secret services, to make governments transparent, but because he has a lot of cool people around him who have a lot on them, and because half the world is after him."
 
 Lilly: "Well, did you get the part?"
@@ -178,22 +178,22 @@ Lasse: "No.
 You know that."
 
 Lilly: "You can't get them if you don't fill out the questionnaire at the beginning in a way that is mainly about the future of the internet.
-Julian's a cypher punk.
+Julian's a cypherpunk.
 If you only want adventure, then you won't get it."
 
 Sigur hissed in between, "WHERE DO YOU KNOW EVERYTHING?"
 
 Lilly: "I have read Marlene Farras: The story of the Cypherpunks before I even started playing TRON.
-She writes about 2021 and afterwards, until the end of the war.
-How it was then, how she learned to hack and then became Cypherpunk.
-And she writes what it was really about, how the people in the secret services thought and in the companies and how the hackers were, with white, grey and black hats, that is, those who only research and don't destroy anything, those who don't have clear boundaries, those who are out for their own advantage and those who really want to steal and destroy.
+She writes about 2021 and afterward, until the end of the war.
+How it was then, how she learned to hack and later became Cypherpunk.
+And she writes what it was really about, how the people in secret services thought and in the companies and how the hackers were, with white, grey and black hats. That is, those who only research and don't destroy anything, those who don't have clear boundaries, those who are out for their own advantage and those who really want to steal and destroy.
 And then the hacks they made.
 Whoa! That's crazy.
 So I thought I'd try out what she wrote in TRON.
 And it was all right in the game.
 Exactly.
 Edward Snowden.
-That was exactly how Marlene Farras wrote about it.
+That was precisely how Marlene Farras wrote about it.
 She also described her own hack for smuggling the vulnerability database out of NSA headquarters.
 And that's what I did with Marie.
 It was complicated, but it went exactly the way it really was.
