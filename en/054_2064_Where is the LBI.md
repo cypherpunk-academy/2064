@@ -1,7 +1,7 @@
 
 ## **2064** Where is the LBI?
 
-<span style="font-variant:small-caps;">Lasse and Sigur</span> sat again in the kitchen of the games lab.
+<span style="font-variant:small-caps;">Lasse and Sigur</span> sat again in the kitchen of the gaming lab.
 Each again, with a big cocoa in his hand.
 
 Sigur: "And where are you right now?"

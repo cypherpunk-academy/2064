@@ -1,7 +1,7 @@
 
 ## **2064** Special Command
 
-<span style="font-variant:small-caps;">In the games lab.</span> Lasse and Sigur stood opposite each other with light balls on their heads in front of the floating monitors.
+<span style="font-variant:small-caps;">In the gaming lab.</span> Lasse and Sigur stood opposite each other with light balls on their heads in front of the floating monitors.
 
 Let Sigur say, "Do you sleep too?"
 
