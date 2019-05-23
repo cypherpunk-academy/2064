@@ -1,6 +1,3 @@
-/html
-/tools/wppwd
-/mail
 /public
 # TeX/LaTeX intermediates # 
 ########################### 
@@ -38,3 +35,5 @@
 *blx.bib 
 progit
 .vscode
+texts
+*.txt
