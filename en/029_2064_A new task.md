@@ -70,7 +70,7 @@ They're the best of the best.
 We would need twenty flying combat robots, and then well-programmed formations, a good tactic.
 But not me and Lasse just like that, from a standing start.
 Forget it, man.
-OSIRIS is realistic."
+TRON is realistic."
 
 Marlene: "If the Sorat Rangers were what they're supposed to be, you'd be right.
 Then that would probably have ended badly for you.
@@ -79,7 +79,7 @@ I'm sorry you fell for the CIA intimidation propaganda.
 The Sorat Rangers are a group responsible for assassinations, not for real ones.
 They do not have to be the best of the best to always be successful, because their orders are all placed.
 They are good pilots, but not the absolute elite.
-That's how it is in OSIRIS, and it really was."
+That's how it is in TRON, and it really was."
 
 Lasse: "In reality? You were real? It was real?"
 
@@ -91,12 +91,12 @@ a CIA friendly intelligence agency.
 It was probably the Mossad.
 We don't know for sure.
 Anyway, after this, it went horrible.
-In OSIRIS and also in reality.
+In TRON and also in reality.
 Because the Five Star isn't coming.
 They'll be shot down shortly before that.
 A few minutes earlier.
-We don't know why it really was like that... in OSIRIS we do.
-In OSIRIS, you were.
+We don't know why it really was like that... in TRON we do.
+In TRON, you were.
 What is happening right now is that due to some misunderstandings in the control center and two wrong commands, the whole assembly is bombed into the air.
 Everything will be razed to the ground.
 There were 122 deaths.
