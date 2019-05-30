@@ -4,7 +4,7 @@
 Auf ihm stand alles, was sie jetzt brauchte.
 Das letzte Mosaiksteinchen links unten war gestern erst dazugekommen.
 Zwei Worte.
-„karlibender“ und „LV7jolgS7brT5M“, Name und Passwort, und sie wusste, wo die passten.
+„karlibender“ und „LV7jolgS7brT5M“, Name und Passwort, und sie wusste, wo sie passten.
 Der Weg dorthin war eine kleine Weltreise, aber sie würde nicht lange dauern.
 Sie begann die Reise, indem sie sich an einem Berliner Unirechner anmeldete, mit einem Konto, das schon lange niemand mehr nutzte.
 Von dort ging es weiter nach New York, ein Abstecher nach Brasilien und dann nach New Jersey an die Princeton Universität.
@@ -16,28 +16,48 @@ Aber Marlene wusste davon.
 Karl Bender hatte ein Freundin, Corinne, und die war schon jahrelang Marlenes beste anonyme Freundin.
 Das heißt, sie hatten sich niemals in Wirklichkeit getroffen und keinen Kontakt miteinander gehabt, von dem irgendjemand wissen konnte.
 Sie hatten sich geschützt im Tor-Netzwerk kennengelernt, in einem Chat-Raum, und beide hatten über die Jahre streng darauf geachtet, dass sie sich immer nur anonym begegneten, immer geschützt durch Tor-Masken.
-Sie erzählten sich voneinander, immer mehr auch Persönliches.
-Danach konnten sie im Internet recherchieren und herausfinden, ob es wirklich stimmte, was die andere gesagt hatte.
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+Das <em>Tor-Netzwerk</em> war ein Internet-Projekt, das es ermöglichten, im Internet völlig anonym zu surfen, zu chatten oder Dateien zu verschicken.
+Es basierte darauf, dass Tausende Freiwillige im Tor-Internet-Computer betrieben und jedes mal, wenn jemand das Tornetz betrat, wurden drei davon zufällig ausgewählt.
+Alle Webseiten und alle Chats wurden dann so über die drei ausgewählten Computer durchs Internet geschickt, dass es unmöglich war, den Weg zu verfolgen.
+Fast unmöglich.
+In Einzelfällen konnten große Geheimdienste mit viel Aufwand einzelne Wege nachvollziehen.
+Deswegen konnte man mit einem kurzen Klick, die drei Computer jederzeit durch drei neue ersetzen.
+</div>
+Marlene und Corinne erzählten sich voneinander, immer mehr auch sehr Persönliches, und auch von nützlichen und lustigen Hintertüren im Internet.
+
+Die Hintertüren konnten sie im Internet ausprobieren.
+Da waren tolle Dinge dabei.
+Zum Beispiel Mailserver-Eingänge, die Spammer noch nicht gefunden hatten.
+Da konnte man dann E-Mails völlig anonym abschicken, weil man sich nirgendwo registieren musste, um sie zu nutzen.
 Und so hatten sie mit der Zeit immer mehr Vertrauen zueinander gefasst und angefangen, sich alles über einander zu erzählen.
 Es war einfach spannend, eine solche anonyme Beziehung zu haben.
-Inzwischen kannten sie sich sehr, sehr gut.
+Über die Jahre lernten sie sich sehr, sehr gut kennen.
 
-Corinne hatte ihr davon erzählt, dass bei Karl ein Geheimdienstmann der NSA zu Besuch war, um mit Karl den Start eines ganz neuen Satelliten vorzubereiten.
+Corinne hatte Marlene davon erzählt, dass bei Karl ein Geheimdienstmann der NSA zu Besuch war, um mit Karl den Start eines ganz neuen Satelliten vorzubereiten.
 Die NSA war ein Geheimdienst der Amerikanischen Armee, es war der größte Geheimdienst überhaupt.
 Und bei diesem Besuch ging fast alles schief.
-Nichts funktionierte auf Anhieb und um ein Haar hätten sie den Start abbrechen müssen.
-Aber gemeinsam schafften sie es gerade noch, ein Programm, das im Satelliten laufen musste, fertig zu kriegen, buchstäblich in letzter Sekunde.
-Wohl in der Hektik hatte der NSA-Mann den Geheimschlüssel für seinen eigenen Computer bei der NSA auf Karls Rechner hinterlegt.
+Sie durfte davon eigentlich gar nichts wissen, aber Karl kam einmal mitten in der Nacht so durcharbeitet, freudig und durcheinander nach Hause, dass sie ihn gelöchert hatte.
+Sie wollte unbedingt wissen, was da los gewesen war.
+Nichts hatte auf Anhieb funktioniert und um ein Haar hätten sie den Start ganz abbrechen müssen.
+Aber gemeinsam schafften sie es gerade noch, ein Programm, das im Satelliten laufen musste, fertig zu kriegen, buchstäblich in letzter Minute.
+Wohl in der Hektik hatte der NSA-Mann den geheimen Schlüssel für seinen eigenen Computer bei der NSA auf Karls Rechner hinterlegt.
 Und dann dort vergessen.
-Ein Geheimdienst-Schlüssel! Karl hatte das einen Tag später Corinne auf einem Spaziergang erzählt.
-Eigentlich hätte er ihn sofort löschen müssen, aber er hatte es nicht getan.
+Ein Geheimdienst-Schlüssel!
+Eigentlich hätte Karl ihn sofort löschen müssen, aber er hatte es nicht getan.
 
-Als Marlene davon erfahren hatte, begann sie sofort zu recherchieren.
+Als Corinne es Marlene erzählte, begann die sofort zu recherchieren.
 Ihr Bruder Marwin war ein bekannter Cypherpunk.
-Cypherpunks waren Hacker, die Verschlüsselungsprogramme schrieben, und kostenlos an alle Menschen weitergaben, die sie haben wollten.
+
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+Cypherpunks waren Hacker, die in den 90er-Jahren angefangen hatten, Verschlüsselungsprogramme zu schreiben, und kostenlos an alle Menschen weiterzugeben, die sie haben wollten.
 Es waren die besten Programme, die es gab.
-Selbst die größten Geheimdienste hatten vor ihnen Respekt.
-Marlene war oft nächtelang neben ihm gesessen, wenn er in seinem funkgesicherten Keller saß und in der Welt herumreiste, und sie hatte dabei vieles gelernt.
+Kein Geheimdienst der Welt hatte bessere.
+Geheimdienste sahen in ihnen die größte Gefahr für ihre Arbeit, weil sie sie nicht knacken konnten.
+Cypherpunk zu sein, bedeutete aber nicht nur Verschlüsselungsprogramme zu schreiben, sondern alle möglichen Dinge, die halfen, die Freiheit der einzelnen Menschen zu schützen.
+Es war eine mit dem Programmieren von Computern verbundene Freiheitsphilosophie, in deren Umfeld später Initiativen wie WikiLeaks, Hackerspaces und CryptoParties wurzelten.
+</div>
+Marlene war oft nächtelang neben Marwin gesessen, wenn er in seinem funkgesicherten Keller saß und in der Welt herumreiste, und sie hatte dabei vieles gelernt.
 Marwin nahm sich auch oft Zeit, ihr Dinge genauer zu erklären, ihr vergangene Hacks zu zeigen oder eine Programmiersprache beizubringen.
 Sie konnte immer zu ihm kommen, mit allem, hatte er gesagt, jederzeit.
 Und sie hatte auch daran gedacht, in dieser Sache Marwin um Hilfe zu fragen.
@@ -52,12 +72,11 @@ Jetzt wurde es zum ersten Mal spannend: „War das Passwort in der Zwischenzeit 
 „L V 7 j o l g S 7 b r T 5 M“ und dann die Enter-Taste.
 
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
-
-„karlibender@trt.princeton.edu: ~$“,
+karlibender@trt.princeton.edu: ~$
 </div>
 erschien auf dem Bildschirm.
 
-„JAH!“, rief sie laut und schaute sofort über den Rathausplatz.
+„JAH!“, rief sie laut, erschrak deswegen, und schaute sofort über den Rathausplatz.
 Niemand schien sie bemerkt zu haben.
 Sie war drin! Keine großartige Meldung.
 Nur die Befehlseingabe des Terminalprogramms, aber diesmal die vom Computer von Karl Bender an der Princeton Universität.
@@ -88,9 +107,11 @@ Ihre Adressen waren:
 
 23.66.177.121
 </div>
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
 Internet-Adressen von Computern bestanden aus mit Punkten getrennten Zahlen, oft aus vier Zahlen zwischen 0 und 255.
 Jeder Computer im Internet hatte eine solche Adresse, darüber konnte man sie erreichen.
 Sie hatten meistens zusätzlich auch lesbare Namen, wie www.torproject.org oder www.google.com.
+</div>
 Aber diese hier nicht.
 Und sie konnte auch nicht verfolgen, wohin Daten gingen, die sie an diese Adressen schickte.
 Auf dem Weg dorthin verschwanden sie in einer dunklen Internetwolke.
@@ -150,11 +171,11 @@ Es ist nur eine von den dreien.“ Sie schaute auf die Adressen.
 
 Je länger sie wartete, umso größer war die Wahrscheinlichkeit, dass sie nicht in den NSA-Computer hineinkommen würde.
 Corinne sagte zwar, dass sie mit Karl übers Wochenende fischen gehen würde und sie kein Smartphone und kein Handy dabei haben würden, aber es gab bei der Princeton-Universität auch andere, die eingreifen konnten, wenn ihnen etwas komisch vorkam.
-Sie klappte ihren Laptop auf und ging den selben Weg wie beim ersten Mal: Berlin – New York – Belo Horizonte – New Jersey, Princeton.
+Sie klappte ihren Laptop auf und ging denselben Weg wie beim ersten Mal: Berlin – New York – Belo Horizonte – New Jersey, Princeton.
 Sie gab Name und Passwort ein.
 Wieder drin! Sie atmete kurz durch.
 
-„Weiter!“, dachte sie und tippte:
+„Weiter, weiter!“, dachte sie und tippte:
 
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 ssh randw@23.66.234.12
@@ -173,7 +194,7 @@ SECTION 23-54 ***
 
 * WARNING: UNAUTHORIZED ACCESS CAN RESULT IN FEDERAL PROSECUTION
 * FOLLOWING THE ESPIONAGE ACT OF 1917.
-* STOP! IMMEDIATLY! IF YOU ARE IN ANY DOUBT OF YOUR AUTHORIZATION.
+* STOP! IMMEDIATLY! LOG OUT! IF YOU ARE IN ANY DOUBT OF YOUR AUTHORIZATION.
 
 *** ****************************
 Welcome, Randy!
@@ -200,7 +221,7 @@ Sie umschloss ihn in ihrer Hand und lehnte sich zurück.
 
 „Hallo Marli“, sagte eine Stimme von der Seite und ein junger Mann setzte sich neben sie.
 
-„OSKAR!“, Marlene schaute ihn an, dann wieder weg und wieder hin.
+„OSKAR!“, Marlene schaute ihn verdutzt an, dann wieder weg und wieder hin.
 „Was machst DU hier??“
 
 Oskar war ein guter Freund von ihr und ihrem Bruder.

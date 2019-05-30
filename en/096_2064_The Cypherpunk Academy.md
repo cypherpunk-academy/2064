@@ -57,7 +57,7 @@ Is he blind?"
 
 Lasse shook his head: "No, not at all.
 The balloon is the Cypherpunk Academy.
-You can't see them unless you're cypherpunk."
+You can't see them unless you're Cypherpunk."
 
 Sigur: "_This is the Cypherpunk Academy?
 Sweet!
@@ -224,7 +224,7 @@ If you find a thought in a city on an island, you will first resolve its contrad
 It's a kind of cycle.
 The best contradictions, resolutions, and thoughts remain.
 The others disappear again after a while.
-In this way, the cypherpunks who seek the way are continually changing the Plain Islands.
+In this way, the Cypherpunks who seek the way are continually changing the Plain Islands.
 And to this world, here is the entrance."
 
 Sigur nodded. He looked around.
@@ -554,5 +554,5 @@ I'm barely ten minutes here and already at Miraculous.
 Lasse has only been with him twice in all his time!"
 
 Miraculous: "Yes, yes.
-You fucked up, you cypherpunk!"
+You fucked up, you Cypherpunk!"
 

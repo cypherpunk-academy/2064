@@ -10,7 +10,7 @@ Lilly: „Erst ihr.
 Was habt ihr bekommen?“
 
 Sigur schaute finster und meinte: „Wir sind durch deinen Hack aufgeflogen.
-Danke dir.“ Er nickte in Richtung Lilly.
+Danke dir.“ Er nickte theatralisch in Richtung Lilly.
 „Die NSA ist jetzt hinter uns her und wir müssen fliehen.
 Deine Marie ist ja wirklich super schnell.“
 
@@ -19,32 +19,37 @@ Habt ihr ein paar Anlaufstellen, die die NSA nicht kennt? Kommt ihr an Computer,
 
 Lasse ironisch: „Danke für die Tipps, Lilly! Und auch noch null Erfahrungspunkte heute.
 Null komma null.“ Er ballte seine Faust.
-„Was hast du?“ Er drehte sich zu Lilly.
+„Und was hast du bekommen?“ Er drehte sich zu Lilly.
 
 Lilly: „Eure Computer haben mir 20 Punkte gebracht, geil.
-Und ich bin jetzt inoffizieller Mitarbeiter bei Marie, da komme ich an jede Menge Dinge heran.
+Und ich bin jetzt inoffizieller Mitarbeiter bei Marie, da komme ich an jede Menge Dinge ran.
 Und, wow, ich habe ein Überraschungspaket bekommen …“
 
 Überraschungspakete gab es manchmal für besondere Ereignisse, meistens dann, wenn Spieler eine Mission geschafft hatten, die in der realen Welt auch so statt gefunden hatte.
 
-Lasse: „Echt? Pack aus.
+Lasse: „Echt? Ein Überraschungspaket? Pack aus.
 Was ist drin?“
 
 Lilly hielt ihren Kommunikator in Richtung des 3D-Druckers und eine Minute später erschien dort eine kleine Schatulle.
-Lilly nahm und öffnete sie.
+Lilly nahm sie und öffnete sie.
 
 Lilly: „Wow.
+Wow.
 Hej.
-Stark.
-Hier, ein Bild von Marlene Farras!
+Hier, schaut, ein Bild von Marlene Farras!
 Ja, klar, wegen der NSA-Internet-Schwachstellen.
 Das war ihr Hack in Wirklichkeit.
 Das war 2021.
 Da hat sie die ganze Datenbank rausgeholt, komplett, auf einmal, ein Wahnsinn, und dann war sie weltweit auf der Flucht vor den Geheimdiensten so wie ihr jetzt, nur noch ein bisschen krasser.“
 Sie drehte die Karte um.
-„Ohh!!! Fuck! Das gibt’s doch nicht …“
+„Ohh!!!
+Fuck!
+Hammer!
+Das gibt’s doch nicht …“
 
-<div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
+Lilly schüttelte ungläubig den Kopf.
+
+<div style="background-color: #ffc; color: darkblue; padding: 20px; margin: 20px 0; font-family: 'Comic Sans MS'; border-radius: 20px;">
 Willst du mit mir einen Kakao trinken? Dann rufe mich an.
 
 Marlene
@@ -53,7 +58,7 @@ PGP: 23FF 2345 4312 AA34
 </div>
 Lilly riss die Arme hoch: „JUUUHHHUUU!!! Wahnsinn!
 Marlene Farras, in echt! Marlene Farras, in echt! Ich fasse es nicht.
-Ihre persönliche Adresse.
+Das ist ihre persönliche Adresse.
 Schaut hier, ihr persönlicher PGP-Code.“
 
 Lilly war vom Tisch aufgesprungen und tanzte im Zimmer herum.

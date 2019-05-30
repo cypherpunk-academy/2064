@@ -69,7 +69,7 @@ Das sind die Besten der Besten.
 Da bräuchten wir zwanzig fliegende Kampfroboter, und dann noch gut programmierte Formationen, eine gute Taktik.
 Aber nicht ich und Lasse einfach so, aus dem Stand.
 Vergiss es.
-OSIRIS ist realistisch.“
+TRON ist realistisch.“
 
 Marlene: „Wenn die Sorat Rangers das wären, für was sie gehalten werden, dann hättest du Recht.
 Dann wäre das für euch wahrscheinlich böse geendet.
@@ -78,7 +78,7 @@ Du bist da leider auf die CIA-Einschüchterungs-Propaganda hereingefallen.
 Die Sorat Rangers sind eine Gruppe, die für gestellte Attentate zuständig sind, nicht für echte.
 Sie müssen nicht die Besten der Besten sein, um immer Erfolg zu haben, weil ihre Aufträge allesamt gestellt sind.
 Sie sind gute Piloten, aber nicht absolute Elite.
-Das ist in OSIRIS so und das war auch in Wirklichkeit so.“
+Das ist in TRON so und das war auch in Wirklichkeit so.“
 
 Lasse: „In Wirklichkeit? Sie waren echt? Es gab sie in echt?“
 
@@ -90,12 +90,12 @@ einem befreundeten Geheimdienst geflogen werden.
 Wahrscheinlich war es der Mossad.
 Wir wissen das nicht sicher.
 Auf jeden Fall geht das gründlich schief.
-In OSIRIS und auch in Wirklichkeit.
+In TRON und auch in Wirklichkeit.
 Weil der Fünfstern nicht kommt.
 Sie werden kurz vorher abgeschossen.
 Ein paar Minuten vorher.
-Wir wissen nicht, warum das in Wirklichkeit so war … in OSIRIS wissen wir es.
-In OSIRIS ward ihr das.
+Wir wissen nicht, warum das in Wirklichkeit so war … in TRON wissen wir es.
+In TRON ward ihr das.
 Was jetzt gerade im weiteren Verlauf passiert, ist, dass durch einige Missverständnisse in der Leitstelle und zwei falsche Kommandos die gesamte Versammlung dort in die Luft gebombt wird.
 Alles wird dem Erdboden gleich gemacht.
 Es gab 122 Tote.

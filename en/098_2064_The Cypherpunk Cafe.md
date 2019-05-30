@@ -13,7 +13,7 @@ Wonderfully lively chatted with Mostafa at the neighboring table, both in front 
 Miraculous occasionally showed his thumb to Sigur, said something and grinned at Mostafa.
 
 Sigur looked around: "Whoa, look who's here!
-So many cypherpunks in one place... Hey, Thaedaot2!" He waved to a table on the other side.
+So many Cypherpunks in one place... Hey, Thaedaot2!" He waved to a table on the other side.
 Thaedaot2 waved back.
 
 Lasse: "Yeah, this is nice.

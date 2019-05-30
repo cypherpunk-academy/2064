@@ -10,7 +10,7 @@ Marlene: "How did you actually find me?"
 Marwin replied without looking at her: "About the BND Ü-Kamera database.
 I knew pretty much when you were going home and what you were wearing, and then we followed your path."
 
-Marlene: "With surveillance cameras? You? Shit! Shit! Shit! I thought you were a cypherpunk."
+Marlene: "With surveillance cameras? You? Shit! Shit! Shit! I thought you were a Cypherpunk."
 
 Marwin turned to her: "You have no idea what this is about," he whispered.
 "We were in precisely the same NSA department three weeks ago, where the computer you were in is.

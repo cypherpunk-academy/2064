@@ -149,10 +149,10 @@ Lilly stood in the entrance and gave Marlene a sign.
 
 Marlene: "Okay.
 I gotta go. I gotta go.
-Good luck to you, cypherpunks."
+Good luck to you, Cypherpunks."
 
 She got up and went out.
 Lasse followed her after a short time.
 
-"I'm not a cypherpunk," Sigur mumbled and trotted out of the hut behind Lasse.
+"I'm not a Cypherpunk," Sigur mumbled and trotted out of the hut behind Lasse.
 

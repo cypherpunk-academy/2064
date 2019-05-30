@@ -59,7 +59,7 @@ It's a bit like a maze.
 You can find out exactly what that is in the game.
 
 Tin, the owl, knows everything that happened in the liberation struggle.
-She knows the whole story, all the cypherpunks, all the hacks and above all the general thought mistakes that led to the wars on the Internet.
+She knows the whole story, all the Cypherpunks, all the hacks and above all the general thought mistakes that led to the wars on the Internet.
 It will give you programming tasks, thought error puzzles, and game orders.
 She lives in a magical world, which is nowhere, and which changes when she solves tasks and puzzles or fulfills orders.
 

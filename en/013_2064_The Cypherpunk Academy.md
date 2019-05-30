@@ -13,7 +13,7 @@ And when they could understand what was happening in secret, what was being done
 These back doors and loopholes were not primarily used for hunting down criminals or terrorists, no, they were used to monitor and control the new generation.
 Through these manipulations, many people believed that they needed this and that to have a happy life or not to have a miserable life, they worked for it, spent a lot of time and energy for it, although they did not really need it.
 So the new generation was distracted from what they really wanted to do, in their hearts, in their idealism.
-Many of them became cypherpunks at this turning point.
+Many of them became Cypherpunks at this turning point.
 
 And what Lilly has succeeded in doing, why we all sit here and hundreds of thousands of students from all over the world watch us, is to replay this famous hack.
 He was built into TRON from the beginning and waited for someone to find him.
@@ -36,7 +36,7 @@ Yes ...
 ... What's the new rule? She's pretty simple.
 It says that from now on we can also play all missions as Cypherpunk missions.
 Whether you're a secret service agent or a business executive, a politician, a hacker, an American president, whatever.
-You can say TRON at the beginning of a game round or sometime in between that you are now cypherpunk and then you get your points not for domination, money, and control, but for publishing secrets, for compensating for injustices and for creating awareness of how the world actually works."
+You can say TRON at the beginning of a game round or sometime in between that you are now Cypherpunk and then you get your points not for domination, money, and control, but for publishing secrets, for compensating for injustices and for creating awareness of how the world actually works."
 
 Lilly looked at Marlene and said, "Marlene, would you like to say something?"
 
@@ -57,7 +57,7 @@ It was the most essential thing in life.
 That's where we wanted to have other ideals.
 For example, the whole world of companies and governments should become transparent.
 We wanted to take a step towards real democracy.
-Those are the things you want to be if you're going to be cypherpunk."
+Those are the things you want to be if you're going to be Cypherpunk."
 
 Lilly: "And if you want to practice that, if you're going to get to know it in depth, there's a whole new place for you in the game.
 And this is really a hammer..." She winked at Marlene.
@@ -65,7 +65,7 @@ And this is really a hammer..." She winked at Marlene.
 I'll be very curious to hear what you have to say.
 I've looked around a little, it's pretty big, and you can do a lot there.
 It's... the new... Cypherpunk Academy!
-An academy where you can become real cypherpunks.
+An academy where you can become real Cypherpunks.
 And she's somewhere in TRON.
 You can find her."
 

@@ -24,7 +24,7 @@ It was too uncomfortable for many.
 Julian Assange once expressed his second thought with the sentence: Dedication wins against wealth.
 Devotion wins against wealth.
 In my words, I would say that what people carry in their hearts is stronger than any power in the world.
-The powerful didn't really care about the cypherpunks back then.
+The powerful didn't really care about the Cypherpunks back then.
 They were annoyed about them, they wanted to stop them, to have them away, but they were not interested in them as people.
 That's why they never got rid of her.
 They were brutal but half-hearted and therefore slow, inaccurate, and immobile.

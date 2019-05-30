@@ -63,7 +63,7 @@ She's not telling you what to do.
 She's just saying what is.
 Past and wisdom and all that.
 Do you understand me?" He looked at him pitifully.
-"You're cypherpunk now.
+"You're Cypherpunk now.
 You're big yourself.
 You're free to aspire to what you want.
 Even if it's total nonsense to want that, and you can never get there with the modest possibilities you have."
@@ -129,7 +129,7 @@ Miraculous: "War is a game.
 Just because you play, that doesn't mean you're suddenly allowed to kill people.
 You can't kill people.
 You can't do that.
-Not as cypherpunk."
+Not as Cypherpunk."
 
 Sigur looked at him confused: "You can't kill people in war?
 What the fuck is this?

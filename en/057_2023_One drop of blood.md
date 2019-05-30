@@ -51,7 +51,7 @@ The maximum happiness for the maximum number of people."
 He punched the table with his fist: "Fuck." He thought, "That's the most demonic saying there is, because it sounds reasonable, and it's so hard to see through.
 Excluding people: If the greatest country that has ever existed rules, then there is freedom for all those who submit to its culture, its ideas of life.
 And every enemy of his way of living is an enemy of freedom and is rendered harmless.
-For example, hackers, especially cypherpunks."
+For example, hackers, especially Cypherpunks."
 
 He grabbed his head with both hands.
 "With violence to harmony... With oppression to freedom...
@@ -65,14 +65,14 @@ Not like a reservoir rupture."
 He breathed heavily.
 
 "And because of this error of thought, I have been sitting here for two years now, completely senseless, without charge, not even an accusation, not even a false allegation.
-If only ten, twenty percent of the population were real hackers, cypherpunks, people with cypherpunk hearts, things would look different."
+If only ten, twenty percent of the population were real hackers, Cypherpunks, people with Cypherpunk hearts, things would look different."
 
 He looked around the room and got stuck on the table with a little book and a pen that Linda had forgotten there.
 He looked at her and then suddenly shouted, "Yah!
 That's right.
 A manifesto!
 Like Eric Hughes in 1993.
-I'm writing a hacker manifesto, a new cypherpunk manifesto.
+I'm writing a hacker manifesto, a new Cypherpunk manifesto.
 That's what it is.
 And if no one ever reads it..."
 He pulled the booklet towards him, tore out all the pages already written and arranged them in a pile on the table.
