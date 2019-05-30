@@ -1,5 +1,5 @@
 
-## **2064** TRON attack
+## **2064** TRON Attack
 
 <span style="font-variant:small-caps;">Lasse and Sigur entered</span> their game room.
 Game rooms were large and round, with plants, many painted fantasy pictures on the wall and a pedestal with drinks and many kinds of fruits, nuts, and sweets.
@@ -9,13 +9,13 @@ Lasse and Sigur sat down on the chairs and took the keyboards.
 
 "9:30 a.m.! Here we go." Lasse shouted.
 Both sat in front of their monitors and looked at the activity display.
-Sigur nodded her head firmly.
+Sigur nodded his head firmly.
 
 Lasse: "Okay.
 It's quiet.
 Let's get started..."
 
-He gave a scream.
+He screamed.
 
 Lasse: "S H I T! Sig! Close the firewall, we're getting a massive attack, quantum parallel."
 
@@ -23,18 +23,18 @@ Sigur quickly hacked his keyboard four or five times with his right hand and fix
 
 Sigur: "Done! It's closed! Who was that?"
 
-Let's shrug our shoulders.
+Lasse shruged his shoulders.
 "I don't know."
 
-Sigur: "WAAAASSSSS????!!!"
+Sigur: "WHHAAAATTTTTT????!!!"
 
 Lasse: "What?"
 
-Sigur drummed on his keyboard: "Shit! ...shit!"
+Sigur drummed on his keyboard: "Shit! Shit ... shit!"
 
 Lasse: "Say it."
 
-Lasse stormed into Sigur's computer:
+Lasse stormed over to Sigur's computer:
 
 Lasse: "What's wrong?"
 
@@ -49,7 +49,7 @@ Sigur: "Fuck."
 
 Lasse: "Pull the plug!"
 
-Sigur: "We can't do that.
+Sigur: "We can't do that!
 Against the rules."
 
 Lasse: "Fuck it.
@@ -61,7 +61,7 @@ Sigur threw away the keyboard, stood up and hit the wall a few times with his fi
 
 "What was that?" Lasse asked.
 
-"Who was that?" Sigur still asked with his face to the wall.
+"Who was that?" Sigur asked, with his face still toward the wall.
 
 Klack! The door opened.
 Both of them turned to the door at the same time, where Lilly walked in with a broad grin: "Hi, hi! Too slow, boys..."
@@ -71,7 +71,12 @@ Please don't... Not again..."
 
 Lilly was Lasse's little sister and turned 12 two months ago.
 She had only been playing TRON for a year but had a real talent for it.
-During the first game, she had already found the documents that Edward Snowden of the largest American secret service, the NSA, had taken with him and which had caused a stir worldwide at the time.
+During the first game, she had already found the documents that Edward Snowden former employee of the largest American secret service, the NSA, had taken with him and which had caused a worldwide turmoil at the time. {Link to the documents}
 TRON had immediately added some missions to catch Lilly, and many players accepted these missions.
 But she had managed to survive and keep the documents until the end of the game.
 
+Lilly smiled: "Yes, I do. But now I have to go on again. I still have a lot to do with your computers."
+
+She closed the door again.
+Lasse and Sigur looked at each other for a long time and then went out into the forecourt of the games lab to the table tennis table.
+Sigur took two rackets and threw one to Lasse.

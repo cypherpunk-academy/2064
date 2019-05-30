@@ -1,7 +1,8 @@
 ## **2064** TRON-Attacke
 
 <span style="font-variant:small-caps;">Lasse und Sigur betraten</span> ihren Spiele-Raum.
-Spiele-Räume waren groß und rund, mit Pflanzen, vielen gemalten Fantasy-Bildern an der Wand und einem Podest mit Getränken und viele Arten von Früchten, Nüssen und Süßigkeiten.
+Spiele-Räume waren groß und rund, etwa 10 Meter im Durchmesser, einer durchgängigen Fensterfront, mit Pflanzen und einem Podest mit Getränken und viele Arten von Früchten, Nüssen und Süßigkeiten.
+An der Wand sah man viele gemalte Fantasy-Bilder, auf denen sich ab und zu ein Detail bewegte.
 Vier große Computer-Bildschirmscheiben schwebten in der Mitte des Raumes über einem Tisch.
 Auf dem Tisch lagen zwei Tastaturen, vier etwa faustgroße Controller und zwei große Glaskugeln, die nach unter hin offen waren.
 Lasse und Sigur setzten sich auf die Stühle und nahmen sich die Tastaturen.
