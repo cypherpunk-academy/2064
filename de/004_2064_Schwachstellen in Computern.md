@@ -23,12 +23,14 @@ Erst einmal gehe ich damit noch ein wenig auf Raubzug.
 Über diese Hintertür kann man in viele Computer hereinkommen.
 Sie ist weit verbreitet und niemand kennt sie.“ Sie grinste breit.
 
-Schwachstellen oder Hintertüren gab es in allen Computern und Programmen.
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+In der Zeit, in der das TRON spielte, gab es in allen Computern und Programmen Schwachstellen oder Hintertüren.
 Man konnte sie schließen, wenn man wusste wie sie funktionierten.
 Und wenn man sie erst einmal kannte.
 Über Schwachstellen konnte man Computer dazu bringen, alle möglichen Dinge zu tun, die die Programmierer und Computerverwalter nicht vorgesehen hatten.
 Manchmal ganz verrückte Dinge.
 Manchmal konnte man einen Computer aus der Ferne komplett übernehmen, als wäre es der eigene, und dann alles mit ihm machen, was man wollte.
+</div>
 
 „Das ist doch unfair!“, murrte Sigur.
 „Du kennst eine Hintertür und sagst sie niemandem.
@@ -43,7 +45,7 @@ Man muss sie sofort bekannt machen.
 Das ist ein Menschenrecht … habe ich in meinem Computerverwalterkurs gelernt.
 Außerdem ist das auch eine Cypherpunk-Regel.“ Man kann sogar sein Arbeitsrecht verlieren, wenn man eine Schwachstelle nicht bekannt macht.
 
-Lilly: „Heute … heute ist das so.
+Lilly: „Heute! Heute ist das so.
 Damals war es erlaubt. Glaube ich zumindest.
 Auf jeden Fall war es echt Gang und Gäbe.“
 Sie schmunzelte.
@@ -185,7 +187,10 @@ Sigur fauchte dazwischen: „WOHER WEISST DU DAS ALLES?“
 Lilly: „Ich habe Marlene Farras gelesen: Die Geschichte der Cypherpunks, bevor ich überhaupt angefangen habe, TRON zu spielen.
 Sie schreibt über 2021 und danach, bis zum Kriegsende.
 Wie es damals war, wie sie Hacken gelernt hat und dann Cypherpunk geworden ist.
-Und sie schreibt, um was es wirklich ging, wie die Leute bei den Geheimdiensten dachten und bei den Unternehmen und wie die Hacker waren, mit weißen, grauen und schwarzen Hüten, also solche, die nur erforschen und nichts kaputt machen, solche bei denen die Grenzen nicht ganz klar sind, die auf ihren eigenen Vorteil aus sind und solche, die echt klauen und zerstören wollen.
+Und sie schreibt, um was es wirklich ging, wie die Leute bei den Geheimdiensten dachten und bei den Unternehmen und wie die Hacker waren, mit weißen, grauen und schwarzen Hüten.
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+Die Hacker mit <em>weißen</em> Hüten wollten nur forschen und nichts zerstören, die mit <em>grauen</em> hatte nicht so klare Grenzen und taten oft Dinge, die ihnen nur persönlich nutzten. Aber die Hacker mit <em>schwarzen</em> Hüten, stahlen und zerstörten Dinge.</div>
+
 Und dann die Hacks, die sie gemacht haben.
 Wow! Echt Wahnsinn.
 Da habe ich gedacht, das probiere ich in TRON aus, was sie da schreibt.
