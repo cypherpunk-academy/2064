@@ -27,10 +27,11 @@ Da sind keine Leute, die mit Hingabe und Überzeugung arbeiten.
 Deswegen haben sie keine Chance gegen uns. Und jetzt?“
 
 Marwin: „TAO ist eine Spezialgruppe.
-Das sind echte Hacker, ehemalige echte Hacker. Zum Teil wurden sie erpresst: Entweder Du arbeitest für uns oder Du gehst für 50 Jahre ins Gefängnis … Und wenn du dich da beugst … Da sind echt super Leute dabei.
+Das sind echte Hacker, ehemalige echte Hacker.
+Zum Teil wurden sie erpresst: Entweder Du arbeitest für uns oder Du gehst für 50 Jahre ins Gefängnis … Und wenn du dich da beugst … Da sind echt super Leute dabei.
 Die kommen überall rein.
-Und die haben eine Riesendatenbank mit allen Schwachstellen, die im Internet bekannt sind.
-Für jeden Computer ist da etwas dabei.
+Und die haben eine Riesendatenbank mit Unmengen an Schwachstellen, viele davon sind im Internet noch gar nicht bekannt.
+Sie haben jeden Computer, für jedes Netzwerk etwas.
 Auch für deinen.
 Wenn die dich aufs Korn nehmen, dann kriegen sie dich auch.
 Vielleicht sind sie nicht immer mit vollem Herzen bei der Sache, aber die Werkzeuge, die sie haben, sind verheerend.“
@@ -44,15 +45,16 @@ DU hast mir immer erklärt, dass das genau das ist, was sie erreichen wollen.
 Sie plustern sich auf, wollen unbesiegbar erscheinen, damit du deinen Schwanz einziehst.
 Klein.
 Eingeschüchtert.
-Nochmal: Ich war die ganze Zeit über in Tails, meine Quelle habe ich nur in Tails getroffen, der Computer war nagelneu: Wo ist das Risiko?“
+Nochmal: Ich war die ganze Zeit über in Tails, ich habe mehrmals meine Identität gewechselt, meine Quelle habe ich nur in Tails getroffen, der Computer war nagelneu: Wo ist das Risiko?“
 
 Marwin stöhnte leicht.
 „Vielleicht ist ja noch nicht viel passiert. Aber wenn du versuchen würdest, dich in den Computer einzuloggen, von dem du mir die Adresse geschickt hast, dann setzen die die Hölle in Bewegung.
-Dann suchen die überall, in ganzes Team. Sie würden Fallen stellen, Dinge tun, die enormen Aufwand bedeuten: zum Beispiel den Verkehr des Tor-Netzwerks weltweit auf einmal zu analysieren.
+Dann suchen die überall, ein ganzes Team.
+Sie würden Fallen stellen, Dinge tun, die enormen Aufwand bedeuten: zum Beispiel den Verkehr des Tor-Netzwerks weltweit auf einmal zu analysieren.
 Da brauchen sie kurzfristig ein paar Rechenzentren.
 Aber das machen sie.
 Und da können sie bei einzelnen Leuten auf im Tornetz herausfinden, wer sie sind.
-Auch dich … Vielleicht verhaften sie abber auch einfach auf gut Glück ein paar Hacker, die ihnen verdächtig …“
+Auch dich … Vielleicht verhaften sie aber auch einfach auf gut Glück ein paar Hacker, die ihnen verdächtig …“
 
 „Ich war drin …“, unterbrach Marlene.
 „Aber nur ganz kurz.
@@ -76,18 +78,18 @@ Er griff nach dem Stick, aber Marlene zog ihre Hand weg.
 Er vergrub seinen Kopf unter seinen Händen.
 
 Marlene: „Komm.
-Du warst letztes Jahr zig-mal auf Computern beim BND.
+Du warst letztes Jahr zig-mal auf BND-Computern unterwegs, Überwachungskamera-Datenbank, weißt du noch?
 Und der deutsche Geheimdienst ist auch nicht so schlecht.
 Und da war ich die ganze Zeit dabei.
 Ich hab da gut aufgepasst.
 Du weißt, was ich kann.
 Ich habe aufgepasst.“
 
-Marwin fasst sich an den Bauch.
-Marlene schaute ihn verwundert an: „Ist das so ernst?“
+Marwin fasste sich an den Bauch.
+Marlene schaute ihn verwundert an: „Ist das wirklich so ernst?“
 
 Marwin nickte und schaute sie dann ein wenig schüchtern an: „Ich muss in die c-base.
-Für so zwei Stunden.
+So für zwei Stunden.
 Danach müssen wir noch einmal sprechen.
 Wo bist du dann?“
 
