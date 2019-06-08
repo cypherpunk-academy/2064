@@ -62,9 +62,21 @@ Marlene Farras, for real! For real! I can't believe it.
 This is her personal address.
 Look here, her personal PGP code."
 
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+PGP codes could be used to identify people in the internet and send encrypted messages to them.
+No secret service can break them, till today.
+PGP was published by Phil Zimmermann in 1991, and led to a 10 years war in the internet between the NSA and the American government and the Cypherpunks over the right to share it freely.
+In the year 2000 the American government gave in and allowed free publication.
+</div>
+
 Lilly had jumped from the table and danced around the room.
 Lasse and Sigur looked at each other.
 
 Lasse shook his head: "Marlene Farras? Is she still alive?"
 
-Sigur: "If she can drink cocoa, maybe..."
+Sigur: "If she can drink cocoa, I guess..."
+
+Lilly: "I must tell this to mum! Guys, I'm off ..."
+She ran out of the room.
+
+Sigur shook his head and layed it on the table.

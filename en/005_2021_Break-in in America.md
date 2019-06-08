@@ -3,19 +3,19 @@
 
 <span style="font-variant:small-caps;">Marlene pulled a scribbled note</span> out of her pocket.
 On it was everything, she needed now.
-The last piece of a large mosaic of steps had just been added yesterday, at the bottom left.
+She had been researching the whole week, using her full knowledge, and just yesterday she got the last missing piece.
 Two words.
 "karlibender" and "LV7jolgS7brT5M", name and password, and she knew where they fit.
-The way to thois place was a little trip around the world, but it wouldn't take long.
+The way to this place was a trip around the world, but it wouldn't take long.
 She began the journey by logging on to a Berlin university computer with an account that no one had used for a long time.
-From there she went on to New York, a side trip to Brazil and then to New Jersey to Princeton University.
+From there she went on to a computer in New York, a side trip to another computer in Brazil and then to one in New Jersey at Princeton University.
 There Karl Bender and other scientists worked on a project that also involved American secret services.
 It was about satellites, espionage satellites, of course, top secret.
-Everything, even the project name, was secret.
+Everything, even the project name was secret.
 But Marlene knew about it.
 
 Karl Bender had a girlfriend, Corinne, and she had been Marlene's best anonymous friend for years.
-That is, they had never actually met and had had no contact with each other that anyone could know about.
+An anonymous friend means, that they never had actually met and had had no contact with each other that anyone could know about.
 They had met protected in the Tor network, in a chat room, and both had over the years taken great care that they always met anonymously, always protected by Tor masks.
 <div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
 The <em>Tor network</em> was an Internet project that made it possible to surf the Internet completely anonymously, or to chat or to send files.
@@ -23,27 +23,25 @@ It was based on thousands of Tor Internet computers operated by volunteers.
 Each time someone entered the Tor network, three of those computers were randomly selected.
 All websites, files and chats were then sent through the Internet via the three selected computers in such a way that it was impossible to follow the path.
 Almost impossible.
-In individual cases, large secret services were able to trace individual paths with a great deal of effort.
-Therefore one could replace the three computers with three new ones at any time with a short click.
+But in individual cases, large secret services were able to trace individual paths with a great deal of effort.
+Therefore you could replace the three computers with three new ones at any time with a short click.
 </div>
-Marlene and Corinne told each other about themselves, more and more very personal things, and also about useful and funny backdoors on the Internet.
+Marlene and Corinne shared their experience in life, in school, with friends and family, and also about useful and funny backdoors on the Internet.
 
-Later they would try the backdoors.
-Those included great things.
+And sometimes they tried out the backdoors.
 For example, mail server access points that spammers hadn't found yet.
 Through them you could send e-mails completely anonymously because you didn't have to register to use them.
-And so, over time, both began to trust each other more and more and began to tell each other everything about each other.
+And so, over time, both began to trust each other more and more and began to tell each other everything about their lifes.
 It was just exciting to have such an anonymous relationship.
 Over the years they got to know each other very, very well.
 
 Corinne had told Marlene that an NSA intelligence man had visited Karl to prepare the launch of a whole new satellite.
 The NSA was a secret service of the American Army, it was the largest secret service of all.
 And during this visit almost everything went wrong.
-She wasn't supposed to know anything about it, but Karl came home once in the middle of the night so worked through, joyful and confused that she had really interrogated him.
-She wanted to know what had been going on.
-With this satellite launch, nothing had worked right away, and they would have had to stop the start by a hair's breadth.
-But together they just managed to finish a program that had to run on the satellite, literally at the last minute.
-Probably in the hustle and bustle, the NSA man had deposited the secret key for his own computer home at the NSA on Karl's computer.
+She wasn't supposed to know anything about it, but Karl came home once in the middle of the night, so worked through, joyful and confused that she really had to know, what was going on.
+With this satellite launch, nothing worked as planned, and they almost had to stop the launch.
+But together they managed to fix a program, literally at the last minute, that was needed for the satellite to work.
+Probably in this hustle and bustle, the NSA man had copied the secret key for his own computer at the NSA on Karl's computer.
 And then he forgot it there.
 A secret service key!
 Karl supposed to have deleted it immediately, but he hadn't done it.
@@ -54,15 +52,16 @@ Her brother Marwin was a well-known Cypherpunk.
 <div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
 Cypherpunks were hackers who had started writing encryption programs in the 1990s and passed them on free of charge to all people who wanted them.
 They were the best programs there were.
-No secret service in the world had a better ones.
+No secret service in the world had better ones.
 Secret services saw them as the greatest threat to their work because they couldn't crack them.
 But being Cypherpunk meant not only writing encryption programs but all sorts of things that helped protect the freedom of individuals.
 It was a philosophy of freedom associated with the programming of computers, and initiatives such as WikiLeaks, Hackerspaces, and CryptoParties were later rooted in this philosophy.
 </div>
-Marlene had often sat next to Marwin for nights when he was sitting in his radio-secured basement and traveling around the world, and she had learned a lot in the process.
-Marwin also often took time to explain things to her, show her past hacks or teach her a programming language.
+Marlene had often sat next to Marwin for nights when he was sitting in his radio-secured basement and traveling around the world with his computer.
+And she had learned a lot by this, programming, hacking and especially about internet freedom.
+Marwin also often took time to explain things to her, show her past hacks or teach her a new programming language.
 She could always come to him with anything, he had said, anytime.
-And she had also thought of asking Marwin for help on that matter.
+And she had also thought of asking Marwin for help on that matter with Corinne.
 That would make a lot of things easier, but then she decided not to.
 Anonymous relationships are anonymous relationships, period.
 This key was for her, for her alone.
@@ -78,7 +77,8 @@ karlibender@trt.princeton.edu: ~$
 </div>
 appeared on the screen.
 
-"YES," she shouted out loud, shocked by her own loud voice, and immediately looked across the town hall square.
+"YES!" she shouted out loud.
+She was shocked by her own voice, and immediately looked across the town hall square.
 Nobody seemed to have noticed her.
 She was inside!
 Just like that.
@@ -92,13 +92,15 @@ She quickly looked to see if there was anything from the day of the satellite la
 Then she terminated the connection with Karl's computer, she didn't want to stay in it too long.
 She clicked on "Change identity" to get a new disguise from Tails.
 And a third of a second later she was someone completely different on the Internet.
-Nothing reminded her of the disguise she was wearing in Karl's computer.
-She breathed deeply.
+Nothing reminded of the disguise she was wearing in Karl's computer.
+She took a deep breath.
 Now she could look through the files she had captured.
 
-She had quickly discovered the NSA man's key.
+She quickly discovered the NSA man's key.
 It was lying quite open with the other keys.
-But where did it fit? Which computers outside the university had Karl, and the NSA man accessed that day? That was the question.
+But where did it fit?
+Which computers outside the university had Karl, and the NSA man accessed that day?
+That was the question.
 And after some browsing she had found traces of seven computers, four of which led to other universities.
 So there were three left.
 Her addresses were:
@@ -116,14 +118,13 @@ Every computer on the Internet had such an address, which is needed to access it
 In most cases, they also had readable names, such as www.torproject.org or www.google.com.
 </div>
 But not these ones.
-And she couldn't track where the data she sent to these addresses went either.
-On the way there they disappeared in a dark Internet cloud.
-Marlene had no idea where the computers with these addresses were, what kind of machines they were.
+She sent some data to these addresses, but she couldn't track where the data was going.
+On the way they disappeared in a dark Internet cloud.
+Marlene had no idea where the computers with these addresses were and what kind of machines they were.
 She thought about it for a moment and then opened a chat program.
 Her brother was online, and she typed the three addresses with three question marks behind them.
 Nothing else.
-After a few seconds, her brother disappeared.
-Without answering.
+After a few seconds, her brother disappeared, without answering.
 
 "Hmm," she thought.
 "If you ever need him... All right.
@@ -146,10 +147,10 @@ Marlene: "Okay."
 
 Marwin: "YOU CAN'T JUST SEND SUCH ADDRESSES WITHOUT KNOWING WHAT COMPUTER I'M SITTING AT!"
 
-"How do I know which computer my brother is sitting at right now?!" Marlene thought.
-"That's bullshit."
+"How do I know which computer my brother is sitting at right now?! That's bullshit."
+Marlene thought.
 Marwin was always in Tails with a mask, without exception.
-She had always been able to write to him without thinking about where to go.
+She had always been able to write to him without thinking about where he was.
 She did not understand.
 
 Marwin: "WHEREFROM DO YOU HAVE THE ADDRESSES?
@@ -159,12 +160,12 @@ Marwin: "NO.
 I CAN'T.
 WE NEED TO TALK, QUICKLY, WHERE ARE YOU?"
 
-Now she finally felt like a little girl.
-And this with her brother, with whom she would have expected this the least of all.
+Now she completely felt like a little girl.
+And this with her brother, who always spoke about letting other free.
 
 Marwin: "SAY IT!!!"
 
-"NOWWHERE!!!!!!!!!!", she typed angrily into the chat window and close it.
+"NOWWHERE!!!!!!!!!!", she typed angrily into the chat window and closed it.
 Then she closed the laptop and looked across the square.
 
 "<em>The</em> address," she thought.
@@ -185,7 +186,7 @@ She took a deep breath.
 ssh randw@23.66.234.12
 </div>
 Her heart pounded.
-ssh, only three letters, but a key to unlock other worlds.
+s s h, only three letters, but a key to unlock other worlds.
 You could use it to jump from one computer to the next.
 And now she was about to jump into an NSA computer.
 "randw" was apparently the name of the NSA man, at least he was in the log files.
@@ -225,7 +226,7 @@ She embraced it in her hand and leaned back.
 
 "Hello Marli," said a voice from behind, and a young man sat down next to her.
 
-"OSKAR," Marlene looked at him in amazement, then away and at him again.
+"OSKAR..." Marlene looked at him in amazement, then away and at him again.
 "What are you doing here?"
 
 Oskar was a good friend of her and her brother.
