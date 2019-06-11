@@ -37,3 +37,4 @@ progit
 .vscode
 texts
 *.txt
+node_modules

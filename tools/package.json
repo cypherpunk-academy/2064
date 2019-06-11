@@ -1,0 +1,14 @@
+{
+  "name": "2064.tools",
+  "version": "1.0.0",
+  "description": "Tools for 2064",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
