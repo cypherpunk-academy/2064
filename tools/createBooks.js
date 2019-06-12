@@ -78,15 +78,17 @@ const writeFile = async (fileName, fileData) => {
             console.log(i++, data.fileName);
             return `${acc}\n{{{${data.fileName}}}}\n${data.fileData}`;
         }, '');
-        const cmd = `pandoc -o ../public/${bookName}.epub _title.md ${chapters.map(chapter => `"${chapter}"`).join(' ')}`;
 
-        let ret;
+        const cmds = ['epub', 'pdf'].map(format => `pandoc -o ../public/${bookName}.${format} _title.md ${chapters.map(chapter => `"${chapter}"`).join(' ')}`);
+
         try {
-            ret = execSync(cmd, {
-                cwd: language
-            });
+            for (cmd of cmds) {
+                execSync(cmd, {
+                    cwd: language
+                });    
+            }
         } catch (err) {
-            console.error(err);
+            consosle.error(err);
             process.exit(1);
         }
 

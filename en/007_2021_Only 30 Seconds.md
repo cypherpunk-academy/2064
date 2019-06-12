@@ -102,5 +102,12 @@ Marlene: "I will be here. I'll read something."
 Marwin: "Okay. I'll pick you up here and then we'll go home."
 
 Marwin got up and left the restaurant.
-Marlene pulled out a paperback from her laptop bag and began to read.
-A play about Hilde von Papenburg, a freedom fighter during the First World War.
+Marlene closed her eyes.
+She thought back what had happened in the past hour.
+She tried to remember all the details.
+Sometimes she trembled a little.
+Then, she suddenly came across the story again, which occasionally, always unexpectedly, came to her.
+It was in clear colors and with seemingly real people.
+It played over 100 years ago, also in Berlin.
+She liked the story.
+She felt almost at home there.

@@ -9,7 +9,7 @@ Lilly sat cross-legged on the other side of the table, facing toward them, still
 "That went too fast.
 That was a computer program, wasn't it?"
 
-Lilly: "Sure! xxx I was writing on it all night.
+Lilly: "Sure! I was writing on it the whole evening yesterday.
 This morning I only entered one command and ..."
 
 Sigur: "But how did that work? I had it all sealed up.
@@ -80,7 +80,7 @@ Lilly crossed her arms and made a serious face: "Nope.
 I'm serious. Masses, mountains... I'm telling you.
 I have..." She stopped.
 
-Lasse made a calming hand move: "Lilly, xxx be real."
+Lasse made a calming hand move: "Lilly! Be real!"
 
 "You have...?" Sigur asked.
 "You have ... what?"

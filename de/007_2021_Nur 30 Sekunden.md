@@ -106,5 +106,12 @@ Marwin: „Okay.
 Ich hole dich hier ab und dann gehen wir nach Hause.“
 
 Marwin stand auf und verließ das Restaurant.
-Marlene zog ein Taschenbuch aus ihrer Laptop-Tasche und begann zu lesen.
-Ein Theaterstück über Hilde von Papenburg, eine Freiheitskämpferin zur Zeit des ersten Weltkriegs.
+Marlene schloss die Augen.
+Sie dachte zurück, was in der vergangen nicht einmal einen Stunde passiert war.
+Sie versuchte sich an alle Details zu erinnern.
+Manchmal zitterte sie leicht.
+Dann stieß sie im Nachdenken plötzlich wieder auf die Geschichte, die ihr manchmal, immer unerwartet, kam.
+Es war deutliche Farben und echt scheinende Personen.
+Sie spielte vor über 100 Jahren, auch in Berlin.
+Marlene mochte die Geschichte.
+Sie fühlte sich dort fast zu Hause.

@@ -8,12 +8,12 @@ And you could really see in the houses who worked and lived in them.
 He smiled.
 
 Alfred was already waiting at the donkey enclosure and nodded to him comfortably with his long snout.
-Lasse pulled a thick carrot out of his pocket and xxx stretched it out towards him.
+Lasse pulled a thick carrot out of his pocket and stretched it out towards him.
 The donkey grabbed it carefully from his hand and turned around with it.
 
 There was no bridge to the gaming lab island.
 To get in, you had to jump over the creek and Lasse chose a place where he just could make it.
-In front of the house, he briefly looked at the lock of the door, and it xxx jumped open with a quiet click.
+In front of the house, he briefly looked at the lock of the door, and it jumped open with a quiet click.
 
 It was nine o'clock, half an hour before the start of the third matchday.
 He loved the TRON Weeks, a huge computer game tournament in which thousands of players from many countries played together and against each other for world domination in a virtual computer world.
@@ -30,14 +30,14 @@ Lasse had wanted to play Julian Assange himself, but probably too many others wa
 And so he got the role of a lesser known hacker, with the mission to take over satellites, flying combat robots, and other weapons in a war zone.
 For this role he had to know a lot about computer systems, the political situation at that time and how people thought and felt.
 
-yyy At that time there was war on the Internet and in many parts of the world.
+At that time there was war on the Internet and in many parts of the world.
 The world was full of terrible fights between countries and companies, in governments, everywhere. Even in schools and families there were many conflicts.
 It was a completely different world.
 The students had to think their way into this.
 
 Lasse entered the game room where Sigur was already sitting spellbound in front of his computer, typing from time to time.
-Lasse: "Hej, xxx moin, moin!"
-As he passed by, he patted him on the shoulder and xxx dropped into his chair on the opposite side of the desk.
+Lasse: "Hej, moin, moin!"
+As he passed by, he patted him on the shoulder and dropped into his chair on the opposite side of the desk.
 
 Sigur was his wingman at the game, his partner in the current mission.
 He was his friend too, though not the best.
