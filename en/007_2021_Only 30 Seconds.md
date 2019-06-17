@@ -106,8 +106,6 @@ Marlene closed her eyes.
 She thought back what had happened in the past hour.
 She tried to remember all the details.
 Sometimes she trembled a little.
-Then, she suddenly came across the story again, which occasionally, always unexpectedly, came to her.
-It was in clear colors and with seemingly real people.
-It played over 100 years ago, also in Berlin.
-She liked the story.
-She felt almost at home there.
+She leaned back and thought of a book she had read some time ago.
+It also played in Berlin about 100 years ago and was about a freedom fighter who lost her life in the end.
+Some scenes were as present to her as if she had been there herself.

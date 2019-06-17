@@ -110,8 +110,6 @@ Marlene schloss die Augen.
 Sie dachte zurück, was in der vergangen nicht einmal einen Stunde passiert war.
 Sie versuchte sich an alle Details zu erinnern.
 Manchmal zitterte sie leicht.
-Dann stieß sie im Nachdenken plötzlich wieder auf die Geschichte, die ihr manchmal, immer unerwartet, kam.
-Es war deutliche Farben und echt scheinende Personen.
-Sie spielte vor über 100 Jahren, auch in Berlin.
-Marlene mochte die Geschichte.
-Sie fühlte sich dort fast zu Hause.
+Sie lehnte sich zurück und dachte an ein Buch, das sie vor einiger Zeit gelesen hatte.
+Es spielte vor etwa 100 Jahren auch in Berlin und handelte von einer Freiheitskämpferin, die am Ende ihr Leben verlor.
+Einige Szenen waren ihr so präsent als wäre sie selbst dabei gewesen.
