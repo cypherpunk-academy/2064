@@ -1,11 +1,11 @@
 
 ## **2021**** Betrayal
 
-<span style="font-variant:small-caps;">Marlene sat in the shade</span> leaning against a wall in front of Wedding City Hall.
+<span style="font-variant:small-caps;">Marlene sat in the shadow</span> leaning against a wall in front of Wedding Town Hall.
 
 "Hi Cori," she typed into her chat program and stopped: "Shit, Cori doesn't have a mobile phone with her.
 I can't even reach her." She leaned back and thought.
-The chat program planned, Corinne was there.
+The chat program made a bing sound, Corinne was there.
 
 Corinne: "Hi, Mari.
 Good to read you.
@@ -19,9 +19,10 @@ Corinne: "Shit, I can't really tell what happened earlier.
 I don't know.
 Two FBI guys rang the bell early in the morning, Karli had just got up.
 They told Karli that something had happened in the institute, that they had some questions about it and that he should come along for two hours.
-They showed him a tab, and he came with us! Just like that.
+They showed him a tablet, and he went with them!
+Just like that.
 Everything was so friendly and quiet.
-He went with us.
+He went with them.
 And I just stood there and watched.
 Now I don't even know where he is.
 They didn't tell me where they were taking him.
@@ -29,20 +30,20 @@ I didn't ask anything."
 
 Marlene shivered down her back.
 
-After a while, she types: "Shit.
+After a while, she typed: "Shit.
 It's the same with me."
 
-Corinne: "How? Like this? You can't do that."
+Corinne: "The same? How? What do you mean?"
 
-Marlene: "They took Marwin with them."
+Marlene: "They took Marwin."
 
 Corinne: "Your brother?"
 
 Marlene: "They stopped with a police car next to us and asked him to follow.
 I just stood there.
 I didn't do anything, I didn't ask anything.
-You showed him something on a tablet, too.
-Then he got in.
+They showed him something on a tablet, too.
+Then he got into the car.
 It was so absurd."
 
 Corinne: "Wow... wow."
@@ -78,11 +79,11 @@ He said it was too dangerous because he was under constant surveillance.
 He was scared.
 Really scared.
 He didn't even dare take the NSA key off his computer.
-And now they just take him with them..."
+And now they just took him ..."
 
-Marlene: "Before this happened, my brother was very excited.
-That's totally unusual about him.
-I've never seen it like this before.
+Marlene: "Before this happened, my brother was very disturbed.
+That's totally unusual for him.
+I've never seen him like this before.
 I think that happened after I sent him three Internet addresses.
 I had found the addresses on Karlis's computer.
 I just sent them for him to check and maybe give me a clue.
@@ -114,5 +115,6 @@ I'll be in touch."
 Corinne was offline, and Marlene looked at the chat window for a long time without really thinking about anything.
 After a while, she said quietly:
 
-"Shit, shit, shit, shit." She put her hands in her face and started crying.
+"Shit, shit, shit, shit."
+She put her hands in her face and started crying.
 

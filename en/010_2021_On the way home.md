@@ -33,31 +33,42 @@ Marwin looked at him.
 The man gave him a tablet.
 He took it and looked at it.
 
-Anzugmann: "We need your help.
-With this." Marwin closed his eyes, took a deep breath, and turned around after a while. Then Marie looked at him, then at the suit man again.
+Suit man: "We need your help.
+With this."
+Marwin closed his eyes, took a deep breath, and turned around after a while.
+Then Marlene looked at him, then at the suit man again.
 
-Anzugmann: "Will you come with me?" He gave him a look of trust.
-One of the policemen stopped the back door.
-Marwin gave Marlene a quick look, told her it was all right, and got in.
+Suit man: "Will you come with me?"
+He gave him a look of trust.
+One of the policemen opened the back door.
+Marwin gave Marlene a quick look, that could mean that everything was all right, and got in.
 The doors slammed shut, and the police car drove away.
 
 As if rooted, Marlene stood on the spot for a while.
 "The number," it shot through her head.
-"What was the car number?" She had tried to remember them but was then distracted by Marwin's gaze.
-"B 4521 ... 2 or 3" She sat on the side of the road.
-"What was important now? What could she do? Why didn't he say anything?" She tried to think.
+"What was the car number?" She had tried to remember it but was then distracted by Marwin's gaze.
+"B 4521 ... 2 or 3"
+She sat on the side of the road.
+"What was important now?
+What could she do?
+Why didn't he say anything?"
+She tried to think.
 
-"Why did he get on the train? Shit. Where are they taking him?" She hadn't thought of the most crucial question.
+"Why did he get on the car? Shit.
+Where are they taking him?"
+She hadn't thought of the most crucial question.
 She could have just asked the cops.
-Must! No, she just stopped and looked.
+Must have! No, she just froze and looked.
 Like the snake in front of the rabbit.
-What was that about? What happened to Marwin? What had he read on the tablet?
+What was that about?
+What happened to Marwin?
+What had he read on the tablet?
 
 "Corinne!" she thought.
 "I need to talk to her.
 Maybe she's online.
-Wedding, City Hall." Marlene loved the town halls in Berlin because almost all of them had free radio Internet, i.e., the one where you could enter without a password, and your own address was not stored.
+I'll go to Wedding, Town Hall."
+Marlene loved the town halls in Berlin because almost all of them had anoymous Internet, that you could use without a password, and your own address was not stored.
 A so-called mesh network was an essential building block for getting free Internet at some point.
 And all town halls also had a place somewhere without video surveillance.
 She briefly wondered if she should get a new computer, but decided to go directly there.
-

@@ -41,3 +41,5 @@ Wer muss das noch wissen? Haben wir die Autokennzeichen?“
 
 Frederik: „Jupp.
 Schicke ich dir rüber …“
+
+Er nahm sein Sandwich und aß weiter.
