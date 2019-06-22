@@ -27,8 +27,7 @@ Heinz schluckte.
 Frederik: „Schluss damit!
 Du kapierst es nicht.
 Es geht nicht immer nur darum, herauszufinden, was läuft.
-Und hier ist das sogar nebensächlich.
-Es geht um mehr.
+Manchmal geht um mehr.
 Marlene Farras hängt in der Sache mit ihrem Herz drin.
 Das ist das Problem.
 Sie ist infiziert von ihrem Bruder.
@@ -39,7 +38,7 @@ Aber andererseits soll er dann auch nicht mehr wieder kommen.
 Und das heißt, es geht nicht nur darum, so viel herauszuschneiden, wie nötig ist.
 Sondern die ganze Umgebung so zu behandeln, dass da nichts mehr wächst.
 Nur dann haben wir eine Chance, dass das aufhört.
-Und das machen wir jetzt mit Marlene Farras.“
+Und genau das machen wir jetzt mit Marlene Farras.“
 
 Heinz: „Hey, Frederik, langsam.
 Das sind Menschen, kein Krebsgeschwür.“
@@ -82,7 +81,17 @@ Ich denke, die Amerikaner kümmern sich gut drum.
 Aber wirklich seltsam: Wie sind die beiden zusammen gekommen?“
 
 Heinz: „Bisher keine Spur davon.
-Wir könnten Marlene Farras fragen … Sollen wir sie nicht doch …“
+Ich habe sie nicht einmal in drei Hops zusammen.
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+<em>Hops</em> ist die Anzahl um wie viele Ecken ein Mensch mit einem anderen verbunden ist.
+Sie wird bei Geheimdiensten eingesetzt um jemanden als verdächtig einzustufen.
+Bei Facebook hat ein Nutzer durchschnittlich 338 Freunde.
+Zwei Hops würden bedeuten, dass mehr als 100000 Menschen verdächtig sein könnten.
+Bei drei Hops mehr als 35 Millionen.
+</div>
+
+Wir könnten allerdings Marlene Farras dirket fragen …
+Sollen wir sie nicht doch?“
 
 Frederik: „NEIN! Sie bleibt da, wo sie ist.
 Ich werde noch einmal die Tails-Aktivitäten im Internet durchsuchen lassen, auf Chat-Verbindungen zwischen New Jersey und Berlin.

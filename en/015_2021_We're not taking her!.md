@@ -84,11 +84,18 @@ I think the Americans are taking good care of it.
 But really strange: How did they get together?"
 
 Heinz: "So far no trace of it.
-I don't even have them in three hops.
+I don't even have them in three hops!
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+<em>Hops</em> is the number of degrees of sparation between two people.
+It is used by intelligence agencies to classify someone as suspicious.
+On Facebook, a user has an average of 338 friends.
+Two hops would mean that more than 100000 people could be suspicious.
+With three hops more than 35 million.
+</div>
 
-
-We could ask Marlene Farras ... Shall we not ask her ..."
+We could ask Marlene Farras ...
+Shall we not?"
 
 Frederik: "No! She stays where she is.
 I'll have the Tails activities on the Internet searched again for chat connections between New Jersey and Berlin.
-Maybe we'll find something."
+Maybe we'll find something this time."
