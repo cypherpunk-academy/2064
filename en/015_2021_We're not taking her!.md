@@ -1,83 +1,94 @@
-
 ## **2021**** We're not taking her!
 
 At the headquarters of the BND in Berlin.
 
-<span style="font-variant:small-caps;">"We won't get them.</span> Basta!" Frederik yelled at his colleague Heinz across his desk.
+<span style="font-variant:small-caps;">"No way!</span>
+We're not taking her. Basta,"
+Frederik yelled at his colleague Heinz across his desk.
 
-"Why? She met her brother right after the break-in.
+"Why not?
+Damn it!
+She met her brother right after the break-in.
 That's no coincidence.
-She must know something," Heinz replied, somewhat angry, but still calm.
+She must know something,"
+Heinz replied somewhat angrily.
 
-Frederik: "Maybe she knows something about it.
-Maybe she's just guessing.
-In any case, she does understand what her brother is doing.
-I saw her here last year at a hackathon.
-There she showed what she can do ...
-Still, we're not going to get them."
+Frederik: "Maybe, maybe she knows something about it.
+Maybe she only suspects something.
+In any case she does understand what her brother is doing.
+I saw her last year here at a hackathon.
+There she showed what she can do ... Crazy stuff.
+Nevertheless, I say: "We won't take her"!
 He looked at Heinz seriously.
-"I'm serious about this.
-This is an official order."
+"I mean it that way.
+That's an official order."
 
 Heinz swallowed.
-"We should leave no stone unturned if we want to find out what they were up to with the TAO servers..."
+"We should leave no stone unturned if we want to find out what they intended to do with the TAO servers..."
 
-Frederik: "Stop it! You don't get it.
+Frederik: "Stop it!
+You don't get it.
 It's not always about finding out what's going on.
-That's even irrelevant right here.
-It's about more than that.
-Marlene Farras is hanging in there with her heart.
-She's infected by her brother.
-And that's what this is about: An infection, a tumor.
-And you have to treat it before it grows any bigger.
-On the one hand, of course, he has to get out.
-But on the other hand, he shouldn't come back.
-And that means it's not just about cutting out as much as you need.
+Sometimes it's about more.
+This matter is close to Marlene Farras' heart.
+That's the problem.
+She is infected by her brother.
+It's about an infection, a tumor.
+And you have to treat it before it continues to grow.
+On the one hand, of course, it has to go out.
+But on the other hand it should not come back.
+And that means it's not just about cutting out as much as is necessary.
 But to treat the whole environment in such a way that nothing grows there anymore.
-Only then will we have a chance to stop this.
-And we can use Marlene Farras for that."
+Only then will we have a realistic chance that it will cease to exist.
+And that's exactly what we're doing now with Marlene Farras."
 
 Heinz: "Hey, Frederik, slow down.
-They're human, not cancer."
+You are speaking about people, not cancer."
 
-Frederik: "Yes, it's just a picture.
-I don't mean that so hard.
-You know me. You know me.
-But what good would it do if the Farras continued where their brother left off?
-She's got the talent for it.
-Also, the talent to remain anonymous.
-I've been looking for her on the Tor network before, with the help of some NSA guys.
-We had quite a few computers in use at the time to find their tracks, a few thousand, just for them.
+Frederik: "Yes, yes, I know.
+It's just an image.
+You know me.
+But what would we have if Marlene Farras continued where her brother left off?
+She has the talent for it.
+Also talent to remain anonymous.
+I've searched the Tor network for her before, with the help of a few guys from the NSA.
+We had quite a few computers in use at the time to find her tracks, a few ten thousand, just for her.
 But we didn't find anything.
-Nothing. Nothing.
-She does it very skilfully.
+Nothing.
+Nil.
+She is clever.
 
-But now we have her in the corner! Her brother's gone, she's looking for him.
-There is not much missing, just a few horrible news, a few actions in her environment and she leaves the hacking for all time.
-And everyone around her will see that they'll think she's paranoid or schizophrenic and eventually she really will be.
-And only we can have real peace.
-Your whole environment must think you have to be crazy to mess with us.
-That's worth more than another hacker in prison who might be making new plans there.
-Or worse, like Edward Snowden or Julian Assange ... "Better a man goes through a difficult time than everything gets on fire."
+But now, now we have her trapped!
+Her brother is gone, she misses him, she's looking for him, she won't find him.
+There is not much more needed, some really bad news, some things happening around her and she withdrwas from hacking for all times.
+And everyone around her will see that, they will think she is paranoid or schizophrenic and eventually she really will be.
+And only then we are where we want to be.
+Her whole environment has to think or feel or believe that you have to be crazy to mess with us.
+That's way better as another hacker in prison who might immediately be making new plans there.
+Or worse, like Edward Snowden or Julian Assange with his WikiLeaks ...
+Better someone has a difficult time than everything is catching fire."
 
-Heinz: "Come on, over here."
+Heinz: "Huh! Look at that."
 He pointed to his screen.
-"Look, the guys from NSA.
-You wouldn't believe it.
+"Hm, the guys from the NSA.
+You don't believe it.
 Marlene Farras just had chat contact ... with the girlfriend of ... Karl.
 Karl, you know, the satellite man from Virginia.
-Hot stuff."
+That's something."
 
 Frederik nodded: "Wow.
-How'd you do that? Then we also have to put Karl's girlfriend on the list.
+How did that work?
+So Karl's girlfriend is now on our list too, huh?
 Or maybe not.
 I think the Americans are taking good care of it.
-But really strange, how did they get together?"
+But really strange: How did they get together?"
 
 Heinz: "So far no trace of it.
-We could ask Marlene Farras... Shouldn't we ask her..."
+I don't even have them in three hops.
+
+
+We could ask Marlene Farras ... Shall we not ask her ..."
 
 Frederik: "No! She stays where she is.
-I will once again search the Tails activities on the Internet for chat connections between New Jersey and Berlin.
+I'll have the Tails activities on the Internet searched again for chat connections between New Jersey and Berlin.
 Maybe we'll find something."
-
