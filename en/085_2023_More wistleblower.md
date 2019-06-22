@@ -48,9 +48,6 @@ www.nsl-and-gag-orders.com
 
 There everyone can see which instructions we currently get from the government. NSL means National Security Letter. It contains the actual instructions, for example, how to install a vulnerability. GAG orders are instructions for secrecy. They threaten the disclosure of NSLs with imprisonment. We do it anyway because we are convinced that we must do it now.
 
-
-Translated with www.DeepL.com/Translator
-
 We hope for your support.
 </div>
 In the meantime, Anni, Sophie, and Oskar had come to the computer of Lukas and had read along.
