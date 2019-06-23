@@ -167,7 +167,7 @@ Und dann können sie sagen, der Computer, über den gerade auf den NSA-Rechner z
 Marlene: „Ja, ich weiß.
 Deswegen hat man ja manchmal nur 15-20 Minuten.“
 
-Corinne: „Hast du Logs von dem Besuch?“
+Corinne: „Du hast Logs von dem Besuch?“
 
 Marlene erschrak.
 Warum wollte Corinne jetzt etwas über die Logs wissen?
