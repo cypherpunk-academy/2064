@@ -1,9 +1,11 @@
 ## **2021** Eine Freundin?
 
-<span style="font-variant:small-caps;">Marlene überlegte,</span> was sie Corinne schreiben sollte, was sie schreiben konnte.
+<span style="font-variant:small-caps;">Marlene überlegte kurz,</span> was sie Corinne schreiben sollte, was sie schreiben konnte.
 War die Verbindung sicher? Von ihrer Seite aus, sehr wahrscheinlich, obwohl der Geheimdienst sicher buchstäblich draußen im Kabelverteiler saß.
-Mindestens für zehn, fünfzehn Minuten war sie sicher.
-Aber bei Corinne? Wie sicher war es bei ihr? Wusste sie, auf was sie schauen musste?
+Mindestens für fünfzehn, zwanzig Minuten war sie sicher.
+Aber bei Corinne?
+Wie sicher war es bei ihr?
+Wusste sie, auf was sie schauen musste, wenn sie unter aktiver Überwachung stand?
 
 Corinne schrieb: „Hej Mari, ich war die letzten drei Tage abgetaucht.
 Entschuldige.
@@ -23,7 +25,7 @@ Ich war bei ihm an der Uni und die sagen dort, dass er auf Geschäftsreise in Eu
 Eine sehr dringende, geheime Mission.
 Das hätte mit seinem Projekt zu tun.“
 
-Marlene: „Was?!“
+Marlene: „Shit.“
 
 Corinne: „Ein absoluter Humbug.
 Er hätte mir etwas gesagt.
@@ -34,8 +36,10 @@ Ich weiß nicht wie sie darauf kommen.
 Es ist echt schlecht hier.
 Niemand glaubt mir.“
 
-Marlene: „Shit.
-Wie können die Geheimdienst-Leute das machen? Wie können die alle dazu bringen, ihre Geschichte zu glauben und nicht deine? Kennst du dort wirklich niemanden gut genug, dass du ihn fragen kannst, was wirklich vor sich geht?“
+Marlene: Wow.
+Wie können die Geheimdienst-Leute das machen?
+Wie können die alle dazu bringen, ihre Geschichte zu glauben und nicht deine?
+Kennst du dort wirklich niemanden gut genug, dass du ihn fragen kannst, was wirklich vor sich geht?“
 
 Corinne: „Ich dachte, ich hätte ein oder zwei Freunde.
 Aber es glauben wirklich alle die Geschichte von Karli auf Europareise.
@@ -54,9 +58,10 @@ Du brauchst eine Armee von Lügen, um sie zu schützen …“
 
 „JAH!“, schrieb Marlene.
 
-Corinne: „Was ist mit deinem Bruder? Und mit deinen Eltern?“
+Corinne: „Was ist mit deinem Bruder?
+Und mit deinen Eltern?“
 
-Marlene: „Genau wie bei dir.
+Marlene: „Hm. Genau wie bei dir.
 Keiner glaubt mir.
 Es kam eine E-Mail.
 Sie glauben, dass er um die Welt reist, um sein Leben zu überdenken, um sich selbst zu finden oder einfach nur um Spaß zu haben.
@@ -74,10 +79,13 @@ Zusammen.“
 
 Marlene: „;-)“
 
-Corinne: „Was ist eigentlich mit den Daten von Karlis Computer? Hast du damit etwas anfangen können? Hast du den NSA-Schlüssel gefunden?“
+Corinne: „Was ist eigentlich mit den Daten von Karlis Computer?
+Hast du damit etwas anfangen können?
+Hast du den NSA-Schlüssel gefunden?“
 
 Marlene lehnte sich zurück und atmete durch.
-Was war das jetzt? Sie hatte den USB-Stick mit den NSA Daten die ganze Zeit über nicht angefasst.
+Was war das jetzt?
+Sie hatte den USB-Stick mit den NSA Daten die ganze Zeit über nicht angefasst.
 Sie wusste nicht, was sie hatte oder nicht hatte.
 Es war für sie jetzt einfach nicht wichtig.
 Ihr Bruder war weg, ihre Eltern verdreht, der deutsche Geheimdienst hinter ihr her.
@@ -85,7 +93,8 @@ Vielleicht auch ein amerikanischer.
 Sie hatte andere Probleme.
 Ja, der USB-Stick.
 Sie griff in ihre Hosentasche und umfasste ihn.
-Was konnte sie jetzt zu Corinne sagen? Lügen ist keine Option.
+Was konnte sie jetzt zu Corinne sagen?
+Lügen ist keine Option.
 Nie.
 Lügen, das macht die andere Seite.
 Es war, als würde Marwin neben ihr stehen und ihr das ins Ohr flüstern.
@@ -93,11 +102,14 @@ Es war, als würde Marwin neben ihr stehen und ihr das ins Ohr flüstern.
 Corinne: „Es war schon ein bisschen aus heiterem Himmel.
 Plötzlich werden sie so wild.
 Schicken falsche Polizeiautos los und was sonst noch alles.
-Es muss doch etwas passiert sein, was das ausgelöst hat? Du hast etwas gemacht? Oder nicht?“
+Es muss doch etwas passiert sein, was das ausgelöst hat?
+Du hast etwas gemacht?
+Oder nicht?“
 
 Marlene legte ihr Gesicht in ihre Hände und dachte intensiv nach.
 
-Corinne: „Vielleicht geht es für Karl und Marwin jetzt um ihr Leben.
+Corinne: „Vielleicht geht es für Karl jetzt um sein Leben.
+Und für Marwin auch.
 Deswegen will ich jetzt wirklich wissen, was Sache ist.
 Was hast du an diesem Tag gemacht, als die beiden geholt wurden?“
 
@@ -110,13 +122,13 @@ Corinne: „Und was hast du dann gemacht?“
 
 Marlenes Herz fing an zu klopfen.
 Gedanken sausten durch ihren Kopf.
-„War das Corinne? War sie es wirklich? Sie schrieb anders als sonst.
+„War das Corinne? Sie schrieb anders als sonst.
 Es fühlte sich nicht an wie Corinne.
 Gut, sie war auch in einer anderen Lage als sonst.
-Was konnten sie wissen bei der NSA? Von meinem Ausflug auf den NSA-Computer wussten sie sicherlich.
+Was konnten sie wissen bei der NSA?
+Von meinem Ausflug auf den NSA-Computer wussten sie sicherlich.
 Es waren nur 30 Sekunden, aber das reicht.
-Vielleicht wussten sie nicht, dass ich es gewesen bin.
-Ja, klar.
+Sie wissen nicht, dass ich es gewesen bin.
 Sonst wäre ich nicht mehr hier und frei.
 Vielleicht habe ich die Spuren auf Karls Rechner gut genug verwischt.
 Der NSA-Schlüssel war nicht mehr auf dem Computer.
@@ -124,7 +136,9 @@ Vielleicht wussten sie nicht einmal von dem Schlüssel.
 Es gibt nur die Kopie davon auf meinem Stick.
 Vielleicht hat Corinne ihnen davon erzählt.
 Shit.
-Was jetzt tun? Was würde Marwin tun? Nicht aufgeben, nicht zurückziehen.
+Was jetzt tun?
+Was würde Marwin tun?
+Nicht aufgeben, nicht zurückziehen.
 Bei Geheimdiensten würden so viele Schnarchnasen und Langweiler arbeiten.
 Ihre tatsächlichen Fähigkeiten würden weit überschätzt.
 Andererseits hatte er gerade an dem Tag auch furchtbar viel Angst vor ihnen gehabt.
@@ -151,12 +165,13 @@ Sie durchsuchen dafür für ein bestimmtes Ereignis fast das ganze Internet – 
 Und dann können sie sagen, der Computer, über den gerade auf den NSA-Rechner zugegriffen wurde, der steht in Berlin.“
 
 Marlene: „Ja, ich weiß.
-Deswegen hat man ja manchmal nur 10-15 Minuten.“
+Deswegen hat man ja manchmal nur 15-20 Minuten.“
 
 Corinne: „Hast du Logs von dem Besuch?“
 
 Marlene erschrak.
-Warum wollte Corinne jetzt etwas über die Logs wissen? Das war nicht ihre Art und nicht ihre Sprache.
+Warum wollte Corinne jetzt etwas über die Logs wissen?
+Das war nicht ihre Art und nicht ihre Sprache.
 
 Marlene: „Ich fühle mich nicht danach, jetzt darüber zu reden.
 Ich habe die letzten Tage nicht an die Daten gedacht und habe es in der nächsten Zeit auch nicht vor.“

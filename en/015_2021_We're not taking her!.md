@@ -1,4 +1,4 @@
-## **2021**** We're not taking her!
+## **2021** We're not taking her!
 
 At the headquarters of the BND in Berlin.
 
