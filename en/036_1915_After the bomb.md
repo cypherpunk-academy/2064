@@ -1,7 +1,7 @@
 
 ## **1915**** After the bomb
 
-### SCENE 5: Brandenburg Gate, after a bomb explosion
+### Brandenburg Gate, after a bomb explosion
 ____
 Thick smoke over the square, bleeding human bodies lying around, boulders, wooden parts.
 People are wandering across the square.

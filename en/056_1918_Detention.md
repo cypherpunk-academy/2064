@@ -1,7 +1,7 @@
 
 ## **1918** Detention
 
-### SCENE 7
+### 
 ____
 Wilhelm in his apartment in a Berlin apartment building.
 In the morning, shaving.

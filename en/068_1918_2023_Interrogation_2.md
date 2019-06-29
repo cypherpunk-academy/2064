@@ -11,7 +11,7 @@ Marlene proud. She watched closely what was happening, put one hand on her backp
 Marlene nodded to him and then delved back into her book.
 
 
-### SCENE 9: Vault cellar.
+### Vault cellar.
 
 ____
 Hilde gagged again, still on the same chair.

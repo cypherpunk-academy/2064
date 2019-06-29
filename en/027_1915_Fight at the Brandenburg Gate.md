@@ -1,7 +1,7 @@
 
 ## **1915** Fight at the Brandenburg Gate
 
-### SCENE 4
+### Brandenburg Gate
 ____
 Hilde and Wilhelm in an intimate embrace in the middle of the Paradeplatz in front of the Brandenburg Gate.
 Around them, the busy hustle and bustle, wagons, people with posters, flags, clubs, a lot of excitement, screaming.

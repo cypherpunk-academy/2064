@@ -1,7 +1,7 @@
 
 ## **1915** Germany First!
 
-### SCENE 7
+### Berlin Wilmersdorf
 ____
 A group of officers in a beer restaurant, a lot of smoke, loud conversations everywhere.
 

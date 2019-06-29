@@ -1,7 +1,7 @@
 
 ## **1915** In a soup kitchen
 
-### SCENE 6
+### Berlin Moabit
 ____
 Hilde in a soup kitchen behind a huge pot, a ladle in her hand.
 People line up with plates and spoons.

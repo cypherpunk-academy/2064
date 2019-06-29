@@ -1,7 +1,7 @@
 
 ## **1918, 2023** Interrogation (1)
 
-### SCENE 8
+### 
 
 ____
 Hilde, tied up on a chair in a large vaulted cellar.

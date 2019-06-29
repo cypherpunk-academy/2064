@@ -1,7 +1,7 @@
 
 ## **1922** The swastika man
 
-### SCENE 11: In the same vaulted cellar.
+### Vaulted cellar
 
 ____
 The captain, Berthold, another uniformed man with a swastika bandage on his upper arm.
