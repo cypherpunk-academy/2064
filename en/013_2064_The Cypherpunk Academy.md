@@ -64,11 +64,11 @@ That was the basis.
 Without encryption, everything else won't help, then we would be at the mercy of all those who have access to the Internet.
 But when we had this, it really started.
 
-We looked in disbelieve to the three ruling ideals of that time: power, money, control.
+We looked in disbelieve to the three ruling concepts of that time: power, money, control.
 These were the gods of many people back then.
 They were worshipped just like gods in ancient times.
 They were was the most essential thing in life for most people.
-We were searching for other ideals, and found some.
+We were searching for other concepts, and found some.
 For example, the whole world of companies and governments should become transparent.
 We wanted to see how governments came to their decisions, and how companies were producing what we consumed.
 And we wanted to take a step towards real democracy.
@@ -90,9 +90,9 @@ The audience cheered and clapped.
 
 Lilly: "It's like a game in the game, and it's not easy!
 You have to work together a lot and become creative, think fast, and react quickly.
-In any case, it is about the eleven basic ideas of the liberation fight that you know, encryption, overcoming oppression, overcoming opposition, unfolding initiative, ...".
+In any case, it is about the eleven basic concepts of the liberation fight that you know, encryption, overcoming oppression, overcoming opposition, unfolding initiative, ...".
 She stopped and looked back at Marlene: "I read a lot about it in your book.
-Can you maybe introduce the ideas?
+Can you maybe introduce the concepts?
 I would really love that."
 
 Lasse shouted from his seat, "Yes! That would be great!"

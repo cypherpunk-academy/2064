@@ -17,7 +17,8 @@ Auf dem Computer waren nur Spuren von Karl, dachte ich.“
 
 Frederik: „Die Freundin von Karl.
 Sie hat bestimmt geredet.
-Oder musste reden.“ Er lächelte.
+Oder musste reden.“
+Er lächelte.
 „Aber immerhin sagen sie uns so etwas einmal.
 Einfach so … ohne Gegenleistung.
 Wer weiß, vielleicht könnte das der Beginn einer vertrauensvollen Zusammenarbeit werden.“
