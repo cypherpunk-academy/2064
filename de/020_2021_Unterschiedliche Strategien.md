@@ -1,14 +1,17 @@
 ## **2021** Unterschiedliche Strategien
 
-<span style="font-variant:small-caps;">Im der BND Zentrale.</span>
+<span style="font-variant:small-caps;">In der BND Zentrale.</span>
 
-Heinz: „Schau dir das an! Fuck! Marlene Farras war auf einem TAO-Computer der NSA in Fort Meade und hat Daten mitgenommen.
+Heinz: „Schau dir das an!
+Fuck!
+Marlene Farras war auf einem TAO-Computer der NSA in Fort Meade und hat Daten mitgenommen.
 Unsere Marlene.
+Unsere kleine Marlene.
 Das ist doch ein Ding!!“
 
 Frederik ging zu Heinz herüber und schaute auf seinen Bildschirm.
 
-Frederik: „Sagt wer?“
+Frederik: „Wer sagt das?“
 
 Heinz: „Die werten amerikanischen Kollegen.
 Ich hoffe, sie haben niemanden umgebracht, um an die Information zu kommen.
@@ -34,12 +37,14 @@ Sie darf jetzt nicht nach Amerika.
 Wir sind so knapp davor.
 Ein Schritt noch und sie geht freiwillig in die Psychiatrie.
 Wir können sie jetzt nicht einfach da rausholen.
-Und Selbstmord ist nicht vorbereitet.
-Das gibt einen Aufruhr.
+Und Selbstmord haben wir nicht vorbereitet.
+Wenn sie jetzt verschwindet, gibt das einen Aufruhr.
 Das ganze Umfeld, Familie, Freunde.
 Das ist ein Wespennest.
-Und wenn sie jetzt einfach so verschwindet wie ihr Bruder, kriegen wir vielleicht eine Initiative, die sich ein paar Wochen lang vor die amerikanische Botschaft stellt, oder bei uns hier, oder einen wilden Hashtag in Twitter, #woistmarianne, oder irgendeine andere von diesen Aktionen.
-Und dann springt die Presse an … Viel zu viel Aufmerksamkeit.
+Und wenn sie jetzt einfach so verschwindet wie ihr Bruder, kriegen wir vielleicht eine Initiative, die sich ein paar Wochen lang vor die amerikanische Botschaft stellt, oder bei uns hier, oder einen wilden Hashtag in Twitter, #woistmarlene, oder irgendeine andere von diesen Aktionen.
+Und dann springt die Presse an …
+Ne, ne, ne.
+Viel zu viel Aufmerksamkeit.
 Geht nicht.
 Geht gar nicht.“
 
@@ -51,9 +56,8 @@ Frederik war zurück auf seinen Platz gegangen und ließ sich in seinen Stuhl fa
 „Ich kann sie jetzt nicht hergeben.
 In einem halben Jahr vielleicht.
 Dann können sie sie haben.
-Aber nicht jetzt.“
-
-Frederik: „Wir können sie hierher bringen.
+Aber nicht jetzt.
+Wir können sie hierher bringen.
 Die Amis verhören sie und wir bringen sie wieder zurück.
 Im Augenblick glaubt ihr eh niemand etwas.
 Wahrscheinlich würde sie es nicht einmal erzählen.
@@ -75,21 +79,23 @@ Ein total Verrückter.
 Er löscht sogar die Bilder von den zwei Überwachungskameras, die sie in ihrem Zimmer hat.
 Nur an ihren Laptop ist er noch nicht heran gekommen.
 Den hat sie anscheinend im Schlafsack direkt zwischen ihren Beinen.
-In den nächsten Tagen kommen die Sachen dann einzeln wieder zurück an ihren Platz.“
+In den nächsten Tagen bringt er die Sachen dann einzeln wieder zurück an ihren Platz.“
 
-„Zwischen ihren Beinen? Das ist schon ganz schön paranoid,“ meinte Heinz.
-„Ich glaube, dass wir sie bald haben.
+„Zwischen ihren Beinen?
+Das ist schon ganz schön paranoid,“ meinte Heinz.
+„Ich glaube auch, dass wir sie bald haben.
 Das hält kein Mensch aus.“
 
 Federik: „Ja, du legst dein Tagebuch auf den Tisch in einem kleinen Zimmer und am nächsten Morgen ist es nicht mehr da.
 Du suchst es überall.
-Denkst, du wirst verrückt.
+Du denkst, du wirst verrückt.
 Und dann zwei Tage später ist es auf einmal wieder da.
 Das ist die gute alte Zersetzung.
 Mein Onkel war bei der Stasi.
 Die haben in der Richtung mit ihren niedlichen Mitteln ganz schön viel erreicht.
 Das ganze Land hat vor ihnen gezittert, vor dem lahmfaulen Beamtenhaufen.
-Echt Angst gehabt! Ich sage dir, die einfachsten Sachen wirken am besten.
+Echt Angst gehabt!
+Ich sage dir, die einfachsten Sachen wirken am besten.
 Computer manipulieren.
 Einfach mal aus der Ferne ab und zu den Bildschirm aus- und einschalten, das Programm abstürzen lassen, wenn derjenige gerade eine wichtige E-Mail schreibt, den Mauszeiger anhalten, eine Textpassage löschen, ein Telefongespräch beenden.
 Das ist Überwachungs-Homöopathie.

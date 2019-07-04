@@ -2,8 +2,9 @@
 
 <span style="font-variant:small-caps;">Es klopfte an</span> Marlenes Tür.
 Sie erschrak.
-„Wer war das jetzt?“ Sie atmete durch.
-Das seltsame Erlebbnis mit Corinne war noch überall in ihren Gliedern.
+„Wer war das jetzt?“
+Sie atmete durch.
+Das seltsame Erlebnis mit Corinne war noch überall in ihren Gliedern.
 
 Ihre Mutter sagte durch die Tür: „Ich bin’s, deine Mama.“
 
@@ -16,10 +17,10 @@ Marlene: „Ich habe mit ihr geredet.“
 
 Stefanie war die Psychologin, die bei Marlene eine posttraumatische Störung entdeckt zu haben glaubte.
 Sie war 35 Jahre alt und eng mit ihrer Mutter befreundet.
-Sicherlich verlangte sie von ihrer Mutter kein Geld für die Gespräche, sie tat es aus bestem Willen, nur um zu helfen, weil sie ihre Mutter so gerne hatte.
+Sicherlich verlangte sie von ihrer Mutter kein Geld für die Gespräche, sie tat es aus bestem Willen, nur um zu helfen, weil sie ihrer Mutter nahe war.
 Nichts, was Marlene jetzt im Entferntesten brauchen konnte.
-Sie brauchte einen Menschen, bloß mit gesundem Menschenverstand, keine Psychologin.
-Irgendjemand, der versuchte, sie zu verstehen und der sie nicht ändern wollte.
+Sie brauchte einen Menschen mit gesundem Menschenverstand, einfach nur ein klares Denken, keine Psychologin.
+Irgendjemand, der versuchte, die Situation zu durchschauen und der sie nicht ändern wollte.
 
 „Marlene, ich habe eine Idee, die ich gerne mit dir teilen würde“, sagte Stefanie durch die Tür.
 „Vielleicht können wir die Situation damit verbessern.“
@@ -35,8 +36,9 @@ Marlene versuchte zu meditieren, zumindest das zu tun, was sie sich darunter vor
 Auf jeden Fall tat es ihr gut, für eine Zeit ihre innere Balance zu suchen.
 Und das funktionierte meist sogar in echten Stresssituationen, wie in der, in der sie gerade steckte.
 Marwin hatte ihr erzählt, was er tat, wenn bei ihm alles aus den Fugen geriet, und er nicht mehr wusste, wo er war und wohin er gehen konnte.
-Daraus hatte sie sich ihre eigene Sache zusammengebastelt.
-So saß sie mit geschlossenen Augen im Schneidersitz auf dem Sofa, ein Bein auf dem Boden und sagte leise: „Mein Leben ist nicht in Gefahr.
+Daraus hatte sie sich einiges genommen und dann ihre eigene Sache zusammengebastelt.
+So saß sie mit geschlossenen Augen im Schneidersitz auf dem Sofa, ein Bein auf dem Boden und sagte leise:
+„Mein Leben ist nicht in Gefahr.
 Ich brauche nichts von außen, um zufrieden zu sein.
 Ich habe alles, was ich brauche.
 Ich muss nichts richtig machen.“
@@ -55,7 +57,7 @@ Marlene fragte konzentriert: „Was hattest du nicht richtig verstanden?“
 
 Stefanie: „Es ist real.
 Vollkommen real.
-Du hast keine Möglichkeit es anders zu sehen.
+Du hast keine Möglichkeit, es anders zu sehen.
 Es ist absolut real! Auf eine gewisse Weise.“
 
 Marlene schaute auf den Boden.
@@ -63,7 +65,7 @@ Eine leise Wut stieg in ihr hoch.
 Sie hasste Manipulationen.
 
 Stefanie: „Dein Körper macht es real.
-Wie der Körper bei einem Schock das Blut zurückhalten kann, auch dann wenn man eine große Wunde hat.
+Wie der Körper bei einem Schock das Blut zurückhalten kann, auch dann wenn man sehr stark blutet.
 Genauso kann der Körper dein Denken fesseln, er kann bestimmen, was du denkst.
 Es ist als wärst du in einem Gefängnis, nur dass du die Gitterstäbe weder sehen noch spüren kannst.
 Ich hoffe so sehr, dass du vielleicht etwas davon ahnst, dass du spürst, dass mit deinem Denken etwas nicht ganz stimmt.“
@@ -75,14 +77,17 @@ Das kann sein.“
 
 Marlene: „Und wie erklärst du, dass ich davon schon erzählt hatte, bevor ich überhaupt den Brief von Marwin bekommen habe, in dem er geschrieben hat, dass er weg ist?“
 
-Stefanie: „Darüber habe ich auch schon nachgedacht.
+Stefanie: „Darüber habe ich auch nachgedacht.
 Du hast vielleicht vorher geahnt, dass dein Bruder weg will oder es am Rande mitbekommen?“
 
-Marlene: „Am Rande mitbekommen? Ich habe es am Rande mitbekommen und mir davon so einen Schock geholt, dass mein Denken gefesselt wurde.“ Marlene kochte, aber sprach weiterhin in ruhigem Ton.
+Marlene leise: „Am Rande mitbekommen? Ich habe es am Rande mitbekommen und mir davon so einen Schock geholt, dass mein Denken gefesselt wurde.“
+Marlene kochte, aber sprach weiterhin in ruhigem Ton.
 
 Stefanie: „Ich glaube, er hat es dir vorher gesagt!“
 
-Marlene platze: „UND DAS ERFINDEST DU EINFACH ALLES! DAS IST ALLES AUSGEDACHT! Du sagst: ‘Das kann sein’ … ‘ich glaube’ … ‘vielleicht’.
+Marlene platze: „UND DAS ERFINDEST DU EINFACH ALLES!
+DAS IST ALLES AUSGEDACHT!
+Du sagst: ‘Das kann sein’ … ‘ich glaube’ … ‘vielleicht’.
 Das sind keine Tatsachen, das stimmt auch nicht, das ist rein aus deiner Fantasie.“
 
 Stefanie antwortete mit verständnisvoller Stimme: „Es ist doch völlig unwahrscheinlich, dass dein Bruder einfach so in das Auto einsteigt.
@@ -91,10 +96,13 @@ Er schaut auf ein Tablet und das war es.
 Hej, er war Profihacker, er hatte Zig-Male mit Polizisten zu tun gehabt und hat sie zur Weißglut gebracht.
 Ein Richter hat ihn einmal angebrüllt und dann die Verhandlung abgebrochen und er ist dabei ruhig geblieben.
 Ich war da im Raum, ich sehe heute noch sein leises Lächeln.
-Und macht irgendetwas, was er auf einem Tablet-Display liest, dass er einfach so in ein Polizeiauto einsteigt, ohne Frage, ohne Gegenwehr?“ Sie schaute Marlene streng an.
+Was kann auf einem Tablet-Display stehen, dass er einfach so in ein Polizeiauto einsteigt, ohne Frage, ohne Gegenwehr?“
+Sie schaute Marlene streng an.
 
 Marlene erstarrte.
-Warum war er einfach so eingestiegen? Warum? Sie hatte sich das tausendmal gefragt.
+Warum war er einfach so eingestiegen?
+Warum?
+Sie hatte sich das tausendmal gefragt.
 Sie wusste es nicht.
 
 Stefanie: „Ich glaube, und ich bin Psychologin, ich glaube, dass dein Bruder in ein Auto zu Freunden eingestiegen und mit ihnen davon gefahren ist.
@@ -103,11 +111,12 @@ Aber durch den Blick hast du verstanden, dass er nicht wiederkommt.
 Und da ist für dich eine Welt zusammengebrochen.
 Da ist aus einem normalen Auto ein Polizeiauto geworden und aus drei Freunden, zwei Polizisten und ein Geheimdienstsmann.
 Du kamst an dem Tag völlig zerheult nach Hause.
-Warum? Wo warst du da gewesen?“
+Warum?
+Wo warst du da gewesen?“
 
 „In Wedding, am Rathaus“, sagte sie leise und vergrub ihr Gesicht in ihren Händen.
 
-Stefanie legte ihre Hand auf Marlenes Schulter, aber sie schob sie zurück.
+Stefanie legte ihre Hand auf Marlenes Schulter, aber sie zog sie zurück.
 
 Stefanie: „Komm.
 Du könntest für ein paar Wochen hier in Berlin auf die Havelhöhe gehen.
