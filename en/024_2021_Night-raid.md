@@ -3,8 +3,8 @@
 
 <span style="font-variant:small-caps;">The bedroom of </span> Marlene's parents was on the first floor of the house.
 Both slept deeply when suddenly there was a loud crash on the ground floor, and a bright flash of lightning shone through the bedroom window.
-Marlene's parents were shocked.
-Voices roared in confusion.
+Marlene's parents were paralized.
+Voices roared, rumbles of breaking doors.
 Loud trampling in the stairwell, then after a short time a rumble again.
 They looked at each other.
 The clock showed four o'clock in the morning.
@@ -13,11 +13,13 @@ Mother: "For God's sake! What's that?"
 
 She reached for his hand.
 
-Father, excited: "Maybe a task force!
-Oh, shit.
+Father, excited: "Maybe a swat team!
+Shit.
 I've often thought they'd come for Marwin someday.
 Now we have to stay calm.
-Thank God he's gone."
+But he is not here.
+Don't they know that?
+Thank God he's not here."
 
 Mother: "But Marlene, what about Marlene?"
 
@@ -25,7 +27,7 @@ She wanted to get out of bed.
 The father held her back.
 
 Father: "It's okay, it's okay.
-Don't worry about it now.
+Don't worry about her now.
 They're looking for Marwin.
 They won't hurt her.
 She's gonna get a real scare, but we're gonna fix that.
@@ -44,26 +46,27 @@ Father and mother both raised their arms.
 
 Father: "Don't shoot! We're unarmed."
 
-The foremost soldier came to them with his gun struck and shouted with an American accent: "Marlene Farras.
-Where? Two more tore open the wardrobes in the meantime.
-One crawled his head under the bed.
+The foremost soldier came to them with his gun struck and shouted: "Marlene Farras.
+Where? Two soldiers tore open the wardrobes in the meantime.
+One crawled under the bed.
 
 Mother and father looked at each other in surprise.
 
-"Down in the cellar!" the father replied excitedly.
+"Down in the cellar!" the father replied.
 
-Soldier: "No! She is not in the cellar." He held his gun to his father's head.
+Soldier: "No! She is not in the cellar."
+He held his gun to his father's head.
 
-Father, hectic: "Then I don't know.
+Father, shivering: "Then I don't know.
 I don't know.
 I don't know."
 
 The soldier turned around and disappeared into the next room.
-The others are after him.
+The others followed him.
 After about ten minutes they left the house.
-The team van with which they had come roared away with screeching tires.
+The van with which they had come roared away with screeching tires.
 
-The father jumped to the window and tried to get a look at him.
+The mother ran out of the room: Marlene! Marlene!"
+The father jumped to the window and tried to get a look at the van.
 
-The mother fell out of her room: Marlene! Marlene!"
 

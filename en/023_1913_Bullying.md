@@ -1,42 +1,42 @@
 
 ## **1913** Bullying
-
-### Berlin Wedding
 ____
 After the speech, in the guest room of a pub.
 Wilhelm, Hilde, a driver, and Adolf, a party official.
 
-Wilhelm: "Thank you, Hilde! For your lecture earlier.
+Wilhelm: "Thank you, Hilde!
+For your lecture earlier.
 I really wouldn't have gone on stage otherwise.
 Or at least I wouldn't have said what I said.
-It was good talking to comrades like that."
+It was good talking to the comrades like that."
 
 Hilde nods.
 
-Wilhelm: "I haven't spoken as clearly for a long time as I do today.
+Wilhelm: "I haven't spoken so clearly as I did today for a long time.
 And the comrades have taken it well, I hear.
 It's in the world now.
-That's good ... and again not ..."
+That's good ... and again not good ..."
 
-Hilde: "Again, not either?"
+Hilde: "Not good?"
 
-Wilhelm: "Yes, again, not." He closed his eyes.
-At that moment, a messenger approached from behind and asked with a soft voice: "Hilde Brandenburg?
+Wilhelm: "Yes, also not good."
+He closed his eyes.
+At that moment, a postman approached from behind and asked with a soft voice: "Hilde Brandenburg?
 
 Hilde: "That's me."
 
 He handed her a letter and disappeared again.
-Hilde opened it hastily and read it.
+Hilde opened it hastily and read.
 
 Hilde: "Oh! Elfi is in distress.
 I have to go to Potsdam.
 Right away."
 
 Wilhelm: "You can't drive alone.
-Not in this position.
+Not in this situation.
 It's too dangerous.
 And I can't leave now.
-"Afterwards are negotiations."
+Afterwards are negotiations."
 
 Hilde: "Adolf can accompany me, can't he?"
 
@@ -46,30 +46,32 @@ Wilhelm stood up and walked around the table to embrace Hilde.
 Wilhelm: "Take care of yourself!"
 
 Hilde: "I will.
-It's not a trip around the world.
+It's not that far.
 You take care of yourself!"
 
 Hilde leaves the room with Adolf.
 
 Wilhelm to the driver: "Now we are alone, Alfons.
-It can go that fast, can't it?"
+It can go that fast, not?"
 
 The driver does not look at him, but stands up and leaves the room without giving a sign as to why.
-At the same moment, two middle-aged men in grey suits sit next to and opposite Wilhelm and look at him.
+At the same moment, two middle-aged men in grey suits sit next to and opposite of Wilhelm and look at him.
 
-Wilhelm was frightened: "What is this?" He takes turns looking at both of them.
+Wilhelm frightened: "What is this?"
+He takes turns looking at both of them.
 His voice trembles slightly.
 The two men look back a little indifferently.
 
 Wilhelm: "What do you want from me?"
 
-After a short while, the man sitting opposite him answers: "Nice speech.
+After a short while, the man sitting opposite him answers: "Nicely spoken.
 Smart thinking.
 Pure poison.
-It can turn a crowd's head."
+It can disorientate and seduce people."
 
-A second man with a slightly red face: "You traitor of your country! If it's up to guys like you, no one in Germany will be ready to fight anymore.
-And then the Frenchman and the Russian overrun us, and it's over with Germany."
+A second man with a slightly red face: "You traitor!
+If it's up to guys like you, no one in Germany will be willing to fight anymore.
+And then the French and the Russian overrun us, and it's over with Germany."
 
 First man: "We will prevent that.
 Are you maybe even Russian? Or French? Or English?"
@@ -80,7 +82,7 @@ I'm human like you are."
 The second man snorts off while the first looks at him sternly.
 
 First man: "We're not half-breeds.
-And we won't let you betray our Germany.
+And we won't let you betray Germany.
 We are destroying everything that opposes Germany.
 We got people everywhere.
 All around you.
@@ -93,7 +95,7 @@ The second man looked at him coldly and grinned, "It would be my pleasure."
 
 First man: "It all depends on how you behave from now on.
 The people I work for have little patience.
-You're on the fag end.
+You're are so close of being handled.
 Think carefully about your next steps."
 
 Then both stand up and leave the room.

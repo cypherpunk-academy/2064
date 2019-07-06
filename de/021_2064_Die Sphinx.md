@@ -130,7 +130,7 @@ So eine Pupsnase.“
 
 Die Sphinx sprang mit einem Riesensatz über das Sofa hinweg und landete an der vordern Kante der Bühne.
 Ihre Riesenaugen strahlten furchterregend in den Raum.
-Einige Kindr fingen an zu schreien.
+Einige Kinder fingen an zu schreien.
 Andere versteckten sich hinter Größeren.
 Man sah jede Menge aufgerissene Augen und offen Münder.
 Die Sphinx schaute wild im Publikum umher und wurde größer und größer und größer.

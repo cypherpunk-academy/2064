@@ -7,14 +7,16 @@ Sie wischte sich die Augen und öffnete den Reißverschluss ihres Schlafsacks.
 Ihr erster Griff galt ihren zwei Laptops, die sie immer mit in den Schlafsack nahm.
 Das hatte ihr Bruder gesagt: Werkzeuge immer bei sich behalten.
 Sie stand auf, zog sich eine Hose an und schlüpfte in ihre Sneakers.
-War das ein leises Kratzen draußen im Gang? Oder nicht? Da, noch einmal, fast unhörbar.
+War das ein leises Kratzen draußen im Gang?
+Oder doch nicht?
+Da, noch einmal, fast unhörbar.
 Sie musste wirklich hier raus jetzt, sonst würde sie noch verrückt werden.
 Marwin sagte immer, dass die Geheimdienste zu allem fähig seien, nichts wäre ihnen heilig, nicht einmal die eigene Wohnung.
 „Irgendwann werden sie dafür zur Rechenschaft gezogen“, dachte Marlene, „und wenn ich selbst dafür sorgen muss“.
 
 Sie schob den Schreibtisch beiseite.
 Dahinter kam ein Heizkörper zum Vorschein, der auf den ersten Blick wie ein normaler Heizkörper aussah.
-War er aber nicht.
+Aber er war nicht angeschlossen.
 Marwin hatte ihn dort angebracht, um einen Geheimgang zu verdecken, den er mit einem Freund vorletzten Sommer gebaut hatte.
 Ein richtiger unterirdischer Gang, durch die Hausmauer hindurch, unter dem Rasen entlang bis hin zu einem Gartenhäuschen.
 Insgesamt etwa 25 Meter lang.
@@ -42,19 +44,25 @@ Mit der Zeit waren die Versuche immer ausgefeilter geworden, Hacker kamen von we
 Jeder erfolgreiche Angriff führte zu neuen Gegenmaßnahmen, so wurde das System immer besser und besser.
 Inzwischen musste man einen Riesenaufwand treiben, wenn man etwas mitschneiden oder hineinschmuggeln wollte.
 
-Marlene hatte seit einem Hackathon-Wettbewerb vor zwei Jahren einen Gutschein, einen eigenen Rechner dort unterzubringen.
+Marlene hatte bei einem Hackathon-Wettbewerb vor zwei Jahren einen Gutschein bekommen, einen eigenen Rechner dort unterzubringen.
 Und das wollte sie jetzt tun.
 Sie wollte sich zumindest für einige Zeit in der Öffentlichkeit verstecken, an Orten, an denen viele Menschen um sie herum waren.
 Sie ging davon aus, dass, welcher Geheimdienst auch immer hinter ihr her war, er sie irgendwo bei Freunden oder Bekannten versteckt vermuten würde.
 Sie würden alle Plätze bewachen, wo sie in den letzten Jahren gewesen war, wo sie Kontakt hatte, die irgendwie privat waren.
-Auf diese Ahnung setzte sie nun alles.
+Ja, in der Öffentlichkeit verstecken.
+Sie hatte das Gefühl, dass das jetzt richtig war.
 Ihr Bruder hatte gesagt, dass man solche Dinge mit dem Gefühl entscheiden sollte und manchmal müsste man Dinge tun, die unsinnig erscheinen.
 Schlafen wollte sie jeden Tag von 9 bis um 3 Uhr Nachmittags in einer der Schlafkojen im Keller der c-base.
-Den Rest der Zeit wollte sie mit Pudelmütze vor ihrem Rechner im Dead Space sitzen und an irgendetwas arbeiten … ja, woran? Woran sollte sie arbeiten? „Genau!“, dachte sie und umfasste mit der Hand den USB-Stick in ihrer Tasche.
+Den Rest der Zeit wollte sie mit Pudelmütze vor ihrem Rechner im Dead Space sitzen und an irgendetwas arbeiten … ja, woran?
+Woran sollte sie arbeiten?
+„Genau!“, dachte sie, griff in ihre Tasche und umfasste den USB-Stick.
 Das wollte sie tun.
 Den wollte sie sich jetzt ganz genau anschauen.
 
 Es war etwa 5 Uhr morgens, als sie bei der c-base an ein Seitenfenster klopfte, wo sie noch eine Gruppe von Hackern um einige Laptops herum sah.
 Einer stand auf, warf einen flüchtigen Blick auf ihre Mitgliedskarte und ließ sie hinein.
 Drinnen ließ sich Marlene auf ein Sofa fallen, und atmete erst einmal durch.
-Einer der Jungs brachte ihr eine Mate.
+Einer der Jungs brachte ihr eine Flasche Mate.
+
+Marlene nahm die Flasche und lehnte sich zurück.
+Sie schloss die Augen.
