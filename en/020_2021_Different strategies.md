@@ -88,7 +88,7 @@ Federik: "Yes, you put your diary on the table in a small room and the next morn
 You look for it everywhere.
 You think you are gone crazy.
 And then two days later it's suddenly there again.
-That is the good old moral decomposition.
+That is the good old zersetzung, moral decomposition.
 My uncle was with the Stasi.
 They have achieved quite a lot in that direction with their limited means.
 The whole country was scared.

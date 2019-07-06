@@ -11,7 +11,7 @@ Ich werde die einzelnen jetzt nur andeuten.
 In der Akademie könnt ihr sie genauer kennen lernen, da könnt ihr sie auch üben.
 Da werdet ihr sie brauchen.
 
-Den ersten Gedanken habe ich euch schon gesagt:
+Den <em>ersten Gedanken</em> habe ich euch schon gesagt:
 Verschlüsselung, freie und offene Software, verteilte Netzwerke.
 Alles, was auch für die mächtigsten Gegener unzerstörbar ist.
 Das hat uns immer wieder unsere persönliche Freiheit gerettet.
@@ -23,7 +23,7 @@ Für viele war das zu unbequem.
 Heute geht das gar nicht anders.
 Heute ist alles verschlüsselt, alle Software ist frei und Netzwerke, die nur einen Eingang haben und alle Daten zentralisieren, gibt es nicht mehr.
 
-Der zweite Gedanke ist, nach eigenen Ideen zu leben, statt nach solchen, die uns von unserer Kultur vorgegebenen werden.
+Der <em>zweite Gedanke</em> ist, nach eigenen Ideen zu leben, statt nach solchen, die uns von unserer Kultur vorgegebenen werden.
 Die Götter der damaligen Zeit waren Geld, Macht und Sicherheit.
 Aber die sind lange nicht so stark wie eigene Ideen.
 Julian Assange hat das einmal in dem Satz ausgedrückt:
@@ -41,7 +41,7 @@ Ohne junge Menschen können diese Organisationen nicht überleben.
 Und die wollten sich nicht mehr verbiegen, sondern ihre Ideale überall im Leben leben, auch in diesen Organisationen:
 Sie wollten das lieben, was sie taten, die Begenung mit anderen ins Zentrum des Lebens rücken und andere so leben lassen, wie sie das wollten und sie dabei immer besser verstehen.
 
-Der dritte Gedanke ist die Überwindung des Gegeneinanders im Leben.
+Der <em>dritte Gedanke</em> ist die Überwindung des Gegeneinanders im Leben.
 Im Großen ist das die Überwindung von Nationalismus und Rassismus, davon dass Menschen als besser oder schlechter, als mehr oder weniger wert angesehen werden je nachdem aus welchem Land sie kommen, welche Lebensanschauung, Einstellung, welchen Titel, wie viel Geld sie haben, ob sie Mann oder Frau sind.
 Im Einzelnen geht es darum, zu erkennen, dass jeder Mensch einen guten Kern hat, wirklich jeder!
 Jeder macht im Kern das, was er für gut und richtig hält.
@@ -58,10 +58,22 @@ Und das kann man nur bei sich selbst machen.
 Zum Beispiel ist es auch Rassismus, wenn man gegen Rassismus ist.
 Man entkommt dem Gegeneinander nicht durch Dagegensein.
 
-Der vierte Gedanke ist die freie Entfaltung der eigenen Initiative.
+Der <em>vierte Gedanke</em> ist die freie Entfaltung der eigenen Initiative.
 Dazu gab es schon in meiner Jugendzeit großartige Versuche.
 Zum Beispiel das Linux-Projekt, das jeder von euch kennt.
-Da kommt die Grundsoftware unserer Computer her.
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+Das Linux-Projekt hat Linus Torvalds im Jahr 1991 begonnen.
+Es war damals das erste Betriebssystem für einen neuen Mikroprozessor, der später dann zum Standrad für fast alle Computer geworden ist.
+Jeder Computer braucht ein Betriebssystem, damit man ihn überhaupt benutzen kann.
+Das Betriebssystem started Anwendungen, speichert Daten und vieles mehr.
+Linus hat die erste Version von Linux in eine Mailingliste geschickt und gefragt, was den Leuten daran gefällt, was nicht und was er besser machen kann.
+Und auf diese erste E-Mail haben viele geantwortet.
+Und nicht nur Vorschläge, sondern auch Software, die er in sein Projekt aufnehmen konnte.
+Mit der Zeit ist Linux dann zum am meisten verwendeten Betriebssystem im Internet geworden.
+Es ist freie Software, in freier Zusammenarbeit entwickelt.
+Android ist zum Beispiel eine Form von Linux, und iOS und MacOS sind nahe Verwandte.
+</div>
+Heute ist Linux die Grundsoftware aller unserer Computer.
 Zigtausende Menschen arbeiten da zusammen und die meisten davon nicht um Geld zu verdienen, sondern weil sie eigene Ideen verwirklichen wollen.
 Damit das gehen kann, damit das nicht im Chaos endet, braucht man starke und gute Regeln, und ein kräftiges Miteinander-Denken.
 Schon damals konnte jeder jederzeit ein eigenes Projekt anfangen und aufbauen und kein anderer durfte ihm dabei hineinreden.
@@ -78,7 +90,7 @@ Wenn das Projekt dann stockt oder scheitert, kann er sehen, was ihm noch fehlt.
 Fehler, das sind die Dinge, die einem noch fehlen.
 Fehler machen ist wichtig.
 
-Das fünfte Gedanke ist, nicht über andere Menschen zu urteilen, nicht zu sagen oder zu denken, dass sie etwas gut oder schlecht machen, dass sie etwas besser machen könnten.
+Das <em>fünfte Gedanke</em> ist, nicht über andere Menschen zu urteilen, nicht zu sagen oder zu denken, dass sie etwas gut oder schlecht machen, dass sie etwas besser machen könnten.
 Sondern sie einfach nur anzuschauen, zu fühlen, was das mit einem selbst macht und versuchen zu verstehen, warum sie machen, was sie machen, warum sie denken, was sie denken und sagen, was sie sagen.
 Die Schulen im frühen 21. Jahrhundert haben diese Regel überall gebrochen, kreuz und quer und rauf und runter.
 Es geht darum, sich in andere hineinzudenken, die Welt aus ihrer Perspektive zu sehen, so weit bis man dahin kommt zu sagen, dass man an ihrer Stelle genauso handeln würde wie sie es tun.
@@ -90,7 +102,7 @@ Dann finden sich ganz neue Lösungen, die man vorher nicht einmal geahnt hat.
 Ich habe das einmal mit dem Mörder von meinem Bruder erlebt.
 Aber auch das Gegenteil mit meinen Eltern, was passiert, wenn man es nicht schafft, sich in andere hineinzudenken.
 
-Das Sechste ist, dass wir Menschen immer aneinander vorbeireden, vorbeihören und vorbeidenken.
+Das <em>sechste Gedanke</em> ist, dass wir Menschen immer aneinander vorbeireden, vorbeihören und vorbeidenken.
 Wir hören nicht das, was der andere sagt, und er sagt nicht das, was er denkt.
 Ich meine jetzt nicht lügen, sondern dann wenn jemand wirklich das sagen will, was er denkt, dann sagt er das nicht, sondern ein bisschen etwas anderes.
 Das gleiche passiert beim Hören.
@@ -112,7 +124,7 @@ Die Gedanken vier bis sechs haben uns übrigens sehr gut in persönlichen Bezieh
 Wir hatten eine Zeit, wo wir das, was die Gesellschaft für gut und richtig hält, nicht mehr wollten.
 Wir haben alles mögliche andere ausprobiert, und ohne diese drei Gedanken, wäre das wohl eher in einer Katastrophe geendet.
 
-Der Siebte ist das, mit dem die Cypherpunks-Bewegung weltweit bekannt wurde.
+Der <em>siebte Gedanke</em> ist das, mit dem die Cypherpunks-Bewegung weltweit bekannt wurde.
 Das ist das Recht, dass jeder Mensch erfahren darf, was die Regierungen, heute sagen wir Verwaltungen, weil sie regieren ja nicht mehr, was die Unternehmen, Armeen, die Polizei und so weiter, alles tun.
 Jeder hat das Recht, alles über das zu erfahren, was einen selbst betrifft, zum Beispiel, wenn man etwas benutzt oder konsumiert.
 Wenn man ein Ei isst, dann darf man erfahren, was alles getan wurde, um es zu erzeugen und zu einem zu bringen.
@@ -130,3 +142,7 @@ Sie sind auch ein wenig anders als die ersten sieben.
 Da geht es zum Beispiel darum wie ansteckend Mut und Angst sind.
 Also, das soll noch ein bisschen spannend bleiben.
 Ihr werdet in der Akademie noch genügend auf sie stoßen, spätestens dann, wenn ihr durch die ersten sieben Gedanken durch seid.“
+
+Marlene lächelte ins Publikum und legte ein Hand auf ihr Herz.
+Die Kinder und Jugendlichen im Raum standen auf und viele machen es ihr nach.
+Lilly wischte sich eine Träne aus dem Auge und fühlte in die jetzt sehr angenehme Atmosphäre im Raum.

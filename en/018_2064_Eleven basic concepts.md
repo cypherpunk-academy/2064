@@ -71,7 +71,7 @@ The <em>fourth concept</em> is to keep the initiatives of everyone sacred.
 In my youth there were already great attempts at this.
 For example, the Linux project, which all of you know.
 <div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
-The Linux-Project was started by Linus Thorvalds in 1991.
+The Linux-Project was started by Linus Torvalds in 1991.
 It was the first operating system for a new kind of computer, that eventualy become the industry standard.
 Every computer needs a operating system to be accessible by users.
 It starts apps, stores data etc.
