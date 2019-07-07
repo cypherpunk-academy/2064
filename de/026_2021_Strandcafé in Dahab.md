@@ -2,9 +2,9 @@
 
 <span style="font-variant:small-caps;">Marlene saß auf</span> einigen Sitzkissen in einem Strandcafé in Dahab, einem kleinen Touristennest am Roten Meer.
 Sie lehnte sich zurück und dachte an die Reise von Berlin bis zu diesem Ort.
-Drei Monate hatte es gedauert.
+Drei Monate hatte sie gedauert, vor drei Monaten war sie mitten in der Nacht aus ihrem Elternhaus aufgebrochen.
 Sie hatte den größten Teil der Strecke per Anhalter zurückgelegt.
-Einmal konnte sie in einem winzig kleinen Privatflugzeug mitfliegen.
+Einmal konnte sie in einem winzig kleinen Privatflugzeug mitfliegen, sogar über eine Landesgrenze hinweg.
 Auf der Reise trug sie ausschließlich Hippi-Kleidung.
 Sie lächelte bei dem Gedanken.
 
@@ -19,8 +19,10 @@ Sie war inzwischen wieder versunken in ihren Laptop und schien ihn nicht zu beme
 Er schaute sie eine Weile an und setzte sich dann neben sie, woraufhin sie sich überrascht zu ihm drehte.
 Er lächelte warm.
 
-Achmed: „Achmed!“ Er streckte ihr die Hand entgegen.
-Sie nahm sie ein wenig zögernd.
+Achmed: „Achmed!“
+Er streckte ihr die Hand entgegen.
+„Ich bin Achmed!“
+Sie nahm die Hand ein wenig zögernd.
 
 Marlene: „Waltraut.“
 
@@ -36,7 +38,8 @@ Der Barkeeper zeigte auf den Milchshake: „Der geht auf mich!“
 Er wurde ein wenig unsicher.
 
 Barkeeper: „Du bist heute zwei Wochen hier.
-Das muss man feiern! Und ich feiere, dass ich nach zwei Wochen endlich deinen Namen weiß.“
+Das muss man feiern!
+Und ich feiere, dass ich nach zwei Wochen endlich deinen Namen weiß.“
 
 Marlene lächelte: „Danke!“
 
@@ -45,21 +48,22 @@ Achmed: „Du bist aus Deutschland?“
 Marlene schaute ihn überrascht an, zuckte mit den Schultern.
 Dann lächelte sie ihn an und drehte sich wieder zu ihrem Laptop.
 
-Er saß eine Weile stumm neben ihr und meinte dann: „Hej, du hast die ganze Zeit hier niemanden getroffen und kaum etwas gesprochen, außer, wenn du etwas zu trinken und zu essen willst, oder um zu sagen, dass dich niemand stören soll.“
+Er saß eine Weile stumm neben ihr und meinte dann: „Hej, du hast die ganze Zeit hier niemanden getroffen und kaum etwas gesprochen, außer, wenn du etwas zu trinken und zu essen wolltest, oder um zu sagen, dass dich niemand stören soll.“
 
 Sie schaute ihn wieder an.
 
-Achmed: „Und das geht hier nicht so! Das ist das Eel Garden Café.
+Achmed: „Das geht hier nicht so! Das ist das Eel Garden Café.
 Hier sprechen die Menschen miteinander.
 Das ist nicht gut, wenn man nicht miteinander spricht.
 Allein sein ist nicht gut.
 Ich wüsste zum Beispiel gerne, was du da machst.
 Du benutzt seltsame Programme.
-Nur bunter Text und so.
+Nur Text und so.
 Keine Filme, kein Facebook.
 Ein Freund von mir macht das auch so.
 Er ist Hacker.
-Du weißt sicher, was Hacker sind? Er ist ein richtiger Hacker!“
+Du weißt sicher, was Hacker sind?
+Er ist ein richtiger Hacker!“
 
 Marlene: „Mohammed.“
 
@@ -87,11 +91,11 @@ Bleib hier!“
 Marlene drehte sich wieder zu ihrem Laptop.
 Es war gerade so spannend.
 Sie war in den letzten Tagen einige große Schritte weitergekommen.
-Sie konnte eine Karte von einem Computernetz innerhalb der TAO, der Elite-Hackergruppe in der NSA, zeichnen.
+Sie hatte eine Karte von einem Computernetz innerhalb der TAO, der Elite-Hackergruppe in der NSA, fast fertig.
 Zwei weitere Rechner hatte sie heute Morgen dazubekommen.
 Sie war dort an einer ganz, ganz zentralen Stelle.
-Diese Stelle war unglaublich abgesichert, wie Fort Knox.
-Nichts konnte da einfach so unbemerkt herein- oder herausgeschmuggelt werden.
+Diese Stelle war unglaublich abgesichert, so etwas wie ein Fort Knox in deren Computernetz.
+Nichts konnte da unbemerkt herein- oder herausgeschmuggelt werden.
 Da musste etwas Wertvolles sein, etwas, was sie mit allen Mitteln schützen wollten.
 
 Seit sie auf der Flucht war, bekam sie viel besseren Zugang zu allem: Passwörter, Schlüssel, Programme, erfolgreiche Hacks.
@@ -105,39 +109,44 @@ Und seit das so war, musste sie nur Fragen stellen, und ein paar Stunden oder Ta
 Das einzige, was sie noch nicht herausbekommen hatte, aber unbedingt wissen wollte, war, wie es ihrem Bruder Marwin ging.
 Sie wusste inzwischen nur, dass er am Leben war, irgendwo in den USA.
 Aber dass sie da noch nicht mehr herausgefunden hatte, spornte sie jetzt eher an, als dass es sie niederdrückte.
-Sie spürte die Kraft dieser dunklen Gemeinschaft, Menschen, die anonym lebten, die ihr Leben riskierten, für … ja, für was? Für eine bessere, menschlichere Art miteinander umzugehen, besser zusammenzuarbeiten, für weniger Ungerechtigkeit, mehr Offenheit.
+Sie spürte die Kraft dieser verborgenen Gemeinschaft, ganz normale Menschen, die anonym lebten, die zum Teil ihr Leben riskierten, für … ja, für was?
+Für eine bessere, menschlichere Art miteinander umzugehen, besser zusammenzuarbeiten, für weniger Ungerechtigkeit, mehr Offenheit.
 Ja, für eine neue Art zusammen zu leben.
 Und diese Gemeinschaft waren unfassbar schlagkräftig.
 
 Achmed, den Barkeeper, hatte sie von Anfang an gemocht, aber sie hatte entschieden, Abstand zu halten.
 Er hatte mit alldem nichts zu tun, er würde es kaum verstehen.
-Aber Mohammed meinte, dass sie ihm mit allem vertrauen könne, mit allem! Es war seltsam, dass Mohammed das sagte.
-Aber das hatte für sie eine große Bedeutung.
+Aber Mohammed meinte, dass sie ihm mit allem vertrauen könne, mit allem!
+Es war seltsam, dass Mohammed das sagte.
+Aber es hatte für sie eine große Bedeutung.
 
 Mit Mohammed tauschte sie sich mehrmals am Tag aus, viel Persönliches.
 Es tat gut, über Gefühle zu sprechen, auch über Achmed, über seine lustigen schwarzen Locken und seine warmen Augen, wie unsicher er ihr gegenüber war und wie er ständig Gäste beschummelte.
 Am besten war er, wenn sie es merkten.
-Er schaffte es immer irgendwie raus.
-Und die meisten kamen danach auch wieder.
+Er schaffte es immer irgendwie damit durchzukommen.
+Und die meisten kamen danach sogar wieder.
 
-Um Mohammed zu schreiben verwendete sie Pond, ein E-Mail-Programm, das wie gemacht war für Tails.
+Um Mohammed zu schreiben verwendete sie Pond, ein Messanger, der wie gemacht war für Tails.
 Sie hatte nicht mehr viel Auswahl, wie sie kommunizieren konnte, sie war ziemlich weit oben auf der weltweiten Fahndungsliste der Geheimdienste.
 Aber Pond vertraute sie.
-Pond sendete, sobald es gestartet wurde, in unregelmäßigen Abständen immer gleichgroße Nachrichtenpakete in das Tor-Netzwerk.
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+<em>Pond</em> sendete, sobald es gestartet wurde, in unregelmäßigen Abständen immer gleichgroße Nachrichtenpakete in das Tor-Netzwerk.
 Egal, ob sie gerade eine Nachricht geschrieben hatte oder nicht.
 Wenn nicht, dann wurden leere Nachrichten versendet.
 Niemand konnte von außen herausfinden, ob jemand gerade etwas schickte oder nicht, auch nicht an wen oder wie viel.
 Und im Netz sausten die von außen nicht unterscheidbaren Pakete von allen Pond-Nutzern kreuz und quer zwischen den Tor-Knoten herum, es war unmöglich sie einzelnen Pond-Nutzern zuzuordnen.
-Ein heilloses Chaos – aus der Sicht von Geheimdiensten.
+Ein heilloses Chaos – unmöglich zu überwachen.
+</div>
 
 „Jetzt!“, Achmed plumpste neben ihr auf ein Kissen.
 „Erzähl.
-Was machst du so? Hilfst du Mohammed?“
+Was machst du so?
+Hilfst du Mohammed?“
 
 Marlene: „Manchmal“.
 Sie lächelte ihn an und dachte, dass sie doch gerne mit Achmed redete.
 Ihr Bruder hatte ihr gesagt, dass das, was „die“ wollen, damit meinte er meistens die Geheimdienste, ist, dass wir weniger miteinander kommunizieren, vorsichtiger oder sogar überhaupt nicht mehr.
-Was wir hingegen wollen, meinte er, ist, dass wir frei kommunizieren können, so viel wir wollen.
+Was wir hingegen wollen, meinte er, ist, dass wir frei kommunizieren können, so viel wir können.
 
 Marlene: „Ich programmiere ein bisschen, halte meinen Computer von Eindringlingen frei und gerade versuche ich herauszufinden, welche Computer in einem bestimmten Computernetz sind und was die so machen.
 Und vielleicht, wie ich da hineinkomme.“
@@ -154,5 +163,6 @@ Es ist eine ganz andere Welt dort unten.“
 
 Achmed: „Mist.
 Viel los heute.
-Programmierst du mir was?“ Er sprang auf und beeilte sich an die Bar.
+Programmierst du mir was?“
+Er sprang auf und beeilte sich an die Bar.
 Sie lächelte ihm nach.

@@ -64,5 +64,6 @@ Einer stand auf, warf einen flüchtigen Blick auf ihre Mitgliedskarte und ließ 
 Drinnen ließ sich Marlene auf ein Sofa fallen, und atmete erst einmal durch.
 Einer der Jungs brachte ihr eine Flasche Mate.
 
-Marlene nahm die Flasche und lehnte sich zurück.
-Sie schloss die Augen.
+Marlene nahm die Flasche, trank einen Schluck und lehnte sich zurück.
+Dann schloss sie die Augen und dachte wie gerne sie an diesem Ort war.
+Sie fühlte sich hier zu Hause.

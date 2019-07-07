@@ -1,14 +1,14 @@
 
 ## **2023** Two years later
 
-<span style="font-variant:small-caps;">Marwin's prison cell was</span> three by two meters tall.
-She didn't have a window.
+<span style="font-variant:small-caps;">Marwin's prison cell</span> was three by two meters.
+It didn't have a window.
 There was only one bed, a bucket, and a towel.
 A biting stench filled the room.
-Marwin lay with closed eyes on the bed.
+Marwin layed with closed eyes on the bed.
 He didn't know what time of day it was.
 It was pitch-black.
-But it was almost always pitch-black.
+It was almost always pitch-black.
 
 "Shit," Marwin said quietly and straightened up.
 He breathed a moment and then shouted at the door, "Hello! I need a new towel!"
@@ -16,57 +16,63 @@ He breathed a moment and then shouted at the door, "Hello! I need a new towel!"
 No response from outside.
 He sank back and quietly said to himself: "I must not fall back into that fucking rage again.
 It's eating up my brain.
-The boys and girls out there are my enemies, fine... but I'm not theirs! Shit." He breathed.
-"I'm not hers.
-I'm not hers." He stood up again, put his hands on his legs, and breathed deeply and slowly.
-"Don't fight it!" He pressed his hands on his legs and breathed deeply out and in.
-"No opposition," he mumbled again, and a tear pressed in his eye.
-"I don't want to go crazy." His hands stroked over the back of his head to the spot where a lot of scabs had stuck the hair together.
+The boys and girls out there are my enemies, fine... but I'm not their enemy! Shit."
+He breathed.
+"I'm not their enemy.
+I'm not their enemy."
+He stood up again, put his hands on his legs, and breathed deeply and slowly.
+"Don't fight against them!" 
+He pressed his hands on his legs and breathed deeply out and in.
+"No opposition," he mumbled again, and a tear filled his eye.
+"I don't want to go crazy."
+His hands stroked over the back of his head to the spot where a lot of scab was stuck in his hair.
 
 He moaned and bit his lips.
-It still hurt like hell.
+It still hurted like hell.
 He didn't even know for sure how it happened.
-But it was probably the square stick that stood behind him in the corner during the last interrogation.
+But it was probably the baseball bat that stood behind him in the corner during the last interrogation.
 He couldn't remember the blow.
 
-What the hell could they still want from him after two years? He was out of his circles, two years without hacks, without communication.
-Two years, that's been endless. A shiver came down his spine: "Yeah... and then what if they don't want me anymore?
-What then? ...shit."
+What the hell could they still want from him after two years?
+He was out of his circles, two years without hacks, without communication.
+Two years, that's an eternity.
+A shiver came down his spine: "Yes ... and what if they don't want something from me anymore?
+What then? ... shit."
 
-He breathed deeply and slowly again, rubbing his hands over his legs.
-His anger rose again in him.
+He took a deep breath again, rubbing his hands over his legs.
+His rage rose again.
 There was nothing he could do about it.
-She got stronger... suddenly he hit his legs with full rage.
-At the same moment, the door opened with a full clack, and the light came on.
+It got stronger... suddenly he hit his legs with his full power.
+At the same moment, the door opened with a clack, and the light came on.
 Glistening light.
-He ripped his hands up to protect his eyes.
-Too late. Too late.
-He felt that stabbing pain again.
-Every time he was without light for a few days, and it suddenly got light.
-All he thought was, "Shit, assholes like that!"
+He raised his hands up to protect his eyes.
+Too late.
+He felt that stabbing pain again, like a knife into his eyes.
+It happened every time when he was in darkness for a few days, and it suddenly it got light.
+All he thought was, "You assholes!"
 
 The last book he had read before his arrest was by Marshall Rosenberg: Nonviolent Communication.
-It was about how to solve conflicts by empathizing with other people.
+It was about how to solve conflicts by empathizing with others.
 Such an irony of fate: Rosenberg said that you can understand every other person.
-About Marwin's age, he had set himself the goal in life of developing so much empathy that he could empathize with Adolf Hitler and understand why he did what he did.
+When he was in Marwin's age, he had set himself the goal of developing so much empathy that he could feel into Adolf Hitler and understand why he did what he did.
 No, that was no irony of fate, that was sheer cynicism of life.
-"Rosenberg, Hitler.
-What about me?" Marwin thought.
-"I fail because of a few American soldiers, quite normal soldiers, who in their spare time certainly barbecue with friends, go to Disneyland with their wife and children and once a year prepare and eat a turkey together with a lot of love..."
+"Rosenberg took on Hitler.
+And me?" Marwin thought.
+"I fail trying to feel into a couple of quite normal American soldiers, who in their spare time certainly barbecue with friends, go to Disneyland with their wife and children and once a year prepare a turkey and eat it with the whole family.
 
-He'd like this Marshall Rosenberg here now to ask him: "Hey, Marshall, look, this is how they do this.
+This Marshall Rosenberg should be here now, that I can ask him: "Hey, Marshall, look, this is how they treat me.
 It's completely meaningless.
-They don't tell me what they want from me for two years, they don't accuse me, they leave me alone in the dark for days, and they knock me unconscious with a square wood."
+They don't tell me what they want from me for two years, they don't accuse me of anything, they leave me alone in the dark for days, togther with a shit bucket, and they knock me unconscious with a baseball bat."
 
 Three soldiers had surrounded the bed by now.
 One of them grabbed him by the shoulder: "Up! Someone wants to talk to you."
 
-"No, handcuffs, no punch, something's new here," Marwin thought.
-He stood up slowly, looked a little shyly into the three faces, and then stood up.
+"No, handcuffs, no shouting, no punch, something's new here," Marwin thought.
+He came up slowly, looked a little shyly into the three faces, and then stood up.
 
-Rumms, he got hit in the back on the back.
+Boom, he got hit on the back.
 
-Soldier: "Up! Hurry, hurry, hurry.
+Soldier: "Up! Hurry, hurry.
 Shower first.
-You stink to heaven."
+Your smell makes me want to puke."
 

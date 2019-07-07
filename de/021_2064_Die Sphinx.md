@@ -1,6 +1,6 @@
 ## **2064** Die Sphinx
 
-[text-caps]#Lilly drehte sich zu Marlene Farras: „Danke dir!
+<span style="font-variant:small-caps;">Lilly drehte sich</span> zu Marlene Farras: „Danke dir!
 Lieben Dank.
 Die Gedanken sind ursprünglich von deinem Bruder, nicht?“
 

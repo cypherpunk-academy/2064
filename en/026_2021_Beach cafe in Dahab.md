@@ -1,27 +1,28 @@
-
 ## **2021** Beach cafe in Dahab
 
-<span style="font-variant:small-caps;">Marlene sat up </span> some seat cushions in a beach café in Dahab, a small tourist nest at the Red Sea.
+<span style="font-variant:small-caps;">Marlene sat on </span> a pile of cushions in a beach café in Dahab, a small tourist village at the Red Sea.
 She leaned back and thought about the journey from Berlin to this place.
-It had taken three months.
+It took her three months. It was three months now that she had left her parents' house in the middle of the night.
 She had hitchhiked most of the way.
-Once she was able to fly in a tiny private plane.
-On the journey, she wore only hippie clothes.
+Once she was able to fly in a tiny private plane, even across a national border.
+On the journey she wore only hippi clothes.
 She smiled at the thought.
 
 On the low table in front of her was a laptop and another on her lap.
-She looked out over the sea, at the kite surfers, who were doing their rounds right in front of the café and then behind them at the slightly blurred coastline of Saudi Arabia on the other side of the sea.
+She looked out over the sea, at the kite surfers who were making their high jumps right in front of the café and then behind them at the slightly blurred coastline of Saudi Arabia on the other side of the sea.
 She was alone in the café.
-Only Achmed, the bartender, was just behind the counter preparing a milkshake.
+Only Achmed, the bartender, stood behind the counter preparing a milkshake for her.
 Achmed was in his mid-twenties, with fluffy black hair and always an inconspicuous smile on his lips.
 
-With some elegant steps, he approached Marlene with the milkshake and placed it in front of her on the table.
-In the meantime, she had sunk back into her laptop and didn't seem to notice it.
-He looked at her for a while and then sat next to her, at which point she turned to him in surprise.
+With a few elegant steps he approached Marlene and placed the milkshake in front of her on the table.
+In the meantime she had sunk back into her laptop and didn't seem to notice him.
+He looked at her for a while and then sat next to her, whereupon she turned to him in surprise.
 He smiled warmly.
 
-Achmed: "Achmed!" He reached out his hand to her.
-She took it a little hesitantly.
+Achmed: "Achmed!
+He stretched out his hand towards her.
+"I am Achmed!"
+She took the hand a little hesitantly.
 
 Marlene: "Waltraut."
 
@@ -29,132 +30,143 @@ Achmed: "Woldraud?"
 
 Marlene: "Wal-t-rau-t."
 
-He nodded to her nicely.
+He nodded to her friendly.
 
 The bartender pointed to the milkshake: "It's on me!"
 
 "Why?" she asked and looked at him.
-He got a little insecure.
+He became a little insecure.
 
-Bartender: "You're here for two weeks today.
-It's a celebration! And I'm celebrating that after two weeks I finally know your name."
+Barkeeper: "You're here for two weeks today.
+You have to celebrate that!
+And I'm celebrating that after two weeks I finally know your name."
 
-Marlene smiled, "Thank you!"
+Marlene smiled: "Thank you!"
 
 Achmed: "You are from Germany?"
 
-Marlene looked at him surprised, shrugged her shoulders.
+Marlene looked at him surprised and shrugged her shoulders.
 Then she smiled at him and turned back to her laptop.
 
-He sat silently next to her for a while and then said: "Hej, you haven't met anybody here all this time and you've hardly spoken anything except when you want something to drink and something to eat, or to say that no one should bother you."
+He sat silently next to her for a while and then said: "Hej, you didn't meet anybody here the whole time and hardly spoke at all, except when you wanted something to drink and eat or to say that no one should bother you."
 
 She looked at him again.
 
-Achmed: "And that's not possible here! This is the Eel Garden Café.
-This is where people talk to each other.
-It's not good not to talk to each other.
-It's not good to be alone.
+Achmed: "That's not possible here!
+This is the Eel Garden Café.
+People talk to each other here.
+That's not good if you don't talk to each other.
+Being alone is not good.
 For example, I'd like to know what you're doing.
-You use strange programs.
-Just colorful words and stuff.
-No movies, no Facebook.
-A friend of mine is doing the same thing.
-He's a hacker.
-Sure, you know what hackers are? He's a real hacker!"
+You use funny programs.
+Just text and stuff.
+No Youtube, no Facebook.
+A friend of mine does it the same way.
+He is a hacker.
+You surely know what hackers are, don't you?
+He's a real hacker!"
 
 Marlene: "Mohammed."
 
-Achmed nodded in surprise.
+Achmed nodded surprised.
 
-Marlene: "I'm here because of him.
-He told me you were okay.
-The best place for me here in Dahab."
+Marlene: "Because of him I am here.
+He told me you are okay.
+This supposed to be the best place for me here in Dahab."
 
-Achmed looked at her in amazement: "He, he didn't tell me anything."
+Achmed looked at her in amazement: "He ... he didn't tell me anything."
 
-Marlene: "I didn't mean it."
+Marlene: "I didn't want him to."
 
-Achmed: "Then, you are also a hacker?"
+Achmed: "Then you're a hacker too?"
 
-Marlene: "A hacker."
+Marlene: "Mh mh."
 
-Achmed looked at her with her mouth slightly open.
+Achmed looked at her with his mouth slightly open.
 Pling! It sounded from the bar.
 
 Achmed: "Oh, a guest.
 I'll be right back.
-Stay here!"
+Don't leave!"
 
 Marlene turned back to her laptop.
-It was just so exciting.
-She had made some significant strides in the last few days.
-She was able to draw a map of a computer network within the TAO, the elite hacker group in the NSA.
+It was so exciting in the moment.
+She had made some big steps in the last few days.
+She had a map of a computer network within the TAO, the elite hacker group in the NSA, almost ready.
 She had added two more computers this morning.
 She was there in a very, very central place.
-This place was incredibly secure, like Fort Knox.
-Nothing could just be smuggled in or out unnoticed.
+This place was incredibly secured, something like a Fort Knox in their computer network.
+Nothing could be smuggled in or out unnoticed.
 There had to be something valuable, something they wanted to protect by all means.
 
 Since she was on the run, she got much better access to everything: passwords, keys, programs, successful hacks.
 It was incredible.
 Help came from everywhere.
-There was, in fact, the hidden network of hackers.
+The infamous hidden network of hackers, it was real.
 She knew that now.
 And she also knew that she was known there by now.
 She had a good reputation, she was trusted.
-And since then she only had to ask questions, and a few hours or days later, she had an answer or even a program.
+And since then, all she had to do was ask questions, and a few hours or days later she had an answer or even a program.
 The only thing she hadn't found out yet, but wanted to know, was how her brother Marwin was doing.
-All she knew by now was that he was alive, somewhere in the United States.
-But the fact that she hadn't found out anymore now spurred her on rather than depressing her.
-She felt the power of this dark community, people who lived anonymously, who risked their lives for ... yes, for what? For a better, more humane way of dealing with each other, for better cooperation, for less injustice, more openness.
+All she knew by now was that he was alive, somewhere in the USA.
+But the fact that she hadn't found out anything more than that only spurred her on.
+She felt the power of this hidden community, ordinary people who lived anonymously, who partly risked their lives, for ... yes, for what?
+For a better, more human way of living with each other, of working together, for less injustice, more openness.
 Yeah, for a new way of living together.
 And this community was incredibly powerful.
 
-Achmed, the bartender, had liked her from the beginning, but she had decided to keep her distance.
-He had nothing to do with any of this, he'd hardly understand.
-But Mohammed said that she could trust him with everything, with everything! It was strange that Mohammed said that.
-But that meant a lot to her.
+She had liked Achmed, the bartender, from the beginning, but she had decided to keep her distance.
+He had nothing to do with all this, he would hardly understand it.
+But Mohammed said that she could trust him with everything, with everything!
+It sounded strange to her that Mohammed said that.
+But it made her feel comfortable.
 
-She talked to Mohammed several times a day, a lot of personal things.
-It was good to talk about feelings, also about Achmed, about his funny black curls and his warm eyes, how insecure he was towards her and how he always cheated on guests.
-He was best when they realized it.
-He always made it out somehow.
-And most of them came back after that.
+She talked to Mohammad several times a day, also about personal things.
+It was good to talk about feelings, also about Achmed, about his funny black curls and his warm eyes, how insecure he was towards her and how he constantly cheated on guests.
+He was best when they noticed it.
+He always managed to get away with it somehow.
+And most of them even came back afterwards.
 
-To write Mohammed, she used Pond, an email program that was made for Tails.
-She didn't have much choice in how to communicate anymore, she was quite high on the worldwide intelligence wanted list.
-But Pond trusted her.
-As soon as it was started, Pond would send evenly-sized packets of messages to the Tor network at irregular intervals.
-Whether she had just written a message or not.
-If not, then empty messages were sent.
-No one could find out from the outside whether someone was sending something or not, not even to whom or how much.
-And in the net the parcels of all Pond users, which could not be distinguished from the outside, rushed all over the place between the gate nodes, it was impossible to assign them to individual Pond users.
-Hopeless chaos - for secret services.
+For writing Mohammed she used Pond, a messenger made for Tails.
+She didn't have much choice in how to communicate anymore, she was pretty high on the worldwide intelligence wanted list.
+But she trusted in Pond.
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+As soon as <em>Pond</em> was launched, it sent packets of messages into the Tor network at irregular intervals.
+They all had exactly the same size.
+No matter whether she had just sent a message or not.
+If not, then Pond just sent empty messages.
+No one could find out from the outside whether someone was sending something or not, and also not to whom or how much.
+And on the internet, there were a lot of indistinguishable packets from all the pond users were sent back and forth between Tor nodes.
+It was impossible to follow any of this.
+A hopeless chaos - impossible to monitor.
+</div>
 
 "Now!" Achmed fell on a pillow next to her.
 "Tell.
-What do you do? Will you help Mohammed?"
+What are you doing?
+Are you helping Mohammed?"
 
-Marlene: "Sometimes."
-She smiled at him and thought she liked to talk to Achmed after all.
-Her brother had told her that what "they" want, by which he meant mostly the secret services, is that we communicate less with each other, more cautiously or even not at all anymore.
-What we want, however, he said, is that we can communicate freely as much as we want.
+Marlene: "Sometimes".
+She smiled at him and thought she actually liked to talk to Achmed.
+Her brother had told her that what "they" want, by which he meant mostly the secret services, is that we communicate less with each other, more cautiously or not at all anymore.
+What we want, however, he said, is that we can communicate freely as much as we can.
 
-Marlene: "I program a bit, keep my computer free from intruders, and I'm trying to find out which computers are in a specific computer network and what they do.
-And maybe how I get in there."
+Marlene: "I program a bit, keep my computer free from intruders and I'm trying to find out which computers are in a particular computer network and what they do.
+And maybe how I get into them."
 
 Achmed: "Sounds exciting.
-I don't know anything about that.
-But I can cook and dive, I was 65 meters deep last week, at night.
-That's awesome.
+I have no idea how this works.
+But I can cook and dive.
+I was 65 meters deep last week, at night.
+That's great.
 It makes you feel like you're in space.
-You float weightlessly in the darkness.
+You float completely weightless in the darkness.
 It's a whole different world down there."
 
-"Pling," it sounded from the bar.
+"Pling", it sounded from the bar.
 
 Achmed: "Shit.
-Lots going on today.
-"Will you program something for me?" He jumped up and hurried to the bar.
+A lot going on today.
+Are you programming something for me?"
+He jumped up and hurried to the bar.
 She smiled after him.
-
