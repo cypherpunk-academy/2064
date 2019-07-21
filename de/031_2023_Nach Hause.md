@@ -1,6 +1,6 @@
 ## **2023** Nach Hause?
 
-<span style="font-variant:small-caps;">Marwin saß in</span> einem fensterlosen Besprechungsraum an einem Tisch.
+<span style="font-variant:small-caps;">Marwin saß</span> in einem frischen Gefängnis-Overall in einem fensterlosen Besprechungsraum an einem Tisch.
 Ihm gegenüber saßen ein Mann und eine Frau in Geschäftskleidung.
 Zwei Soldaten standen in den beiden Ecken hinter ihm, ein weiterer breitbeinig, mit verschränkten Armen vor der Tür.
 
@@ -14,7 +14,9 @@ Schüttelte noch einmal, nickte dann aber.
 
 Frau: „Was jetzt? Sind Sie Marwin Farras?“
 
-Marwin: „Ja, das bin ich.“ Er verkniff sich „Woher kennen Sie meinen Namen?“ zu fragen, oder „Haben Sie meine Karteikarte nach zwei Jahren endlich wiedergefunden?“ Früher wäre das für ihn unwiderstehlich gewesen.
+Marwin: „Ja, das bin ich.“
+Er verkniff sich „Woher kennen Sie meinen Namen?“ zu fragen, oder „Haben Sie meine Karteikarte nach zwei Jahren endlich wiedergefunden?“
+Früher wäre das für ihn unwiderstehlich gewesen.
 Jetzt passte es für ihn nicht mehr.
 Er hatte den Geschmack an solchem Humor verloren.
 Er schaute beide an und versuchte sich so gut wie möglich hineinzufühlen, warum sie hierher gekommen waren und ihm Fragen stellen wollten.
@@ -33,46 +35,70 @@ Die Frau stöhnte leise: „Können Sie laufen?“
 
 Marwin: „Laufen, sitzen, pinkeln, springen, auf einem Bein stehen.
 Tanzen habe ich schon lange nicht mehr probiert.
-Schreien! Darf ich? Warum werde ich hier festgehalten? Was wollen Sie von mir?“
+Schreien!
+Darf ich?
+Warum werde ich hier festgehalten?
+Was wollen Sie von mir?“
 
 Mann: „Wir wollen ihren Gesundheitszustand feststellen, um eine eventuelle Freilassung vorzubereiten.“
 
 Marwin drehte sich zu ihm und schaute ihn erstaunt an.
 Das ist das Letzte, was für ihn Sinn machen würde.
-Ihn freilassen? Mit all dem, was er hier erlebt hatte? Mit all den Kontakten, die er von früher hatte, die ihm immer noch vertrauten, und denen er einiges Neues über die Realität der Hackerverfolgung des 21.
+Ihn freilassen?
+Mit all dem, was er hier erlebt hatte?
+Mit all den Kontakten, die er von früher hatte, die ihm immer noch vertrauten, und denen er einiges Neues über die Realität der Hackerverfolgung des 21.
 Jahrhunderts erzählen könnte.
 Inklusive Folter.
-Nein! Das war das Letzte, was sie wollen konnten.
+Nein!
+Das war das Letzte, was sie wollen konnten.
 Ein Trick? Vielleicht.
 Nein, wahrscheinlich.
 Er beschloss nichts zu sagen.
 
-Mann: „Wollen Sie hier raus? Wollen Sie nach Hause?“
+Mann: „Wollen Sie hier raus?
+Wollen Sie nach Hause?“
 
 Marwin schaute den Mann abwesend an und schwieg.
-„Nach Hause … zu Marlene … zu den Eltern … nach Berlin“, dachte er.
+„Nach Hause ... zu den verbliebenen Freunden ... zu den Eltern ... nach Berlin“, dachte er.
 Eine Träne drückte von innen hervor und begann das rechte Augenlid zu füllen.
-„Nichts anmerken lassen“.
+„Marlene.
+Sie war nicht mehr.
+Sie hatten sie umgebracht.
+Gestorben bei einer Razzia in Nord-Italien.
+Leute wie die hier hatten das angeordnet.“
 Er faltete die Hände vor sich auf dem Tisch und schloss die Augen.
 
 Frau: „Wir wissen, Sie haben Schlimmes erlebt.
 Aber es kann jetzt vorbei sein.
 Ich habe ihre Akte gelesen.
 Ich weiß, was Sie durchgemacht haben.
-Lichtentzug, Schlafentzug, ungerechtes Schlagen, nackt in der Kälte im Schlamm stehen.
-Sie hatten eine Lungenentzündung.“ Marwin schlug seine Augen auf und schaute sie an.
+Lichtentzug, Schlafentzug, unprovoziertes Schlagen, nackt in der Kälte im Schlamm stehen.
+Sie hatten eine Lungenentzündung.“
+Marwin schlug seine Augen auf und schaute sie an.
 Sie fuhr fort: „Falsche Nachrichten: Verhaftung und Tod ihrer Schwester …“
 
-„Mari!“, platzte es aus ihm heraus.
+„Marli!“, platzte es aus ihm heraus.
 Er schaute der Frau in die Augen.
 Er schaute noch einmal.
-„Die Nachricht war gar nicht echt! Er hatte ihr vertraut.
-Es war eine Lüge.“, dachte er.
-„Shit, ich habe nicht daran gedacht, dass die Nachricht falsch sein könnte.“ Er schaute wild um sich.
+„Oh Gott!“ dachte er.
+„Die Nachricht war nicht echt!
+Das kann nicht sein.
+Er hatte ihr vertraut.“
+Er schaute wieder zu der Frau.
+„Es war eine Lüge.
+Ja, es war eine Lüge“, dachte er.
+Tränen schossen in seine Augen.
+„Shit, ich habe nicht daran gedacht, dass die Nachricht falsch sein könnte.“
+Er schaute wild um sich.
 „Marlene ist nicht tot?“, fragte er leise in Richtung der Frau.
+Sie schüttelte den Kopf.
 Sein Herz fing an zu klopfen.
-Wie hatte er das glauben können? Warum in aller Welt hatte er diesen Arschlöchern das geglaubt? Warum? Er sprang auf, riss an den Handfesseln, die klirrten wie in einem mittelalterlichen Kerkerverließ.
-Dann schrie er so laut er konnte: „Schweine! Schweine! Arschlöscher!“ Die zwei Männer hinter ihm packten ihn und drückten ihn auf den Tisch.
+Wie hatte er das glauben können?
+Warum in aller Welt hatte er diesen Arschlöchern das geglaubt?
+Warum?
+Er sprang auf, riss an den Handfesseln, die klirrten wie in einem mittelalterlichen Kerkerverließ.
+Dann schrie er so laut er konnte: „Arschlöcher! Solche Arschlöcher!!“
+Die zwei Männer hinter ihm packten ihn und drückten ihn auf den Tisch.
 Einer holte mit einer Handbewegung ein schwarzes Klebeband heraus und riss ein Stück ab.
 Der andere hielt derweil Marwins Kopf bereit.
 
@@ -81,7 +107,7 @@ Es stirbt doch niemand, wenn er schreit.
 Gehen Sie zurück in ihre Ecken!“
 
 Marwin lag heulend auf dem Tisch.
-Er wimmerte: „Schweine, Schweine, Schweine.“
+Er wimmerte: Arschlöcher, Arschlöcher, Arschlöcher.“
 
 Der Mann und die Frau blickten eine Weile auf Marwin, wie er mit den Händen über dem Kopf auf dem Tisch lag, und sahen sich dann an.
 Der Mann zuckte mit den Schultern, griff nach seinem Ordner auf dem Tisch und wollte aufstehen.
@@ -95,7 +121,7 @@ Nach einer Weile schaute Marwin hoch und wischte sich die Tränen aus den Augen.
 Die Frau schob ihm eine Packung Papiertaschentücher zu.
 Er ignorierte sie.
 
-Marwin schaute sie an: „Wo ist Marlene?“
+Marwin schaute sie an: „Wo ist Marlene jetzt?“
 
 Die Frau blickte kurz nach unten: „Ich weiß, dass das unendlich schwer zu ertragen ist.
 Aber wir müssen da jetzt durch.
@@ -119,10 +145,11 @@ Das gab ihm neue Kraft.
 Er hatte nach der Frage, wo Marlene sei, in den Augen der Frau gesehen, dass sie sie kannte und vielleicht sogar wusste, wo sie war.
 „Gott!“, durchfuhr ihn ein Gedanke.
 Ihm stockte der Atem.
-„Sie wollen Mari.
+„Sie wollen Marlene.
 Und sie brauchen mich dafür … Nein! Nein.
 Nein, das werden sie nicht bekommen.
 Lieber sterbe ich.
-Ich bleibe hier! Wenn Mari es bis jetzt geschafft hat, dann hat sie die Welt durchgepflügt, dann steht an einigen Stellen kein Stein mehr so wie er war.“
-Er kannte sie gut.
-Er lächelte leicht und dachte: „Ihr habt euch mit Mari angelegt … jetzt müsst ihr allein sehen, wie ihr da wieder herauskommt.“
+Ich bleibe hier!
+Wenn Marli es bis jetzt geschafft hat, dann hat sie die Welt durchgepflügt, dann steht an einigen Stellen kein Stein mehr so wie er war.“
+Sie war so.
+Er lächelte leicht und dachte: „Ihr habt euch mit Marli angelegt … jetzt müsst ihr allein sehen, wie ihr da wieder herauskommt.“
