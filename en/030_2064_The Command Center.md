@@ -1,17 +1,21 @@
+## **2064** The command center
 
-## **2064** The Command Center
+<span style="font-variant:small-caps;">Marlene went down the rock with Lilly</span>.
+They passed by the dark green hyper-door, which stood at the foot of the rock.
+Lasse and Sigur behind them disappeared in it with a slight blue twitch of light.
 
-<span style="font-variant:small-caps;">Marlene ran down the rock with Lilly</span>. At the dark green hyper-door, which stood at the foot of the rock, they passed by. Lasse and Sigur disappeared behind them with a slight blue twitch of light.
+Marlene: "What happened?
+Why did you call me?"
 
-Marlene: "What's up? Why did you come for me?"
-
-Lilly: "One of the Ravens came flying in and said that there was a problem at the KCT and you were needed. That is as sweet as the Ravens land in front of you, bow down and then wait until you have full consciousness with them."
+Lilly: "One of the ravens came flying in and said there was a problem at the KCT and you were needed.
+That's so sweet when the ravens are landing in front of you, bowing and waiting until you have full consciousness with them."
 
 Marlene: "A raven lands before you?"
 She shook her head.
-Then I guess you're part of the game management now.
-They've accepted you.
-"Pretty fast."
+"How did this go?
+Then you're probably part of the game management now.
+They have accepted you.
+Pretty fast."
 
 Lilly: "What's the KCT?"
 
@@ -21,78 +25,89 @@ But that's not for you yet."
 Lilly got shiny eyes and looked at Marlene.
 
 Marlene: "No! No. No ...
-You're 12.
-You can't do that.
-This is serious.
-It's not part of the game anymore.
-It's part of the defense.
+You are 12.
+You can't go there.
+Taurus is serious.
+That is no longer in the secure play area.
+That's part of the defense.
 The real defense."
 
-Lilly didn't take her eyes from Marlene.
-Lilly: "I know. Taurus, the conspiracy, Saruman."
+Lilly didn't take her eyes off Marlene.
 
-Marlene looked at her in amazement: "How do you know?"
+Lilly: "I know Taurus, the conspiracy, Saruman's hackers."
+
+Marlene looked at her in astonishment: "Where from ... do you know that?"
 
 Lilly: "You write about it in your biography."
 
-Marlene: "That is not a word about a conspiracy and not a word about Saruman and not a word about Taurus.
-That's just a description of what could happen if hackers were trying to invade."
+Marlene: "There's not a word about the conspiracy and not a word about Saruman and nothing at all about Taurus.
+It's just a description of what could happen if there were hackers trying to invade."
 
-Lilly looked at Marlene from the corner of her eye: "Come. It was apparent that it wasn't just a theory.
-That was way too concrete.
+Lilly looked at Marlene from the corner of her eye: "Come on.
+It was clear that it wasn't just theory.
+That was far too concrete.
 I understood that the first time I read it.
-And I found the rest in the archive of your biography."
+And then I found the rest in the archive of your biography."
 
-Marlene: "You hacked my archive? Fuck."
+Marlene: "In my archive?
+That's not public.
+You hacked my archive?
+Fuck!
+Lilly?"
 
-Lilly looked down briefly: "Did I do something terrible?
-That wasn't too well protected.
-If you really wanted no one to get this, then..."
+Lilly looked down briefly: "Hej ... that wasn't soooo well protected.
+If you really wanted nobody to get that, then..."
 
-Marlene: "...it was a private archive, not a vulnerability database..."
+Marlene: "... it was a private archive, not a vulnerability database ..."
 
-Lilly: "Information that is for everyone."
+Lilly: "There was a lot of information that was for everyone.
+You can't just hold it back like that."
 
-Marlene: "For all adults!"
+Marlene: "Information for all adults!
+Anyone who wanted it could get it."
 
-They looked at each other in the eye.
+Lilly: "Exactly."
 
-Marlene looked down briefly and then nodded: "Good.
-Okay. Okay.
+They looked into each other's eyes.
+
+Marlene looked briefly to the ground and then nodded: "Good.
+Okay.
 You came in on your own, you didn't see any personal information.
 It's okay.
-Did any of that mess with your head?
+Did any of that mess you up?
 Do you have any questions about what you saw there?"
 
-Lilly got her glowing eyes again: "Thousands."
-She smiled carefully.
+Lilly got her shining eyes again: "Thousands."
+She smiled.
 
-Marlene: "Lilly! I'm serious about this.
-Some things can be disturbing.
-Some people have nightmares about it."
+Marlene: "Lilly! I mean that seriously.
+There are things there that can be disturbing.
+There are people who have suffered traumas because of it.
+Some of them still have them today."
 
-Lilly: "I want to know.
-I'm serious.
-I know the Academy is under constant attack."
+Lilly: "I want to know those things.
+Seriously.
+I know that the Academy is under constant attack."
 
 Marlene stroked her hand over her mouth and closed her eyes.
-She stood with her eyes closed for a while, opened her again, and looked at Lilly seriously:
-"Well, then come on to the KCT."
+She stood with her eyes closed for a while, opened them again and looked at Lilly seriously:
+"Good, then come with me."
 
-Lilly lifted her arms: "Yep!"
+Lilly tore her arms up: "Yep!"
 
-Marlene touched the amulet hanging around her neck, muttered something and then clearly said, "Promote Lilly Browdowin to apprentice defense admin."
+Marlene touched the amulet hanging around her neck, mumbled something and then said clearly: "Promote Lilly Browdowin to Defense Administrator Apprentice."
 
-A red hyper-door appeared to Lilly's right.
-She got scared easily.
+To the right of Lilly appeared a red hyper-door.
+She got a little fright.
+Lilly: "Wow! So, fast. Not even a fairy for feedback?"
 
-Lilly: "Wow! So, quick. No fairy for feedback?"
-
-Marlene: "Old Linux rule: No news is good news. If it works, there's no message.
+Marlene: "Old Linux rule: No news is good news.
+If it works, then no message comes.
 Welcome to the defense of the Academy!"
 
 Lilly breathed deeply: "Wow!"
 
-Marlene pointed to the door, and Lilly walked through.
+Marlene pointed to the door and Lilly walked through.
+There was a slight purple twitch of light, and she was gone.
 Marlene followed her.
 

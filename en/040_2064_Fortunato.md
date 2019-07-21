@@ -28,7 +28,7 @@ He started knocking.
 Lasse: "Stop! We're to wait, they said."
 
 Sigur: "No, it wasn't.
-They said, "Meet Frederick Petterson at 15:31 on Avenida Oeste 13, Caracas, Venezuela, second floor, room 433.
+They said, "Meet Fredrik Petrusson at 15:31 on Avenida Oeste 13, Caracas, Venezuela, second floor, room 433.
 We're not in room 433 right now." He started knocking again.
 
 Lasse: "Wait, we..."
@@ -40,10 +40,10 @@ The man took a step to the side and hurried past Lasse towards the elevator.
 
 Sigur looked at him perplexed.
 
-Lasse shouted: "Mr. Petterson," although the man didn't look a bit like "Petterson," much more like "Rodriguez."
+Lasse shouted: "Mr. Petrusson," although the man didn't look a bit like "Petrusson," much more like "Rodriguez."
 
 The man stopped, waited a moment, then turned to Lasse and approached him.
-He whispered, "Fortunato, not Petterson, not here."
+He whispered, "Fortunato, not Petrusson, not here."
 He looked at both of them wildly.
 "Come with me! We must go to a place where we can speak freely."
 In the parking lot in front of the courthouse, they got into a huge Toyota pickup, an older model, with bumps and scratches on all sides.
@@ -54,14 +54,14 @@ Lasse and Sigur looked at each other.
 
 Lasse: "Maybe."
 
-Frederick: "You're hackers.
+Fredrik: "You're hackers.
 I'm always very well informed.
 It must be me.
 That's my job."
 
 Sigur: "What are you doing?"
 
-Frederick: "I deal with drugs.
+Fredrik: "I deal with drugs.
 But no street vending, no soft drugs.
 Just wholesale, just real stuff, only on the Internet.
 Do you need a ship with cocaine? 500 kilos? Colombia, wonderful stuff.

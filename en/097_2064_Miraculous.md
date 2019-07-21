@@ -115,7 +115,7 @@ Or maybe not.
 I'm not sure.
 The academy's rule masters sometimes have strange views.
 You'd better ask the bear.
-But you weren't in the fighting robot at all.
+But you weren't in the combat robot at all.
 You were in a bunker pushing buttons, that's all.
 Like a coward."
 

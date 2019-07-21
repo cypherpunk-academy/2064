@@ -119,7 +119,7 @@ Get out of the car, side ditch."
 
 Trevor made an emergency stop on the hard shoulder.
 Both jumped out of the car and threw themselves over the crash barriers into a ditch.
-The fighting robot flew over them, much slower this time, turned once more and then stopped in the air turned towards them.
+The combat robot flew over them, much slower this time, turned once more and then stopped in the air turned towards them.
 Lasse and Trevor buried their heads under their arms and bit their teeth.
 They trembled all over.
 But nothing happened.
@@ -143,7 +143,7 @@ Who makes such turns with a Reaper MQ-11?
 A CIA pilot?
 Forget it."
 
-Lasse: "That's your fighting robot?
+Lasse: "That's your combat robot?
 You stole it?"
 
 Sigur: "Borrowed!
