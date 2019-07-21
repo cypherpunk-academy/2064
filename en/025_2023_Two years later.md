@@ -4,24 +4,27 @@
 <span style="font-variant:small-caps;">Marwin's prison cell</span> was three by two meters.
 It didn't have a window.
 There was only one bed, a bucket, and a towel.
-A biting stench filled the room.
+A terrible stench filled the room.
 Marwin layed with closed eyes on the bed.
 He didn't know what time of day it was.
 It was pitch-black.
 It was almost always pitch-black.
 
 "Shit," Marwin said quietly and straightened up.
-He breathed a moment and then shouted at the door, "Hello! I need a new towel!"
+He took a breath and then shouted at the door, "Hello! I need a new towel!"
 
 No response from outside.
 He sank back and quietly said to himself: "I must not fall back into that fucking rage again.
 It's eating up my brain.
-The boys and girls out there are my enemies, fine... but I'm not their enemy! Shit."
+The boys and girls out there see me as their enemy, ok.
+But I don't see them as my enemy!
+I don't!
+Shit."
 He breathed.
-"I'm not their enemy.
-I'm not their enemy."
-He stood up again, put his hands on his legs, and breathed deeply and slowly.
-"Don't fight against them!" 
+"They are not my enemies".
+"They are not my enemies".
+He raised up again, put his hands on his legs, and breathed deeply and slowly.
+"I don't fight against them!" 
 He pressed his hands on his legs and breathed deeply out and in.
 "No opposition," he mumbled again, and a tear filled his eye.
 "I don't want to go crazy."
@@ -31,7 +34,7 @@ He moaned and bit his lips.
 It still hurted like hell.
 He didn't even know for sure how it happened.
 But it was probably the baseball bat that stood behind him in the corner during the last interrogation.
-He couldn't remember the blow.
+He couldn't remember being hit with it.
 
 What the hell could they still want from him after two years?
 He was out of his circles, two years without hacks, without communication.
@@ -48,13 +51,13 @@ Glistening light.
 He raised his hands up to protect his eyes.
 Too late.
 He felt that stabbing pain again, like a knife into his eyes.
-It happened every time when he was in darkness for a few days, and it suddenly it got light.
-All he thought was, "You assholes!"
+It happened every time when he was in darkness for a few days and it suddenly got light.
+The only thought that went through his head was: "You assholes!"
 
 The last book he had read before his arrest was by Marshall Rosenberg: Nonviolent Communication.
 It was about how to solve conflicts by empathizing with others.
 Such an irony of fate: Rosenberg said that you can understand every other person.
-When he was in Marwin's age, he had set himself the goal of developing so much empathy that he could feel into Adolf Hitler and understand why he did what he did.
+When he was in Marwin's age, he had set himself the goal of developing as much empathy that he could feel into Adolf Hitler and understand why he did what he did.
 No, that was no irony of fate, that was sheer cynicism of life.
 "Rosenberg took on Hitler.
 And me?" Marwin thought.
@@ -75,4 +78,6 @@ Boom, he got hit on the back.
 Soldier: "Up! Hurry, hurry.
 Shower first.
 Your smell makes me want to puke."
+
+They led him out of the room.
 

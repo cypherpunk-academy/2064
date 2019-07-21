@@ -2,7 +2,7 @@
 ## **1913** Bullying
 ____
 After the speech, in the guest room of a pub.
-Wilhelm, Hilde, a driver, and Adolf, a party official.
+Wilhelm, Hilde, a driver, and Adolf, a member of the Socialist Party.
 
 Wilhelm: "Thank you, Hilde!
 For your lecture earlier.
@@ -43,11 +43,11 @@ Hilde: "Adolf can accompany me, can't he?"
 Wilhelm nodded, and Adolf began to pack his things together.
 Wilhelm stood up and walked around the table to embrace Hilde.
 
-Wilhelm: "Take care of yourself!"
+Wilhelm: "Be careful!"
 
 Hilde: "I will.
 It's not that far.
-You take care of yourself!"
+You should be careful!"
 
 Hilde leaves the room with Adolf.
 
@@ -60,7 +60,7 @@ At the same moment, two middle-aged men in grey suits sit next to and opposite o
 Wilhelm frightened: "What is this?"
 He takes turns looking at both of them.
 His voice trembles slightly.
-The two men look back a little indifferently.
+The two men answer his look a indifferently.
 
 Wilhelm: "What do you want from me?"
 
@@ -69,7 +69,7 @@ Smart thinking.
 Pure poison.
 It can disorientate and seduce people."
 
-A second man with a slightly red face: "You traitor!
+The second man, with a slightly red face: "You traitor!
 If it's up to guys like you, no one in Germany will be willing to fight anymore.
 And then the French and the Russian overrun us, and it's over with Germany."
 
@@ -95,11 +95,12 @@ The second man looked at him coldly and grinned, "It would be my pleasure."
 
 First man: "It all depends on how you behave from now on.
 The people I work for have little patience.
-You're are so close of being handled.
+You are so close of being handled.
 Think carefully about your next steps."
 
 Then both stand up and leave the room.
 
 Wilhelm puts his face in his hands.
-____
+He stays sitting there for some minutes.
+Then he also stands up and leaves the pub through the back door.
 

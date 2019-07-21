@@ -7,11 +7,11 @@ Marlene's parents were paralized.
 Voices roared, rumbles of breaking doors.
 Loud trampling in the stairwell, then after a short time a rumble again.
 They looked at each other.
-The clock showed four o'clock in the morning.
+The clock showed 4am.
 
 Mother: "For God's sake! What's that?"
 
-She reached for his hand.
+She reached for her husbands hand.
 
 Father, excited: "Maybe a swat team!
 Shit.
@@ -55,7 +55,7 @@ Mother and father looked at each other in surprise.
 "Down in the cellar!" the father replied.
 
 Soldier: "No! She is not in the cellar."
-He held his gun to his father's head.
+He held his gun to the father's head.
 
 Father, shivering: "Then I don't know.
 I don't know.
@@ -68,5 +68,7 @@ The van with which they had come roared away with screeching tires.
 
 The mother ran out of the room: Marlene! Marlene!"
 The father jumped to the window and tried to get a look at the van.
+It was a Hummer, a vehicle that was often used in the American army.
 
-
+He was astonished.
+Those were not very common in Berlin.
