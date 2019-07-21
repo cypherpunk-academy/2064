@@ -1,158 +1,166 @@
-
 ## **2064** A new task
 
-<span style="font-variant:small-caps;">Lasse and Sigur</span> ran up the grass path to a round hut standing on a big rock.
+<span style="font-variant:small-caps;">Lasse and Sigur</span> walked up the grass path to a round hut standing on a big rock.
+It was stunning how real this scene appeared to them, though it was only a computer simulation.
+They could even smell the air.
 The evening sun completely illuminated the hut.
 It consisted of a circle of man-high stones and a shingled wooden roof on wooden stilts.
 It was open to the sunny side.
 There was a campfire burning in the middle.
-Lilly sat in front of the hut on the rock and looked into a vast landscape of fields, gardens, houses, and a lake.
+Lilly sat in front of the hut on the rock and looked into a vast landscape of fields, gardens, houses and a lake.
 
-Lilly called them both welcome: "Hej, hej, just go inside.
+Lilly nodded to Lasse and Sigur: "Hej, hej, you two, just go in.
 She's waiting."
 
 Lasse and Sigur went left and right past the campfire into the hut.
-Inside, Marlene waited on a big pillow, in front of her a small table with tea.
-She greeted her with a warm smile.
+Inside, Marlene waited on a big pillow, in front of her a small table with tea pot and three cups.
+She greeted them with a warm smile.
 
 Marlene: "Sit down.
 Have some tea."
 
 She watched the two of them pour their tea.
-Lasse liked being here in this hut.
-It had a unique atmosphere.
-Maybe it was the big stones, or the beautiful, very asymmetrical wooden roof, perhaps it was just Marlene's smile.
-He could get quiet inside here.
+Lasse liked to be here in this hut.
+It had a special atmosphere.
+Maybe it was the big stones, or the beautiful, very asymmetrical wooden roof, maybe it was just Marlene's smile.
+He could become calm inside here.
 Sigur was here for the first time.
-He didn't really feel well, didn't understand what it was all for and why he should come here.
-He would much rather have simply read in the match report what had happened and what the consequences were.
-Simple, matter-of-fact, not some fuss around it.
+He didn't really feel well, didn't understand what this was all about and why he should come here.
+He would much rather have simply read in the game report what had happened and what the consequences were.
+Simple, matter-of-fact, not such a fuss around it.
 What difference does it make when you sit in such a virtual hut?
-More than in the match report could not happen here.
+More could not happen here than in a game report.
 
 Lasse: "Marlene ..."
 
-She interrupted, "I know, Lasse."
+She interrupted him, "I know, Lasse."
 
-She took a pencil and drew with it on a sheet of paper in front of her a five-star, with a star point open.
+She took a pencil and drew with it on a sheet of paper in front of her a five star with one peak open.
 
 Marlene: "Do you know what this is?"
 
-Sigur shrugged his shoulders, "A Five Star."
+Sigur shrugged his shoulders: "A five star".
 
-Marlene pointed to the vacancy.
+Marlene pointed to the open peak.
 
-Lasse: "The sign had the combat robots in front on the top.
+Lasse: "The combat robots had this sign on each side.
 But you have to turn it around.
-The vacancy must be on top."
+The open spot must be at the top."
 
-Marlene nodded: "Exactly! That's the Sorat Rangers' sign.
-They are always five."
+Marlene nodded: "Exactly!
+That's the sign of the Sorat Rangers.
+There's always five."
 
 Lasse: "The Sorat Rangers!
 Five.
-Are you saying that that was the Sorat Rangers? Fuck.
-No. No.
+Does that mean those  just ... those were the Sorat Rangers?
+Fuck.
+No."
 
 Sigur: "No.
-No way. No way.
-They weren't."
+Absolutely not.
+They weren't.
+Impossible."
 
-Marlene grabbed her nose and said, "Why not?"
+Marlene grabbed her nose: "Why not?"
 
-Sigur: "The Sorat Rangers are an elite unit of the CIA, they are _the_ elite combat robot unit of the CIA.
+Sigur: "The Sorat Rangers is an elite unit of the CIA, it is _the_ elite combat robot unit of the CIA.
 They come when there's something big going on.
 And when they come, they clean up.
-They have an efficiency of 100%.
-All missions successfully completed, never lost a robot.
-We don't just take them from heaven without preparation.
-They're the best of the best.
-We would need twenty flying combat robots, and then well-programmed formations, a good tactic.
-But not me and Lasse just like that, from a standing start.
-Forget it, man.
+They have a 100% efficiency.
+All missions successfully completed, they never lost one robot.
+Me and Lasse don't just take them out without thorough preparation.
+These are the best of the best.
+We would need twenty flying combat robots, and then well programmed formations, good tactics.
+But not me and Lasse just like that, meeting them by chance.
+Forget it.
 TRON is realistic."
 
 Marlene: "If the Sorat Rangers were what they're supposed to be, you'd be right.
-Then that would probably have ended badly for you.
-But you're not.
-I'm sorry you fell for the CIA intimidation propaganda.
-The Sorat Rangers are a group responsible for assassinations, not for real ones.
-They do not have to be the best of the best to always be successful, because their orders are all placed.
-They are good pilots, but not the absolute elite.
-That's how it is in TRON, and it really was."
+Then it would probably have ended badly for you.
+But they're not.
+Unfortunately, you fell for the CIA intimidation propaganda.
+The Sorat Rangers are a group responsible for staged assassinations, not for real ones.
+They don't have to be the best of the best to always succeed, because their missions are all staged.
+They are good pilots, but not absolute elite.
+That's how they are in TRON and that's how it was in reality."
 
-Lasse: "In reality? You were real? It was real?"
+Lasse: "In reality?
+They were real?
+They existed in real?"
 
-Marlene nodded: "Mhmh.
-And when you caught them today, the formation was on its way to a mission that actually took place in 2027.
-A meeting of presidents and army leaders of the Middle East, in Kandahar.
-At that moment, they were being attacked by other combat robots, by Russian ones, but in reality, they were also attacked by the CIA, or
-a CIA friendly intelligence agency.
-It was probably the Mossad.
-We don't know for sure.
-Anyway, after this, it went horrible.
+Marlene nodded: "Mh mh.
+And just when you caught them today, the formation was on its way to a mission that actually took place in 2027.
+TRON is currently a little behind time.
+A meeting of presidents and army leaders of the Middle East, in Khandahar.
+At the same time yoiu fought with them, this meeting was attacked by other combat robots, by Russian ones, which in reality were also staged by the CIA or a friendly secret service.
+Probably it was the Mossad.
+We do not know for sure.
+In any case, it went very badly wrong.
 In TRON and also in reality.
-Because the Five Star isn't coming.
-They'll be shot down shortly before that.
-A few minutes earlier.
-We don't know why it really was like that... in TRON we do.
-In TRON, you were.
-What is happening right now is that due to some misunderstandings in the control center and two wrong commands, the whole assembly is bombed into the air.
-Everything will be razed to the ground.
-There were 122 deaths.
-Seven of them presidents."
+Because the Five Star, that was not coming.
+They were shot down shortly before.
+A few minutes before.
+We don't know why it was like that in reality ... in TRON we know it.
+In TRON you did that.
+What is happening right now is that through some misunderstandings in the control center and two false commands the whole meeting there is being bombed to the ground.
+There were 122 dead.
+Among them were seven presidents."
 
-Lasse: "The Middle East War! Then came the Middle East War!"
+Lasse: "The Middle East War!
+Then came the Middle East War!"
 
 Sigur: "With the atomic bomb on Salina.
 Shit."
 
 Marlene: "Not yet.
-Something's missing."
+Something is still missing."
 
 Lasse and Sigur looked at Marlene.
 
-Marlene: "The masterminds of this sham attack must not remain hidden.
-It has to be clear that all this was fake and went in the pants.
-A then, then the war comes.
-Or something else will come.
-And you shall..."
+Marlene: "The masterminds of this staged attack must not remain hidden.
+It must be clear that all of this was staged and went horribly wrong.
 
-Lasse: "...we are to uncover this.
+Then, then the war comes.
+Otherwise something else will come.
+And you shall ..."
+
+Lasse: "...we shall uncover this.
 We're supposed to find out who did this at the CIA."
 
-Sigur: "What else would come if it weren't for the Middle East War?"
+Sigur: "What else would come if there were no Middle East War?"
 
-Marlene: "No, not in the CIA.
-There's a previously unknown intelligence agency in the United States responsible for this.
-The CIA is just a cover in this case.
-The Sorat Rangers are flying for unknown intelligence.
-And you have to find him.
-That's the job.
-Go to that conference in Caracas in three days and meet a Frederick Peterson at that exact time in that place.
-Then you'll have a chance."
+Marlene: "No, not at the CIA.
+There is a yet unknown secret service in the USA that is responsible for this.
+The CIA is in this case also only camouflage.
+The Sorat Rangers fly for the unknown secret service.
+And you have to find it.
+That's the job."
 
 She gave Lasse a note.
 
-Lasse looked at her: "Venezuela?"
+Marlene: "Go to this conference in Caracas in three days and meet a Fredrik Peterson at exactly this time of day in this place.
+Then you will have a chance."
 
-Sigur: "And if it comes differently? Then won't the atomic bomb be dropped?"
+Lasse looked at the note: "Venezuela?"
+
+Sigur: "And if it comes differently?
+If there is no war, will the atomic bomb not be thrown?"
 
 Marlene: "I know what you're thinking:
-You should ensure that there is a war in which a nuclear bomb is detonated, and many people die.
-You don't have to do this.
-You have to think for yourself and decide what you feel is right.
-I'm just saying find out and make it known that there's this as yet unknown secret service.
-And how he works."
+Your mission is to ensure that there is a war in which a nuclear bomb is detonated and many people die.
+You don't have to do that.
+You have to think for yourself and decide what you think is right.
+All I'm saying is that you should find out and make known that this yet unknown secret service exists.
+And how it works."
 
 Lilly stood in the entrance and gave Marlene a sign.
 
 Marlene: "Okay.
-I gotta go. I gotta go.
+I have to go.
 Good luck to you, Cypherpunks."
 
 She got up and went out.
 Lasse followed her after a short time.
 
-"I'm not a Cypherpunk," Sigur mumbled and trotted out of the hut behind Lasse.
-
+"I'm no Cypherpunk," Sigur mumbled and trotted out of the hut behind Lasse.

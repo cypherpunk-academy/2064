@@ -7,7 +7,7 @@ Zur Sonnenseite hin war sie offen.
 Dort brannte in der Mitte ein Lagerfeuer.
 Lilly saß vor der Hütte auf dem Felsen und blickte in eine weitläufige Landschaft aus Äckern, Gärten, Häusern und einem See.
 
-Lilly hieß die beiden willkomen: „Hej, hej, geht nur rein.
+Lilly nickte Lasse und Sigur zu: „Hej, hej, ihr beiden, geht nur rein.
 Sie wartet schon.“
 
 Lasse und Sigur gingen links und rechts am Lagerfeuer vorbei in die Hütte.
@@ -50,7 +50,8 @@ Es sind immer fünf.“
 
 Lasse: „Die Sorat Rangers!
 Fünf.
-Soll das heißen, dass das eben … das eben waren die Sorat Rangers? Fuck.
+Soll das heißen, dass das eben … das eben waren die Sorat Rangers?
+Fuck.
 Nein.“
 
 Sigur: „Nee.
@@ -80,12 +81,14 @@ Sie müssen nicht die Besten der Besten sein, um immer Erfolg zu haben, weil ihr
 Sie sind gute Piloten, aber nicht absolute Elite.
 Das ist in TRON so und das war auch in Wirklichkeit so.“
 
-Lasse: „In Wirklichkeit? Sie waren echt? Es gab sie in echt?“
+Lasse: „In Wirklichkeit?
+Sie waren echt?
+Es gab sie in echt?“
 
-Marlene nickte: „Mhmh.
+Marlene nickte: „Mh mh.
 Und als ihr sie heute erwischt habt, war die Formation gerade unterwegs zu einer Mission, die in Wirklichkeit im Jahr 2027 stattgefunden hat.
 Ein Treffen von Staatspräsidenten und Armeeführern des Nahen Ostens, in Khandahar.
-Die wurden in dem Augenblick gerade von anderen Kampfrobotern angegriffen, von russischen, die in Wirklichkeit aber auch von der CIA, bzw.
+Die wurden zur gleichen Zeit gerade von anderen Kampfrobotern angegriffen, von russischen, die in Wirklichkeit aber auch von der CIA, bzw.
 einem befreundeten Geheimdienst geflogen werden.
 Wahrscheinlich war es der Mossad.
 Wir wissen das nicht sicher.
@@ -96,12 +99,12 @@ Sie werden kurz vorher abgeschossen.
 Ein paar Minuten vorher.
 Wir wissen nicht, warum das in Wirklichkeit so war … in TRON wissen wir es.
 In TRON ward ihr das.
-Was jetzt gerade im weiteren Verlauf passiert, ist, dass durch einige Missverständnisse in der Leitstelle und zwei falsche Kommandos die gesamte Versammlung dort in die Luft gebombt wird.
-Alles wird dem Erdboden gleich gemacht.
+Was jetzt gerade im weiteren Verlauf passiert, ist, dass durch einige Missverständnisse in der Leitstelle und zwei falsche Kommandos die gesamte Versammlung dort in Grund und Boden gebombt wird.
 Es gab 122 Tote.
 Darunter sieben Staatspräsidenten.“
 
-Lasse: „Der Mittelost-Krieg! Dann kam der Mittelost-Krieg!“
+Lasse: „Der Mittelost-Krieg!
+Dann kam der Mittelost-Krieg!“
 
 Sigur: „Mit der Atombombe auf Salina.
 Scheiße.“
@@ -120,20 +123,21 @@ Und ihr sollt …“
 Lasse: „… wir sollen das aufdecken.
 Wir sollen herausfinden, wer das bei der CIA gemacht hat.“
 
-Sigur: „Was käme denn Anderes, wenn nicht der Mittelost-Krieg?“
+Sigur: „Was käme denn anderes, wenn nicht der Mittelost-Krieg?“
 
 Marlene: „Nein, nicht bei der CIA.
 Es gibt einen bislang unbekannten Geheimdienst in den USA, der für das hier verantwortlich ist.
 Die CIA ist in diesem Fall auch nur Tarnung.
 Die Sorat-Rangers fliegen für den unbekannten Geheimdienst.
 Und den müsst ihr finden.
-Das ist die Aufgabe.
-Geht in drei Tagen zu dieser Konferenz in Caracas und trefft genau um diese Uhrzeit an diesem Ort einen Frederick Peterson.
-Dann werdet ihr eine Chance haben.“
+Das ist die Aufgabe.“
 
 Sie gab Lasse einen Zettel.
 
-Lasse schaute sie an: „Venezuela?“
+Marlene: „Geht in drei Tagen zu dieser Konferenz in Caracas und trefft genau um diese Uhrzeit an diesem Ort einen Frederick Peterson.
+Dann werdet ihr eine Chance haben.“
+
+Lasse schaute auf den Zettel: „Venezuela?“
 
 Sigur: „Und wenn es anders kommt? Wird dann die Atombombe nicht geworfen?“
 
