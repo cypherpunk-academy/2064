@@ -1,113 +1,131 @@
+## **1915**** After the bomb.
 
-## **1915**** After the bomb
-
-### Brandenburg Gate, after a bomb explosion
+### SCENE 5: Brandenburg Gate, after a bomb explosion
 ____
-Thick smoke over the square, bleeding human bodies lying around, boulders, wooden parts.
-People are wandering across the square.
-Some bleeding, distraught, deaf.
+Dense smoke hovering over the square, bleeding human bodies lying around, boulders, wooden parts.
+People lie scattered, bleeding, partly with twisted limbs, some sitting, embracing each other, others strayed across the square, distraught, deaf.
 
-Hilde walks excitedly towards the place where Wilhelm talked to the people half an hour ago.
-The lectern's gone.
-In the hustle and bustle around the spot, she sees Adolf kneeling and bending over an unconscious woman, desperately trying to squeeze a piece of cloth off a wound in her belly.
+Hilde runs hastily towards the place where Wilhelm spoke to the people half an hour ago.
+The platform has disappeared.
+In the hustle and bustle around the place she sees Adolf bent over an unconscious woman on his knees and desperately trying to press a shred of cloth on a heavy bleeding wound on her belly.
 
-Hilde: "Adolf!" She runs to him, looks at the woman, then at him again: "Adolf! Hej!" Adolf looks at her hectically: "We need paramedics."
+Hilde: "Adolf!"
+She runs to him, looks at the woman, then at him again: "Adolf! Hej!"
+Adolf looks at her hectically, shouts: "We need medics."
 
-Hilde: "Come on, let me do it.
-I need your knife, and that shear over there."
-She's pointing to the stage.
-Adolf jumps up and returns a few moments later with the string.
-Hilde has cut the woman's clothes open in the meantime and is now cleaning the wound with her own cloth.
-She's bleeding badly.
-With the rope, she ties the woman's arm, which is also injured.
-Then she presses the cloth onto her stomach.
-"There's something else in there.
-She has to go to the hospital.
-Go get a medic." Adolf disappears in the crowd.
-Marlene tests the woman's breath with her ear on her mouth.
-She's scared.
-With one arm she pulls a man who is working his way past her towards her, presses the cloth into his hand and instructs him to press it onto the wound.
-Then she starts to push with both hands firmly against the chest.
-Three, four times, then she hears on her chest again.
-Three more times, four more times.
+Hilde: "Come, let me do that.
+I need your knife and that string over there."
+She points towards the stage.
+Adolf jumps up and comes back a few moments later with the string.
+Hilde has cut the woman's clothes open in the meantime and is about to clean the wound with her own cloth.
+More and more blood is flowing.
+With the rope she ties the woman's arm, which is also injured.
+Then she presses the cloth onto her belly.
+"There is still something in it.
+She has to go to hospital.
+Go get a medic."
+Adolf disappears in the crowd.
+
+Hilde checks the woman's breath with her ear on her mouth.
+She got a shock.
+With one arm she pulls a man who just wants to pass by her, presses the cloth into his hand and instructs him to press it onto the wound.
+Then she begins to push strongly against the chest with both hands.
+Three, four times, then she hears the chest again.
+Three more times, four times.
 Listen.
-Over and over again.
+Again and again.
 Time passes.
-Where was Adolf? After endless minutes, he comes.
-A paramedic in tow.
-He kneels right next to the woman.
-Feel your pulse and check your breath.
+"Where was Adolf?"
+
+After endless minutes he comes.
+With a paramedic.
+He immediately kneels next to the woman.
+Feels her pulse and checks her breath.
 
 Paramedic: "How long?"
 
-Hilde: "5 to 6 minutes."
+Hilde: "5 to 6 minutes"
 
 The paramedic gets up, "She's dead." He turns around and disappears into the crowd.
 
-Hilde looks at Adolf and says, "Do you know where he is?" Adolf looks distraught at the woman, then at Hilde, then again at the woman.
+Hilde looks at Adolf: "Do you know where he is?" Adolf looks distraught at the woman, then at Hilde, then again at the woman.
 
 Hilde: "Adolf! Wilhelm.
 Do you know where Wilhelm is?"
 
 Adolf confuses: "I don't know.
-Where? Where? Wilhelm?
-The woman's dead.
-Wilhelm?
-He went over there."
-He points his arm across the square.
+Where? Wilhelm?
+The woman is dead.
+Wilhelm? 
+He went over there." 
+He points his arm somewhere across the square.
 
-Hilde takes Adolf in her arms and pushes him.
-After a while, she sets off and goes in the direction he pointed.
+Hilde takes Adolf in her arms.
+He clings to her.
+After a while she sets off and goes in the direction he has pointed.
 Adolf sits next to the dead woman, bends forward and puts his face in his hands.
 
-"Sure!" calls Hilde after the first steps and slightly changed her direction.
-She hurries across the square to a Renaissance building, in front of which there is a public telephone booth.
+"Sure," Hilde calls after the first steps and slightly changes her direction.
+She hurries across the square to a Renaissance building with a public telephone booth in front of it.
 There she finds Wilhelm, telephone receiver in his hand, his coat hanging over his shoulder, gesticulating wildly.
 
-"Thank God!" Hilde breathes a sigh of relief.
+"Thank God! Hilde exhales with relief.
 She goes to him and lays her hand on his back.
-He looks briefly over her shoulder, smiles at her, and turns back to the phone.
+He looks briefly over his shoulder, smiles at her and turns back to the phone.
 
-Wilhelm yells: "We need more ambulances! Professor! There are probably 50 people left unattended to here, in my field of vision alone.
-...  Brandenburg Gate ... West side ... Send what you have.?
+Wilhelm yells: "We need more ambulances!
+Professor!
+I'm sure there are 50 people left here who are not helped yet, in my field of vision alone.
+--- Brandenburg Gate.
+West side.
+--- Send what you have.
 
 He slams the receiver on the fork and turns to Hilde.
-They're hugging.
-But Hilde suddenly unlocks and grabs his arm.
+They hug each other.
+But Hilde suddenly releases and grabs his arm.
 
-Hilde: "You're hurt!" She touches his bloody bandage on his right upper arm.
-A little blood had flowed from it towards the elbow.
+Hilde: "You are hurt!
+She touches his bloody bandage on his right upper arm.
+Some blood had flowed from it direction elbow.
 
 Wilhelm: "Yes.
-Knife thrust."
+Stab with a knife."
 
-Hilde: "What?" She looks at him in disbelief.
+Hilde: "WHAT?" She looks at him in disbelief.
 
 Wilhelm: "Yes, the cowards came shortly after the bomb and wanted to get me.
-But, PA, there were three Spartacists around the stage.
-And that was enough.
+But there were still three Spartacists around the stage.
+And that was sufficient.
 For seven attackers.
 One is dead."
 
 Hilde embraced Wilhelm firmly.
-"You have to be careful.
+"You must watch out.
 They want you.
-You'll need a Spartacist Association just for yourself from now on.
-And here you stand alone now...
-You can't do that anymore! You can't do that anymore! Let's go somewhere safe."
+From now on you need a Spartacist group just for yourself.
+And here you are alone ...
+That is no longer possible!
+You can't do that anymore!
+Let's go somewhere safe."
 
-Wilhelm: "No, it's not dangerous anymore.
-You don't do anything spontaneously.
+Wilhelm: "No, it is no longer dangerous here.
+They do nothing spontaneously.
 They plan such things, they carry out orders, they obey their superiors.
-And the superiors aren't here.
-Nothing of what's happening right now is planned.
-And they can't handle it.
-But when it comes to speeches, marches, meetings, negotiations, from now on, we have to be careful.
-You, too! Your work in the orphanages, the soup kitchens, the worker schools, creates awareness among the people.
+And the superiors are not here.
+Nothing of what is happening right now is planned.
+And they cannot deal with that.
+But at speeches, marches, meetings, negotiations, from now on we have to be careful.
+You too! Your work in the orphanages, the soup kitchens, the worker schools, it creates awareness among people.
 People like you.
-They're after those who think for themselves, who don't want to subordinate themselves.
-"Behind those who love the truth."
+They are after those who do not want to subordinate themselves.
+After those who love the truth."
 
-Hilde: "Come, Wilhelm. I don't want to stay here right now. We're going home. There's a meeting tonight so you can talk about what you want to do with it."
+Hilde: "Come, Wilhelm. I don't want to stay here now.
+I don't feel good here.
+They need you and there's a meeting tonight. You have to be there."
+
+Wilhelm: "Wait! One more call. Just one more hospital."
+
+He reached for the telephone receiver.
+Hilde stood behind him, protecting herself, and looked across the square.
 ____
-

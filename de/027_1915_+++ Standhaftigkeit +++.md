@@ -1,4 +1,4 @@
-## **1915** Kampf am Brandenburger Tor
+## **1915** Standhaftigkeit
 
 ### SZENE 4
 ____

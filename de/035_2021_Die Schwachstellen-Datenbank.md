@@ -1,6 +1,6 @@
 ## **2021** Die Schwachstellen-Datenbank
 
-<span style="font-variant:small-caps;">Marlene saß konzentriert</span> über ihren Laptop gebeugt.
+<span style="font-variant:small-caps;">Marlene saß am Tisch</span> im Boatly Hackerspace konzentriert über ihren Laptop gebeugt.
 Ein weiterer stand aufgeklappt daneben.
 Auf der anderen Seite eine Schale mit Äpfeln und Orangen, ein Teller mit Nüssen, eine offene Mate-Flasche.
 
@@ -9,7 +9,8 @@ Das Chat-Programm öffnete sich.
 
 Marlene rief erfreut: „Mohammed!“
 
-Mohammed: „Hi Marlene! Wie ist die Lage im Boatly? Irgendwelche Feinde in der Nähe?“
+Mohammed: „Hi Marlene! Wie ist die Lage im Boatly?
+Irgendwelche Feinde in der Nähe?“
 
 Marlene: „Jede Menge.
 Aber nur im Internet, noch nicht im Boot.
@@ -31,10 +32,10 @@ Nicht diesmal.
 Für Marwin!“
 
 Mohammed: „Für Marwin! … Nein, für uns alle.
-Wir brauchen das Ding, Mari.
+Wir brauchen das Ding, Marli.
 Seit du mit der Idee gekommen bist, ist es bei mir stärker und stärker geworden, dass wir ohne das gar nicht weiter kommen.
-Ich will es haben.
-Und die andern auch alle.
+Ich will sie haben, die Schwachstellendatenbank der NSA.
+Und die andern wollen das auch alle.
 Deswegen kommen 34! Julian und Kim sind auch dabei.“
 
 Marlene: „Julian und Kim! Wow.
@@ -47,20 +48,26 @@ Marlene: „Bereit.“
 
 Mohammed: „Gut.
 Das Ganze wird etwa in 15 Minuten starten.
-Wir gehen gleichzeitig in 23 Einrichtungen, alle Hochsicherheit: Banken, Militär, Geheimdienste, Ölfirmen, die deutsche Regierungszentrale.
-Wir werden Hölle machen, für 15 weitere Minuten.
+Wir gehen gleichzeitig in 23 Einrichtungen, alle Hochsicherheit: Vor allem amerikanische Regierung und Militär, aber auch ein paar Geheimdienste, Ölfirmen, die deutsche Regierungszentrale.
+Sie werden annehmen, wir wollen sie hacken.
+Großangelegte Angriffe.
+Wir haben für alle Orte Schwachstellen, wo wir an ziemlich weit rein kommen können.
+Sie werden Angst bekommen.
+Wir werden Hölle machen, für 15 weitere Minuten, aber nichts kaputt machen, nichts klauen.
 Alle relevanten Leute bei der TAO werden da überall hinschauen.
 Sie werden beschäftigt sein.
 Darauf kannst du bauen.
-Das wird ein Aufruhr sein :-)
-Genau 5 Minuten nach dem Start gehst du rein und dann nach genau 10 Minuten wieder raus.
+Das wird ein Chaos sein bei denen :-)
+Genau 5 Minuten nach dem Start gehst du rein, in die TAO-Zentrale, mitten rein, und dann nach genau 10 Minuten wieder raus.
 Wir machen dann noch ein paar Minuten weiter.
 Nur zur Sicherheit.“
 
-Marlene: „Dann gehe ich wieder raus.“ Sie platzierte einen Digitalwecker direkt neben ihrem Laptop.
+Marlene: „Nach 10 Minuten gehe ich wieder raus.“
+Sie platzierte einen Digitalwecker direkt neben ihrem Laptop.
 
 Mohammed: „Okay.
-Dann sage ich mal: GO! 15 Minuten, ab jetzt.“
+Dann sage ich mal: GO!
+15 Minuten, ab jetzt.“
 
 Marlenes Herz raste.
 Sie atmete kräftig ein und aus.
@@ -83,22 +90,29 @@ Achmed“, dachte sie.
 
 Achmed stieg aus dem Wasser, und zog seine Maske ab.
 
-Achmed laut: „Hi Marlene! Lange nicht gesehen …“ Er grinste über beide Ohren.
-„Guck mal, was ich hier habe.“ Er präsentierte einen großen Warmhaltetopf.
+Achmed laut: „Hi Marlene! Lange nicht gesehen …“
+Er grinste über beide Ohren.
+"Für 1 Stunde 35 Minuten.
+Guck mal, was ich hier habe.“
+Er präsentierte einen großen Warmhaltetopf.
 „Hühnchen flambe, mit einer speziellen Kokossauce.“
 
 Marlene reagierte nicht.
 Achmed setzte den Topf vorsichtig auf den Boden, ging zu ihr und schaute über ihren Rücken.
 
-Achmed: „Oh, ein Hack! Dann will ich nicht stören.“ Er nahm gegenüber am Tisch Platz, zog ein verknittertes Taschenbuch hervor und legte es vor sich.
-Er schaute Marlene an, ein wenig verträumt, und schüttelte dann ungläubig, bewundernd den Kopf: „So eine Frau“, dachte er, „so ein Glück, dass ich sie getroffen habe.“
+Achmed: „Oh, ein Hack!
+Dann will ich nicht stören.“
+Er nahm gegenüber am Tisch Platz, zog ein verknittertes Taschenbuch hervor und legte es vor sich.
+Er schaute Marlene an, ein wenig verträumt, und schüttelte dann ungläubig, bewundernd den Kopf:
+„So eine Frau“, dachte er, „so ein Glück, dass ich sie getroffen habe.“
 
 Marlenes Blick wurde konzentrierter.
-Plötzlich fingen ihre Hände an, sich zu bewegen.
+Plötzlich fingen ihre Hände und Finger an, sich zu bewegen.
 Schnell, unfassbar schnell.
 Achmed staunte immer wieder darüber.
 Und diesmal hörte es nicht auf.
-Was machte sie? Er wagte nicht aufzustehen.
+Was machte sie?
+Er wagte nicht aufzustehen.
 Marlene wechselte zum anderen Laptop.
 Dann wieder zurück.
 Kurze Pause.
@@ -106,7 +120,8 @@ Wieder ein Tastengewitter.
 Es hörte sich wirklich ein wenig wie Hagel an.
 
 Marlene wischte sich eine Schweißperle von der Stirn.
-Sie war drin! Im Herz der TAO, da wo die Schwachstellen-Datenbank war.
+Sie war drin!
+Im Herz der TAO, da wo die Schwachstellen-Datenbank war.
 Die komplette Datenbank.
 Sie lag vor ihr und niemand war da außer ihr.
 Die anderen machten wohl gerade ganze Arbeit.
@@ -120,14 +135,16 @@ Dann eine Kopie machen, Spuren verwischen und wieder hinaus.
 Da! Die Datei war fertig.
 Sie tippte: 
 
-
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 cp 2021_09_12_1403_ebup.gz /tmp1
 </div>
 Der Befehl machte eine Kopie der Datei.
 Aber sie lag immer noch auf dem gleichen Computer im Hochsicherheitsbereich.
 Es dauerte endlose Sekunden.
-Ein Terabyte an Daten, Beschreibungen, Programme, Anwendungsbeispiele, Computer-Landkarten, Passwortdateien, eine riesige Schlüsseldatei.
+Fast ein Terabyte an Daten, Beschreibungen wie man in alle Computer und Smartphones dieser Welt hineinkommen konnte,
+Programme, die das automatisch machten,
+Computerlandkarten, die zeigten wo welche Computer in Unternehmen standen,
+Passwortdateien, und riesige Schlüsseldateien.
 Alles huschte in diesen Sekunden durch das Innere der Computer im Herzen der TAO, irgendwo in Amerika.
 Und Marlene saß in ihrem Unterwasserversteck im Roten Meer.
 
@@ -146,30 +163,36 @@ Marlene hatte gedacht, alle deaktiviert zu haben, aber anscheinend war eine übr
 
 Marlene: „Wie viel?“
 
-Mohammed: „5 vielleicht 6 Megabyte.“
+Mohammed: „5 vielleicht 6 Gigabyte.“
 
 Marlene: „Shiiiit.
-Ich brauche ein Terabayte, eine Million Megabytes.
+Ich brauche ein Terabayte, 1000 Gigabytes.
 Ich habe die Datei hier.
-Gib mir Platz.
+Gib mir Bandbreite.
 Kannst du die Sperre nicht abschalten?“
 
 Mohammed: „Keine Chance.
 Ich habe alles probiert.“
 
-Marlene: „Mach! Mohammed.
-Zauber! Los! …“ 
+Marlene: „Mach!
+Mohammed.
+Zauber!
+Los! …“ 
 
 Mohammed: „Ich kann nicht.
 Ich komme nicht ran.“
 
-„Doch du kannst!!“ Marlene huschte Verzweiflung über das Gesicht: „Marwin! Wo ist Marwin.
+„Doch du kannst!!“
+Marlene huschte Verzweiflung über das Gesicht:
+„Marwin! Wo ist Marwin?
 Ich brauche Hilfe.
 Marwin!!!“
 
+Marwin saß in einem CIA-Gefängnis irgendwo in den USA.
+„Ich brauche dich jetzt hier!!!“
 Eine Träne drückte aus ihrem Auge.
 
-Sie schrieb: „Mohammed!!
+Sie schrieb: MOHAMMED!!
 Ich hab alles hier.
 Komm!
 Wir geben jetzt nicht auf.
@@ -192,7 +215,9 @@ Aus dem Augenwinkel sah sie, dass Mohammed etwas geschrieben hatte, sie ignorier
 „Wir brauchen eine Luftbrücke!“, sagte sie laut zu sich selbst.
 „JA! Jetzt weiß ich.
 QR-Codes.
-Wo ist das Programm?“ Sie trommelte noch ein Weile auf die Laptops ein und sank dann irgendwann zurück in ihren Stuhl.
+Wo ist das Programm?“
+Sie trommelte noch ein Weile auf die Laptops ein und sank dann irgendwann zurück in ihren Stuhl.
+Die Tränen liefen ihr übers Gesicht.
 Achmed rutschte neben sie und legte seinen Arm um ihre Schulter.
 
 Achmed: „Hej! Hast du es bekommen?“
@@ -222,11 +247,15 @@ Und wenn einer dort wäre, wer startet das Programm?
 Das ist ein Hochsicherheits-Rechenzentrum der NSA.
 Und nach dem, was passiert ist, kommen wir jetzt nicht mehr rein.“
 
-Achmed: „Du schaffst das! Ich weiß das.
+Achmed: „Du schaffst das!
+Ich weiß das.
 Du schaffst alles, was du willst.
 Komm, jetzt essen wir erst einmal was Gutes.“
 
-Marlene schüttelte den Kopf und lehnte sich an seine Schulter:
+Marlene schüttelte den Kopf:
 „Ich habe keinen Hunger.“
 
 Sie stand auf und setzte sich an die Wand gegenüber auf den Boden.
+Achmed stand auf und setzt sich mit einem vollen Teller Hühnchen flambe, mit seinem Spezialreis daneben.
+Er hielt ihr den Teller und eine Gabel entgegen.
+Sie nahm sie und fing an zu essen.

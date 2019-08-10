@@ -26,12 +26,14 @@ You can get into a lot of computers through that backdoor.
 It's widespread, and no one knows it." She grinned broadly.
 
 <div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
-In the time of the game there were <em>software vulnerabilities</em> or <em>backdoors</em> in all computers and programs.
-You could close them if you knew how they worked.
-And if you knew they were there.
-Vulnerabilities could get computers to do all sorts of things that programmers and computer administrators hadn't planned for.
-Sometimes crazy things.
-Sometimes you could take over a computer entirely from a distance, as if it were your own, and then do whatever you wanted with it.
+A <em>software vulnerability</em> or <em>backdoor</em> is a way to use a computer differently from how it is programmed to be used.
+Maybe a programmer made a mistake, that made his program react in a way he didn't plan for, or he put it in on purpose, like a hidden password, that allows users to do more things.
+Secret services pay programers also to build such backdoors for them.
+Especially after the year 2001 they started to build backdoors in all aspects of computers and software.
+<hint Jacob Appelbaum once meant that if there are 17 ways to enter a computer in a hidden way, than the NSA wants to be able to go all 17 ways./></hint>
+It is a very powerful tool, to get into any computer you want.
+And there you can do all kinds of things.
+Sometimes you can take over a computer entirely from a distance, as if it were your own.
 </div>
 
 "That's unfair!" grumbled Sigur.

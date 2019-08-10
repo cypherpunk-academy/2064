@@ -54,13 +54,13 @@ There's always five."
 Lasse: "The Sorat Rangers!
 Five.
 Does that mean those  just ... those were the Sorat Rangers?
-Fuck.
+Fuck!
 No."
 
-Sigur: "No.
+Sigur: "No!
 Absolutely not.
 They weren't.
-Impossible."
+Impossible!"
 
 Marlene grabbed her nose: "Why not?"
 
@@ -93,7 +93,7 @@ Marlene nodded: "Mh mh.
 And just when you caught them today, the formation was on its way to a mission that actually took place in 2027.
 TRON is currently a little behind time.
 A meeting of presidents and army leaders of the Middle East, in Khandahar.
-At the same time yoiu fought with them, this meeting was attacked by other combat robots, by Russian ones, which in reality were also staged by the CIA or a friendly secret service.
+At the same time you fought with them, this meeting was attacked by other combat robots, by Russian ones, which in reality were also staged by the CIA or a secret service close to them.
 Probably it was the Mossad.
 We do not know for sure.
 In any case, it went very badly wrong.
@@ -139,7 +139,7 @@ That's the job."
 
 She gave Lasse a note.
 
-Marlene: "Go to this conference in Caracas in three days and meet a Fredrik Peterson at exactly this time of day in this place.
+Marlene: "Go to this conference in Caracas in three days and meet a Fredrik Petrusson at exactly this time of day in this place.
 Then you will have a chance."
 
 Lasse looked at the note: "Venezuela?"

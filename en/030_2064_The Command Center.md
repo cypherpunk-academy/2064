@@ -34,39 +34,43 @@ The real defense."
 
 Lilly didn't take her eyes off Marlene.
 
-Lilly: "I know Taurus, the conspiracy, Saruman's hackers."
+Lilly: "I know Taurus, and about the conspiracy and Saruman's hackers."
 
-Marlene looked at her in astonishment: "Where from ... do you know that?"
+Marlene looked at her in astonishment: "From where ... do you know that?"
 
 Lilly: "You write about it in your biography."
 
 Marlene: "There's not a word about the conspiracy and not a word about Saruman and nothing at all about Taurus.
-It's just a description of what could happen if there were hackers trying to invade."
+It's just a description of what could happen if there were hackers trying to invade the Cypherpunk Academy."
 
 Lilly looked at Marlene from the corner of her eye: "Come on.
-It was clear that it wasn't just theory.
-That was far too concrete.
+It was clear that you didn't just make it up.
+There were far too many details.
 I understood that the first time I read it.
 And then I found the rest in the archive of your biography."
 
 Marlene: "In my archive?
 That's not public.
 You hacked my archive?
-Fuck!
-Lilly?"
+Fuck!"
+Marlene raised her eyebrows.
+"Lilly?"
 
 Lilly looked down briefly: "Hej ... that wasn't soooo well protected.
-If you really wanted nobody to get that, then..."
+If you really wanted nobody to get in there, then..."
 
-Marlene: "... it was a private archive, not a vulnerability database ..."
+Marlene: "... it is a personal archive, not a vulnerability <hint refer to the box></hint>database like you hacked in the game ..."
 
-Lilly: "There was a lot of information that was for everyone.
+Lilly: "In your archive was a lot of information that was for everyone.
 You can't just hold it back like that."
 
 Marlene: "Information for all adults!
+You cannot openly talk about Taurus to children.
 Anyone who wanted it could get it."
 
 Lilly: "Exactly."
+
+Marlene: "Any <em>adult</em>."
 
 They looked into each other's eyes.
 
@@ -93,7 +97,7 @@ Marlene stroked her hand over her mouth and closed her eyes.
 She stood with her eyes closed for a while, opened them again and looked at Lilly seriously:
 "Good, then come with me."
 
-Lilly tore her arms up: "Yep!"
+Lilly tore her arms up happily: "Yep!"
 
 Marlene touched the amulet hanging around her neck, mumbled something and then said clearly: "Promote Lilly Browdowin to Defense Administrator Apprentice."
 
@@ -101,11 +105,11 @@ To the right of Lilly appeared a red hyper-door.
 She got a little fright.
 Lilly: "Wow! So, fast. Not even a fairy for feedback?"
 
-Marlene: "Old Linux rule: No news is good news.
+Marlene: "Old Linux <hint ref to linux box></hint>rule: No news is good news.
 If it works, then no message comes.
 Welcome to the defense of the Academy!"
 
-Lilly breathed deeply: "Wow!"
+Lilly took a deep breath: "Wow!"
 
 Marlene pointed to the door and Lilly walked through.
 There was a slight purple twitch of light, and she was gone.

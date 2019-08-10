@@ -1,109 +1,144 @@
-
 ## **2023** I want to stay here
 
-<span style="font-variant:small-caps;">The woman looked </span> at Marwin with confidence: "We want to make you an offer you can't resist."
+<span style="font-variant:small-caps;">The woman looked </span> at Marwin: "We want to make you an offer you can't reject."
 
-Marwin didn't pull a face.
+Marwin didn't show any emotions.
 
-Frau: "You can get out of here today and fly to Berlin.
-With official entry permit from Germany.
-You get €50 000 in cash for a fresh start and no restrictions on your Internet activities."
+Woman: "You can get out of here today and fly to Berlin.
+Germany will release your passport.
+Then you have no travel restrictions.
+And you get €50 000 in cash for a fresh start and no restrictions on your Internet activities."
 
 Man: "And that's very unusual.
-Usually, that would mean: "No Internet for at least five years."
+Normally it would mean: No Internet for at least five years."
 
 Marwin moaned slightly.
 
-Frau: "And safety from prosecution by German criminal authorities.
+Woman: "And no prosecution by German criminal authorities.
 Full amnesty.
-You'll get a fresh start.
-You can live a normal life, start over."
+You get a fresh start.
+You can live a normal life, start with a clean slate."
 
-Marwin looked at her for a while and said, "And what do I have to do?"
+Marwin looked at her for a while and asked: "And what do I have to do for it?
 
 The woman inhaled: "Not much.
-We're doing a joint story on what happened in those two years.
-Wait a minute! Wait a minute! Don't refuse immediately.
-We can't just let you out of here like this.
+We set up a story together about what happened in those two years."
+
+Marvis pulled his eyebrows together.
+
+Woman: "Wait! Don't reject it.
+We can't just let you out of here.
 That wouldn't work.
-Even if I just wanted to let you go, I couldn't do that.
-There are very, very powerful people out there who are watching exactly what is happening here, and they have already made an unusually large number of concessions.
-Otherwise, you and I wouldn't be sitting here.
-We have to give them a little.
-The world isn't perfect.
-I think you're innocent.
+Even if I wanted to let you go, I couldn't do that.
+There are very, very powerful people out there who are watching exactly what is happening here, and they have already made unusually many concessions in your case.
+Otherwise both of us would not be sitting here at all.
+We have to give them something.
+The world is not perfect.
+I think you are innocent.
 You have nothing to do with what you were arrested for.
-I would release you directly.
+I would perhaps release you directly.
 But that's not the reality."
 
-Man in a slightly threatening tone: "If you don't cooperate with us, others will come and talk to you who want other things.
-Or nobody anymore.
-That's not in our power.
-We're here now.
-This will open the window for some options.
-But not for long, either."
+Marwin did not react.
+He thought, "Oh man, they are desperate.
+They must be under a lot of pressure.
+They want Marlene.
+Shit.
+Shit.
+I hope she gets away."
 
-Marwin to the woman: "Why do you come now? And don't give me that shit.
-Something's happened.
-That's why you're here.
-You're expecting benefits from letting me out.
-What's that?"
+Woman: "Mr Farras?"
 
-Man impatient: "You get a chance.
+The man turned to Marwin, in a slightly threatening tone: "If you don't cooperate with us, others will come and talk to you who want other things.
+Or nobody comes and you just stay here.
+That's not in our power then any more.
+We are here now.
+That opens the window for some possibilities.
+But not for long ...".
+
+Marwin to the woman: "I must understand what you are saying.
+Why are you coming now?
+And don't tell me any nonsense.
+Something has happened.
+That is why you are here.
+You expect something from letting me out.
+What is this?"
+
+Man impatient: "You get this one chance.
 We really don't have much time.
-If we both leave here with no result, maybe we won't come back..."
+If we both get out of here without a result, maybe we'll ..."
 
-The woman interrupted him: "Wait.
-Mr. Farras, you're right.
-I understand you think it's a trap after everything you've been through.
-But it's not.
-And there's actually a trigger for this conversation.
-But again, I can't tell you everything, I can't.
+The woman interrupted him: "Wait."
+
+Then she turned to Marwin:
+"Mr Farras, you are right.
+I understand that you think this is a trap, after all you've been through.
+But it is not.
+And there is indeed a reason for this conversation.
+But again, I cannot tell you everything. I just can't.
 As much as I wanted to.
-Just this much: There was a rethink at the highest level, in the government, with the president, regarding everything that has to do with surveillance.
-They're talking about dissolving the NSA." She looked at him insistently.
-Marwin looked back slightly absent.
+Just this much: there has been a rethink at the highest level, in the government, with our President, about everything that has to do with surveillance on the Internet.
+There is talk of dissolving the NSA."
+She was looking at Marwin insistently.
+"The NSA is to be dissolved."
 
-Frau: "You can imagine that a lot is going on in our country.
-And in the course of that, prisoners are also released.
-Especially the innocent." She lowered her eyes to the table.
+Marwin looked at her slightly absent.
 
-Marwin: "Where's Marlene?" He looked at the woman insistently.
-She was slightly startled, looked at Marwin, but quickly touched herself again: "She is well, as far as I know.
-She's free."
+Woman: "You can imagine that there is a lot going on right now.
+And in the course of that also prisoners are released.
+Especially the innocent ones."
+She looked briefly down to the table.
 
-Marwin crossed his arms: "I want to stay here."
+Marwin in serious tone: "Where is Marlene?"
+He looked at the woman insistently.
+She was slightly startled, looked at Marwin: "She's fine, as far as I know.
+She lives in freedom."
 
-The man moaned.
+Marwin crossed his arms: "I want to stay here".
+
+The man moaned and shook his head.
 He reached for his bag.
-The woman looked at him.
+The woman looked at Marwin.
 
-Frau: "I don't believe you."
+Woman: "You want to stay here?
+I don't believe you.
+Why?"
 
 Marwin: "You're lying to me.
-They just got scared at my question and didn't answer it.
-I want to stay here!" His voice vibrated slightly.
+You just got scared when I asked you a question and then you didn't answer it.
+I want to stay here!"
+His voice vibrated slightly.
 
-The man grabbed the woman by the arm: "Come! I told you it was no use.
-He's resistant to reason.
-We'll tell them to send in the others.
-Meanwhile, we'll continue with Sudo."
+The man grabbed the woman by the arm: "Come! It's no use.
+He is resistant to reason.
+We'll tell them they should send the others in.
+Meanwhile we continue with Sudo."
 
-"Sudo's here!" Marwin was aghast, but then he immediately rebuffed.
-"Doesn't interest me, doesn't interest me." The man had already started to say something.
+"Sudo is here," Marwin startled, but then immediately retreated.
+"I don't care, I don't care."
+They had often done that with him.
+He missed his friends and so he was receptive to what he heard about them.
+Most things were even right, only some were not.
 
 Marwin: "I don't want to know anything about Sudo."
 
-Man: "Sudo lost one leg."
+Man turned to Marwin: "Sudo lost one leg half a year ago.
+Sepsis, blood poisoning."
 
 Marwin froze.
 "Fucking manipulations," he thought.
-"How am I supposed to get that out of my head now: Sudo hasn't lost a leg.
-Sudo hasn't lost a leg.
-Sudo hasn't lost a leg." He laid his head on the table and buried it under his hands.
-The man and the woman looked at him.
-After a while, he straightened up, looked into the room apathetically, and started humming quietly, "Allways on the bright side of life."
+He looked at the man with an empty gaze.
+
+Man: "Do you want to see him?
+He asked for you."
+
+Marwin did not react.
+
+The man started to say something else, but the woman held him back: "Enough!"
+
+Marwin looked at her in disbelief, then at him again.
+Then he quietly started to sing "Allways look on the bright side of life." 
 
 The man grabbed his folder and left the room.
-The woman looked at the table in front of her for a while, then at Marwin again, and then followed him.
-
+The woman looked at the table in front of her for a while and then again at Marwin, who ignored her and just sang on.
+Then she also left the room.

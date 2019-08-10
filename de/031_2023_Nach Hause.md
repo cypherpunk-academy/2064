@@ -4,7 +4,8 @@
 Ihm gegenüber saßen ein Mann und eine Frau in Geschäftskleidung.
 Zwei Soldaten standen in den beiden Ecken hinter ihm, ein weiterer breitbeinig, mit verschränkten Armen vor der Tür.
 
-Frau: „Marwin Farras!“ Sie nickte ihm freundlich zu.
+Frau: „Marwin Farras!“
+Sie nickte ihm freundlich zu.
 
 Marwin war sprachlos.
 Er hatte seinen Namen zwei Jahre lang nicht mehr gehört.
@@ -35,7 +36,7 @@ Die Frau stöhnte leise: „Können Sie laufen?“
 
 Marwin: „Laufen, sitzen, pinkeln, springen, auf einem Bein stehen.
 Tanzen habe ich schon lange nicht mehr probiert.
-Schreien!
+Schreien.
 Darf ich?
 Warum werde ich hier festgehalten?
 Was wollen Sie von mir?“
@@ -77,27 +78,33 @@ Sie hatten eine Lungenentzündung.“
 Marwin schlug seine Augen auf und schaute sie an.
 Sie fuhr fort: „Falsche Nachrichten: Verhaftung und Tod ihrer Schwester …“
 
-„Marli!“, platzte es aus ihm heraus.
+Marwin erschrak.
+„Marli“, sagte er unvermittelt.
 Er schaute der Frau in die Augen.
 Er schaute noch einmal.
 „Oh Gott!“ dachte er.
+„Das kann nicht sein.
+Wieder so ein dummer Trick ...
+Oder war doch vielleicht die Nachricht ein Trick?“
+Er schaute die Frau fragend an.
+„Die Nachricht ...“
+Es schoss ihm heiß und kalt durch den Körper.
 „Die Nachricht war nicht echt!
-Das kann nicht sein.
-Er hatte ihr vertraut.“
+Warum ... warum hatte er ihr vertraut.“
 Er schaute wieder zu der Frau.
 „Es war eine Lüge.
-Ja, es war eine Lüge“, dachte er.
+Ja, es war eine blanke Lüge, die Fotos, Fälschungen, die kurze, undeutliche Videosequenz, gestellt oder manipuliert“, dachte er.
 Tränen schossen in seine Augen.
-„Shit, ich habe nicht daran gedacht, dass die Nachricht falsch sein könnte.“
+„Shit, ich habe nicht daran gedacht, das das alles zusammen falsch sein könnte.“
 Er schaute wild um sich.
 „Marlene ist nicht tot?“, fragte er leise in Richtung der Frau.
 Sie schüttelte den Kopf.
-Sein Herz fing an zu klopfen.
-Wie hatte er das glauben können?
+Er spürte einen Stich im Herzen.
+„Wie hatte er das glauben können?
 Warum in aller Welt hatte er diesen Arschlöchern das geglaubt?
-Warum?
-Er sprang auf, riss an den Handfesseln, die klirrten wie in einem mittelalterlichen Kerkerverließ.
-Dann schrie er so laut er konnte: „Arschlöcher! Solche Arschlöcher!!“
+Warum?“
+Er konnte nur schwer atmen.
+Dann sprang er auf, riss an den Handfesseln, die klirrten wie in einem mittelalterlichen Kerkerverließ und schrie so laut er konnte: „Arschlöcher! Ihr Arschlöcher!!“
 Die zwei Männer hinter ihm packten ihn und drückten ihn auf den Tisch.
 Einer holte mit einer Handbewegung ein schwarzes Klebeband heraus und riss ein Stück ab.
 Der andere hielt derweil Marwins Kopf bereit.
@@ -143,13 +150,16 @@ Sie übermannte ihn nicht.
 Marlene war am Leben.
 Das gab ihm neue Kraft.
 Er hatte nach der Frage, wo Marlene sei, in den Augen der Frau gesehen, dass sie sie kannte und vielleicht sogar wusste, wo sie war.
+
 „Gott!“, durchfuhr ihn ein Gedanke.
 Ihm stockte der Atem.
 „Sie wollen Marlene.
-Und sie brauchen mich dafür … Nein! Nein.
+Und sie brauchen mich dafür …
+Nein! Nein.
 Nein, das werden sie nicht bekommen.
 Lieber sterbe ich.
 Ich bleibe hier!
 Wenn Marli es bis jetzt geschafft hat, dann hat sie die Welt durchgepflügt, dann steht an einigen Stellen kein Stein mehr so wie er war.“
-Sie war so.
+Niemand kann sie von etwas abbringen, das sie sich in den Kopf gesetzt hat.
+Niemand.
 Er lächelte leicht und dachte: „Ihr habt euch mit Marli angelegt … jetzt müsst ihr allein sehen, wie ihr da wieder herauskommt.“

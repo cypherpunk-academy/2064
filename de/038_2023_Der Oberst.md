@@ -4,7 +4,8 @@
 Er bastelte an einem Papierboot.
 
 Die Tür flog auf und ein Oberst der U.S. Rangers schritt herein.
-Er war um die 50 Jahre alt, hatte ein scharf geschnittenes, zerfurchtes Gesicht und war braungebrannt. Zwei Offiziere folgten hinter ihm.
+Er war um die 50 Jahre alt, hatte ein scharf geschnittenes, zerfurchtes Gesicht und war braungebrannt.
+Zwei Offiziere folgten hinter ihm.
 Er setzte sich bestimmt auf den Stuhl direkt gegenüber von Marwin.
 Der erste Offizier neben ihn auf einen zweiten Stuhl, der zweite, kurze Zeit nach einem Stuhl suchend, stellte sich dann neben den Tisch.
 
