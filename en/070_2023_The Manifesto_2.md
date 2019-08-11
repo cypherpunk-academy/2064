@@ -91,7 +91,7 @@ man as man".
 He put the pencil back on the table and stretched out.
 
 Marwin: "And who am I going to give this to?
-...shit ...Linda? ...no! …
+...shit ...Linda? ...no! ...
 
 Marlene!
 Oskar!

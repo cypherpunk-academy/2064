@@ -182,7 +182,7 @@ I tried everything."
 Marlene: "Just do it!
 Mohammed!
 Do magic!
-Go! …“
+Go! ...“
 
 Mohammed: "I can't.
 I can't reach it."
