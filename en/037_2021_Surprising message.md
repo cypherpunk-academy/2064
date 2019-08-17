@@ -243,7 +243,7 @@ Marlene looked spellbound at the monitor.
 Nothing happened.
 If Anita asked something, she wouldn't answer anymore.
 She must directly understand that she meant it seriously.
-Come right in.
+She had to come right into this.
 Otherwise it wouldn't work.
 She didn't know anything about Anita.
 Was she a woman or a man?
