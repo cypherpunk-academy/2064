@@ -1,6 +1,7 @@
 ## **2064** Fortunato
 
-<span style="font-variant:small-caps;">Lasse and Sigur</span> walked through the streets of Caracas in Venezuela.
+<span style="font-variant:small-caps;">Lasse and Sigur</span> stood on their equilibrium sensors in front of their hovering displays in the games lab.
+On their displays they walked through the streets of Caracas in Venezuela.
 It was early afternoon, oppressively hot.
 At the end of the street a courthouse appeared.
 
@@ -27,7 +28,7 @@ He was just about to knock.
 Lasse: "STOP! It says here: We're supposed to wait."
 
 Sigur: "Nah, it doesn't say.
-It says: "Meet Frederick Petterson at 15:31 at Avenida Oeste 13, Caracas, Venezuela, second floor, in room 433.
+It says: "Meet Fredrik Petrusson at 15:31 at Avenida Oeste 13, Caracas, Venezuela, second floor, in room 433.
 Wait if he's not there."
 We're not in room 433 right now."
 He lifted his hand again.
@@ -39,17 +40,17 @@ He almost crashed into Sigur.
 For a moment both looked into each other's eyes.
 The man took a step to the side and hurried past Lasse towards the elevator.
 
-Sigur looked at him.
+Sigur looked after him.
 
-Lasse shouted: "Mr. Petterson", although the man didn't look a bit like "Petterson", much more like "Rodriguez".
+Lasse shouted: "Mr. Petrusson", although the man didn't look a bit like "Petrusson", much more like "Rodriguez".
 
 The man stopped, waited briefly, then turned around to Lasse and approached him.
-He whispered: "Fortunato, not Petterson, not here".
+He whispered: "Fortunato, not Petrusson, not here".
 He looked at both of them wildly.
 "Come with me!
 We have to go to a place where we can speak freely."
 In the parking lot in front of the courthouse they got into a huge Toyota pickup, an older model, with bumps and scratches on all sides.
-Fortunato drove off.
+Fortunato drove off with them.
 After they had turned from the courthouse parking lot to the main street, he turned to them and asked: "You are hackers, aren't you?"
 
 Lasse and Sigur looked at each other.
@@ -135,29 +136,29 @@ And that's boring.
 No, I am now trading with even more valuable goods: Information.
 Big data.
 Great thing, I tell you.
-I do in single persons and companies, and there everything: positions, bank data, projects, skills, correspondence, pictures, movies.
+I sell personal information of private persons and companies, and there everything: geo positions, bank data, projects, skills, correspondence, pictures, movies.
 In real time and the whole history.
 My extra service: suggestions for blackmail and bribery opportunities.
 I have 230 million individuals in my database.
-Do you want the private emails from the next president of the United States?
+Do you want the private emails of the next president of the United States?
 No problem.
 
 My tablet already displayed the data about you in the courtroom.
 It told me also you were outside the door.
-When I learned that the Five Star had been taken from the sky, I did some research for a few days.
+When I learned that the Five Star drone formation had been taken out, I did some research for a few days.
 And then put you on my watch list.
-... But you may wonder how I know your positions.
+... But you may wonder how I know your geo positions.
 You don't have smartphones.
 Funny, isn't it?
 No problem for me.
-When it comes to positions, I have a speciality, almost a monopoly: I not only have GPS and face recogniton, but also RFID.
+When it comes to geo positions, I have a speciality, almost a monopoly: I not only have GPS and face recogniton, but also RFID.
 GPS and face recognition are not so reliable with hackers.
 They have these new hoodies that cover too much of the face, and often leave their smartphones at home or put them into some metall boxes."
 
 <div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
 With <em>RFID</em> you can identify credit cards, smartphones, stickers and so on via radio frequencies.
-There is passive RFID, which only works over very short distances, and active RFID, with its own power supply.
-Via RFID you can pay at the cash register, get access to buildings, find your key and much more.
+It's a small chip that can be built into any device, attached to animals or to the human body.
+Via RFID you can pay at the cash register, get access to buildings, find your keys, and much more.
 </div>
 
 Sigur: "RFID?
@@ -166,16 +167,16 @@ I don't have a single RFID chip on me, either to pay or to get in.
 How are you going to locate me?"
 
 Fortunato pulled out a small sheet of paper with a QR code.
-"Do you see this tiny skin-colored dot on the other side of the code here? It's the smallest RFID chip in the world, 78 micrometers in square, wafer-thin and elastic."
+"Do you see this tiny skin-colored dot on the other side of the code here?
+It's the smallest RFID chip in the world, 78 micrometers in square, super thin and elastic."
 
 Lasse and Sigur leaned towards it, but could not recognize anything.
 
 Fortunato: "Remember the cute girls at the entrance to your conference?
 The ones who hand out your day pass every morning, say something nice and give you a welcome kiss?
-Super cute, not?
 These are my girls.
 And they are super clever.
-They take a paper like that, wipe it somewhere against your clothes or hair and then register the corresponding QR code.
+They take a paper like this one, wipe it somewhere against your clothes or hair and then register the chip, they put on you, to your name.
 Trousers are the best.
 You don't take them off so often.
 And the girls get an acoustic signal in their ear when the chip from yesterday is still there.
@@ -199,9 +200,12 @@ Everywhere in the city.
 We have tens of thousands here.
 They cost nothing.
 A scanner is a small plate, 15 x 15 millimetres in size and sends via GSM.
+<div style="background-color: #dfd; color: black; padding: 10px; margin: 20px 0; border-radius: 5px;">
+<em>GSM</em> is the normal mobil phone network, used for phone calls and sms.
+</div>
 They identify up to 10 meters away and last about a year."
 He pulled out a tablet computer that looked like an iPad and grinned: "It's not an iPad, don't worry.
-Is something of its own ...
+It's something of its own ...
 Look!
 He showed them a map of Caracas, on which a huge number of red, green and blue dots could be seen.
 Some seemed to move, individually, in groups.
@@ -216,7 +220,7 @@ I tell you, I have customers who are crazy about it."
 Lasse and Sigur looked at the tablet in disbelief.
 
 Fortunato: "Most of them are activists and hackers.
-Sought-after target group.
+Very attractive target group.
 And I add information about who meets whom, who eats with whom, who goes together for a walk.
 What do you think I get paid for the data?
 Look, I currently have 24 real-time subscribers."
@@ -264,12 +268,12 @@ Lasse grumbled, "I don't do business with the NSA."
 
 Sigur hissed to Lasse: "Let's get out of here."
 
-Leave quietly back: "Wait still.
+Lasse quietly back: "Wait a little more.
 Marlene sent us here."
 
-Sigur very quietly: "I don't make a deal with the asshole.
+Sigur very quietly: "I don't make a deal with this asshole.
 He's on the other side.
-He'll lie to you if he has to.
+He'll lie to us if he has to.
 Probably even if he doesn't have to."
 
 Fortunato: "But now tell me: Why have you come? 
@@ -282,7 +286,7 @@ Fortunato thought briefly.
 Fortunato: "LBI.
 Lubricious Bureau of Intelligence.
 Home of the Sorat Rangers.
-Actually Localized Bureau of Intelligence.
+Actually it's name is Localized Bureau of Intelligence.
 But they are really lubricious.
 There are a lot of assholes in the business, but they play in their own league.
 If you look at them, you really don't have to pick on me.
@@ -293,7 +297,7 @@ Lasse: "The Sorat Rangers are from the CIA!
 Fortunato: "Wrong!
 They are not.
 Only their badges are from the CIA.
-With the LBI everything is illusory.
+With the LBI everything is made up.
 Officially the LBI doesn't even exist.
 It doesn't have its own building.
 Nowhere.
@@ -334,7 +338,7 @@ Lasse: "We want to uncover it.
 We want to make public what they do."
 
 Fortunato slowed down the car abruptly, drove to the right and stopped, slightly excited: "Guys!
-That's not a good idea."
+That's not a good idea!"
 He turned to them.
 "I know it's ethically good at first glance:
 Show what kind of assholes they are, how they don't follow any rules, lie, bomb and so on.
@@ -360,18 +364,21 @@ And this thing, LBI, that's one step above the vulnerability database.
 It's not just the NSA, it's not just an introverted hacker company that tries to leak into every computer and smartphone in the world, storing and organizing all the data they get.
 No, no, no.
 That's more on the violent side.
-LBI, that's staged world events, assassinations, blown up buildings, invented rebel groups, invented wars, invented revolutions.
+The LBI are staging world events; carry out assassinations, blow up buildings, invent rebel groups, invent wars, invent revolutions.
 You would be surprised, if you would see what the LBI did the last 25 years.
 If you make this public, many people will die!
 Think!
 What would happen if you uncover Khandahar now!
 It just went wrong because of you.
+The Five Star you shot down, was on it's way to stop 23 Russian drones from bombing the Middle East Conference.
+And it didn't come.
+So the drones bombed everything.
 Seven presidents dead.
 If it turns out that it was staged, then there will be war.
 A war with many dead.
 And that was you then.
 That's not very humanistic, is it?
-You're not working with the NSA, but killing people, that's okay, or what?"
+You're not working with the NSA, but you are killing people. Is that really okay?"
 
 Sigur: "Now you're getting scared, aren't you?
 Transparency is the real danger, isn't it?
@@ -386,7 +393,7 @@ No.
 But if we uncover something, then we should act responsibly.
 The messenger should take care.
 If you are doing something in secret, then you are just as responsible for it as if you were doing the same thing openly.
-And when others get so angry that they kill you when they find out, that means something about what you did."
+And when others get so angry that they kill you when it gets revealed, that says something about what you did."
 
 Lasse: "Sigur!
 Don't make that simple mistake from the computer administrator course again:

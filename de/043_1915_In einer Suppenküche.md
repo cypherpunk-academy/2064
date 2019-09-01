@@ -1,6 +1,6 @@
 ## **1915** In einer Suppenküche 
 
-### SZENE 6
+### Berlin Moabit
 ____
 Hilde in einer Suppenküche hinter einem riesigen Topf, einen Schöpflöffel in der Hand.
 Menschen, die mit Teller und Löffel anstehen.
@@ -21,21 +21,22 @@ Hilde füllt den Teller der Frau.
 Hilde: „Das ist Albert.
 Er ist als Waise aufgewachsen und hat vorgestern erfahren, wer seine Eltern waren.
 Sie haben 50 Jahre lang nicht weit von ihm gewohnt.
+Er hat sie wahrscheinlich ein paar Mal getroffen.
 Er kommt gerade vom Friedhof.“
 
 Die Frau nickt und schaut dem Bettler nach.
 
 Hilde: „Außerdem bekommt er schlimme Wutausbrüche, wenn er zu wenig im Magen hat.
-Deswegen habe ich ihn vorgelassen.
 Da kann er nichts machen.
-Das ist angeboren.“ Sie lächelt die Frau an und wendet sich dann dem Mann zu, der hinter ihr steht.
+Das ist angeboren.“
+Sie lächelt die Frau an und wendet sich dann dem Mann zu, der hinter ihr steht.
 
 Wilhelm sitzt in einer Ecke des Raumes an einem Tisch mit drei anderen und redet mit wilden Gesten.
 Die drei hören ihm gebannt zu und ziehen ab und zu Mienen als Reaktion auf das, was Wilhelm sagt.
 Am Nachbartisch schläft eine Frau mit dem Kopf auf dem Tisch, drei Kinder neben ihr, die ein Fingerspiel spielen.
 Um sie herum stehen eine Menge Beutel mit allerlei Dingen gefüllt.
 Ihr gegenüber liest ein Mann anderen ein Flugblatt vor, das immer wieder lebhaft kommentiert wird.
-Einen Tisch weiter sitzen zwei dunkle Gestalten, der eine eine Suppe löffelnd, der andere vor sich ein Glas Bier.
+Einen Tisch weiter sitzen zwei dunkle Gestalten, der eine eine Suppe löffelnd, der andere ein Glas Bier vor sich anstarrend.
 
 Der Bettler sitzt auf dem Boden an eine Wand gelehnt und löffelt seine Suppe sehr konzentriert mit leicht zitternder Hand.
 Als der Teller leer ist, setzt er ihn vorsichtig auf seinem Schoß ab und wendet seinen Blick zu Hilde.
@@ -52,7 +53,8 @@ Der Hauptmann schnappt sich das Papier zurück und betritt den Raum.
 Hinter ihm etwa sechs oder sieben Polizisten.
 Er geht direkt auf Hilde zu, während die anderen sich im Raum verteilen und beginnen, auf den Tischen, in Taschen und unter den Bänken nach etwas zu suchen.
 
-Hauptmann streng: „Gnä Frau! Die Konzession für Essensausgabe bitte!“ 
+Hauptmann streng: „Gnä Frau!
+Die Konzession für Essensausgabe bitte!“ 
 
 Hilde schaut ihn an: „Ich weiß.
 Wir brauchen hier eine Konzession.
@@ -77,7 +79,8 @@ Ich gehe gleich hin und sage den Leuten dort, dass sie mit dem Kochen aufhören.
 Sie bereiten gerade den zweiten Topf vor.
 Es kommen heute mehr Menschen als sonst.“
 
-Der Hauptmann schaut Hilde an und kratzt sich am Kopf.
+Der Hauptmann schaut an Hilde vorbei in Richtung Küche, dann wieder zu Hilde an und kratzt sich am Kopf.
+Beide schauen sich eine Weile lang an.
 
 Hauptmann: „Machen Sie das hier heute normal fertig.
 Alles gut aufräumen.
@@ -143,5 +146,6 @@ Wir gehen!“
 
 Sie verlassen die Halle.
 Hilde fängt wieder an, Suppe zu schöpfen und meint lächelnd zu dem Mann, der gerade an der Reihe war: 
-„Er weiß genau, wie er das macht. Von ihm kannst du einiges lernen.“
+„Er weiß genau, wie er das macht.
+Von ihm kannst du einiges lernen.“
 ____

@@ -119,7 +119,7 @@ Marlene laughed: "Geil.
 Nice.
 A toilet attendant."
 
-"Pling," it came from Marlene's laptop.
+"Ping," it came from Marlene's laptop.
 "Roger answered: Three days!
 I told you.
 They're great boys!

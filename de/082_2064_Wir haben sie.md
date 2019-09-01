@@ -109,11 +109,11 @@ Aufräumen?
 Was heißt das?“
 Es schaute ihm Zimmer herum.
 Sein Blick wurde zum Meer hinaus gezogen, zum Horizont, zu einem kleinen schwarzen Punkt unter den Wolken.
-Er schrie: „ROSANNA. KOMM!“
+Er schrie: „ROSANNA! KOMM!!“
 
-Er packte sie, zog sie mit Gewalt zur Terrassentür, öffnete sie und rannte mit ihr los in Richtung der Steinmauer zum Meer.
+Er packte sie, zog sie mit Gewalt zur Terrassentür, öffnete sie und rannte mit Rosanna los in Richtung der Steinmauer zum Meer.
 Kurz davor ließ er sie los und sprang auf die Mauer.
-„KOMM! SPRING!“
+„KOMM! SPRING!!“
 
 Er hechtete ins Meer.
 Rosanna wollte gerade auf die Mauer steigen, da zischte eine Rakete an ihr vorbei in Haus.

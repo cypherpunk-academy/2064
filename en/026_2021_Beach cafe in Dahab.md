@@ -85,7 +85,7 @@ Achmed: "Then you're a hacker too?"
 Marlene: "Mh mh."
 
 Achmed looked at her with his mouth slightly open.
-Pling! It sounded from the bar.
+Ping! It sounded from the bar.
 
 Achmed: "Oh, a guest.
 I'll be right back.
@@ -169,7 +169,7 @@ It makes you feel like you're in space.
 You float completely weightless in the darkness.
 It's a whole different world down there."
 
-"Pling", it sounded from the bar.
+"Ping", it sounded from the bar.
 
 Achmed: "Shit.
 A lot going on today.

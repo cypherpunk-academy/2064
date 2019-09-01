@@ -131,7 +131,7 @@ After a few seconds, her brother disappeared, without answering.
 Then I just have to go on alone."
 She began to search the Internet for clues.
 
-"Pling" sounded a few minutes later from the laptop.
+"Ping" sounded a few minutes later from the laptop.
 Her brother was online again.
 
 "HAVE YOU GONE CRAZY?" appeared on Marlene's screen.

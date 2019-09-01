@@ -63,7 +63,7 @@ That would be totally corrupt.
 Superbad.
 That would be as bad as making people sick and then making profit on medicine."
 
-Lilly pulled her eyebrows up.
+Lilly pulled her eyebrows together.
 "Pfff.
 Sure, I'm sure.
 Hey, wake up!

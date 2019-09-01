@@ -1,6 +1,6 @@
 ## **2064** A surprise package
 
-<span style="font-variant:small-caps;">"Pling", said the communicator</span> of Lilly, and shortly afterwards, "pling, pling", also those of the two boys.
+<span style="font-variant:small-caps;">"Ping", said the communicator</span> of Lilly, and shortly afterwards, "ping, ping", also those of the two boys.
 Shortly after the end of the game, all players received the results for the day.
 TRON almost always made the answers completely automatic. But sometimes the team controlling TRON intervened.
 

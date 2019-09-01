@@ -1,6 +1,6 @@
 ## **2021** A surprising message
 
-<span style="font-variant:small-caps;">A "pling" came</span> from her laptop.
+<span style="font-variant:small-caps;">A "ping" came</span> from her laptop.
 Marlene took her plate of chicken and rice, placed it beside her laptop and sat down.
 She ate on with one hand and typed with the other.
 It was a chat with a group of hackers.

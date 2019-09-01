@@ -73,7 +73,7 @@ Me and Lasse don't just take them out without thorough preparation.
 These are the best of the best.
 We would need twenty flying combat robots, and then well programmed formations, good tactics.
 But not me and Lasse just like that, meeting them by chance.
-Forget it.
+Forget it!
 TRON is realistic."
 
 Marlene: "If the Sorat Rangers were what they're supposed to be, you'd be right.
@@ -98,7 +98,7 @@ Probably it was the Mossad.
 We do not know for sure.
 In any case, it went very badly wrong.
 In TRON and also in reality.
-Because the Five Star, that was not coming.
+Because the Five Star was not coming to save them.
 They were shot down shortly before.
 A few minutes before.
 We don't know why it was like that in reality ... in TRON we know it.
@@ -111,7 +111,7 @@ Lasse: "The Middle East War!
 Then came the Middle East War!"
 
 Sigur: "With the atomic bomb on Salina.
-Shit."
+Shit!"
 
 Marlene: "Not yet.
 Something is still missing."
@@ -134,7 +134,7 @@ Marlene: "No, not at the CIA.
 There is a yet unknown secret service in the USA that is responsible for this.
 The CIA is in this case also only camouflage.
 The Sorat Rangers fly for the unknown secret service.
-And you have to find it.
+And you have to reaveal this secret service.
 That's the job."
 
 She gave Lasse a note.
@@ -148,10 +148,10 @@ Sigur: "And if it comes differently?
 If there is no war, will the atomic bomb not be thrown?"
 
 Marlene: "I know what you're thinking:
-Your mission is to ensure that there is a war in which a nuclear bomb is detonated and many people die.
-You don't have to do that.
+Your mission is to reveal a secret service and implies that there will be a war in which a nuclear bomb is detonated and many people die.
+You don't have to complete the task.
 You have to think for yourself and decide what you think is right.
-All I'm saying is that you should find out and make known that this yet unknown secret service exists.
+All I'm saying is that your task is to find out and make known that this yet unknown secret service exists.
 And how it works."
 
 Lilly stood in the entrance and gave Marlene a sign.
