@@ -7,7 +7,7 @@ Lasse and Sigur behind them disappeared in it with a slight blue twitch of light
 Marlene: "What happened?
 Why did you call me?"
 
-Lilly: "One of the ravens came flying in and said there was a problem at the KCT and you were needed.
+Lilly: "One of the ravens came flying in and said there was a problem at the CCT and you were needed.
 That's so sweet when the ravens are landing in front of you, bowing and waiting until you have full consciousness with them."
 
 Marlene: "A raven lands before you?"
@@ -17,7 +17,7 @@ Then you're probably part of the game management now.
 They have accepted you.
 Pretty fast."
 
-Lilly: "What's the KCT?"
+Lilly: "What's the CCT?"
 
 Marlene: "The Command Center Taurus.
 But that's not for you yet."
