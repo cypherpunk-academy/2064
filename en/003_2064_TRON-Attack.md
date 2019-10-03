@@ -4,7 +4,7 @@
 <span style="font-variant:small-caps;">Lasse and Sigur entered</span> their game room.
 Game rooms were large and round, with plants, many painted fantasy pictures on the wall and a pedestal with drinks and many kinds of fruits, nuts, and sweets.
 Four large computer screens floated above a table in the middle of the room.
-On the table lay two keyboards, four controllers about the size of a fist and two large glass balls that were open towards the bottom.
+On the table lay two keyboards, four controllers about the size of a fist and two large glass spheres that were open towards the bottom.
 Lasse and Sigur sat down on the chairs and took the keyboards.
 
 "9:30 a.m.! Here we go." Lasse shouted.

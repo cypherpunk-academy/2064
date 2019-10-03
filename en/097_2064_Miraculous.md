@@ -315,7 +315,7 @@ Sigur kept looking.
 He breathed quietly.
 One minute, two minutes.
 Suddenly a quiet "Pling!" sounded at the end of the corridor behind the bars.
-A hand-sized, colorfully glittering painted glass ball jumped towards them, how naturally she jumped without bumping through the bars and towards Sigur.
+A hand-sized, colorfully glittering painted glass sphere jumped towards them, how naturally she jumped without bumping through the bars and towards Sigur.
 He instinctively opened his hand, and the ball jumped in.
 It shone vividly in various shades of blue and green.
 Sigur looked at her in wonder.

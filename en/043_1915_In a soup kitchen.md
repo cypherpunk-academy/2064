@@ -8,8 +8,8 @@ At the entrance a group of Spartacists with assault rifles.
 
 An elderly beggar enters the room, takes a plate and looks at the end of the queue for a while.
 Then he holds the plate in front of him and approaches Hilde directly, but no one in the queue lets him in.
-Hilde and he look at each other.
-She makes a sign to the woman who would be next and waves the beggar over.
+He looks Hilde in the eyes.
+Hilde makes a sign to the woman who would be next and waves the beggar over.
 The man behind the woman grumbles loudly into his beard.
 Hilde looks briefly to him with a stern look and then fills the beggar's plate.
 
@@ -18,15 +18,15 @@ Hilde: "Enjoy it, brother."
 He smiles at her with a deep warmth and then trots towards a dark corner.
 Hilde fills the woman's plate.
 
-Hilde: "This is Albert.
+Hilde: "That is Albert.
 He grew up as an orphan and found out the day before yesterday who his parents were.
 For 50 years they did not live far from him.
-Him probably met them several times.
-He's just come from the cemetery."
+He probably met them several times.
+He just comes from the cemetery."
 
 The woman nods and looks after the beggar.
 
-Hilde: "Besides, he gets bad rage outbursts if he ate too little.
+Hilde: "Besides, he gets bad rage outbursts if he eats too little.
 There's nothing he can do.
 That's innate."
 She smiles at the woman and then turns to the man behind her.
@@ -36,9 +36,9 @@ The three listen to him spellbound and occasionally pull expressions in reaction
 At the next table a woman sleeps with her head on the table, three children next to her playing a finger game.
 Around her there are a lot of bags filled with all kinds of things.
 Opposite to her, a man reads a leaflet to others, which is commented on vividly again and again.
-One table further on there are two dark figures, one spooning a soup, the other staring at a glass of beer.
+One the next table there are two dark figures, one spooning a soup, the other staring at a glass of beer.
 
-The beggar sits on the floor leaning against a wall and spoons his soup very concentrated with a slightly trembling hand.
+The beggar sits on the floor leaning against a wall and eats his soup very concentrated with a slightly trembling hand.
 As the plate is empty, he carefully places it on his lap and turns his gaze to Hilde.
 He looks at her for a long time with a gentle gaze.
 
@@ -149,5 +149,7 @@ We go!
 They leave the hall.
 Hilde starts to make soup again and smiles at the man who just had his turn: 
 "He knows exactly how to do it.
-You can learn a lot from him.
+You can learn a lot from him."
+
+She looks at the queue, that still becomes longer, and smiles while filling another plate with soup.
 ____

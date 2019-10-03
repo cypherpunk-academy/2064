@@ -503,7 +503,7 @@ Level 1: Free software, encryption, distributed services, and everything else th
 Sigur nodded back: "I know the 11 basic ideas of the Cypherpunks."
 
 Tin: "I know, I know.
-Level 1 is given to you." She threw a brightly colored glass ball into the air, which floated away and after a while disintegrated into thousands of small specks of dust of all colors.
+Level 1 is given to you." She threw a brightly colored glass sphere into the air, which floated away and after a while disintegrated into thousands of small specks of dust of all colors.
 Sigur marveled at her, laughing.
 
 She looked at Sigur: "Level 2: Life ideals: justice, openness, equality, brotherhood, and everything else that elevates us as human beings."
