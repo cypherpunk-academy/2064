@@ -8,7 +8,7 @@ Lilly saß im Schneidersitz auf dem Tisch und lächelte immer noch.
 Das war ein Computer-Programm, oder?“
 
 Lilly: „Klar! Da habe ich den ganzen Abend gestern dran geschrieben.
-Heute morgen habe nur einen Befehl eingegeben und butzzz …“
+Heute morgen habe nur einen Befehl eingegeben und butzzz ...“
 
 Sigur: „Aber wie ging das? Ich hatte alles dicht.
 Ich bin gestern und heute morgen noch einmal alles durchgegangen.
@@ -42,7 +42,7 @@ Lasse: „Ich glaube, es ist gar nicht erlaubt, Schwachstellen für sich zu beha
 Das ist gegen die Spielregeln.
 Schwachstellen gehören der Allgemeinheit wie Wasser und Luft.
 Man muss sie sofort bekannt machen.
-Das ist ein Menschenrecht … habe ich in meinem Computerverwalterkurs gelernt.
+Das ist ein Menschenrecht ... habe ich in meinem Computerverwalterkurs gelernt.
 Außerdem ist das auch eine Cypherpunk-Regel.“ Man kann sogar sein Arbeitsrecht verlieren, wenn man eine Schwachstelle nicht bekannt macht.
 
 Lilly: „Heute! Heute ist das so.
@@ -76,12 +76,12 @@ Beide Jungs prusteten los.
 „Wer hat dir so einen Blödsinn erzählt?“
 
 Lilly verschränkte ihre Arme und machte ein ernstes Gesicht: „Nee.
-Echt! Massenweise, Berge … Ich sag euch.
-Ich hab …“ Sie stockte.
+Echt! Massenweise, Berge ... Ich sag euch.
+Ich hab ...“ Sie stockte.
 
 Lasse machte eine eschwichtigend Handewegung: „Lilly, bleib auf dem Teppich.“
 
-„Du hast …?“, fragte Sigur.
+„Du hast ...?“, fragte Sigur.
 „Was hast du?“ Er rutschte zu ihr herüber.
 
 Lilly schaute zu Boden.
@@ -98,9 +98,9 @@ Sie selbst darf ja in der Datenbank alles nachschauen, aber sie darf nichts dami
 Sie nehmen echt alles auf! Von allen Mitarbeitern.
 Bescheuert.
 Echt Scheiße, dort zu arbeiten.
-Aber ich konnte mit ihrer Hilfe die Datenbank dort heraus bekommen! War nicht ganz einfach … Und jetzt kann ich … Uuuuuhhhh“, sie schüttelte den Kopf, „… so viel machen … Hi.
+Aber ich konnte mit ihrer Hilfe die Datenbank dort heraus bekommen! War nicht ganz einfach ... Und jetzt kann ich ... Uuuuuhhhh“, sie schüttelte den Kopf, „... so viel machen ... Hi.
 Hi.
-… Ich weiß, dass das unfair ist, aber es ist ja ein Spiel.
+... Ich weiß, dass das unfair ist, aber es ist ja ein Spiel.
 Da muss man auch verlieren können.“
 
 Sigur murrte: „Du arbeitest mit der NSA zusammen? Das sind Gegner.
@@ -213,7 +213,7 @@ Bei diesen Geheimdiensten haben viele Schnarchnasen und Langweiler gearbeitet, w
 Aber insgesamt sind es bestimmt tausende, vielleicht zehntausende Schwachstellen, für alle Computer, die du dir nur denken kannst, auch für Satelliten.
 Und eine einzelne Schwachstelle davon ist eben die Hintertür, über die ich gerade eben bei euch hineinspaziert bin.“
 
-Lasse: „Du kannst uns unsere Computer auch wiedergeben …“
+Lasse: „Du kannst uns unsere Computer auch wiedergeben ...“
 
 Lilly: „Nee.
 Erstens hat die schon Marie und zweitens wäre das gemogelt.

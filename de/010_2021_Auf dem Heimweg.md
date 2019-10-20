@@ -43,7 +43,7 @@ Die Türen klappten zu und der Polizeiwagen fuhr davon.
 Wie angewurzelt stand Marlene eine Zeit lang auf der Stelle.
 „Die Nummer“, schoss es ihr durch den Kopf.
 „Wie war die Auto-Nummer?“ Sie hatte versucht, sie sich zu merken, war aber dann durch Marwins Blick abgelenkt worden.
-„B 4521 … 2 oder 3“ Sie setzte sich an den Straßenrand.
+„B 4521 ... 2 oder 3“ Sie setzte sich an den Straßenrand.
 „Was war jetzt wichtig? Was konnte sie tun? Warum hatte er nichts gesagt.“ Sie versuchte zu denken.
 
 „Warum ist er eingestiegen? Shit. Wohin bringen sie ihn?“ Die wichtigste Frage war ihr nicht eingefallen.

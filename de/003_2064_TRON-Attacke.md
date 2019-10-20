@@ -30,7 +30,7 @@ Sigur: „WAAAASSSSS???!!!“
 
 Lasse: „WAS??“
 
-Sigur trommelte auf seine Tastatur: „Shit! … Shit!“
+Sigur trommelte auf seine Tastatur: „Shit! ... Shit!“
 
 Lasse: „Sag schon.“ 
 
@@ -38,7 +38,7 @@ Lasse stürmte zum Rechner von Sigur:
 
 Lasse: „Was ist los?“
 
-Sigur: „Die Firewall ist wieder offen! Einfach so … Und ich bin … draußen, weg, kann nichts tun.
+Sigur: „Die Firewall ist wieder offen! Einfach so ... Und ich bin ... draußen, weg, kann nichts tun.
 Nicht mal tippen.
 Nichts.“ Er schlug mit der Faust auf seine Tastatur.
 
@@ -52,7 +52,7 @@ Sigur: „Das dürfen wir nicht.
 Gegen die Regeln.“
 
 Lasse: „Scheiß drauf.
-… Okay.
+... Okay.
 Gut, gut.
 Dann eben nicht.“ 
 
@@ -66,7 +66,7 @@ Klack! Die Tür öffnete sich.
 Beide drehten sich gleichzeitig zur Tür, wo Lilly mit einem breiten Grinsen hereinlugte: „Hi, hi! Zu langsam, Jungs...“
 
 Lasse: „Oh nein! Nicht.
-Bitte nicht … Nicht schon wieder ...“ 
+Bitte nicht ... Nicht schon wieder ...“ 
 
 Lilly war Lasses kleine Schwester und vor zwei Monaten 12 Jahre alt geworden.
 Sie spielte TRON erst seit einem Jahr, aber hatte wirklich Talent dafür.

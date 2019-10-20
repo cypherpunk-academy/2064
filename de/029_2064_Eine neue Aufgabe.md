@@ -29,7 +29,7 @@ Einfach, sachlich, nicht so ein Brimborium drumherum.
 Was soll das für einen Unterschied machen, wenn man sich in so eine virtuelle Hütte setzte.
 Mehr als im Spielbericht konnte ja hier auch nicht passieren.
 
-Lasse: „Marlene …“
+Lasse: „Marlene ...“
 
 Sie unterbrach: „Ich weiß, Lasse.“
 
@@ -50,7 +50,7 @@ Es sind immer fünf.“
 
 Lasse: „Die Sorat Rangers!
 Fünf.
-Soll das heißen, dass das eben … das eben waren die Sorat Rangers?
+Soll das heißen, dass das eben ... das eben waren die Sorat Rangers?
 Fuck.
 Nein.“
 
@@ -97,7 +97,7 @@ In TRON und auch in Wirklichkeit.
 Weil der Fünfstern nicht kommt.
 Sie werden kurz vorher abgeschossen.
 Ein paar Minuten vorher.
-Wir wissen nicht, warum das in Wirklichkeit so war … in TRON wissen wir es.
+Wir wissen nicht, warum das in Wirklichkeit so war ... in TRON wissen wir es.
 In TRON ward ihr das.
 Was jetzt gerade im weiteren Verlauf passiert, ist, dass durch einige Missverständnisse in der Leitstelle und zwei falsche Kommandos die gesamte Versammlung dort in Grund und Boden gebombt wird.
 Es gab 122 Tote.
@@ -118,9 +118,9 @@ Marlene: „Die Drahtzieher dieses Scheinangriffs dürfen nicht im Verborgenen b
 Es muss klar sein, dass das alles gestellt war und in die Hose gegangen ist.
 Dann, dann erst kommt der Krieg.
 Sonst kommt etwas anderes.
-Und ihr sollt …“
+Und ihr sollt ...“
 
-Lasse: „… wir sollen das aufdecken.
+Lasse: „... wir sollen das aufdecken.
 Wir sollen herausfinden, wer das bei der CIA gemacht hat.“
 
 Sigur: „Was käme denn anderes, wenn nicht der Mittelost-Krieg?“

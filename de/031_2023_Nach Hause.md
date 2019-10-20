@@ -76,7 +76,7 @@ Ich weiß, was Sie durchgemacht haben.
 Lichtentzug, Schlafentzug, unprovoziertes Schlagen, nackt in der Kälte im Schlamm stehen.
 Sie hatten eine Lungenentzündung.“
 Marwin schlug seine Augen auf und schaute sie an.
-Sie fuhr fort: „Falsche Nachrichten: Verhaftung und Tod ihrer Schwester …“
+Sie fuhr fort: „Falsche Nachrichten: Verhaftung und Tod ihrer Schwester ...“
 
 Marwin erschrak.
 „Marli“, sagte er unvermittelt.
@@ -134,7 +134,7 @@ Die Frau blickte kurz nach unten: „Ich weiß, dass das unendlich schwer zu ert
 Aber wir müssen da jetzt durch.
 Es sind Fehler passiert.
 Schlimme Fehler.
-Es wird eine Untersuchung geben …“
+Es wird eine Untersuchung geben ...“
 
 Marwin unterbrach: „Wo man niemals erfährt, was dabei herausgekommen ist, wer, was, warum gemacht hat und warum er oder sie das jetzt nicht mehr tun soll.“
 
@@ -154,7 +154,7 @@ Er hatte nach der Frage, wo Marlene sei, in den Augen der Frau gesehen, dass sie
 „Gott!“, durchfuhr ihn ein Gedanke.
 Ihm stockte der Atem.
 „Sie wollen Marlene.
-Und sie brauchen mich dafür …
+Und sie brauchen mich dafür ...
 Nein! Nein.
 Nein, das werden sie nicht bekommen.
 Lieber sterbe ich.
@@ -162,4 +162,4 @@ Ich bleibe hier!
 Wenn Marli es bis jetzt geschafft hat, dann hat sie die Welt durchgepflügt, dann steht an einigen Stellen kein Stein mehr so wie er war.“
 Niemand kann sie von etwas abbringen, das sie sich in den Kopf gesetzt hat.
 Niemand.
-Er lächelte leicht und dachte: „Ihr habt euch mit Marli angelegt … jetzt müsst ihr allein sehen, wie ihr da wieder herauskommt.“
+Er lächelte leicht und dachte: „Ihr habt euch mit Marli angelegt ... jetzt müsst ihr allein sehen, wie ihr da wieder herauskommt.“

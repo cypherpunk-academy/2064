@@ -87,7 +87,7 @@ Stefanie: „Ich glaube, er hat es dir vorher gesagt!“
 
 Marlene platze: „UND DAS ERFINDEST DU EINFACH ALLES!
 DAS IST ALLES AUSGEDACHT!
-Du sagst: ‘Das kann sein’ … ‘ich glaube’ … ‘vielleicht’.
+Du sagst: ‘Das kann sein’ ... ‘ich glaube’ ... ‘vielleicht’.
 Das sind keine Tatsachen, das stimmt auch nicht, das ist rein aus deiner Fantasie.“
 
 Stefanie antwortete mit verständnisvoller Stimme: „Es ist doch völlig unwahrscheinlich, dass dein Bruder einfach so in das Auto einsteigt.

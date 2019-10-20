@@ -14,7 +14,7 @@ Danke dir.“ Er nickte theatralisch in Richtung Lilly.
 „Die NSA ist jetzt hinter uns her und wir müssen fliehen.
 Deine Marie ist ja wirklich super schnell.“
 
-Lilly: „Oh, spannend … neue Zeit … Na dann: gefälschte Pässe, neue Laptops, neues Aussehen und ab geht’s … Da könnt ihr jede Menge Punkte machen.
+Lilly: „Oh, spannend ... neue Zeit ... Na dann: gefälschte Pässe, neue Laptops, neues Aussehen und ab geht’s ... Da könnt ihr jede Menge Punkte machen.
 Habt ihr ein paar Anlaufstellen, die die NSA nicht kennt? Kommt ihr an Computer, die man nicht auf euch zurückverfolgen kann?“
 
 Lasse ironisch: „Danke für die Tipps, Lilly! Und auch noch null Erfahrungspunkte heute.
@@ -23,7 +23,7 @@ Null komma null.“ Er ballte seine Faust.
 
 Lilly: „Eure Computer haben mir 20 Punkte gebracht, geil.
 Und ich bin jetzt inoffizieller Mitarbeiter bei Marie, da komme ich an jede Menge Dinge ran.
-Und, wow, ich habe ein Überraschungspaket bekommen …“
+Und, wow, ich habe ein Überraschungspaket bekommen ...“
 
 Überraschungspakete gab es manchmal für besondere Ereignisse, meistens dann, wenn Spieler eine Mission geschafft hatten, die in der realen Welt auch so statt gefunden hatte.
 
@@ -45,7 +45,7 @@ Sie drehte die Karte um.
 „Ohh!!!
 Fuck!
 Hammer!
-Das gibt’s doch nicht …“
+Das gibt’s doch nicht ...“
 
 Lilly schüttelte ungläubig den Kopf.
 
@@ -66,4 +66,4 @@ Lasse und Sigur schauten sich an.
 
 Lasse: „Marlene Farras? Lebt die denn überhaupt noch?“
 
-Sigur: „Wenn sie Kakao trinken kann, möglicherweise …“
+Sigur: „Wenn sie Kakao trinken kann, möglicherweise ...“

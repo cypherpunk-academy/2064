@@ -23,7 +23,7 @@ Sie hat bestimmt geredet.
 Oder musste reden.“
 Er lächelte.
 „Aber immerhin sagen sie uns so etwas einmal.
-Einfach so … ohne Gegenleistung.
+Einfach so ... ohne Gegenleistung.
 Wer weiß, vielleicht könnte das der Beginn einer vertrauensvollen Zusammenarbeit werden.“
 
 Heinz schüttelte den Kopf: „Sie sagen es uns nicht einfach so.“
@@ -42,7 +42,7 @@ Wenn sie jetzt verschwindet, gibt das einen Aufruhr.
 Das ganze Umfeld, Familie, Freunde.
 Das ist ein Wespennest.
 Und wenn sie jetzt einfach so verschwindet wie ihr Bruder, kriegen wir vielleicht eine Initiative, die sich ein paar Wochen lang vor die amerikanische Botschaft stellt, oder bei uns hier, oder einen wilden Hashtag in Twitter, #woistmarlene, oder irgendeine andere von diesen Aktionen.
-Und dann springt die Presse an …
+Und dann springt die Presse an ...
 Ne, ne, ne.
 Viel zu viel Aufmerksamkeit.
 Geht nicht.
@@ -64,7 +64,7 @@ Wahrscheinlich würde sie es nicht einmal erzählen.
 Schorsch ist ziemlich aktiv gerade.
 Und der ist echt gut.
 Der macht mit ihr gerade ein paar Sachen, das glaubst du nicht.
-So dreist! Schau hier, das hast du noch nicht gesehen …“
+So dreist! Schau hier, das hast du noch nicht gesehen ...“
 
 Frederik zeigte Heinz einen Umzugskarton mit einem Tagebuch, einigen Kleidungsstücken und einer Uhr.
 
@@ -99,7 +99,7 @@ Ich sage dir, die einfachsten Sachen wirken am besten.
 Computer manipulieren.
 Einfach mal aus der Ferne ab und zu den Bildschirm aus- und einschalten, das Programm abstürzen lassen, wenn derjenige gerade eine wichtige E-Mail schreibt, den Mauszeiger anhalten, eine Textpassage löschen, ein Telefongespräch beenden.
 Das ist Überwachungs-Homöopathie.
-Deswegen … Wir geben sie jetzt nicht raus!“
+Deswegen ... Wir geben sie jetzt nicht raus!“
 
 Heinz: „Dann brauchst du eine ziemlich gute Story.“
 

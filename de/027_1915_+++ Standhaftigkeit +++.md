@@ -30,7 +30,7 @@ Wilhelm nimmt das Megaphon.
 
 „Genossen!“
 Die Menge brüllt weiter.
-„Genossen! Heute ist der Tag …“ Ein Mann stürzt auf die Bühne, atemlos, fasst Wilhelm an der Schulter, beugt sich keuchend nach vorne: „Die, die Deutschnationalen … dort …“
+„Genossen! Heute ist der Tag ...“ Ein Mann stürzt auf die Bühne, atemlos, fasst Wilhelm an der Schulter, beugt sich keuchend nach vorne: „Die, die Deutschnationalen ... dort ...“
 Er zeigt die lange Promenade entlang in Richtung Alexanderplatz.
 „Sie kommen!“ Wilhelm versucht in der Ferne etwas zu erkennen.
 Er erschrickt, nimmt das Megaphon und brüllt „SPARTAKISTEN! SPARTAKISTEN! Die Deutschnationalen kommen.
@@ -43,7 +43,7 @@ Aber wir müssen sie stoppen.
 Mit aller unserer Kraft.
 Sie wollen uns vernichten.
 Das soll ihnen nicht gelingen.
-VOLLE KRAFT …“
+VOLLE KRAFT ...“
 
 „VORAUS“ antwortet die Menge.
 Knüppel erscheinen, Fahnen werden zusammengerollt, die Menge setzt sich in Bewegung.

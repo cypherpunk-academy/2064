@@ -28,7 +28,7 @@ Deswegen haben sie keine Chance gegen uns. Und jetzt?“
 
 Marwin: „TAO ist eine Spezialgruppe.
 Das sind echte Hacker, ehemalige echte Hacker.
-Zum Teil wurden sie erpresst: Entweder Du arbeitest für uns oder Du gehst für 50 Jahre ins Gefängnis … Und wenn du dich da beugst … Da sind echt super Leute dabei.
+Zum Teil wurden sie erpresst: Entweder Du arbeitest für uns oder Du gehst für 50 Jahre ins Gefängnis ... Und wenn du dich da beugst ... Da sind echt super Leute dabei.
 Die kommen überall rein.
 Und die haben eine Riesendatenbank mit Unmengen an Schwachstellen, viele davon sind im Internet noch gar nicht bekannt.
 Sie haben jeden Computer, für jedes Netzwerk etwas.
@@ -54,9 +54,9 @@ Sie würden Fallen stellen, Dinge tun, die enormen Aufwand bedeuten: zum Beispie
 Da brauchen sie kurzfristig ein paar Rechenzentren.
 Aber das machen sie.
 Und da können sie bei einzelnen Leuten auf im Tornetz herausfinden, wer sie sind.
-Auch dich … Vielleicht verhaften sie aber auch einfach auf gut Glück ein paar Hacker, die ihnen verdächtig …“
+Auch dich ... Vielleicht verhaften sie aber auch einfach auf gut Glück ein paar Hacker, die ihnen verdächtig ...“
 
-„Ich war drin …“, unterbrach Marlene.
+„Ich war drin ...“, unterbrach Marlene.
 „Aber nur ganz kurz.
 Ich habe Logdateien, Schlüssel und Passwörter kopiert, sonst nichts.
 Und ich habe aufgeräumt.“

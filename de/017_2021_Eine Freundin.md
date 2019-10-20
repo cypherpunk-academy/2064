@@ -54,7 +54,7 @@ Marlene schluckte: „In einem Sarg?“
 Corinne: „Du weißt nie, was sie alles machen, damit die Wahrheit nicht ans Licht kommt.
 Glaub mir, die tun alles, wenn sie sicher sind, dass es verborgen bleibt, wenn die Öffentlichkeit nichts davon mitbekommt.
 Die Wahrheit ist die gefährlichste Sache der Welt.
-Du brauchst eine Armee von Lügen, um sie zu schützen …“
+Du brauchst eine Armee von Lügen, um sie zu schützen ...“
 
 „JAH!“, schrieb Marlene.
 
@@ -188,6 +188,6 @@ Die einzige Freundin, die ich habe, sagt mir, dass sie nicht mit mir sprechen wi
 Marlene schaute gebannt auf das Chatfenster.
 
 Corinne: „Sag was! Ich habe ein Recht das zu erfahren.
-Du …“
+Du ...“
 
 Marlene klickte das Fenster weg und zog den Tails-Stick aus dem Computer.

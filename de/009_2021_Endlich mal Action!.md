@@ -6,14 +6,14 @@ Vor ihm lag wie immer sein Vesperpaket, das ihm seine Frau gemacht hatte, ihm ge
 Draußen vor dem Fenster rief eine Gruppe von etwa fünfzig Demonstranten Parolen wie: „Stoppt den Überwachungswahn!“ und „BND an die Kette!“ Sie trugen T-Shirts mit Aufschriften wie „I am a Torrorist“ und „Freiheit statt Angst“. Frederik und Heinz beachteten sie nicht.
 
 Frederik biss in einen Sandwich, aber legte ihn dann plötzlich auf den Tisch, beugte sich vor und schaute kauend auf seinen Computermonitor: „Was ist denn da los?“ Er zog seine Tastatur zu sich her und tippte etwas.
-„Unsere amerikanischen Kollegen … die sticht wohl der Hafer.
+„Unsere amerikanischen Kollegen ... die sticht wohl der Hafer.
 Boah.
 Na, endlich mal Action hier!“
 
 Heinz lugte über seine Zeitung: „Was gibt’s?“
 
 Frederik: „Die CIA plant vier Durchsuchungsaktionen mit zwölf Polizeiautos, deutschen Polizeiautos! Alles heute, hier in Berlin.
-Wenn das mal die Presse nicht mitbekommt …“
+Wenn das mal die Presse nicht mitbekommt ...“
 
 Heinz: „Heute?“
 
@@ -35,11 +35,11 @@ Wir zeigen dir einfach mal, wer der Stärkere ist.“
 Heinz grinste und nahm die Beine vom Tisch: „Bisschen Respekt schadet nicht.
 Na, dann werde ich das mal intern weiterleiten, damit das kein Kuddelmuddel wird.
 Und dem Polizeipräsidium melden, den werten Kollegen vom Verfassungsschutz, Landeskriminalamt.
-Hmmm … und der Bundeskanzlerin.“ Er grinste.
+Hmmm ... und der Bundeskanzlerin.“ Er grinste.
 „Spaaaß.
 Wer muss das noch wissen? Haben wir die Autokennzeichen?“
 
 Frederik: „Jupp.
-Schicke ich dir rüber …“
+Schicke ich dir rüber ...“
 
 Er nahm sein Sandwich und aß weiter.

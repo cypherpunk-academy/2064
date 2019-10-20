@@ -123,7 +123,7 @@ Nach ein paar Sekunden war ihr Bruder verschwunden.
 Ohne zu antworten.
 
 „Hmm“, dachte sie.
-„Wenn man ihn einmal braucht… Na gut.
+„Wenn man ihn einmal braucht... Na gut.
 Dann muss ich eben allein weiter kommen.“ Sie begann im Internet nach Hinweisen zu suchen.
 
 „Pling“ klang es einige Minuten später aus dem Laptop.
@@ -236,7 +236,7 @@ Marlene: „Was machst du hier??? Scheiße! Mein Bruder hat dich geschickt?“
 
 Oskar nickte.
 
-Marlene: „Scheiße! Werde ich jetzt von meinem eigenen Bruder überwacht? Und … wie habt ihr rausgefunden wo ich bin?“
+Marlene: „Scheiße! Werde ich jetzt von meinem eigenen Bruder überwacht? Und ... wie habt ihr rausgefunden wo ich bin?“
 
 Oskar: „Es ist alles okay.
 Wir haben nicht viel Zeit.
@@ -258,7 +258,7 @@ In Marlene ließ nicht von seinen Augen ab.
 Sie kämpfte mit der Wut, die in ihr hochstieg, ihr Gesicht wurde rot.
 Oskar schaute ernst und ruhig zurück.
 
-Oskar: „Geh jetzt … aber langsam.
+Oskar: „Geh jetzt ... aber langsam.
 Und geh nicht direkt, sondern kaufe vorher noch irgendetwas ein.“
 
 Marlene stand langsam auf und schritt die Stufen hinunter, ohne sich noch einmal umzudrehen.

@@ -109,7 +109,7 @@ Und seit das so war, musste sie nur Fragen stellen, und ein paar Stunden oder Ta
 Das einzige, was sie noch nicht herausbekommen hatte, aber unbedingt wissen wollte, war, wie es ihrem Bruder Marwin ging.
 Sie wusste inzwischen nur, dass er am Leben war, irgendwo in den USA.
 Aber dass sie da noch nicht mehr herausgefunden hatte, spornte sie jetzt eher an, als dass es sie niederdrückte.
-Sie spürte die Kraft dieser verborgenen Gemeinschaft, ganz normale Menschen, die anonym lebten, die zum Teil ihr Leben riskierten, für … ja, für was?
+Sie spürte die Kraft dieser verborgenen Gemeinschaft, ganz normale Menschen, die anonym lebten, die zum Teil ihr Leben riskierten, für ... ja, für was?
 Für eine bessere, menschlichere Art miteinander umzugehen, besser zusammenzuarbeiten, für weniger Ungerechtigkeit, mehr Offenheit.
 Ja, für eine neue Art zusammen zu leben.
 Und diese Gemeinschaft waren unfassbar schlagkräftig.

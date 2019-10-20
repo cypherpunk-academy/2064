@@ -66,7 +66,7 @@ Fehler macht jeder.
 Es kann so viel passieren.
 Glauben Sie mir, ich gebe den Jungs da draußen an der Front so viel Freiheit wie möglich.
 Die brauchen sie für ihre Arbeit.
-Sie können entscheiden was sie tun, um sich den Respekt und die Achtung und vor allem die … Furcht der Menschen in diesen Ländern zu erarbeiten.
+Sie können entscheiden was sie tun, um sich den Respekt und die Achtung und vor allem die ... Furcht der Menschen in diesen Ländern zu erarbeiten.
 Und ich sage Ihnen, die Menschen in den Ländern dort haben Respekt vor meinen Leuten, mehr als vor unserer Armee, mehr als vor der CIA.
 Und dass das so bleibt, daran arbeite ich hart.
 Und jetzt ... jetzt soll ich mit Ihnen reden.“

@@ -31,8 +31,8 @@ Lilly schaute ins Publikum.
 „Hmm.
 Ich bin ein bisschen aufgeregt.
 So flattrig in der Bauchgegend.
-Ja …
-… Wie ist die neue Regel? Sie ist ziemlich einfach.
+Ja ...
+... Wie ist die neue Regel? Sie ist ziemlich einfach.
 Sie besagt, dass wir ab jetzt alle Missionen auch als Cypherpunk-Missionen spielen können.
 Egal ob ihr Geheimdienstmitarbeiter seid oder Unternehmenschef, Politiker, Hacker, der amerikanische Präsident, egal.
 Ihr könnt TRON zum Anfang einer Spielrunde oder auch irgendwann zwischendrin sagen, dass ihr ab jetzt Cypherpunk seid und dann bekommt ihr eure Punkte nicht mehr für Herrschaft, Geld und Kontrolle, sondern für Veröffentlichung von Geheimnissen, für Ungerechtigkeiten ausgleichen und für Bewusstsein schaffen, wie die Welt tatsächlich funktioniert.“
@@ -74,12 +74,12 @@ Wir wollten einen Schritt in Richtung einer wirklichen Demokratie gehen und Verb
 Das sind Dinge, um die es geht, wenn ihr Cypherpunk werden wollt.“
 
 Lilly: „Und wenn ihr das üben wollt, wenn ihr das in der Tiefe kennen lernen wollt, gibt es einen ganz neuen Platz für euch im Spiel.
-Und das ist wirklich ein Hammer …“
+Und das ist wirklich ein Hammer ...“
 Sie zwinkerte zu Marlene herüber.
 „Marlene hat das mitprogrammiert.
 Ich bin sehr gespannt, was ihr dazu sagt.
 Ich habe mich darin schon ein wenig umgeschaut, es ist ziemlich groß, und man kann dort eine Menge machen.
-Es ist … die neue … Cypherpunk-Akademie!
+Es ist ... die neue ... Cypherpunk-Akademie!
 Eine Akademie, auf der ihr richtige Cypherpunks werden könnt.
 Echt!
 Und sie ist irgendwo in TRON.
@@ -89,7 +89,7 @@ Das Publikum johlte auf.
 
 Lilly: „Das ist wie ein Spiel im Spiel, es ist nicht einfach.
 Ihr müsst da viel zusammenarbeiten und kreativ werden, denken und schnell reagieren.
-Auf jeden Fall geht es um die elf Grundgedanken des Befreiungskampfes, die ihr kennt, also Verschlüsselung oder besser: alles Unbesiegbare, dann Überwindung der Unterdrückung, Überwindung des Gegeneinanders, Entfaltung der Initiative, …“
+Auf jeden Fall geht es um die elf Grundgedanken des Befreiungskampfes, die ihr kennt, also Verschlüsselung oder besser: alles Unbesiegbare, dann Überwindung der Unterdrückung, Überwindung des Gegeneinanders, Entfaltung der Initiative, ...“
 Sie unterbrach und schaute wieder zu Marlene: „Ich habe darüber in deinem Buch einiges gelesen.
 Kannst du die vielleicht vorstellen?
 Das fände ich super.“

@@ -53,7 +53,7 @@ Ja, in der Öffentlichkeit verstecken.
 Sie hatte das Gefühl, dass das jetzt richtig war.
 Ihr Bruder hatte gesagt, dass man solche Dinge mit dem Gefühl entscheiden sollte und manchmal müsste man Dinge tun, die unsinnig erscheinen.
 Schlafen wollte sie jeden Tag von 9 bis um 3 Uhr Nachmittags in einer der Schlafkojen im Keller der c-base.
-Den Rest der Zeit wollte sie mit Pudelmütze vor ihrem Rechner im Dead Space sitzen und an irgendetwas arbeiten … ja, woran?
+Den Rest der Zeit wollte sie mit Pudelmütze vor ihrem Rechner im Dead Space sitzen und an irgendetwas arbeiten ... ja, woran?
 Woran sollte sie arbeiten?
 „Genau!“, dachte sie, griff in ihre Tasche und umfasste den USB-Stick.
 Das wollte sie tun.

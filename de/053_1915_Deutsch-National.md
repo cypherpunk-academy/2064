@@ -2,12 +2,12 @@
 
 ### SZENE 7
 ____
-Eine Gruppe von Offizieren in einer Bierwirtschaft, viel Qualm, laute Gespräche überall.
+Eine Gruppe von Offizieren in einer Bierwirtschaft am Tegeler Hafen. Viel Qualm, laute Gespräche überall.
 
 Erster Offizier: „Wilhelm und Hilde Papenburg, sie besudeln die Ehre des deutschen Volkes.
-Sie wollen uns in den Arm fallen, wenn wir die Waffen gegen unsere feigen Feinde erheben, um wieder die Vorherrschaft über Europa zu erringen.
+Sie wollen uns in den Arm fallen, wenn wir die Waffen gegen unsere blutrünstige Feinde erheben, um wieder die Vorherrschaft über Europa zu erringen.
 Sie wollen unsere Kraft schwächen, sie machen Gemeinschaft mit unseren Feinden: mit Franzosen, mit Engländern, mit Russen.
-Sie sind die wahren Feinde auf unserem Weg, Deutschland zu dem zu machen, was es seinem inneren Wesen nach ist: Die erste Führungsmacht.“
+Sie sind die ersten Feinde auf unserem Weg, Deutschland zu dem zu machen, was es seinem inneren Wesen nach ist: Eine vorderste Führungsmacht.“
 
 Zweiter Offizier: „Jawoll!“
 
@@ -23,13 +23,13 @@ Zweiter Offizier: „Ein Hoch auf die deutsche Wirtschaft.“
 Dritter Offizier: „Die stärkste der Welt!“
 
 Vierter Offizier: „Nach den Amerikanern.
-Noch … Die Engländer haben wir überholt, in diesem Jahr.
+Noch ... Die Engländer haben wir überholt, in diesem Jahr.
 Amerika ist die große Gefahr.
 Wer die Industrie anführt, führt die Welt an.
-Wir brauchen schlagkräftige, wachsende und agile Unternehmen.
+Wir brauchen schlagkräftige, wachsende und bewegliche Unternehmen.
 Unsere Unternehmen lassen schon jetzt Arbeiter rund um die Welt für sich arbeiten.
 Wir müssen nicht Länder kolonisieren, das ist von gestern.
-Wir müssen Länder befreien, sie öffnen, damit unsere Unternehmen dort die Arbeiter für sich arbeiten lassen können.
+Wir müssen Länder öffnen, damit unsere Unternehmen dort die Arbeiter für sich arbeiten lassen können.
 Und die Menschen dort unsere Waren kaufen.
 Das ist der neue Wettlauf.
 Nicht die Kolonisierung.
@@ -42,7 +42,7 @@ Erster Offizier: „Wir werden die Waffen sprechen lassen, wir werden die Weltor
 Und dafür müssen wir aufs Schlachtfeld.
 Dafür brauchen wir Achtung, Respekt.
 Das bekommen wir dort.
-Und deswegen, deswegen habe ich euch hier heute eingeladen, um mit euch darüber zu sprechen, was wir gegen die machen können, die diesen Weg von innen stören.“
+Und deswegen, deswegen habe ich euch hier heute eingeladen, um mit euch darüber zu sprechen, was wir gegen die machen können, die diesen Weg von innen stören wollen.“
 
 Zweiter Offizier: „Wilhelm und Hilde Papenburg ...“
 
@@ -63,8 +63,8 @@ Die sozialistische Utopie wird uns in die Sklaverei treiben.
 Amerika, England, Frankreich, Russland, sie haben Respekt vor Stärke, nicht vor Schwäche.
 Auch unsere Freunde: Österreich und Italien, respektieren den Starken, nicht den Schwachen.“
 
-Dritter Offizier: „Lass uns die beiden beseitigen.
-Endgültig.
+Dritter Offizier: „Wir können sie beseitigen.
+Ich meine endgültig.
 Keine Warnungen mehr, keine Einschüchterungen.
 Sie müssen weg, bevor die Krankheit noch weitere Arbeiterkreise befällt.“
 

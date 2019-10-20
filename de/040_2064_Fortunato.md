@@ -145,7 +145,7 @@ Eure Daten habe ich schon im Gerichtszimmer gekannt.
 Ein Sensor hat mir gesagt, dass ihr draußen vor der Tür seid.
 Als ich erfahren habe, dass der Fünfstern vom Himmel geholt wurde, habe ich ein paar Tage recherchiert.
 Und euch dann in meine Beobachtungsliste aufgenommen.
-… Aber ihr wundert euch sicher, wie ich euren Aufenthaltsort kenne.
+... Aber ihr wundert euch sicher, wie ich euren Aufenthaltsort kenne.
 Ihr habt keine Smartphones.
 Komisch, nicht?
 Für mich kein Problem.
@@ -245,7 +245,7 @@ Aber wenn man diese Welt kennt, wenn man weiß, was alles geht und was nicht, da
 Man kann eine Menge machen, vor allem wenn man nicht für den Staat arbeitet, sondern als freier Unternehmer.
 Die staatlichen Geheimdienste sind wirklich langsam und träge, und fantasielos: NSA, CIA, LBI, FBI, GCHQ.
 Alles Lahmärsche.
-Allerdings manchmal verdammt gefährliche Lahmärsche … Sie kaufen sich halt, was sie brauchen.
+Allerdings manchmal verdammt gefährliche Lahmärsche ... Sie kaufen sich halt, was sie brauchen.
 Aber mein RFID-System kriegen sie nicht.
 Das ist unverkäuflich.“
 
@@ -300,7 +300,7 @@ Es hat nicht einmal ein eigenes Gebäude.
 Nirgendwo.
 Kein einziges.
 Alle Mitarbeiter haben eine Tarnidentität, 100%, sogar der Boss.
-Die gibt es alle offiziell überhaupt nicht, die sind überall verteilt: CIA, NSA, Regierung, sogar ausländische Geheimdienste, Ölfirmen, Google, Apple hat einige …
+Die gibt es alle offiziell überhaupt nicht, die sind überall verteilt: CIA, NSA, Regierung, sogar ausländische Geheimdienste, Ölfirmen, Google, Apple hat einige ...
 Und die wollt ihr?
 Lasst mich raten, was ihr von denen wollt:
 Ihr wollt einen Kampfroboter-Satelliten klauen, damit ihr eine eigene Flotte steuern könnt.

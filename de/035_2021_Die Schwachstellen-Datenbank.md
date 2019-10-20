@@ -31,7 +31,7 @@ Ich werde das nicht vermasseln.
 Nicht diesmal.
 Für Marwin!“
 
-Mohammed: „Für Marwin! … Nein, für uns alle.
+Mohammed: „Für Marwin! ... Nein, für uns alle.
 Wir brauchen das Ding, Marli.
 Seit du mit der Idee gekommen bist, ist es bei mir stärker und stärker geworden, dass wir ohne das gar nicht weiter kommen.
 Ich will sie haben, die Schwachstellendatenbank der NSA.
@@ -90,7 +90,7 @@ Achmed“, dachte sie.
 
 Achmed stieg aus dem Wasser, und zog seine Maske ab.
 
-Achmed laut: „Hi Marlene! Lange nicht gesehen …“
+Achmed laut: „Hi Marlene! Lange nicht gesehen ...“
 Er grinste über beide Ohren.
 "Für 1 Stunde 35 Minuten.
 Guck mal, was ich hier habe.“
@@ -177,7 +177,7 @@ Ich habe alles probiert.“
 Marlene: „Mach!
 Mohammed.
 Zauber!
-Los! …“ 
+Los! ...“ 
 
 Mohammed: „Ich kann nicht.
 Ich komme nicht ran.“

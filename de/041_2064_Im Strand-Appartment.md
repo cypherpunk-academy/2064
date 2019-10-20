@@ -149,7 +149,7 @@ Und hier: Das Such-Programm, von dem er gesprochen hat.
 Da kann man Telefonnummern eingeben, E-Mail-Adressen.
 Wie bei XKeyScore von der NSA.
 Mal gucken, was das so kann.
-Gib mal eine E-Mail-Adresse … nein, nicht deine! Um Gottes Willen.
+Gib mal eine E-Mail-Adresse ... nein, nicht deine! Um Gottes Willen.
 Zum Beispiel die von Edward Snowden ein.“
 
 Lasse tippte.
@@ -179,7 +179,7 @@ Sigur: „Shit, der hat im Bewegungsprofil nur 2% Abdeckung.
 Wie macht der das?
 Und schau mal, was das kostet: Volle Daten $ 65.000, Metadaten $38.000.
 Das ist ja geschenkt.
-Mal sehen wie viel Abdeckung Marc Zuckerberg hat und was der kostet … Ahhh. Der hat 99,3%.
+Mal sehen wie viel Abdeckung Marc Zuckerberg hat und was der kostet ... Ahhh. Der hat 99,3%.
 Wow.
 Aber klar.
 Und seine Daten kosten: $ 81.000.

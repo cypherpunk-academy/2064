@@ -35,7 +35,7 @@ Ganz sicher.
 Mohammed meint auch, dass es dir gefallen wird.“
 
 Marlene stutze: „Okay.
-Hat er das gesagt? … dann, gut.“ Sie zögerte wieder.
+Hat er das gesagt? ... dann, gut.“ Sie zögerte wieder.
 „Nein, es geht nicht.“
 
 Achmed hob den Zeigefinger: „Ah, klar.

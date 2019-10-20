@@ -15,14 +15,14 @@ Frederik: „Vielleicht, vielleicht weiß sie etwas davon.
 Vielleicht ahnt sie auch nur etwas.
 Verstehen tut sie auf jeden Fall, was ihr Bruder macht.
 Ich habe sie im letzten Jahr hier bei einem Hackathon erlebt.
-Da hat sie gezeigt, was sie kann … Verrückt.
+Da hat sie gezeigt, was sie kann ... Verrückt.
 Trotzdem, ich sage: Wir holen sie nicht!“
 Er schaute Heinz ernst an.
 „Ich meine das so.
 Das ist eine dienstliche Anweisung.“
 
 Heinz schluckte.
-„Wir sollten nichts unversucht lassen, wenn wir herausfinden wollen, was sie mit den TAO-Servern vor hatten …“
+„Wir sollten nichts unversucht lassen, wenn wir herausfinden wollen, was sie mit den TAO-Servern vor hatten ...“
 
 Frederik: „Schluss damit!
 Du kapierst es nicht.
@@ -62,14 +62,14 @@ Und alle um sie herum werden das sehen, sie werden sie für paranoid oder für s
 Und dann erst ist wirklich Ruhe.
 Ihre ganze Umgebung muss denken oder fühlen oder sonst was, dass man verrückt sein muss, wenn man sich mit uns anlegt.
 Das ist mehr wert, als eine weitere Hackerin im Gefängnis, die vielleicht dort gleich neue Pläne schmiedet.
-Oder schlimmer, wie Edward Snowden oder Julian Assange mit seinem WikiLeaks …
+Oder schlimmer, wie Edward Snowden oder Julian Assange mit seinem WikiLeaks ...
 Besser ein Mensch macht eine schwierige Zeit durch, als dass alles in Brand gerät.“
 
 Heinz: „Huh! Komm mal, rüber“.
 Er zeigte auf seinen Bildschirm.
 „Guck, die Jungs von der NSA.
 Du glaubst es nicht.
-Marlene Farras hatte gerade Chat-Kontakt … mit der Freundin von … Karl.
+Marlene Farras hatte gerade Chat-Kontakt ... mit der Freundin von ... Karl.
 Karl, du weißt, der Satelliten-Mann aus Virginia.
 Heiße Sache.“
 
@@ -90,7 +90,7 @@ Zwei Hops würden bedeuten, dass mehr als 100000 Menschen verdächtig sein könn
 Bei drei Hops mehr als 35 Millionen.
 </div>
 
-Wir könnten allerdings Marlene Farras dirket fragen …
+Wir könnten allerdings Marlene Farras dirket fragen ...
 Sollen wir sie nicht doch?“
 
 Frederik: „NEIN! Sie bleibt da, wo sie ist.

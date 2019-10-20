@@ -46,7 +46,7 @@ Deswegen kann man die Existenz dieses Passwort plausibel abstreiten.
 </div>
 
 Lasse: „Milliarden Euro.
-Super! … Scary …
+Super! ... Scary ...
 Aber was haben wir davon?
 An eine Veracrypt-Datei kommen wir nicht ran.
 Oder meinst du, er hat ein schwaches Passwort drauf?“
@@ -190,7 +190,7 @@ Aber sie meinen, das jedes Land die eigenen Menschen als wertvoller ansieht.
 Jedes Land hat die Aufgabe, für seine eigenen Bürger zu sorgen.
 Das ist der Preis dafür, dass es ein freies Land ist.“
 
-Lasse: „Du hast Kontakt zum … LBI?“
+Lasse: „Du hast Kontakt zum ... LBI?“
 
 Fortunato: „Klar hab ich das.
 Sonst wäre ich schlecht in meinem Job.

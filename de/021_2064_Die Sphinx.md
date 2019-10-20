@@ -80,7 +80,7 @@ Programmieren lernen könnt ihr mit Mostafa.
 Bei Gedankenfehler-Rätseln müsst ihr zusammenarbeiten und Spielaufträge sind ganz individuell.
 Ihr werdet sehen.“
 
-„Und Wunderlich … Wunderlich, das ist unsere Hausratte.“
+„Und Wunderlich ... Wunderlich, das ist unsere Hausratte.“
 
 Lilly schaute unter ihren Stuhl.
 Die Ratte war nicht zu sehen.
@@ -89,12 +89,12 @@ Sie schüttelte den Kopf.
 „Er ist auch ein alter Meister.
 Wenn ihr Mist baut, absichtlich oder unabsichtlich, Regeln verletzt, euch in eine aussichtlose Lage bringt oder anderes, dann werdet ihr ihn kennenlernen, dann bekommt ihr eine Spezialaufgabe mit ihm zusammen.
 Und die sind ... schwierig.
-Ich glaube, dass er wegen dieser Aufgaben nicht besonders beliebt sein wird, würde ich sagen …“
+Ich glaube, dass er wegen dieser Aufgaben nicht besonders beliebt sein wird, würde ich sagen ...“
 
 Unter dem Sessel sah man ein breites Grinsen herausscheinen.
 
 Lilly: „Die Akademie selbst müsst ihr erst einmal finden.
-Sie ist eigentlich nicht zu übersehen … Wenn sie sich euch zeigt … Wenn ihr auf bestimmten Missionen unterwegs seid …“
+Sie ist eigentlich nicht zu übersehen ... Wenn sie sich euch zeigt ... Wenn ihr auf bestimmten Missionen unterwegs seid ...“
 Sie fasste sich an die Nase.
 „Mehr gibt es jetzt eigentlich nicht zu sagen.
 Oder, willst du noch etwas sagen, Marlene?“
@@ -120,7 +120,7 @@ Gezeichnete Steinbrocken rollten durch den Raum.
 Alles füllte sich mit Nebel.
 Grelles Licht blendete die Zuschauer, keiner konnte genau sehen, was vor sich ging.
 Die Eule drehte sich langsam zum Licht hin, der Bär saß weiterhin ruhig auf dem Sofa und beobachtete die Zuschauer, von der Ratte war nichts zu sehen und Mostafa rollte demonstrativ die Augen.
-Alle Zuschauer schauten gespannt in das Licht, wo sich eine Riesen-Vogelgestalt abzeichnete, die langsam deutlicher wurde…“
+Alle Zuschauer schauten gespannt in das Licht, wo sich eine Riesen-Vogelgestalt abzeichnete, die langsam deutlicher wurde...“
 
 „DIE SPHINX!“, rief Lilly.
 

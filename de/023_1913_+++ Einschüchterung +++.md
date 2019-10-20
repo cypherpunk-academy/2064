@@ -16,7 +16,7 @@ Hilde nickt.
 Wilhelm: „Ich habe lange nicht mehr so deutlich gesprochen wie heute.
 Und die Genossen haben es gut aufgenommen, wie ich höre.
 Es ist jetzt in der Welt.
-Das ist gut … und wiederum auch nicht …“
+Das ist gut ... und wiederum auch nicht ...“
 
 Hilde: „Wiederum auch nicht?“
 
