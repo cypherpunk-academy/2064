@@ -36,9 +36,10 @@ Deswegen können wir es auch wieder verlernen.“
 2. Ideen statt Macht: Ein Umdenken bei den Grundgedanken.
 3. Das Gegeneinander überwinden
 4. Die Eigeninitiative heilig halten
-5. Unsere Worte an unsere Gedanken angleichen»
+5. Unsere Worte an unsere Gedanken angleichen
 6. Sich in die andere hineindenken
-Hmm?
+
+Hmm.
 Wenn ich das alles habe, was brauche ich dann noch?
 Was wir dadurch erst möglich?
 Ahh!

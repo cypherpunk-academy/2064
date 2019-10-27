@@ -536,7 +536,7 @@ Er schaute sich verwundert um.
 Das kannte er nicht.
 Davon hatte ihm Lasse nicht erzählt.
 Er dachte nach, lief herum, schaute die Wände an.
-Das einzige Licht kam von einer winzigen Gittertüre mit massiven Eisenstäben an einem Ende des Raumes.
+Das einzige Licht kam von einer winzigen Gittertür mit massiven Eisenstäben an einem Ende des Raumes.
 Sie war gerade so groß, dass er durch sie herauskriechen könnte, wenn sie denn offen wäre.
 Er prüfte die massiven Scharniere, fand aber keine Schwachstelle, sogar das Schloss fehlte.
 Das Gitter war festgeschweißt.

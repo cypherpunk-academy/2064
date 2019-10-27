@@ -43,7 +43,7 @@ Er zog sich an seinem nassen T-Shirt, beugte sich dann über das Geländer und s
 Die wich elegant zurück und schoss beim Zurückgehen noch einmal einen Wasserstrahl.
 Diesmal mitten in Oskars Gesicht.
 
-In dem Augenblick sprang die Türe auf und auf die Dachtterrasse kamen lachend zwei etwa 18-jährige Jungs: Ein schmächtiger lateinamerikanisch aussehender und ein schwarzer mit athletischem Körperbau.
+In dem Augenblick sprang die Tür auf und auf die Dachtterrasse kamen lachend zwei etwa 18-jährige Jungs: Ein schmächtiger lateinamerikanisch aussehender und ein schwarzer mit athletischem Körperbau.
 Beide hatten kompliziert aussehende Fernsteuerungen in der Hand, zeigten auf Oskar und prusteten los.
 
 Marwin und Marlene schauten ein wenig fragend auf die Szene.

@@ -415,10 +415,10 @@ Das ist gut in dem dunklen Loch.“
 
 Wunderlich: „Habe ich dir gesagt: Die Sonne kommt.“ Er grinste breit.
 
-Sigur schaute zur Gittertüre: „Was wäre eigentlich passiert, wenn ich die Kugel dahin geworfen hätte?“
+Sigur schaute zur Gittertür: „Was wäre eigentlich passiert, wenn ich die Kugel dahin geworfen hätte?“
 
 Wunderlich: „Was denkst du?
-Dann wäre wahrscheinlich die Türe aufgesprungen und du hättest hinaus gehen können.
+Dann wäre wahrscheinlich die Tür aufgesprungen und du hättest hinaus gehen können.
 Ich verstehe nicht, warum du das nicht getan hast.
 Ich hätte das getan?“
 
@@ -428,7 +428,7 @@ Wunderlich: „Ja, ist doch klar.
 Türen sind normalerweise der Ort, wo man heraus- und hineingeht.
 Und eine Zauberkugel macht immer etwas Sinnvolles, etwas, was weiterführt.
 Das habe ich dir sogar gesagt.
-Also ich habe beim ersten Mal gleich die Zauberkugel auf die Türe geworfen und nicht erst ein paar nutzlose Fenster gemacht.“
+Also ich habe beim ersten Mal gleich die Zauberkugel auf die Tür geworfen und nicht erst ein paar nutzlose Fenster gemacht.“
 
 Sigur legte seine Hände ins Gesicht.
 
@@ -439,7 +439,7 @@ Ich bin nur gerade dabei, dich kennenzulernen.“
 
 „Pling“, ertönte es vom Ende des Ganges und eine rot-goldene Kugel sprang den Gang entlang, durch die Gitterstäbe, in Sigurs Hand.
 
-Sigur grinste zu Wunderlich herüber und warf die Kugel zur Türe.
+Sigur grinste zu Wunderlich herüber und warf die Kugel zur Tür.
 Sie zerstieb wie die ersten beiden und in der Wolke verwandelten sich die Gitterstäbe in blau glimmernde Lichtstäbe.
 Sigur ging zu den Stäben und prüfte sie mit dem Finger vorsichtig.
 Er wurde sanft zurückgestoßen.

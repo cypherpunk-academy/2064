@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Marwin saß immer noch</span> alleine im Besprechungszimmer. Er formte seine Finger wieder in der absurdesten Weise und bewegte sie über dem vollgeschriebenen Blatt: „Abrakadubrabra“, sagte er laut, „flieg zu Marlene, flieg zu Oskar, flieg zu ...“
 
-Die Türe öffnete sich und Linda stand im Zimmer.
+Die Tür öffnete sich und Linda stand im Zimmer.
 Hinter ihr Robert mit einem Stapel frischer Alltagskleidung.
 Marwin legte seine Hände etwas verschämt auf seine Beine und schaute die beiden an.
 
@@ -145,7 +145,7 @@ Sie schaute verwundert zurück.
 
 Marwin: „Es wird dir gefallen.“
 
-Linda kam zu ihnen und deutete auf die Türe: „Kommt, wir müssen weiter.
+Linda kam zu ihnen und deutete auf die Tür: „Kommt, wir müssen weiter.
 Das Flugzeug nach Berlin wartet schon.“
 
 Marwin nahm die Hand von Marlene und sie gingen zusammen hinaus.

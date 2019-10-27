@@ -1,7 +1,7 @@
 ## **2064** Ein Albatross
 
 <span style="font-variant:small-caps;">Vor einer Berghütte</span> standen zwei Gelände-Motorräder.
-Davor saß Roger, auf einer Bank an eine Hauswand gelehnt, die Hände hinter dem Kopf verschränkt, Zigarette im Mund, Beine lang ausgestreckt.
+Davor saß Roger, ein braun gebrannter Mitvierziger mit Bart, auf einer Bank an eine Hauswand gelehnt, die Hände hinter dem Kopf verschränkt, Zigarette im Mund, Beine lang ausgestreckt.
 Im Haus konnte man Lasse an seinem Laptop sehen.
 Er trug Kopfhörer und hatte einen großen Joystick in der Hand.
 Vor ihm auf dem Bildschirm sah man ein Steuerungsprogramm für einen fliegenden Kampfroboter.
@@ -29,9 +29,9 @@ Es war ganz einfach.
 Die XJ-11 hat wirklich einiges mehr an Kampfkraft als die Vorgänger, und ist super beweglich.
 Ich habe mich zu keinem Zeitpunkt in Gefahr gefühlt.
 Deswegen habe ich nicht auf dich gewartet.
-Ich habe sie alle in 30 Sekunden runtergeholt.
+Ich habe sie alle drei innerhalb von 30 Sekunden runtergeholt.
 Es war echt easy.
-Allerdings habe ich natürlich jetzt nur noch eine Hellfire-Rakete.“
+Allerdings habe ich natürlich jetzt keine Hellfire-Rakete mehr.“
 
 Lasse: „SHIT!
 Sigur!

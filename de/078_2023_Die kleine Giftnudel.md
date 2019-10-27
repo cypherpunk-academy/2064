@@ -2,7 +2,7 @@
 
 <span style="font-variant:small-caps;">Vor dem Haupteingang</span> der BND-Zentrale in Berlin hielt eine Fahrzeugkolonne aus einer gepanzerten Maybach- und mehreren Mercedes-Limousinen mit zwei Polizeiwagen an der Spitze und zwei am Ende.
 Dort wartete bereits der Präsident des BND mit einigen Beamten.
-Ein Beamter riss die hintere Türe der Maybach-Limousine auf.
+Ein Beamter riss die hintere Tür der Maybach-Limousine auf.
 Der Direktor der NSA stieg mit grimmigem Gesicht aus, schaute sich um und lief dann auf die wartende Gruppe zu.
 Er gab dem Präsidenten die Hand.
 
@@ -17,7 +17,7 @@ Im 13. Stock gab es einen großen, fensterlosen Besprechungsraum mit bequemen Se
 An den Wänden konnte man einen zusätzlichen Abhörschutz erkennen.
 Die Gruppe versammelte sich um den Tisch.
 Direktor und Präsident nahmen an gegenüberliegenden Seiten Platz.
-Die Türe wurde geschlossen.
+Die Tür wurde geschlossen.
 
 Der Direktor, über den Tisch hinweg: „Ich habe keine Ahnung, was sie da geritten hat.
 Es war gegen unsere Abmachung.

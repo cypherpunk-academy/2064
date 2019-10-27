@@ -25,7 +25,7 @@ Eine Journalistin rief aus der hinteren Reihe: „Wie viele Klassen streiken jet
 Kevin: „Gleich, gleich.
 Es ist alles hier auf dem Zettel.“
 
-Anni rief von der Türe aus: „1220.“
+Anni rief von der Tür aus: „1220.“
 
 Die Journalistin rief: „Wow!“ und tippte etwas in ihr iPad.
 

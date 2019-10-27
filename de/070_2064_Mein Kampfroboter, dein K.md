@@ -5,21 +5,24 @@ Der Fahrer in Uniform mit schwarzer Sonnenbrille schaute in den Rückspiegel.
 Phoenix verschwand langsam am Horizont.
 Er lächelte und sagte dann laut: „Die Luft ist rein! Du kannst rauskommen.“
 
-Von hinter der Rückbank des Autos kam ein lautes Klopfen: „Wumm“ Dann noch einmal: „Wumm ... wumm!“
+Von hinter der Rückbank des Autos kam ein lautes Klopfen: „Wumm“
+Dann noch einmal: „Wumm ... wumm!“
 Der Fahrer pfiff leise eine Melodie.
 Er lugte über den Rückspiegel zur Rückbank und lächelte.
 „WUMM!“, die Rückbank klappte nach vorne und Lasse steckte seinen Kopf durch die Öffnung.
 Er schaute den Fahrer an.
 Der drehte sich um und grinste: „Wir sind draußen!“
+
 Lasse: „Geil!
 Mensch, Trevor!
 Super Sache!
 Und das hier.“
-Er schaute sich im Wagen um.
+
+Er kletterte nach vorne auf den Beifahrersitz und schaute sich im Wagen um.
 
 Trevor: „Was ist?“
 
-Lasse: „Ein Bullenauto?
+Lasse: „Trevor, ein Bullenauto?
 Das ist Bullenauto.
 Wie bei den Blues Brothers.“
 
@@ -27,11 +30,12 @@ Trevor: „Klar!
 Mit Bullenmotor und Bullenreifen.
 Magst du es?“
 
-Lasse: „Ich liebe es.
+Lasse: „Super geil.
 Hey, und auch noch mit einem Satellitenfunker.“
-Er legte die Hand auf ein großes Gerät mit Antennen neben ihm auf der Rückbank.
+Er legte die Hand auf ein großes Gerät mit Antennen auf der Rückbank.
 „Das ist sehr gut.
-Dann müssen wir gleich keine Umwege gehen ... Hej, LBI, das sind echt Schnarchnasen.
+Dann müssen wir gleich keine Umwege gehen ...
+Hej, LBI, das sind echt Schnarchnasen.
 Das ist genauso Großbürokratie wie die anderen Geheimläden.
 Die haben nichts dazu gelernt.
 Ich dachte früher, die amerikanischen Geheimdienste sind die besten der Welt ... Pah.
@@ -56,7 +60,7 @@ Sie denken wahrscheinlich, sie würden sterben, wenn sie ihre Bitcoins nicht meh
 Ohne Geld sind sie tot.
 Es ist so krass.“
 
-Trevor: „Und wo müssen wir gleich keine Umwege gehen?“
+Trevor: „Wo müssen wir gleich keine Umwege gehen?“
 
 Lasse: „Wir werden den Spieß ein bisschen umdrehen, denke ich.
 Sie haben einen Fehler gemacht.
@@ -65,7 +69,7 @@ Und Sigur hat ihn vielleicht schon gefunden.
 Wir haben einen Zugangscode – Spielgeschenk von TRON.“
 
 Trevor blinzelte mit den Augen: „Was ist denn das da vorne?“
-Er deutete auf einen kleinen Punkt am Himmel etwa zwei Kilometer vor ihnen.
+Er deutete auf einen winzigen Punkt am Himmel etwa zwei Kilometer vor ihnen.
 
 Lasse: „Was?
 Ah, ja.
@@ -75,7 +79,8 @@ Keine Ahnung ... Oh ... Nein ...Shiiiiit!“
 Trevor: „Was?“
 
 Lasse aufgeregt: „Das ist eine Reaper.
-Wieder eine Reaper MQ-11.
+Schon wieder eine Reaper.
+Wahrscheinlich MQ-11.
 Oh, shit.
 ABFAHRT!
 Sofort Abfahrt!
@@ -90,8 +95,8 @@ Schnell!
 Schnell!
 Oder nein!
 Fahr hinter den Lastwagen dort.
-Schnell.“
-Lasse fasste mit dem Arm nach vorne, konnte aber das Lenkrad nicht ganz erreichen.
+Jetzt.“
+Lasse fasste mit dem Arm nach links, Trevor hinderte ihn aber ans Lenkrad zu fassen.
 
 Trevor: „Ist gut, ist gut, ist gut.
 Ich fahr schon.“
@@ -99,22 +104,22 @@ Er lenkte das Auto hinter den Lastwagen.
 Einige Augenblicke später zischte in unmittelbarer Nähe ein fliegender Kampfroboter an ihnen vorbei.
 Beide zogen die Köpfe ein.
 
-Lasse warf sich nach hinten und schaute aus dem Rückfenster: „Scheiße!
+Lasse sprang auf die Rückbank und schaute aus dem Rückfenster: „Scheiße!
 Die fliegt in der Geschwindigkeit in zehn Metern Höhe.
 Ist der bescheuert?
 Das ist vollkommener Irrsinn.
-Die haben neue Piloten.“
+Die haben durchgeknallte Piloten.“
 
 Der Kampfroboter wendete mit einem atemberaubenden Manöver und schaute direkt auf ihr Auto, vielleicht 200 Meter entfernt.
 Man konnte deutlich vier Raketen erkennen.
 
 Lasse aufgeregt: „GOTT!
-Vier Hellfire-Raketen.
-Was tun wir?
-Mir fällt nix ein.
-Ich weiß nix.
-Halt an!
-Raus aus dem Auto, Seitengraben.“
+Vier Hellfire-Raketen.“
+
+Trevor: „WAS JETZT?“
+
+Lasse: „Halt an!
+Seitengraben und raus.“
 
 Trevor machte eine Vollbremsung zum Standstreifen hin.
 Beide hechten aus dem Auto und stürzten sich über die Leitplanken in einen Graben.
@@ -134,6 +139,7 @@ Du hast doch gesagt, ihr habt einen Code.“
 
 „Quatsch!“, rief Lasse, „das ist eine Reaper MQ-11, das ist nicht Sigur ...
 Das ist nicht Sigur ... das ist ... Hej, vielleicht ist das Sigur!“
+
 Er sprang auf und hechtete zurück zum Auto, nahm den Laptop und startete das Jabber-Chat-Programm.
 „Pling!“, kam eine Nachricht herein.
 
@@ -142,7 +148,7 @@ Wer macht solche Wendungen mit einer Reaper MQ-11?
 Ein CIA-Pilot?
 Vergiss es.“
 
-Lasse: „Das ist dein Kampfroboter?
+Lasse: „Das ist <em>dein</em> Kampfroboter?
 Du hast ihn geklaut?“
 
 Sigur: „Ausgeliehen!
@@ -153,6 +159,8 @@ Ich denke, sie suchen schon irgendwo nach dem Wrack.“
 
 Lasse: „Voll geil!
 Was hast du damit vor?“
+
+Lasse winkte zu Trevor, dass er ins Auto kommen sollte.
 
 Sigur: „Weiß ich noch nicht.
 Es war so geil, ihn zu nehmen, und so einfach.
@@ -196,7 +204,7 @@ Er flog etwa hundert Meter rechts hinter dem Polizeiwagen, der mit Blaulicht in 
 Trevor: „Noch 30 Meilen bis Cornville.
 Da ist die Übergabe geplant, Roger kommt gegen 1 Uhr nachts dorthin und du kannst solange in einem leeren Haus warten.“
 
-Lasse: „Aber da fahren wir nicht hin, solange uns die Polizei verfolgt.“
+Lasse: „Aber da fahren wir nicht hin, solange uns die Polizei hinter uns fährt.“
 
 Trevor: „Ich komme nicht weg von ihnen.
 Ich kann nicht schneller fahren.
@@ -226,7 +234,7 @@ Lasse und Trevor zuckten zusammen und sahen beide auf das brennende Wrack und da
 
 Lasse, Trevor: „Scheiße! Sigur!“
 
-Sigur: „Hej, ihr seid allein.
+Sigur: „Hej, ihr seid jetzt allein.
 Ihr seid frei!“
 
 Lasse: „Runter von der Autobahn.
@@ -249,7 +257,8 @@ Lasse: „Und, Sigur, lass den Kampfroboter irgendwo kontrolliert abstürzen.
 Wenn sie herauskriegen, dass wir ihn entführt haben, dann ist das ganze Wespennest hinter uns her.“
 
 Sigur: „Die sind eh schon hinter uns her.
-Und wissen tun sie es auch bald.
+Sie haben im internen Funk gerade drei Hubschrauber bestellt.
+Sie wissen bald, was los ist.
 Ich meine, dort auf dem Highway liegen überall Raketenteile.“
 
 Lasse: „Sie brauchen eine Zeit lang, um herauszukriegen, dass es eine Reaper MQ-11 war, dass im Armee- und im CIA-Arsenal keine fehlt, in der Zeit gar keine dort unterwegs war und dann sagt ihnen irgendwann jemand vom LBI, dass ihnen just in der Zeit eine abhanden gekommen ist.
@@ -257,3 +266,4 @@ Das ist alles oberhalb von top secret.
 Da fließen die Informationen nicht so schnell.
 Wir haben mindestens ein paar Stunden Ruhe.
 Also knall das Ding jetzt irgendwo in der Wüste auf den Boden!“
+
