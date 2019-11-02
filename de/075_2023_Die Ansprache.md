@@ -4,31 +4,55 @@
 Überall lagen jetzt schwarze, etwas klobige Laptops auf den Tischen, viele Mini-Computer-Boards, Kabel, Netzteile, USB-Sticks, Schraubenzieher, ein Lötkolben.
 Überall saßen kleine Gruppen um einen oder mehrere Laptops herum.
 Sie tippten, diskutierten und gestikulierten.
+An den Fenstern hingen überall Marlene-Bilder.
 Kevin stand mit Sophie vorne an der Tafel und gab einer Journalistin ein Interview vor einer Fernsehkamera.
 
-Kevin ins Mikrophon eines Reporters: „Was Sie hier sehen, ist eine neue Form von Schule.“
+Kevin ins Mikrophon eines Reporters: „Ja, es hat sich für uns einiges geändert!
+Wir haben so viel Aufmerksamkeit.
+Viele Schulklassen schauen auf uns.
+Das ist gut für Marlene.
+Aber ich weiß auch, was Marlene jetzt sagen würde, wenn sie hier wäre:
+"Was machen wir jetzt?
+Warten reicht nicht."
+Aufmerksamkeit ist die eine Sache.
+Streiken und Feiern?
+Ja.
+Aber das ist warten.
+Und das reicht nicht.
+Und deswegen ist für uns etwas anderes in den Vordergrund gerückt.
+Wir wollen eine neue Form von Schule.
+Wir wollen Schule verändern.
+Schauen Sie sich um!“
+
 Er zeigte in den Raum.
-„Wir haben alle zusammen in den letzten drei Wochen mehr gelernt, als in den drei Jahren zuvor.
+
+„Wir haben alle zusammen in den letzten drei Wochen mehr gelernt, als in den drei Jahren davor.
 Und ich meine das wirklich so.
 Nicht nur technisch.
 Auch menschlich.
-Zusammenarbeiten, gegenseitig vertrauen, helfen.
+Zusammenarbeiten, sich gegenseitig vertrauen, helfen.
 Und zwar deswegen, weil es zum ersten Mal ernst ist, weil es mit dem realen Leben zu tun hat.
 Die meisten hier haben nicht gewusst, wie einfach es ist, mit hunderttausenden von Menschen im Internet überall auf der Welt zusammen zu arbeiten.
+Richtig zusammen zu arbeiten.
 Wir haben nicht gewusst, dass es eine ganze Kultur von Wissensaustausch und gegenseitiger Hilfe gibt.
-Open Source, Github ...
-Es macht so viel Spaß, anderen zu helfen.
-Und Hilfe zu erhalten.
-Und zu sehen, wie das, was man selbst macht, von anderen verwendet wird.
+Open Source, Git ...
+Es macht sooo viel Spaß, anderen zu helfen.
+Und Hilfe zu bekommen.
+Und zu sehen, wie das, wenn das, was man selbst macht, von anderen verwendet wird.
 Wir haben nichts davon in den letzten Jahren in unserer Schule gehabt.
-Nichts.
+Kein Git!
+Die ganze Schule ohne Git.
+Nichts davon.
+Und Git ist mindestens so wichtig wie Linux.
 
-Wenn Sie das hier mit einer normalen Situation in irgendeinem Unterricht vergleichen, dann sehen Sie, dass wir Schüler normalerweise im Unterricht nicht voll dabei sind.
-Hier leben wir.
-Alle sind hellwach und voll dabei.
-Und bei uns kommen Superleute vorbei, vor allem aus dem Hackerumfeld, aber immer mehr auch andere.
+Wenn Sie das hier mit einer normalen Situation in irgendeinem Unterricht vergleichen:
+Die meiste Zeit sind wir im Unterricht nicht voll dabei, das ist viel Warten.
+Hier sind wir immer voll dabei, hier leben wir.
+Alle sind hellwach.
+Und bei uns kommen Superleute vorbei, richtig bekannte Leute, vor allem aus dem Hackerumfeld, aber immer mehr auch andere.
 Sie erzählen uns, was sie über Computer, Programmierung, Computerverwaltung, unser Rechtssystem, unser politisches System oder was auch immer wissen.
-Wir hatten hier aber auch schon Rechtsanwälte, Polizisten und Unternehmer.
+Das, von dem sie begeistert sind und mehr wissen als andere.
+Wir hatten hier auch Rechtsanwälte, Polizisten und Unternehmer.
 
 Es ist eine super vertrauensvolle Atmosphäre.
 Wenn jemand etwas nicht versteht, dann fragt er.
@@ -36,18 +60,20 @@ Wenn jemanden etwas nicht interessiert, dann geht er woanders hin.
 Anstelle der vielen ausgedachten Prüfungen von Lehrern haben wir jetzt das reale Leben als Prüfung.
 Das ist echt.
 Da machen Prüfungen sogar Spaß.
-Können wir so kommunizieren, dass das nur die mitbekommen, die das mitbekommen sollen?
+Wir haben hier Angriffe auf unsere Computer.
+Wir müssen verdeckt kommunizieren.
 Können wir unsere Rechner so sicher machen, dass sie nicht gestört werden?
 
 Wir haben viel gelernt, zum Beispiel, wie man in zwanzig Minuten solch einen Mini-Computer hier in einen Hochsicherheitswebserver verwandelt, von dem draußen niemand weiß, wo auf der Welt er steht.
 Wir haben gelernt, wie man einen Laptop ziemlich abhörsicher macht.
-Und glauben Sie mir, wir hatten hier einige Angriffe.
 
 Wenn diese Aktion hier vorbei ist, will ich auf jeden Fall genauso weitermachen mit Schule, und das wollen sicherlich die anderen hier auch.
 Ich persönlich pfeife inzwischen auf das Abitur.
 Das ist doch alles nur ein Fake, das ist doch alles nur ausgedacht.
 Da ist kein echter Wert drin.
-Das ist niemandem wirklich wichtig - nur ein Schein halt.“
+Was bedeutet, Abitur haben.
+Das sagt gar nichts.
+Und das ist niemandem wirklich wichtig - nur ein Schein halt.“
 
 Reporter: „Aylin, Jonas und Devin haben die Gruppe verlassen.
 Was sagen Sie dazu?
@@ -57,11 +83,14 @@ Kevin: „Aylins Mutter hatte einen Nervenzusammenbruch.
 Sie ist alleinerziehend und hat gerade ihren Arbeitsplatz verloren, da wollte Aylin nicht hier bleiben.
 Sie kommt zurück, sobald sie kann.
 Jonas und Devin war der Druck zu hoch.
+Da haben die Eltern auch nicht richtig mitgezogen.
+
 Unsere Gegner heißen NSA, BND, auch andere Geheimdienste.
 Für die ist das hier ein unberechenbares Chaos.
-Ein Flächenbrand.
-Es sind inzwischen über 200 Klassen in Deutschland, die mit uns streiken.
-Die unser Modell übernommen haben.
+Marlene ist richtig, richtig gefährlich für sie.
+Und wir sind da jetzt mit drin.
+Weil wenn Marlene bekannt wird, dann schauen mehr Leute darauf, was eigentlich Sache ist, und das will kein Geheimdienst.
+Es sind inzwischen über 200 Klassen in Deutschland, die mit uns feiern und streiken.
 Und es kommen täglich welche dazu.
 Jetzt stellen Sie sich vor, was bei den Geheimdiensten los sein wird, wenn wir es schaffen, das Bild von Marlene in der Öffentlichkeit wieder gerade zu rücken ...
 Wenn die meisten Menschen verstehen, dass das mit ihr alles ein Schauspiel war.“
@@ -72,10 +101,12 @@ Kevin: „Das sind keine "Forderungen".
 Das ist gesunder Menschenverstand.
 Brauchen wir Schulpflicht?
 Mich muss niemand zwingen zu lernen.
+Ich lerne gerne.
+Nur halt nicht sinnloses Zeug von Leuten, die das Leben nicht gesehen haben.
 Schauen Sie sich um!
 Braucht hier irgendein Schüler die Schulpflicht?
 Soll hier irgendein Schüler auch nur eine Stunde mit einem Lehrer verbringen, der ihn nicht interessiert?
-Das ist doch Quatsch.
+Das ist doch Quatsch!
 Wir sind hier alle alt genug, um uns unsere Lehrer selbst auszuwählen, und die Lehrer sind auch alt genug, um sich die Schüler auszusuchen.
 Wir lernen hier in einer Geschwindigkeit, die ist atemberaubend.
 Hier zeigen sich plötzlich echte Talente.
@@ -93,14 +124,14 @@ Man kann das aber auch durchaus als etwas Illegales sehen, wenn man in militäri
 Wir brauchen ja Vereinbarungen in einer Demokratie, was erlaubt ist und was nicht.
 Das kann man dann nicht einfach übergehen ...“
 
-Sophie drehte sich zu ihm.
+Sophie drehte sich zu den beiden hin.
 
-Sophie: „Die Dokumente, die Marlene der Öffentlichkeit übergeben hat, gehören allen.
+Sophie: „Die Dokumente, die Marlene der Öffentlichkeit übergeben hat, gehören allen!
 Sie betreffen uns alle.
 Deswegen gehören sie uns allen.
 Wir leben in einer Demokratie und ohne diese Dokumente kann ich mir keine demokratische Meinung bilden.
 Ich kann nicht einfach von irgendetwas, was allen gehört, sagen, dass das jetzt geheim ist.
-Und die Begründung dafür ist auch geheim.
+Und die Begründung dafür dann auch geheim halten.
 Wenn jemand Ihr Kind entführt, haben Sie dann ein Recht, in das Haus einzubrechen, in dem es ist, und es herauszuholen?
 Klar haben Sie das!
 Demokratie ist wichtiger als Geheimhaltung aus taktischen Gründen.“
@@ -113,6 +144,7 @@ Sophie: „Wenn Sie niemandem damit schaden?“
 Reporter: „Ich glaube, Sie müssen das der Polizei sagen, und die darf dann in das Haus einbrechen.“
 
 Sophie: „Dann ist das ein Fehler in unseren Gesetzen, der korrigiert werden muss.
+Ein Bug.
 Überlegen Sie: Da ist das Haus, Sie schaden niemandem, machen vielleicht ein Fenster kaputt und holen ihr Kind raus.
 Das muss erlaubt sein.
 Und wenn Gesetze die Geheimhaltung von Dokumenten erlauben, die Bedeutung für die Öffentlichkeit haben, dann ist das auch ein Fehler, wie ein Fehler in einem Computerprogramm.
@@ -187,7 +219,8 @@ Heute will ich vor allem über ein aktuelles Thema sprechen, und das wird ein we
 Das liegt daran, dass man sich auch in der besten Familie einmal uneins sein kann, dass man sich sogar streiten kann.
 Und ich meine jetzt nicht Republikaner und Demokraten, denn zwischen uns wird traditionell viel gestritten.“
 Sie lächelte.
-„Nein, ich meine Einrichtungen, die das Rückgrat unserer großartigen Nation bilden: unsere global agierenden Unternehmen, unsere Geheimdienste und das politische Zentrum der Welt: unsere Regierungsorganisation.
+„Nein, ich meine Einrichtungen, die das Rückgrat unserer großartigen Nation bilden:
+unsere global agierenden Unternehmen, unsere Geheimdienste und das politische Zentrum der U.S.A: unsere Regierungsorganisation.
 Unsere Unternehmen führen die technische Entwicklung weltweit an.
 Unsere Geheimdienste sind die besten und schlagkräftigsten, die es gibt und die es je gegeben hat.
 Sie setzen ihr Leben aufs Spiel, damit wir hier in Ruhe auf unsere Art leben können.
@@ -196,10 +229,10 @@ Aber der Terrorismus hat uns in den letzten Jahrzehnten immer mehr herausgeforde
 Vieles von diesem Kampf findet inzwischen im Internet statt.
 Damit das Internet für uns alle ein sicherer Ort bleibt, haben unsere Geheimdienste in den letzten Jahrzehnten ein Überwachungssystem aufgebaut, dass uns sehr früh meldet, wenn Terroranschläge vorbereitet werden, Aufstände entstehen oder Angriffe auf Amerika vorbereitet werden.
 
-Aber wir sind in diesen Bemühungen in den letzten Jahren an einigen Stellen auch über das Ziel hinausgeschossen.
-Die Geheimdienste haben gegen den Willen der Unternehmen Überwachungssoftware in Programme wie den Facebook Messenger, WhatsApp, Google Plus und so weiter eingebaut und damit die Kommunikation von Milliarden von Menschen unsicherer gemacht.
+Aber wir sind in diesen Bemühungen an einigen Stellen auch über das Ziel hinausgeschossen.
+Die Geheimdienste haben gegen den Willen der Unternehmen Überwachungssoftware in Programme wie den Facebook Messenger, WhatsApp, YouTube, Instagramm und so weiter eingebaut und damit die Kommunikation von Milliarden von Menschen unsicherer gemacht.
 Viele Menschen haben das Vertrauen in unsere Unternehmen verloren und sich von ihnen abgewendet.
-Diese Maßnahmen gingen zu weit.
+Wir sind der Meinung, dass diese Maßnahmen teilweise zu weit gingen.
 Wir starten gerade einige Programme, die das analysieren und korrigieren sollen.
 Eines davon möchte ich heute vorstellen: ein Gütesiegel wie der "Energy Star", das das Vertrauen in unsere Weltklasse-Produkte wieder herstellen soll. Der "Security Star".“
 
@@ -263,9 +296,14 @@ Er zeigte zum Fernseher.
 Sophie: „Was ist mit Marlene?“
 
 Oskar: „Keine Ahnung.
-Aber das ist auch gut für sie, denke ich.“
+Aber das ist auch gut für sie, denke ich.
+Sie ist genau genommen kein Wistleblower.“
 
 Kevin: „Das klingt ein bisschen nach internem Krieg.“
+
+Oskar nickte.
+
+Oskar: «Ja, die streiten intern ja überall und über alles.»
 
 Der Reporter ging auf Sophie und Anni zu.
 
