@@ -52,23 +52,25 @@ Das ist für ein paar Wochen nicht im Fluss der Nachrichten.
 Vielleicht ein paar rechte Randgruppen, aber nichts von Bedeutung.
 Wir werden die Staatsanwaltschaft dann morgen den Haftbefehl aussetzen lassen und dann können Sie mit Ihrem Bruder frei wieder zurück fliegen.“
 
-Marlene: „Wenn ein deutsches Fernsehteam mitfliegen darf, ist das für mich in Ordnung.“
+Marlene: „Wenn Amelie mit ihrem Team mitfliegen darf, ist das für mich in Ordnung.“
 
-Linda atmete aus und wieder ein: „Okay. Haben Sie denn eins?“
+Linda: «Amelie?»
 
-Marlene: „Zehn, wenn Sie wollen!“ Sie lächelte, Linda nicht.
-
-Marlene: „Ich frage die Jungs, die uns aus Italien hierher begleitet haben.“
+Robert: «Eine Bloggerin.
+Ziemlich bekannt hier.»
 
 Linda überlegte, schaute Robert an. Der zuckte mit den Schultern.
 
-Robert: „Wir sehen das Material am Ende eh.
-Und die sind vom ZDF.
-Das wird gehen.“
+Linda atmete aus und wieder ein: „Okay!“
 
-Linda: „Okay. Dann machen wir das.
+Marlene lächelte, Linda nicht.
+
+Robert: „Wir sehen das Material, bevor irgendetwas rausgeht...“
+
+Linda: „So machen wir das.
 Wir kontaktieren das Team.
-Dann ist das ein Ja?“ Sie schaute Marlene an.
+Dann ist das ein Ja?“ 
+Sie schaute Marlene an.
 
 Marlene: „Ja.“
 
@@ -77,3 +79,5 @@ Wir starten morgen um 7:30 Uhr.
 Sie werden von unserem Sicherheitsdienst abgeholt.
 So lange können Sie hier in irgendwelchen Räumen bleiben, wie ich verstanden habe.
 Robert wird sie ihnen zeigen.“
+
+Marlene nickte und Robert nahm sie mit.

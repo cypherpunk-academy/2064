@@ -8,6 +8,10 @@ Nein, auf jeden Fall mit Kamerateam.
 Flughafen Bozen.
 Morgen früh um halb 11 ... Ja, das ist notwendig ...
 
+
+Amelie? Ja, das wäre super! 
+
+
 Sie wird da sein, auf jeden Fall, darauf können Sie sich verlassen ... rufen Sie bei der Courage Foundation an und lassen Sie sich eine Bestätigung geben, dass das hier echt ist.
 Die sind bei Ihnen in Berlin gleich um die Ecke ... ja, ich komme auch mit.
 Sonst niemand ... Bis morgen.“

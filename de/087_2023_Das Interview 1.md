@@ -14,7 +14,8 @@ Das Klassenzimmer in Berlin war brechend voll.
 Viele Hackerfreunde und Familienmitglieder waren gekommen.
 Manche standen an der Wand, manche knieten, alle schauten auf einen Riesenfernseher.
 
-Der NSA-Direktor saß auf der Rückbank einer Limousine und sah das Bild der Moderatorin vor sich auf einem Bildschirm. Er schaltete ab.
+Der NSA-Direktor saß auf der Rückbank einer Limousine und sah das Bild der Moderatorin vor sich auf einem Bildschirm.
+Er schaltete ab.
 
 Die Moderatorin kam auf die Bühne und ging nach vorne zu den Zuschauern.
 Beifall.
@@ -24,7 +25,8 @@ Moderatorin: „Einen schönen guten Abend ... guten Abend ... Und willkommen zu
 
 Lauter Applaus.
 
-Moderatorin: „Sie wissen es, Sie wissen es ja!“ Sie lachte.
+Moderatorin: „Sie wissen es, Sie wissen es ja!“
+Sie lachte.
 „Und sie ist tatsächlich da!
 Ja, sie ist gekommen!“
 
@@ -70,7 +72,7 @@ Das sieht aus unserer Sicht hier in Deutschland ein wenig nach innerem Machtkamp
 Die Präsidentin schüttelte den Kopf: „Das ist kein Krieg.
 Und auch kein Machtkampf.
 Die Rollen in unserem politischen System sind klar verteilt.
-Und da gibt es auch niemanden bei uns, der das in Frage stellt.
+Und da gibt manchmal Menschen die das in Frage stellen, aber das ist hier nicht ausschlaggebend.
 Aber wir hatten einen Familienstreit, das kann man sagen.
 Das passiert in den besten Familien.
 Und wissen Sie, ich finde es sogar gut, dass das passiert ist.“
@@ -158,7 +160,7 @@ Stille im Publikum.
 
 Moderatorin: „Ich habe gerade überlegt, ob jetzt wohl Beifall kommt oder nicht.
 Er kam nicht, obwohl wir hier in Deutschland auch nicht überwacht werden wollen und uns eigentlich in der Mehrheit freuen würden, wenn persönliche Daten von uns nicht in riesigen Datenspeichern in den USA gespeichert werden.
-Wir mögen auch diese Schwachstellen nicht, die unsere Computer und Smartphones unsicher machen, und die ja auch Ihre Geheimdienste wirklich überall eingebaut haben.
+Wir mögen auch diese Schwachstellen nicht, die unsere Computer und Smartphones unsicher machen, und die ja unsere und Ihre Geheimdienste wirklich überall eingebaut haben.
 Und die wieder und wieder eingebaut wurden.
 Wir haben zu viel darüber gehört.
 Machen Sie jetzt damit Ernst, normale Menschen wie mich und alle anderen hier im Raum nicht mehr zu überwachen?“
@@ -178,7 +180,9 @@ Das war ja so im Fall von Marlene Farras.“
 
 Präsidentin: „In fremde Computer ohne Erlaubnis einzubrechen, das geht direkt gegen die Privatsphäre von Menschen oder Firmen.
 Diese Computer gehören jemandem.
-Dieser jemand hat das Recht, zu entscheiden, was damit passiert, auch wenn es eine Firma oder eine Behörde ist. Das können wir nicht generell erlauben.“ Sie schüttelte den Kopf und lächelte.
+Dieser jemand hat das Recht, zu entscheiden, was damit passiert, auch wenn es eine Firma oder eine Behörde ist.
+Das können wir nicht generell erlauben.“ 
+Sie schüttelte den Kopf und lächelte.
 „Aber, wenn mein Plan aufgeht, wenn Mitarbeiter in Firmen und Behörden alle Schwachstellen melden, die in Programme eingebaut werden, dann muss ja auch niemand mehr hacken, um das herauszufinden.
 Das wäre meine Lösung.
 Ich überlege, einen Staatspreis auszusprechen für Leute, die Schwachstellen melden.
@@ -221,7 +225,7 @@ Moderatorin: „Wir hatten zwei Kandidaten, die beide schon intensiven Kontakt, 
 Beide würden für dieses Thema bestens passen: Julian Assange und Edward Snowden.
 Wir hatten uns für Julian entschieden.
 Sie erwarten jetzt sicher, dass Julian Assange hinter diesem Tor steht ...
-Das tut er auch.“ Sie machte eine Pause.
+Er steht auch da.“ Sie machte eine Pause.
 
 „Aber, vor zwei Tagen ist etwas passiert, das hat unsere Pläne durcheinander geworfen.
 Wir haben einen Anruf bekommen von einem jungen Mann aus Italien.
@@ -275,6 +279,11 @@ Das Publikum wurde nicht leiser.
 
 Ein Mann rief: „Marlene, bleib bei uns.“
 
-Sie nickte leicht. Eine Träne lief ihr die Wange herunter. Sie stand da, 10 Sekunden, 20 Sekunden, eine Ewigkeit. Dann wischte sie sich die Träne aus dem Gesicht, nickte wieder ins Publikum und ging zum Tisch. Die Präsidentin war aufgestanden und beide gaben sich die Hand. Beide hatten es ein wenig schwer, sich in die Augen zu schauen, aber nach einer kleinen Weile klappte es. Sie setzten sich.
+Sie nickte leicht.
+Eine Träne lief ihr die Wange herunter.
+Sie stand da, 10 Sekunden, 20 Sekunden, eine Ewigkeit.
+Dann wischte sie sich die Träne aus dem Gesicht, nickte wieder ins Publikum und ging zum Tisch.
+Die Präsidentin war aufgestanden und beide gaben sich die Hand.
+Beide hatten es ein wenig schwer, sich in die Augen zu schauen, aber nach einer kleinen Weile klappte es.
+Sie setzten sich.
 
-(Fortsetzung)

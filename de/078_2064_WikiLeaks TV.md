@@ -1,9 +1,9 @@
 ## **2064** WikiLeaks TV
 
-<span style="font-variant:small-caps;">Eine Gruppe von Journalisten</span> saß in einem der Besprechungsräume der CNN-Redaktion um einen Tisch herum.
+<span style="font-variant:small-caps;">Eine Gruppe von Journalisten</span> saß in einem der Besprechungsräume der CNN-Redaktion in Washington um einen Tisch herum.
 Sie schauten zusammen auf einen riesigen Computer-Monitor.
 
-Ein Journalist stürzte herein: „Schnell! Schnell.
+Ein Journalist stürzte herein: „Schnell! Macht schnell:
 Auf WikiLeaks-TV, es geht los!“
 
 Ein zweiter Journalist drückte auf den Knopf einer Fernsteuerung: „Scheiße, weißt du schon, was es ist?
@@ -16,7 +16,9 @@ Das Darknet ist in voller Aufregung.
 Ich sage euch.“
 
 Dritter Journalist: „Alle großen Regierungsgebäude an der Ostküste sind evakuiert.
-Trotzdem kriegen wir keine offizielle Auskunft, was es ist.“ Er zeigte auf den Monitor. „Was ist das jetzt?“
+Trotzdem kriegen wir keine offizielle Auskunft, was es ist.“
+Er zeigte auf den Monitor.
+„Was ist das jetzt?“
 
 WikiLeaks-TV zeigte in Kacheln Live-Bilder von neun verschiedenen Orten jeweils mit eingeblendeter Ortszeit.
 Auf einem war die Golden Gate-Brücke zu sehen, auf dem nächsten das MGM-Hotel in Las Vegas, auf einem das Weiße Haus, der Freedom Tower in New York, Sears Tower in Chicago, das Pentagon.
@@ -26,14 +28,15 @@ Die Zeit dort 18:07 Uhr.
 Erster Journalist: „Anschlagziele.
 Das sind potentielle Anschlagziele.“
 
-Dritter Journalist: „Ajjj. Shiiiit... Ein Live-Anschlag.“
+Dritter Journalist: „Ajjj. Shiiiit... Ein Live-Anschlag.
+Anonymous hat das mal angekündigt.“
 
 Erster Journalist: „Und der Senderausfall heute soll auch damit zu tun haben.
 Sie haben wohl vorher einen Satelliten gehackt.“
 
 Dritter Journalist leise: „Wow.“
 
-Erster Journalist: „Seht ihr die zwei F22 im Hintergrund, da hinter dem Weißen Haus, und hier eine hinter dem Pentagon, rechts neben dem Freedom Tower.
+Erster Journalist: „Seht ihr die da zwei F22 im Hintergrund, da hinter dem Weißen Haus, und hier eine hinter dem Pentagon, rechts neben dem Freedom Tower.
 Die sind überall.
 Die kreisen.
 Ich glaube, sie haben alle Flieger draußen, die sie haben.“
@@ -67,7 +70,7 @@ Wo ist Tom?
 Tom!
 Tom, was ist das?“
 
-Tom: „Schwer zu sagen.
+Tom stellte sich zu ihm: „Schwer zu sagen.
 Vielleicht ... ja ... vielleicht Reapers.
 Auf jeden Fall bewaffnete Kampfroboter ...
 Ja, das sind Reaper MQ-11s.
@@ -102,13 +105,13 @@ Sie feuern auf das Hauptgebäude.“
 
 Zweiter Journalist: „Woah, was sind das für Explosionen?
 Das ist ja verrückt.
-Das hat die ganze obere Ecke weggesprengt.
+Die erste hat die ganze obere Ecke weggesprengt.
 Oh mein Gott.
-Die legen das Gebäude flach.“
+Die legen mit ein paar Schüssen das ganze Gebäude flach.“
 
 Dritter Journalist: „Sie kreisen.
 Nächster Treffer.
-Das Gebäude stürzt gleich ein.
+Das Gebäude hält nicht mehr lange.
 Hoffentlich ist da niemand mehr drin.“
 
 Zweiter Journalist: „Aber wer ist das?

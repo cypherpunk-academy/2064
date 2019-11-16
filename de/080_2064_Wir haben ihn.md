@@ -1,6 +1,7 @@
-## **2064** Wir haben sie!
+## **2064** Wir haben ihn!
 
-<span style="font-variant:small-caps;">Fortunato trug einen</span> brasilianischen Karnevalshut und hatte eine bildhübsche, knapp bekleidete junge Frau im Arm.
+<span style="font-variant:small-caps;">Fortunato trug einen</span> brasilianischen Karnevalshut und hatte eine bildhübsche, halb bekleidete junge Frau im Arm.
+Sein Blick war leer, sein Gesicht grau.
 Zwei Agenten saßen ohne Jackets auf dem Sofa.
 Er schaute in Richtung Fernseher, wo unter einer Nachrichtensendung eine Laufschrift erschien: 
 
@@ -8,10 +9,10 @@ Er schaute in Richtung Fernseher, wo unter einer Nachrichtensendung eine Laufsch
 „2.7 Millionen Bitcoins, für Turkmenistan, Afghanistan, Usbekistan, 
 Iran, Pakistan ...“ 
 </div>
-Er fuchtelte mit den Armen und schrie so laut er konnte: „HUAARRRKRMPLSIGURRRR“
+Er machte sich von der Frau los, fuchtelte mit den Armen und schrie so laut er konnte: „HUAARRRKRMPLSIGURRRR“
 Dann zog er eine Pistole aus seiner Hose und feuerte zweimal auf den Monitor.
 Splitter flogen durch den Raum.
-Er schaute wütend auf das große Loch mitten im Bildschirm.
+Er schaute mit Hass im Blick auf das große Loch mitten im Bildschirm.
 
 Die Frau hatte sich erschrocken weggedreht und hielt sich mit zwei Fingern die Ohren zu.
 Sie schrie: „Fortunato!
@@ -22,7 +23,7 @@ Ich will hier weg!“
 
 Fortunato: „Ich kann nicht.
 Noch nicht.
-Ich muss noch etwas erledigen.“
+Ich muss noch etwas erledigen ...“
 
 Ein Agent: „Es ist vorbei.
 Es gibt nichts mehr zu erledigen.“
@@ -54,7 +55,7 @@ Der klappt.
 Nicht so wie die BESCHISSENEN anderen Pläne, die wir hatten.
 Ich habe die Jungs hier in mein Appartment gelassen.
 So ein beschissener Plan.
-Hier und hier saßen sie mit ihren Laptops und ich war hier im Raum als Sigur ... Sigur ...“
+Sie saßen hier drin mit ihren Laptops und ich war hier im Raum als Sigur ... Sigur ...“
 Er atmete kräftig.
 „...
 Sig ...“
@@ -100,8 +101,9 @@ Was meinst du?“
 Agent: „Aufgelöst.
 Komplett.
 Sie räumen auf...
-Ich muss gehen.
-Es geht los.“
+Ich muss jetzt weg.
+Es geht los.
+Mach´s gut.“
 Er verschwand vom Bildschirm.
 
 Fortunato blickte verwirrt um sich: „Aufgelöst?
@@ -111,13 +113,13 @@ Es schaute ihm Zimmer herum.
 Sein Blick wurde zum Meer hinaus gezogen, zum Horizont, zu einem kleinen schwarzen Punkt unter den Wolken.
 Er schrie: „ROSANNA! KOMM!!“
 
-Er packte sie, zog sie mit Gewalt zur Terrassentür, öffnete sie und rannte mit Rosanna los in Richtung der Steinmauer zum Meer.
+Er packte sie, zog sie mit Gewalt zur Terrassentür, öffnete sie und rannte mit ihr los in Richtung der Steinmauer zum Meer.
 Kurz davor ließ er sie los und sprang auf die Mauer.
 „KOMM! SPRING!!“
 
 Er hechtete ins Meer.
 Rosanna wollte gerade auf die Mauer steigen, da zischte eine Rakete an ihr vorbei in Haus.
-Alles verschwand in einer Riesenexplosion.
+Alles verschwand in einer gigatischen Explosion.
 Sie wurde von der Wucht der Druckwelle ins Meer geschleudert.
 Eine zweite Rakete schlug ein.
 Tiefer ins Fundament.

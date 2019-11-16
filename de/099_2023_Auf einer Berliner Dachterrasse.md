@@ -1,6 +1,6 @@
 ## **2023** Auf einer Berliner Dachterrasse
 
-Marwin saß neben Marlene auf einem Liegestuhl auf einer großen Dachterrasse mitten in Kreuzberg.
+<span style="font-variant:small-caps;">Marwin saß neben Marlene</span> auf einem Liegestuhl auf einer großen Dachterrasse mitten in Kreuzberg.
 Die Abendsonne tauchte alles in warme Farben.
 Die Terrasse war umrahmt von einem breiten Steingeländer.
 Es gab Liegestühle, kleine Tischchen, Pflanzen, eine Bar.

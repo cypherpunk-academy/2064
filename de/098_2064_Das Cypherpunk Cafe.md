@@ -1,6 +1,6 @@
 ## **2064** Das Cypherpunk Café
 
-Das Cypherpunk-Café lag ganz oben auf dem Ballon, unter freiem Himmel.
+<span style="font-variant:small-caps;">Das Cypherpunk-Café lag</span>ganz oben auf dem Ballon, unter freiem Himmel.
 Es sah in wenig aus wie eine italienische Café-Terasse, mit Mamorboden und -säulen in sanften Farben, kleinen Tischchen und einer Steinmauer ringsherum.
 Dahinter sah man Berge, einen großen See, eine ganze Miniatur-Landschaft.
 

@@ -5,7 +5,7 @@ Vor dem Pult standen drei Tische mit Stühlen dahinter und jeweils einer Namensk
 Kevin und Sophie saßen nebeneinander am mittleren Tisch.
 Zwei Kamerateams positionierten sich im Raum.
 Lukas arbeitete mit einem anderen Schüler an einem Computer.
-Anni kontrollierte mit einer weiteren Schülerin am Eingang Presseausweise.
+Anni kontrollierte mit einer Schülerin am Eingang Presseausweise.
 Der Raum füllte sich langsam.
 
 Ein Journalist rief von der Mitte des Zimmers: „Kevin!
@@ -13,12 +13,14 @@ Was habt ihr heute Neues?“
 
 Kevin: „Einen kleinen Moment noch, Christoph.
 Es gibt wirklich etwas Neues.
+Breaking news.
 Willst du nicht einen besseren Platz hier vorne?
 Es lohnt sich.
 Und mach schon mal Twitter auf ...“
 Er lächelte ihm zu und dreht sich dann zu Lukas: „Seid ihr so weit?“
 
-Lukas: „Gleich. Läuft fast alles.“
+Lukas: „Gleich.
+Läuft fast alles.“
 
 Eine Journalistin rief aus der hinteren Reihe: „Wie viele Klassen streiken jetzt?“
 
@@ -29,10 +31,23 @@ Anni rief von der Tür aus: „1220.“
 
 Die Journalistin rief: „Wow!“ und tippte etwas in ihr iPad.
 
+Etwas rechts von ihr saß Amelie, vor ihr Joe mit Kamera und Sven mit Mikrofon.
+
+Amelie leise, ein wenig konspirativ: «Willkommen zur Sonderausgabe von Amelie's Out of Berlin!
+Wir haben uns heute hier eingeschlichen, weil wir aus gut unterrichteten Hackerkreisen erfahren haben, dass hier heute etwas passiert.
+Eine Weltpremiere.
+Ein Game Changer soll das werden.
+Da können wir ja nicht wegbbleiben, oder?
+Ah, da kommt unser Tippgeber ...»
+
+Joe drehte sich mit Kamera zur Tür.
+
 Oskar betrat den Raum und schaute sich um.
+Er winkte zu Amelie.
 Dann ging er zu Kevin, legte ihm einen USB-Stick auf den Tisch und sagte: „Das Transskript.
 Der Stick ist sauber.
-Den kannst du direkt einstecken.“ Kevin stand auf und brachte den Stick zu Lukas.
+Den kannst du direkt einstecken.“
+Kevin stand auf und brachte den Stick zu Lukas.
 Der nickte.
 
 Lukas: „Okay, dann sind wir fertig.
@@ -81,7 +96,7 @@ Wie er spricht, wie er klingt.
 Denn es gibt noch eine zweite Aufzeichnung, die wir Ihnen vorspielen wollen.
 Und die wurde vor fünf Tagen gemacht, hier in Berlin,
 kurz nachdem die Präsidentin der Vereinigten Staaten die Amnestie für Wistleblower verkündet hatte.
-Das Gespräch war übrigens hier in der Chausseestraße.“
+Das Gespräch war im Hauptquartier in der Chausseestraße.“
 
 Lukas drückte eine Taste.
 
@@ -96,11 +111,12 @@ Und wir hatten die Bevölkerung dabei relativ ruhig gehalten, auch in Europa.
 Relativ ruhig.
 Protest: Ja.
 Reale Konsequenzen: Nein!
-Wir waren so knapp davor, das zu erreichen, was wir uns vorgenommen hatten.
-Und dann diese _Scheiße_ jetzt.
+Nicht mal ein Prozent hat sich wirklich dafür innteressiert.
+Wir waren so knapp davor ...
+Und dann diese SCHEISSE jetzt.
 Ich pfeife auf alles, was sie in dieser Ansprache gesagt hat.“
 
-Kevin: „Die kleine Giftnudel, die er hier meint, ist die Präsidentin der Vereinigten Staaten.
+Kevin: „Die kleine Giftnudel, das haben Sie gemerkt, ist die Präsidentin der Vereinigten Staaten.
 Seine oberste Chefin.
 Und er pfeift auf das, was sie sagt.
 Er pfeift damit auch auf das Gesetzgebung der USA, auf das Rechtssystem, auf das politische System, er zeigt Amerika den Mittelfinger.“
@@ -116,15 +132,10 @@ Stimme des Direktors: „Wir machen mit Nachdruck so weiter wie bisher.
 Und wenn wir jetzt mehr Gegenwind bei den Firmen bekommen, gut!
 Dann machen wir eben auch mehr Wind.
 Das können wir.
-Das können wir auch bei Firmenchefs von amerikanischen Firmen.
+Das können wir auch bei amerikanischen Firmen.
 Die glauben, sie hätten Immunität, unter der schützenden Hand der Präsidentin.
-Fuck it.
-Die werden schon sehen, was es heißt, sich mit der NSA anzulegen.
-Ich habe kein Problem damit, auch mal einen von denen zu verhaften.“
-
-Kevin: „Das geht in Richtung Google, Apple, Amazon, Microsoft ...
-Das ist eine offene Drohung.
-Ich bin gespannt, wie die darauf reagieren werden.“
+Fuck it!
+Die werden schon sehen, was es heißt, sich mit der NSA anzulegen.“
 
 Lauter werdendes Gemurmel.
 
@@ -153,8 +164,9 @@ Wenn es getan ist, wird sich die Präsidentin bekennen müssen: Steht sie auf de
 
 Kevin: „Das ist Anstiftung zum Mord.
 Auf deutschem Boden.
-Und dazu noch ein Staatskomplott im eigenen Land.“ Er schaute ernst ins Publikum.
-„Ich erwarte jetzt, und ich meine das ernst, eine Untersuchung und dann eine Anklage der Bundesstaatsanwaltschaft gegen den NSA-Direktor.
+Und dazu noch ein Staatskomplott im eigenen Land.“
+Er schaute ernst ins Publikum.
+„Ich erwarte jetzt, und ich meine das ernst, eine Untersuchung und dann eine Anklage der Bundesstaatsanwaltschaft gegen den NSA-Direktor und den BND-Präsidenten, denn der hat nichts unternommen.
 Marlene ist eine deutsche Staatsbürgerin.
 Der Direktor muss verhaftet werden, wenn er das nächste Mal deutschen Boden betritt.“
 
@@ -171,17 +183,35 @@ Ich weiß auch nicht, wo sie jetzt gerade ist.“
 Sophie stand auf.
 Sie schaute ins Publikum und wartete eine kurze Zeit.
 Dann sagte sie in ruhigem, ernsten Ton: „Eigentlich, eigentlich hoffe ich, dass wir das gar nicht mehr brauchen.
-Sie soll sich nicht verteidigen müssen.
+Die Quelle soll sich nicht verteidigen müssen.
 Sie hat viel gewagt.
 Es ist ein persönliches Statement, dass sie da geleakt hat, aber es geht uns alle an.
 Es deckt Verbrechen auf.
-Es ist ein Zeichnen eines korrupten Justizsystems, wenn jemand Morddrohungen aussprechen kann und damit davonkommt, und jemand, der das an die Öffentlichkeit bringt, verfolgt wird.
+Es ist ein Zeichnen eines kaputtes Justizsystems, wenn jemand Morddrohungen aussprechen kann und damit davonkommt, und jemand, der das an die Öffentlichkeit bringt, verfolgt wird.
 Aber es gibt wahrscheinlich immer noch solche korrupten Staatsanwälte, die politische Ziele verfolgen, und dafür ihre Unabhängigkeit von anderen staatlichen Stellen verwenden.
 So, wie das Marlene Ny in Schweden über viele Jahre mit Julian Assange gemacht hat.
 Sie hätte jederzeit den Haftbefehl gegen Julian aufheben können.
 Sie hat es nicht getan.
-Selbst, als der UNO-Menschenrechts-Rat gesagt hat, dass das illegal ist, hat sie es nicht zurückgenommen.
+Selbst, als der UNO-Menschenrechtsrat gesagt hat, dass das illegal ist, Julian festzuhalten, hat sie es nicht zurückgenommen.
+Erst als es zu spät war, hat sie es dann getan.
 Und inzwischen ist sie ganz normal pensioniert, ohne dass sie sich jemals dafür verantworten musste.
 Ich hoffe, dass wir in Deutschland inzwischen weiter sind.“
 
 Kevin: „Ja, das hoffe ich auch.“
+
+Amelie in der letzten Reihe in die Kamera: «Ja, das hoffen wir alle hier.
+Marlene soll hier mit uns feiern.
+Wir müssen jetzt alle darauf schauen, was hier dem NSA-Direktor passiert.
+Wenn wir hier draufschauen und immer mal wieder Wirbel machen, dann wird sich etwas bewegen.
+Deswegen habe ich noch eine neue Aktion für euch.
+Und ihr bekommt das heute in vielen YouTube-Kanälen.
+Ich will, dass wir heute Abend um 8 alle raus gehen, Punkt 8, auf den Balkon, die Straße oder den Dachgarten und so laut ICH BIN MARLENE! rufen, wie ihr nur könnt!
+Und wenn ihr ein Megafon auftreiben könnt, nehmt das.
+Wir haben ein paar tolle Boxen auf der Straße vor dem Studio.
+Da darf heute Abend jeder mal durchrufen.
+Kommt vorbei!
+Oder brüllt von euch aus, wo immer ihhr seid!»
+
+Oskar drehte sich um, schaute zu Amelie und hob seinen Daumen.
+Er rief ihr zu: «Ich sage das gleich noch in unserer Übertragung hier.
+Das wird ein Fest heute Abend in Berlin und anderen Städten.»

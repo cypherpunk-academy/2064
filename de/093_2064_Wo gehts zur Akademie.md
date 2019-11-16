@@ -17,7 +17,7 @@ Voll geil!“
 
 Tim: „140 PS.
 Aber warte, bis wir querfeldein gehen.
-Das mein Ding.
+Das mein Belag.
 Querfeldein habe ich vor zwei Jahren den Westküstentitel geholt.“
 
 Sigur: „Das habe ich gehört. Super geil!“
@@ -35,7 +35,8 @@ Tim: „Egal.
 Uns kriegen sie nicht.
 Die Steppe ist mein Wohnzimmer.
 Hier habe ich fahren gelernt.
-Hier kenne ich jeden Grasbüschel.“ Er gab Gas.
+Hier kenne ich jeden Grasbüschel.“
+Er gab Gas.
 Sie fuhren auf freies Gelände.
 Weiter hinten war eine Landstraße zu sehen, die aus der Stadt kam und sich irgendwo in den Bergen verlor.
 
@@ -52,7 +53,7 @@ Die Verfolgungsjagden sind so geil dort.“
 Sigur: „Ich eigentlich nicht!“
 
 Tim: „Die haben keine Chance.
-Die haben keine Ahnung, wie schnell wir sind.“ Er gab noch einmal Gas.
+Die haben keine Ahnung, wie schnell wir können.“ Er gab noch einmal Gas.
 
 Etwa 300 Meter weiter war eine Kolonne von fünf Wagen von der Landstraße abgefahren und versuchte, ihnen den Weg abzuschneiden.
 Tim lenkte die Maschine leicht nach links.
@@ -127,7 +128,7 @@ Tim: „Welchem Ballon?“
 Sigur: „Dem weißen Ballon dort!
 Siehst du den nicht?“
 
-Die Mosquito-Fliege begann sich zu bewegen.
+Die Mosquito-Fliege begann zu flattern.
 
 Tim: „Ich sehe keinen Ballon.
 Das sind Berge, Wolken, Bäume.

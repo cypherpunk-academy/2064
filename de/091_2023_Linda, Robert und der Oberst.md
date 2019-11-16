@@ -1,16 +1,18 @@
 ## **2023** Linda, Robert und der Oberst
 
 <span style="font-variant:small-caps;">Der Oberst stand auf,</span> stützte beide Hände auf den Besprechungstisch und schaute drohend auf Linda und Robert, die ihm gegenüber saßen. Linda schaute sehr konzentriert.
-Dann schlug er plötzlich mit der flachen Hand auf den Tisch.
 
+Oberst laut: «MARWIN FARRAS FREILASSEN?»
+Dann schlug er plötzlich mit der flachen Hand auf den Tisch.
 Oberst: „IHR SEID VOLLKOMMEN DURCHGEDREHT!
 Ihr kommt aus Washington und meint, ihr könntet die Sachen hier am Ground Zero besser machen als wir.
 Kapiert ihr nicht: Wir haben mit den gefährlichsten Leuten der Welt zu tun.
-Wenn wir Fehler machen, dann sterben Menschen, viele Menschen, Amerikaner!
-Da kann man nicht einfach mal von irgendeinem Sessel aus eingreifen, ohne Dinge kaputt zu machen.
+Wenn wir Fehler machen, dann sterben Menschen!
+Da kann man nicht einfach mal von irgendeinem Sessel aus eine Idee haben, ohne Dinge kaputt zu machen.
 
-_Der_ Junge geht bei mir heute nur über meine Leiche raus!“ Er schnaubte.
-„Das ist eh bloß wieder eine von seinen Einlagen.
+Marwin Farras geht bei mir heute nur über meine Leiche raus!“
+Er schnaubte.
+„Das ist wahrscheinlich eh bloß wieder eine von seinen Einlagen.
 Der hat hier schon Sachen angestellt, ich sage euch.
 Einer meiner Männer hat den Dienst quittiert, wegen ihm.
 Der schreibt jetzt Strafzettel in New York.
@@ -29,6 +31,7 @@ Er stand auf.
 
 Robert: „Das ist eine dienstliche Anweisung, das ist keine Bitte!
 Wie können Sie sich dagegen sperren?
+Über was reden wir hier?
 Ich fasse es nicht.
 Ist das hier Militär oder Kindergarten?“
 
@@ -46,6 +49,7 @@ Und deswegen kommt nachher nicht ihr Chef, sondern dessen Chefin, die Präsident
 
 Oberst: „WAS?“ Er schaute wild um sich.
 „WAS?
+WAS?
 WANN?
 Das ist ein Witz?“
 
@@ -54,8 +58,10 @@ Linda: „In sechs Stunden.“
 Der Oberst setzte sich wieder hin und schüttelte den Kopf.
 Hierher?
 Die Präsidentin?
+Wahrscheinlich mit Presse.
 Nein, das könnt ihr nicht machen.
-Das könnt ihr nicht machen.“ Er schaute im Raum herum.
+Das könnt ihr nicht machen.“
+Er schaute im Raum herum.
 „Oh, ihr seid ... ECHTE WICHSER!“
 
 Robert sprang auf, ballte die Faust und ging auf den Oberst zu.
@@ -64,7 +70,8 @@ Der sprang ihm in Kampfhaltung entgegen und schaute ihn wild drohend an.
 Linda eilte um den Tisch und ging dazwischen.
 „Wir bleiben jetzt ruhig.
 Alle.
-Wir haben nicht mehr viel Zeit.“ Sie fasste beide an die Arme.
+Wir haben nicht mehr viel Zeit.“
+Sie fasste beide an die Arme.
 
 Alle setzten sich wieder an den Tisch.
 
@@ -78,7 +85,7 @@ Das Problem ist Information.
 Die Jungs und Mädels, die hier ein paar Jahre sind, haben viel gesehen, viel mitbekommen.
 Taktiken, Techniken.
 Das ist alles ultrageheim hier.
-Sie kennen Leute.
+Die kennen Leute hier.
 Merken sich Gesichter.
 Die will ich nicht auf irgendwelchen Phantombildern im Internet sehen.“
 
@@ -92,7 +99,7 @@ Man kann auch Respekt oder Angst dazu sagen.
 Wenn sie rauskommen und gleich auftreten wie King Kong, dann ist das ein Problem.
 Wenn sie sich vorsichtig, seltsam oder widersprüchlich verhalten, dann hilft uns das mehr, dann erzeugt das Respekt vor unserer Arbeit.
 Wir wollen im Ruf stehen, dass sich Leute bei uns verändern.
-Wir entlassen etwa 10% - 15% auf diese Weise, zu diesem Zweck.“
+Wir entlassen etwa 10 bis 15 Prozentn auf diese Weise, zu diesem Zweck, absichtlich.“
 
 Linda: „Okay.
 Dann müssen wir das jetzt eben abkürzen.
@@ -100,7 +107,7 @@ Sechs Stunden haben wir noch.“
 
 Der Oberst atmete aus: „Das reicht nicht.
 Sie haben keine Ahnung.
-Bei Farras wären drei Wochen noch zu kurz.
+Bei Farras sind drei Wochen noch zu kurz.
 Haben sie sich überhaupt seine Akte angeschaut?“
 
 Robert richtete sich drohend auf.
@@ -129,7 +136,7 @@ Er wird am Ende wissen, dass seine Unterschrift ernst genommen wird.
 Darin haben Sie ja Erfahrung.“
 
 Der Oberst runzelte die Stirn: „Das wird ein Super-GAU, sage ich euch.
-Sie lesen das in ein paar Wochen überall in der Presse.
+Das lesen wir in ein paar Wochen überall in der Presse.
 Und dann sitzen wir wieder hier zusammen und überlegen, wie es soweit kommen konnte.“
 
 Linda: „Er ist nicht aus der Welt.
@@ -143,7 +150,7 @@ Eine Gefängnis-Geschichte.
 Davon gibt es viele da draußen.
 Und die Leute sagen ...“
 
-Der Oberst unterbrach: „... wissen wir schon.
+Der Oberst unterbrach: „... kennnen wir schon, wissen wir schon und schauen weg.
 Ich weiß.
 Die Masse will Neuigkeiten, sie will verführt werden.
 Aber ich habe ein ungutes Gefühl dabei.
@@ -158,13 +165,13 @@ Oberst: „Was für eine?“
 
 Linda: „Das kann ich jetzt nicht sagen. Aber eine, die sie nicht ausschlagen können und auch nicht wollen.“
 
-Der Oberst lehnte sich zurück: „Mh mh“
+Der Oberst lehnte sich zurück: „Mh mh.“
 
 Linda: „Kommen Sie, gehen wir an den Text, und dann besuchen wir den Kerl mal.“
 
-Etwa eine Stunde später.
 
-Linda ordnete die Papiere zurecht und sagte zu Robert: „Komm, wir gehen!“
+
+Etwa eine Stunde später ordnete Linda die Papiere zurecht und sagte zu Robert: „Komm, wir gehen!“
 Dann zum Oberst: „Sie warten hier.
 Wir machen ihn erst einmal ein wenig warm.“
 

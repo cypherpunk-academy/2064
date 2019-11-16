@@ -100,7 +100,7 @@ Morpheus: „14 Millionen, wo hast du die her?“
 
 Lilly tippte in ihrer Geschwindigkeit, wie versunken in einer anderen Welt.
 
-Von einem anderen Tisch: „Oh, da macht den Angreifern Probleme.
+Von einem anderen Tisch: „Oh, das macht den Angreifern Probleme.
 Sie werden 20 Prozent langsamer.“
 
 Lilly: „Langsamer interessiert mich nicht.
@@ -126,9 +126,13 @@ Lilly rief: „DA!“
 
 Sie schaltete die großen Monitor auf ihren um.
 
-Lilly: „Das ist der Quelltext von einem der Angreifer.“
+Lilly: „Das ist von einem Angreifer.
+Das ist der Quelltext vion dem Angreifer.“
 
 Alle schauten konzentriert auf die Monitore.
 
-Lilly schaute erstaunt auf, dann zu Marlene, die ihr einen ebenso fragenden Blick zurückwarf.
+Lilly schaute plötzlich erstaunt auf, dann zu Marlene, die ihr einen ebenso fragenden Blick zurückwarf.
 Dann schauten beide zusammen zu Morpheus.
+
+Morpheus erschrak.
+

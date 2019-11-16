@@ -1,6 +1,6 @@
 ## **2064** Die Cypherpunk-Akademie
 
-<span style="font-variant:small-caps;">Das Flugzeug war</span> auf einem regionalen Flughafen gelandet.
+<span style="font-variant:small-caps;">Nach einem einnstündigen Flug</span> war das Flugzeug auf einem regionalen Flughafen gelandet.
 Sigur und Tim stiegen aus.
 Neben dem Rollfeld schwebte der riesige, weiße Ballon in etwa 20 Metern Höhe über dem Boden.
 Er hüllte die ganze Szene in Schatten.
@@ -49,7 +49,8 @@ Wo kommt denn der her?“
 
 Tim: „Hej, jetzt hör auf!
 Hier ist kein Schatten.
-Mich blendet die Sonne.“ Und tatsächlich kniff er ein wenig die Augen zu.
+Mich blendet die Sonne.“
+Und tatsächlich kniff er ein wenig die Augen zu.
 
 Sigur schaute erstaunt zu Lasse: „Was ist das?
 Ist er blind?“
@@ -64,7 +65,8 @@ Aber ich bin kein ...“
 
 Lasse: „Doch!
 Bist du.
-Du kannst das aber auch anders nennen, wenn du willst.“ Er schlug ihm stolz auf die Schulter: „Gratuliere.
+Du kannst das aber auch anders nennen, wenn du willst.“
+Er schlug ihm stolz auf die Schulter: „Gratuliere.
 Komm, schnapp dir ein Seil.
 Wir müssen zur Sphinx.“
 
@@ -133,14 +135,16 @@ Dafür haben wir den Cypherpunk-Computerspielplatz.“
 Sigur: „Ich kann programmieren.“
 
 Mostafa: „Ich weiß.
-Deswegen gehst du nicht gleich auf den Spielplatz.
+Deswegen gehen wir nicht gleich auf den Spielplatz.
 Aber es gibt dort schon noch einiges, was du nicht kennst.
 Das kommt für dich dann später dran.“
 
 Sigur lugte wieder herüber zu Lasse, der seltsame ausweichende Bewegungen machte: „Muss ich auch zur Sphinx?“
 
-Mostafa: „Du musst nicht.“ Er grinste.
-„Du musst schon.
+Mostafa: „Du musst nicht.
+Hier in der Akademie muss man nie etwas.“
+Er grinste.
+„Du musst schon, wenn du zu den interessanten Plätzen kommen willst.
 Die Sphinx bewacht alle Aus- und Eingänge in der Akademie.
 Du musst immer wieder an ihr vorbei, sonst kommst du nicht einmal in die Akademie hinein.“
 
@@ -161,14 +165,16 @@ Wo ist ...?“
 „Wie soll ich da hinüber kommen?
 Ich kann nicht fliegen und zum Springen ist es zu weit“, rief Sigur hinter ihm her und schaute die Kante der Plattform hinunter.
 
-Mostafa rief von der anderen Seite: „In der Cypherpunk-Akademie geht alles mit Gedanken.
+Mostafa rief von der anderen Seite: „In der Cypherpunk-Akademie geht alles mit Denken.
 Denk dich dorthin!“
 
 Sigur nickte Mostafa zu: „Ich verstehe.“
-Er trat einen Schritt zurück, legte seine Hände seitlich an die Stirn und sagte leise: „Zum Bär, zum Bär.“ Nichts rührte sich.
+Er trat einen Schritt zurück, legte seine Hände seitlich an die Stirn und sagte leise: „Zum Bär, zum Bär.“
+Nichts rührte sich.
 
-Mostafa: „Du musst loslassen.
-Denk einfach.
+Mostafa: „Worte sind nicht Denken.
+Du musst loslassen.
+Du musst richtig denken.
 Vertrau!“
 
 Sigur probierte es noch ein paar Mal und wiederum tat sich nichts.
@@ -199,7 +205,8 @@ Sigurs Körper entspannte sich.
 Er fühlte sich leichter.
 Die Anstrengungen der letzten Tage fielen von ihm ab.
 
-„Willkommen in der Akademie, Sigur“, brummte der Bär mit einer dunklen Stimme. „Dieser Stein markiert den Eingang zu den Ebenen-Inseln.
+„Willkommen in der Akademie, Sigur“, brummte der Bär mit einer dunklen Stimme.
+„Dieser Stein markiert den Eingang zu den Ebenen-Inseln.
 Du wirst sehen, warum sie so heißen.
 Es gibt elf davon.“
 
@@ -207,26 +214,51 @@ Sigur: „Elf? So viele wie Grundgedanken?“
 
 Wim: „Genau.
 Und über der elften Ebene schwebt mein Garten.
+Der Garten des Epikur.
 Das ist das Ziel.
 Es wird eine Weile dauern, bis du dahin kommst.
 Die Aufgabe ist, den Weg dorthin zu finden, oder eigentlich, ihn zu bauen.
 
-Es ist eine Art Gedankenweg, Verbindungen von einem Gedanken zum nächsten, mit vielen Abzweigungen.
-Abzweigungen sind Widersprüche und ihre Auflösung.
-Man kann alles in der Welt aus verschiedenen Richtungen anschauen, zum Beispiel einen Baum.
-Der sieht von einer Seite ganz anders aus, als von einer anderen.
-Das widerspricht sich.
-Aber es ist trotzdem derselbe Baum.
-Genauso ist das mit Gedanken.
-Menschen streiten sich oft, nur weil sie ein und denselben Gedanken von zwei verschiedenen Richtungen aus anschauen.
-Wenn du in einer Stadt auf einer Insel einen Gedanken findest, wirst du zuerst dessen Widersprüche auflösen, dann neue Widersprüche finden und am Ende eigene Gedanken hinzufügen, zu denen andere Cypherpunks dann Widersprüche und Auflösungen finden werden.
-Es ist eine Art von Kreislauf.
-Die besten Widersprüche, Auflösungen und Gedanken bleiben.
-Die anderen verschwinden nach einiger Zeit wieder.
-Auf diese Weise verändern die Cypherpunks, die den Weg suchen, die Ebenen-Inseln fortwährend.
-Und zu dieser Welt ist hier der Eingang.“
+Auf dem Weg über die 11 Ebenen findest du viele stark befestigte Städte,mit jeweils einem Tempel im Zentrum.
+Du spielst einen Ritter im frühen Mittelalter.
+Eigentlich müssten die Tempel Kirchen sein, aber die heutigen Kirchen sind gar nicht mehr das, was sie zu der Zeit waren.
+Die Tempel sind die Hüter der Wege, sie wachen darüber, wer welchen Weg zur nächsten Stadt, oder zu einem Wald oder einem Fluss gehen kann.
+Sie haben alle ein Rätsel, jeder seins, das ist ein Gedankenfehler, den man auf unterschiedliche Weise lösen kann.
+Ein Gedankenfehler, der dich hindert, Cypherpunk zu werden.
+Den musst du lösen.
+Und nicht nur auf eine Weise, sondern auf vier.
+Du kannst später auch eigene Lösungen hinzufügen, mit einem Pull-Request, und sie können Teil eines Tempelrätsels werden.
+Dadurch kannst du Anwärter, Helfer und am Ende Diener eines Tempels werden.
+Das wird dir in vielen Situationen weiterhelfen.
 
-Sigur nickte. Er schaute sich um.
+Wenn du noch keine Stadtrechte hast, musst du eine Stadt zunächst erobern, mit damaligen Waffen und nicht alleine.
+Das geht nicht.
+Es gibt immer wieder Angriffe von vorüberziehenden Armeen, denen du dich anschließen kannst.
+Und du brauchst Fähigkeiten, dass du von einer Armee aufgenommen wirst.
+Dazu gibt es die Wälder.
+In den Wäldern gibt es Programmier- und Hackaufgaben.
+Ich weiß, das ist nicht ganz schlüssig für diese Zeit.
+Aber Cypherpunks programmieren und hacken.
+Das sind ihre Haupttätigkeiten.
+Mostafa, die Tigermücke, ist der Herr der Wälder.
+Sie kannst du fragen, was für dich geeignet ist und wo du das findest.
+Wenn du auf der 11. Ebene ankommst, wirst sehr gut programmieren können.
+Und hacken, dass es dem Kommando Center Taurus ganz Angst und bange wird.“
+
+Sigur: „Ich kann programmieren und hacken.“
+
+Wim schmunzelte: „Ja und nein.
+Du wirst sehen.“
+
+Sigur schaute Wim skeptisch an.
+
+Wim: „Jetzt wird die anderen drei Lehrer der Akademie treffen.
+Der erste wartet am Eingang zu den Ebeneninseln.
+Das ist hier!“
+
+Wim zeigte neben sich.
+
+Sigur nickte. Er schaute an die Stelle, wohin Wim zeigte.
 
 Sigur: „Wo?“
 
@@ -241,20 +273,22 @@ Sigur: „Was kommt denn?“
 
 Wim: „Das, was kommt, das kommt.
 Schau dich um!
-Stelle fest, dass nichts Gefährliches um dich herum ist, nichts, das dein Leben bedroht.“
+Ist irgendetwas Gefährliches um dich herum?
+Bedroht etwas dein Leben.“
 
 Sigur schaute sich um, schüttelte den Kopf.
 
 Wim: „Wenn sich irgendetwas unsicher anfühlt, fokussiere darauf.“
 
-Sigur: „Nichts.“
+Sigur schloss die Augen.
+Öffnete sie wieder: „Nichts.“
 
 Wim: „Frage dich: Hast du alles, was du brauchst.
 Gibt es etwas, auf das du wartest, das nötig ist, bevor du weiter machen kannst?
 Muss du etwas wissen? Oder klären?
 Oder kannst du einfach hier sein, so wie du bist?“
 
-Sigur schloss seine Augen und atmete ruhig.
+Sigur schloss seine Augen wieder und atmete ruhig.
 Er nickte.
 
 Wim: „Gehe mit deinem Bewusstsein an einen Platz hinter deinen Augen.“
@@ -269,16 +303,20 @@ Wim: „Jetzt geh ein wenig tiefer.“
 Wim: „Es ist nichts Gefährliches um dich herum.“
 
 Wim: „Geh langsam weiter herunter und sieh, wo du Widerstand fühlst.
-Hals ... Brust ... Bauch ... Beine.
-Dann zurück zur Brust und durch die Arme.
-Wieder zurück zum Kopf an den Ausgangspunkt.“ Er wartete einige Augenblicke.
+Hals ... Brust ... Bauch ... Beine.“
+
+Wim bliebe eine Weile still und schaute auf Sigur.
+
+Wim: „Dann zurück zur Brust und durch die Arme.
+Wieder zurück zum Kopf an den Ausgangspunkt.“
+Er wartete einige Augenblicke.
 „Jetzt gehe dahin, wo du am meisten Widerstand gespürt hast.“
 
 Wim: „Bleib da für eine Minute.“
 
 Nach einer Minute sagte Wim: „Okay.“
 
-Sigur schaute Wim an.
+Sigur öffnete die Augen und schaute Wim an.
 „Wozu ist das gut?“
 
 Wim: „Nicht weggehen.
@@ -291,7 +329,7 @@ Aber Wim war schon verschwunden, der Bienenkorb auch, auch Sigurs Plattform war 
 Die ganze Kuppel änderte sich in atemberaubender Geschwindigkeit.
 Sigur stand instinktiv auf und machte einen Schritt zurück.
 Er schaute nach allen Seiten.
-Er stand jetzt auf einer Felsen-Ebene, die nach allen Seiten bis zur Kuppel reichte.
+Er stand jetzt auf einer Felsen-Ebene, die nach allen Seiten bis zum Rand der Kuppel reichte.
 Alles wurde dunkler, bekam schärfere Kanten und Umrisse und plötzlich hörte man in der ganzen Kuppel ein düsteres Grollen.
 Der ganze Raum erzitterte, dann stand auf einmal ein riesiger, kreisförmiger Bereich der Kuppel in Flammen.
 Sigur starrte dorthin.
@@ -299,6 +337,9 @@ Manche Flammen schlugen weit in die Kuppel hinein.
 Urplötzlich schoss aus der Mitte des Kreises mit hoher Geschwindigkeit eine dunkle Gestalt mit Vogelkopf und gewaltigen Schwingen heraus und flog nach oben zum Kuppeldach, dann von dort direkt auf Sigur zu.
 Sie ließ etwa ein Dutzend eiförmige, brennende Gebilde Richtung Sigur fliegen.
 Er warf sich auf den Boden, drehte sich zur Seite und konnte gerade so vermeiden, getroffen zu werden.
+
+Sigur: „Scheiße, die Sphinx!“
+
 Die Sphinx landete etwa zwanzig Meter vor ihm auf dem Boden und wurde größer und größer und größer, bis sie etwa ein Drittel der Höhe der Kuppel einnahm.
 
 Sigur sagte leise: „Die Sphinx!“
@@ -307,7 +348,9 @@ Sie beugte sich zu ihm herunter und fragte mit lauter, grollender Stimme:
 
 „WER BIST DU, DASS DU ES WAGST, VOR MICH ZU TRETEN?“
 
-Sigur richtete sich auf und antwortete, ohne zu zögern: „Ein Mensch!“ Er wusste, dass er schnell antworten musste.
+Sigur richtete sich auf und antwortete, ohne zu zögern: „Ein Mensch!“
+Er wusste, dass er schnell antworten musste.
+Eine Drittelsekunde etwa. um die Sphinx zu schlagen.
 
 Die Sphinx lies ihre Flügel hochflattern und schrie in Schmerzen auf.
 Dann sammelte sie ihre Kräfte und legte die Flügel an.
@@ -332,8 +375,7 @@ Sphinx: „WELCHE TUGEND BRAUCHST DU HIER AM MEISTEN?“
 
 Sigur: “Gerechtigkeitsliebe“
 
-„Das war einfach“, dachte Sigur, „Die Feinde des Internets im Jahr 2028 waren darauf aus, die Welt zu spalten, in Menschen, die in Wohlstand lebten und solchen, die für sie arbeiten sollten.
-In solche, die unterdrückten und in solche die unterdrückt wurden, in solche die in Sicherheit lebten und in solche, die ständig in Gefahr waren.“
+„Das war einfach“, dachte Sigur, „Die Feinde des Internets im Jahr 2028 waren darauf aus, die Welt zu spalten, in Menschen, die in Wohlstand lebten und solchen, die für sie arbeiten sollten.“
 
 Der Schrei der Sphinx wurde immer mehr zu einem Aufjaulen.
 Ihre Augen wurden düsterer, sie begann deutlich an Kraft zu verlieren, ihre Flügel wurden steifer, sie schrumpfte weiter.
@@ -352,13 +394,12 @@ Sigur: „Die Jugend!“ Er atmete aus.
 Das war knapp.
 Man musste innerhalb von drei Sekunden antworten, sonst war es zu spät.
 
-Die Sphinx jaulte laut auf und fluchte donnerend: „Hurensohn!
-Taugenichts!
-Dummkopf!“ Sie rauschte mit ihren Flügeln.
+Die Sphinx rauschte mit ihren Flügeln.
 
 Sphinx: „WAS TUST DU, WENN DU VERSAGST?“
 
-Sigur: „Ich kann nicht versagen. Wenn ich Fehler mache, lerne ich, wenn ich keine Fehler mache, freue ich mich.“
+Sigur: „Ich kann nicht versagen.
+Wenn ich Fehler mache, lerne ich, wenn ich etwas richtig mache, freue ich mich.“
 
 Die Sphinx seufzte, laut und kläglich.
 Ihr Stimme wurde brüchig.
@@ -390,96 +431,126 @@ Er sprang von seinem Podest, lief auf die Sphinx zu, die zu Stein erstarrt war, 
 Alles zerbröselte zu Staub und wurde nach und nach von einem aufkommenden Wind herausgetragen.
 
 Die ganze Halle änderte sich wieder.
-Um ihn herum erschienen ungeheuer dicke, matt glänzende Eichen mit herabhängenden Lianen, viele andere Bäume, moosbewachsene Steine, die ihn anzuschauen schienen, und direkt vor ihm ein kleiner, spiegelnder Teich mit dichtem Buschwerk darum herum und einem schwebenden Nebel darüber, der ein eigenes Leben zu haben schien.
-Alles um Sigur herum verwandelte sich in einen Zauberwald.
-Verschiedenste, sonderbarste Tiere krochen, flogen oder krabbelten umher.
-Er entdeckte eine wunderschöne, große, giftig aussehende Lotusblume, nicht weit von ihm auf einer Lichtung.
-Nichts von alldem war chaotisch.
-Alles schien eine seltsame Ordnung zu haben, jede Bewegung verriet ihren Sinn.
-Sigur blickte sich um, er staunte, fürchtete sich ein wenig.
-Von hinten sagte eine klare, weiche Stimme: „Sigur!“ Er drehte sich um und vor ihm saß auf einem Baumstumpf Tin, die Eule.
+Sigur sah um sich herum eine mittelalterliche Stadt entstehen.
+Er stand auf dem Hauptplatz in der Mitte der Stadt, vor ihm ein großer Tempel aus fein bearbeitem roten Sandstein und Mamor.
+Überall liefen Menschen, die irgendeiner Aufgabe nach gingen.
+An ihrer Kleidung konnte man erkennen, was sie wohl taten.
+Am Rand des Platzes konnte man eine Reihe Häuser und Geschäfte sehen. 
+Rechts, etwas weiter weg ein Marktplatz und weiter hinten ein Stadttor.
+
+Von hinten sagte eine klare, weiche Stimme: „Sigur!“ Er drehte sich um und vor ihm saß auf einer Holzbank, Tin, die Eule.
 
 Sigur verneigte sich.
 
-Tin: „Auch ich heiße dich herzlich Willkommen.
-Lasse wartet schon auf dich im Cypherpunk Café."
+Tin: „Auch ich heiße dich herzlich Willkommen.“
 
-Sigur: „Ist das der Zauberwald?
-Warum bin ich jetzt hier gelandet?
-Ich stand gerade noch vor dem Eingang zu den Ebenen-Inseln.“
+Sigur: „Ist das so ein Tempel, von dem Wim gesprochen hat?
+Warum bin ich jetzt schon hier?
+Ich wollte zum Eingang, Städte muss man erobern.“
 
-Tin: „Der Zauberwald ist der Ort, wo alle vergangenen Gedanken und Entscheidungen aufbewahrt werden.
-Du kannst hier Rätsel lösen und Antworten auf Fragen finden.
-Für die Ebenen-Inseln brauchst du den Zauberwald wegen der Nahrung, die in ihm wächst.
-Solche zum Beispiel.“
+Tin: „Du bist im Übungsraum.
+Das hier ist eine Stadt, in der du Tempeldiener bist, das höchste, was man in einer Stadt werden kann.
+Hier kannst du herkommen und schauen, was du alles erreichen kannst.
+Aber du musst auch herausfinden, wie man das hier finden kann.
+Er ist alles da.
+Aber nicht alles offensichtlich.
+Da vorne gibt es Waffen, Kleidung, andere Ausrüstung, Landkarten.
+Jeder, der hier vorbeiläuft weiß irgendetwas oder kann irgendetwa.
+Auf dem Markt bekommst du Heilmittel und Edelsteine, besondere Metalle.
+Du wirst verstehen, wann du sie brauchst.
+Aber das Wichtigste ist das hier.“
 
-Tin zeigte auf einen Baum, an dem lustig geformte, blaue und rosa Früchte hingen.
+Tin nickte in Richtung des Tempels.
 
-„Du kannst sie nicht pflücken, du musst das Rätsel des Baumes lösen, dann bekommst du von ihm immer wieder Früchte, die du auf den Ebenen-Inseln brauchen wirst.
-Das Wichtigste hier im Zauberwald sind aber Denkfehler, vor allem die Denkfehler, die alle oder die allermeisten Menschen einer Zeit oder einer Gegend in sich tragen.
-Sie sehen so aus.“
+Sigur nickte auch.
+Sigur: „Klar.
+Was kann ich hier machen?“
 
-Tin zeigte auf die Lichtung mit der Lotusblume.
+Tin: „Als Tempeldiener musst du nicht in den Tempel hineingehen, um alles mit ihm machen zu können.
+Du kannst von überall aus, auch in anderen Städten ein Fenster zu dem Tempel öffnen.
+Denk an den Tempel und streiche mit der Hand so durch die Luft.“
 
-„Wenn du sie berührst, dann erscheint über der Blüte, was sie ist.“
+Tin malte mit der Hand einen Halbkreis in die Luft.
+Sigur ahmte die Bewegung nach.
 
-Tin schickte eine Libelle zur Lotusblume.
-Über ihr erschien eine Schrift aus Blütenstaub, die seltsam leuchtete.
+Ein etwa drei Meter breiter und 1,5 Meter hoher Bilderrahmen erschien vor ihnen in etwa ein Meter Höhe.
+Er zeigte den Satz:
 
 <div style="background-color: #222; color: lightgreen; padding: 20px; margin: 20px 0; font-family: 'Courier New'">
 Man muss sich anpassen, um im Leben etwas zu erreichen, um
-erfolgreich zu sein. Und alles, was man nicht macht, weil
-man sich anpasst, das muss man ersetzen. Zum Beispiel dadurch,
-viel Geld zu haben, das schönste Haus, die aufregendsten Reisen,
-zu machen oder irgendetwas anderes Spannendes oder Schönes.
+erfolgreich zu sein. Und alles, was man nicht machen kann, weil
+man sich anpasst, das muss man durch etwas anderes ausgleichen.
+Zum Beispiel dadurch, viel Geld zu haben, das schönste Haus,
+den interessantesten Partner, die aufregendsten Reisen zu machen
+oder irgendetwas anderes Spannendes oder Schönes.
 </div>
-„Auf den Ebenen-Inseln wirst du einen Menschen finden, auf den dieser Gedankenfehler passt.
-Es passt ja für fast alle Menschen dieser Zeit, aber bei diesem einen ist es ganz besonders deutlich.
-Er oder sie sucht nach dem Gedanken und du kannst ihm oder ihr dann den Gedanken schenken, dann wirst du dafür etwas bekommen.“
 
-Die Libelle flog durch die Schrift hindurch und sie verschwand.
-Gleichzeitig öffnete Sigur instinktiv seine Hand und auf ihr erschien ein kleines, quadratisches, bunt bemaltes Blättchen.
-Er schaute es an und überlegte, wo er es aufbewahren könnte.
+Zur gleichen Zeit leuchtete der gleiche Satz an der Vorderseite des Tempels auf.
 
-Tin: „Denke einfach: Das ist meins. Dann verschwindet es in deinem unsichtbaren Rucksack.“
+Sigur lächelte: „Oder den besten Computer ...
+Aber etwas stimmt da schon dran.
+Man muss sich anpassen.“
 
-Das Blättchen verschwand aus Sigurs Hand.
+Tin schaute ihn fragend an.
 
-Tin „Es gibt hier viele davon.
-Um in den Garten von Wim zu kommen, musst du alle finden und verschenken.
-Aber aber es gibt hier nicht nur falsche Gedanken.
-Es gibt auch vieles, das man einfach so entdecken kann.
-Siehst du den Moderhaufen dahinten?“
+Sigur: „Ein bisschen.
+Man kann nicht alles so machen wie man will.“
 
-Sigur nickte.
+Tin: „Das könnte im Spiel nicht passieren.
+Im Spiel wäre das, wie du selbst den Gedankenfehler formulierst.
+Das hättest du selbst so geschrieben.
+Und der hier ist auch falsch.
+Alle Gedankenfehler haben Teile, von denen man meint, dass sie stimmen.
+Und auch Teile bei denen man meint, dass sie falsch sind.
+Aber darauf kommt es nicht an.
+Es kommt darauf an, ob Menschen im Leben so leben, als wäre dieser Satz richtig.
+Und im Jahr 2028 haben viele Menschen so gelebt als wäre der Satz richtig.
+Sie wollten viel Geld haben, das schönste Haus und so weiter.
+Und sie haben auf viel verzichtet, um erfolgreich zu sein.
+Du musst daran denken: Das ist 2028 und vieles ist heute anders.
+Aber du meinst ja auch immer noch, dass man sich anpassen muss, um das zu erreichen, was man erreichen will.“
 
-Tin: „Mit weißem Schimmel darunter und giftigem, stinkenden Matsch, in dem nichts wachsen kann.“
+Sigur: „Komm! Ein bisschen ...
+Du musst hier schon genau sein.
+Ich bin Programmierer.“
 
-Sigur blickte auf den Haufen.
+Tin: „Nein, kein bisschen.“
 
-Tin: „Das ist eine Beziehung zwischen zwei Menschen, die viel gestritten und sich gegenseitig zu Dingen gezwungen haben, die sie nicht tun wollten.
-Sie haben sich gefühlsmäßig sehr stark ineinander verwickelt, wollten sich gegenseitig ändern.
-Und sie haben das nie aufgeräumt.“
+Sigur schaute sie ungläubig an.
 
-Sigur schauderte bei dem Anblick. Sein Blick wandte sich zu einem dürren Gestrüpp, das daneben lag.
+Tin: „Sigur, es ist nicht spannend zu denken: ein bisschen.
+Das verwäscht das Ganze.
+Natürlich kann es aus Gedankenfehler in den Gedankenfehlern geben.
+In jeder Software gibt es Bugs.
+Aber du kommst weiter im Denken, wenn du davon ausgehst, dass das vollständig richtig ist.
+Die meisten Menschen weichen dem Denken damit aus, dass sie sagen: Etwas stimmt nicht.
+Anstatt die Perspektive zu suchen, aus der es vollständig stimmt.“
 
-Tin: „Der Dornenbusch hier?
-Das waren Wortgefechte, Diskussionen.
-Alles stirbt, wenn man es nur mit fremden Worten betrachtet.
-Deswegen wirst du hier in der Akademie deine eigenen Worte für die Dinge machen.
-Es hilft nicht, wenn du wiederholst, was ein anderer gesagt hat.
+Sigur nickte langsam.
+
+Sigur: „Woouuhaa.
+Dann wird das kompliziert.“
+
+Tin: „Genau.
+Kompliziert und interessant.
+Alles wird falsch, wenn man es nur aus seiner eigenen Perspektive betrachtet.
+
+Aber auf der anderen Seite stirbt alles, was man mit fremden Worten versteht.
+Deswegen wirst du hier in der Akademie deine eigenen Worte für die Dinge finden.
+Es reicht nicht aus, dass du wiederholst, was ein anderer gesagt hat.
 Du wirst lernen, alles von verschiedenen Seiten aus zu sehen und zu Gedanken zu kommen, die lebendig sind, statt nur Worte zu haben.
 Es gibt nicht die Wahrheit, es gibt nur Wahres.
 Die widersprüchlichsten Dinge können wahr sein.“
 
-Sigur: „Lasse meinte, das hier wäre die Weisheit.“
+Sigur: „Das ist Weisheit, oder?“
 
 Tin sagte: „Weisheit ist Vergangenheit.
 Liebe ist Zukunft.“
 
-Sigur nickte.
+Tin musterte Sigur.
 
-Tin: „Ich sehe, du willst jetzt schnell vorangehen ... Aber du bist noch nicht bereit.
+Tin: „Ich sehe, du willst jetzt schnell weitergehen ...
+Aber du bist noch nicht bereit.
 ... du musst auch noch an den Ebenen-Sphinxen vorbei.“
 
 Sigur: „Ich weiß, Tin.
@@ -488,7 +559,8 @@ Ich bin bereit.“
 
 Tin: „Du bist bereit?“
 
-Sigur: „Ich bin bereit!“ Er stellte sich aufrecht vor sie.
+Sigur: „Ich bin bereit!“
+Er stellte sich aufrecht vor sie.
 
 Tin musterte ihn mit besorgten Augen.
 
@@ -506,7 +578,9 @@ Ebene 1: Freie Software, Verschlüsselung, dezentrale Dienste und alles andere, 
 Sigur nickte zurück: „Ich kenne die 11 Grundgedanken der Cypherpunks.“
 
 Tin: „Ich weiß, ich weiß.
-Ebene 1 wird dir geschenkt.“ Sie warf einen bunt leuchtenden Glasball in die Luft, der fortschwebte und nach einer Zeit in Tausende von kleinen Stäubchen in allen Farben zerfiel.
+Ebene 1 wird dir geschenkt.
+Du kannst jederzeit dorthin gehen und die Städte aufsuchen.“
+Sie warf einen bunt leuchtenden Glasball in die Luft, der fortschwebte und nach einer Zeit in Tausende von kleinen Stäubchen in allen Farben zerfiel.
 Sigur bestaunte sie lachend.
 
 Sie sah Sigur an: “Ebene 2: Lebensideale: Gerechtigkeit, Offenheit, Gleichheit, Brüderlichkeit, und alles andere, was uns als Menschen erhebt.“
@@ -514,12 +588,13 @@ Sie sah Sigur an: “Ebene 2: Lebensideale: Gerechtigkeit, Offenheit, Gleichheit
 Sigur nickte: „Freiheit, andere Anteil haben lassen ...“
 
 Tin: „Ebene 2 ... wird dir ebenfalls geschenkt.
-Das ist sehr selten, dass zwei Ebenen geschenkt werden. Du kannst sie natürlich jederzeit besuchen und erforschen.“ Sie warf eine andersfarbige Kugel in die Luft, die auch zerstob.
+Das ist sehr selten, dass zwei Ebenen geschenkt werden. Du kannst sie natürlich jederzeit besuchen und erforschen.“
+Sie warf eine andersfarbige Kugel in die Luft, die auch zerstob.
 
 Sigur lächelte.
 Seine Augen strahlten.
 
-Tin: „Ebene 3: Das Dagegen-Sein überwinden, und alles andere, was die Grenzen zwischen Menschen aufhebt.“
+Tin: „Ebene 3: Das Dagegen-Sein überwinden, und alles andere, was die Mauern zwischen Menschen überwindet.“
 
 Sigur nickte.
 
@@ -528,7 +603,7 @@ Bist du bereit?“ Sie schaute ihn eindringlich an.
 
 Sigur: „Ja.“
 
-Tin flatterte mit ihren Flügeln und in einem Blitz verschwand der Zaubergarten und Sigur fand sich in einem Kerker ohne Fenster wieder.
+Tin flatterte mit ihren Flügeln und in einem Blitz verschwand der Tempel mit dem Hauptplatz und der ganzen Stadt und Sigur fand sich in einem Kerker ohne Fenster wieder.
 Überall grob gehauene, feuchte Steine, von Mörtel zusammengehalten, viel Moos und ein strohbedeckter Steinboden.
 Es roch scharf nach Fäkalien.
 Sigur hielt sich die Nase zu.
@@ -544,7 +619,7 @@ Er umfasste die Stäbe, rüttelte daran.
 Unmöglich sie auch nur einen Millimeter zu bewegen.
 Er rief laut den daran anschließenden Gang hinunter.
 Keine Antwort.
-Er versuchte sich ins Cypherpunk-Café zu denken, zurück zum Bären, in den Zaubergarten, aber nichts geschah.
+Er versuchte sich ins Cypherpunk-Café zu denken, zurück zum Bären, in die Übungsstadt, aber nichts geschah.
 Dann fasste er sich mit beiden Händen an den Kopf: „Oh nein!
 Nicht Wunderlich, nicht Wunderlich.“
 

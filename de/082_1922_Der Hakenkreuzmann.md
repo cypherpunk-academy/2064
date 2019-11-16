@@ -1,22 +1,24 @@
 ## **1922** Der Hakenkreuzmann
 
-### SZENE 11: Im selben Gewölbekeller.
+### SZENE 11: Im selben Gewölbekeller
 
 ____
 Der Hauptmann, Bertold, ein weiterer uniformierter Mann mit Hakenkreuzbinde am Oberarm.
 Sie stehen in der Mitte des Raumes.
+Hilde und Wilhelm sind nicht mehr da.
 
 Hakenkreuzmann: “So!
-Das ist also euer Raum für Spezialbehandlungen.“ Er schaute sich um und nickte.
+Das ist also euer Raum für erweiterte Verhörmethoden.“
+Er schaute sich um und nickte.
 „Schöner Ort.
 Gefällt mir!
-Spezialbehandlungen ... Guter Name.
+Erweiterte Verhörmethoden ... guter Name.
 Gefällt mir auch!
 Man muss wissen, wie man die Sachen nennt.
 Das Volk will verführt werden.
 Es hat Lust daran, verführt zu werden.“
 
-Hauptmann: „Wenn man die Reihenfolge der Spezialbehandlungen gut wählt, dann reden sie ziemlich schnell.
+Hauptmann: „Wenn man die Reihenfolge der erweiterten Verhörmethoden gut wählt, dann reden sie ziemlich schnell.
 Die Papenburgs waren hier, beide zusammen in diesem Raum, mit uns beiden.“
 
 Er grinste.
@@ -24,8 +26,10 @@ Er grinste.
 „Es ging sehr schnell.
 Und am Ende haben uns beide alles erzählt, was wir wissen wollten.“
 
-Hakenkreuzmann: „Das war eine Tat!
+Hakenkreuzmann: „Und dann habt ihr sie aus dem Spiel genommen.
+Das war eine große Tat!
 Das haben wir sogar in München gefeiert.
+Das Foto mit den beiden, im Kanal schwimmend ... mit dem Gesicht nach unten ...
 Das rote Gesocks muss ausgerottet werden.
 Es gibt keinen anderen Weg.
 Sie lassen sich nicht bekehren.“
@@ -40,10 +44,10 @@ Irgendwann reden sie.“
 
 Hakenkreuzmann: „Aber was reden sie dann?
 Wenn so ein armer Vogel nichts weiß, dann fängt er irgendwann an, etwas zu erfinden.
-Und das ist ein ernstes Problem.
+Wir haben damit ein ernstes Problem.
 Der ganzen Sache fehlt noch etwas.“
 
-Hauptmann: „Was meinen Sie?“
+Hauptmann: „Was?“
 
 Hakenkreuzmann: „Wir sprechen in München viel darüber.
 Irgendetwas, wo er ab und zu wieder ausatmen kann.
@@ -52,14 +56,15 @@ Wir haben gedacht, vielleicht irgendein Guter, der ihn zwischendurch wieder aufp
 Ein Freund.
 Jemand bei dem er verschnaufen kann.
 Dann kriegt er Hoffnung.
-Wenn man das dann über ein paar Wochen oder Monate ausdehnt, dann kann man, glaube ich, ziemlich viel herausfinden.“
+Wenn man das dann über ein paar Wochen oder Monate ausdehnt, dann kann man, glaube ich, ziemlich viel herauskriegen.“
 
-Hauptmann nachdenklich: „Hmmm. Ja, das könnte was dran sein.“ Bertold nickte ihm zu.
+Hauptmann nachdenklich: „Hmmm. Ja, das könnte was dran sein.“
+Bertold nickte zustimmed.
 
-Hakenkreuzmann: „Man braucht überall Illusionen.
+Hakenkreuzmann: „Illusionen, man braucht überall Illusionen.
 Illusionen des Guten, das macht Hoffnung.
 Hoffnung ist gut.
-Das macht sie schwach.
+Das macht schwach.
 Illusionen des Bösen.
 Das macht Angst.
 Hoffnung und Angst.
@@ -75,7 +80,7 @@ Hakenkreuzmann: „Toller Mann.
 Sehr gute Sprache.
 Kraftvolle Stimme.
 Und wenn etwas mal nicht so läuft, dann redete er eine Weile, und am Ende glauben alle, dass es trotzdem gut gelaufen ist.
-Er kriegt jeden rum.
+Er kriegt jeden rum, jeden ...
 Hält sich dabei aus allen Prügeleien raus, aber mit seinem Mund bügelt er alle platt.
 Das ist eine wichtige Sache.
 Worte!“

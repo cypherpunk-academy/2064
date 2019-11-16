@@ -1,6 +1,6 @@
 ## **2064** Wunderlich
 
-Sigur schaute Wunderlich trotzig an: „Wo habe ich Mist gebaut?“
+<span style="font-variant:small-caps;">Sigur schaute Wunderlich trotzig an</span> „Wo habe ich Mist gebaut?“
 
 Wunderlich zuckte mit den Schultern: „Keine Ahnung.
 Aber du hast, sonst wärst du nicht hier, sondern bei Lasse im Café.

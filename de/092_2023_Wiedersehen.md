@@ -36,7 +36,7 @@ Warum ist sie nicht mit Ihnen zusammen gekommen? Sie arbeiten ja nicht hier im G
 
 Linda: „Ich musste das hier vorbereiten.
 Es war alles sehr, sehr kurzfristig, überraschend.
-Das sind die ganzen Verantwortlichen, mit denen ich reden musste, nicht gewohnt.
+Das sind die ganzen Verantwortlichen, mit denen ich reden musste, nicht gewöhnt.
 Da konnte sie nicht dabei sein.“
 
 Marwin schaute Linda konzentriert an, kniff die Augen ein wenig zusammen: „Und warum mussten Sie das so kurzfristig vorbereiten?
@@ -76,7 +76,8 @@ Marwin murrte ihn an: „Lass mich durch!“
 
 Linda: „Lassen Sie ihn durch!“
 
-Marwin grinste und schlug mit der flachen Hand zweimal leicht auf die Brust des Soldaten: „Lassen Sie mich durch.“ Sein Herz pochte stärker und stärker.
+Marwin grinste und schlug mit der flachen Hand zweimal leicht auf die Brust des Soldaten: „Lassen Sie mich durch.“
+Sein Herz pochte stärker und stärker.
 
 Der Soldat machte einen Schritt zu Seite.
 Marwin sprang aus der Tür, dann nach links und lief den Gang herunter, immer schneller, dann rechts einen weiteren Gang.
@@ -123,7 +124,8 @@ Wer ist das?“, fragte er erschrocken, während sie sich immer noch umarmten.
 Marlene: „Das ist die Präsidentin der Vereinigten Staaten.“
 
 Marwin: „Shiiiit!
-Ich werd verrückt.“ Dann drückte er sie fester und sagte: „Meine Schwester! Meine Schwester.“ Er atmete zwei, dreimal kräftig und flüsterte dann „Das sind nicht unsere Freunde.
+Ich werd verrückt.“ Dann drückte er sie fester und sagte: „Meine Schwester! Meine Schwester.“
+Er atmete zwei, dreimal kräftig und flüsterte dann „Das sind nicht unsere Freunde.
 Wir haben nicht viel Zeit, oder?“
 
 Marlene: „Nein, wir haben nicht viel Zeit.“
@@ -134,13 +136,16 @@ Die Präsidentin begrüßte Marwin. Auch einige Leute neben ihr. Er schaute Lind
 Marwin: „Fuck it, du ...“ Er lächelte.
 
 Sie lächelte mit einem Augenzwinkern zurück.
-Dann drehte er sich wieder zu Marlene: „Hej, du! Das hätte ich fast vergessen.
-Ich habe dir natürlich etwas mitgebracht zu diesem großen Ereignis.“ Er drückte ihr das Büchlein in die Hand.
+Dann drehte er sich wieder zu Marlene: „Hej, du!
+Das hätte ich fast vergessen.
+Ich habe dir natürlich etwas mitgebracht zu diesem großen Ereignis.“
+Er drückte ihr das Büchlein in die Hand.
 
 Marlene schaute es überrascht an: „Was ist das?“
 
 Marwin: „Ein Geschenk.
-Ich dachte, wenn du schon den weiten Weg machst, dann habe ich auch ein Geschenk für dich.“ Er grinste sie an.
+Ich dachte, wenn du schon den weiten Weg machst, dann habe ich auch ein Geschenk für dich.“
+Er grinste sie an.
 Sie schaute verwundert zurück.
 
 Marwin: „Es wird dir gefallen.“
@@ -161,4 +166,5 @@ Eine Reporterin ging mit Mikrofon auf den Oberst los: „Sie sind der Kommandant
 Wie kann so etwas passieren?
 Was sagen Sie zu diesem Vorfall?“
 
-Der Oberst schaute sie grimmig an, deutete auf sein Schulterabzeichen und sagte: „Ich gebe keine Interviews.“ Er schaute ihr tief in die Augen.
+Der Oberst schaute sie grimmig an, deutete auf sein Schulterabzeichen und sagte: „Ich gebe keine Interviews.“
+Er schaute ihr tief in die Augen.
