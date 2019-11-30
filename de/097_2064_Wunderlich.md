@@ -3,45 +3,85 @@
 <span style="font-variant:small-caps;">Sigur schaute Wunderlich trotzig an</span> „Wo habe ich Mist gebaut?“
 
 Wunderlich zuckte mit den Schultern: „Keine Ahnung.
-Aber du hast, sonst wärst du nicht hier, sondern bei Lasse im Café.
-Er macht sich gerade eine eiskalte Mate auf.“
+Aber du hast, sonst wärst du nicht hier bei mir, sondern bei Lasse im Café.
+Er hat sich gerade einen Kakao bestellt.“
 
-Wunderlich grinste vorsichtig.
+Wunderlich grinste Sigur vorsichtig an.
 
-Sigur setzte sich im Schneidersitz vor ihn: „Und was jetzt?
-Was kann ich hier jetzt tun?“
+Sigur setzte sich im Schneidersitz vor ihn: „Das kann nicht sein!
+Wir haben die Mission geschafft.
+Ich habe zwei Ebenen geschenkt bekommen. Zwei!“
 
 Wunderlich zuckte wieder mit den Schultern.
-„Warten?“
+Wunderlich: „Ok.“
 
-Sigur: „Auf was?“
+Sigur: „Ok, was?“
 
-Wunderlich: „Auf nichts.“
+Wunderlich: „Ok.
+Du weißt, dass du nicht verdient hast bei mir zu landen, nachdem du sooooo toll warst und eine Mission geschafft hast.“
 
-Sigur: „Und dann?“
+Sigur: „Das macht keinen Sinn!
+Zu dir kommt man nur, wenn man etwas falsch gemacht hat, nicht wenn man eine Mission geschafft hat.“
 
-Wunderlich: „Dann ist irgendwann Spielende.“
+Wunderlich: „Zu mir kommen viele, die gerade eine Mission geschafft haben.
+Und niemand kommt zu mir, weil er oder sie etwas falsch gemacht hat.
+Du weiß noch nicht so viel von der Eule, hm?
+Dinge falsch machen ist der Sinn jeder Schule.
+Nur bei Dingen, die man falsch macht, kann man etwas lernen.
+Wenn man in irgendetwas alles richtig macht, gibt es ja nichts zu lernen.
+Dann muss man etwas anderes machen, wenn man weiterlernen will.
+Und überhaupt: Nur wenn man Dinge zuerst falsch macht, weiß man später, dass man sie richtig macht.
+Das ist alles Eulenweisheit.
+Hast du keine Ahnung davon.
+Und du willst in Ebene 4, ha!“
 
-„NEIN!“, brauste Sigur auf.
-„NEIN!
-Ich war so knapp davor.
-Ich _bin_ so knapp davor.
-Ich gebe jetzt nicht auf.“
+Sigur: „Und wann kommt man dann zu dir, wenn nicht, wenn man etwas falsch gemacht hat?“
+
+Wunderlich: „Wenn man Mist gebaut hat.
+Wie du.“
+
+Sigur atmete laut aus.
+Sigur ein bisschen lauter: „Und WO ist da der Unterschied, Mist bauen und etwas falsch machen.“
+
+Wunderlich rollte seine Augen nach oben: „Du weiß das nicht?“
+
+Sigur schaute Wunderlich streng an.
+Sigur: „Nein, ich weiß das nicht ...“
+
+Wunderlich: „Du bist hier, weil du genau das nicht unterscheiden kannst, du Wurst!“
+
+Sigur schluckte.
+
+Wunderlich: „Du triffst zum ersten Mal auf die Eule und hörst ihr nicht einmal zu.“
+
+„WAS?!“, brauste Sigur auf.
+„Ich habe genau zugehört.
+Ich habe lange darauf gewartet, Tin zu treffen.
+Außerdem, ich höre sogar dir zu.“
+
+Wunderlich: „Nur, weil du unbedingt hier raus willst ...
+Sonst würdest du mir nicht zuhören.
+Wie du der Eule nicht zugehört hast, du Schlafmütze.“
+
+Sigur schaute ihn mit großen Augen an.
+Sigur langsam: „WAS HABE ICH NICHT GEHÖRT?“
 
 Wunderlich: „Du hast der Eule gesagt, dass du auf die Insel-Ebene 4 willst.
-Das ist eine Aussage, die kannst du nicht so leicht wieder zurück nehmen.“
+Das ist eine starke Aussage, für so einen Grünschnabel wie dich, die kannst du nicht so leicht wieder zurück nehmen.“
 
 Sigur: „Aber ich will das!
-Ich will auf Ebene 4.“
+Ich will auf Ebene 4.
+Lasse ist auch dort!“
 
-Wunderlich: „Du kannst nicht auf Ebene 4.
-Du hast einen Menschen umgebracht, der keine unmittelbare Bedrohung für das Leben eines anderen Menschen war.
-Und das geht nicht.
-Das geht nicht in Ebene 3 und das geht hundert Mal nicht in Ebene 4.
+Wunderlich: „Du kannst nicht so einfach auf Ebene 4.
+Du hast illegal einen Menschen umgebracht, der keine unmittelbare Bedrohung für irgendwen war, total gegen jede Regel.“
+
+Wunderlich holte ein Büchlein heraus, schlug es auf und hob einen Finger: „... nur bei unmittelbarer Bedrohung für das Leben eines anderen Menschen.
+Gegen so etwas kannst du auf Ebene 3 nicht verstoßen und hundert Mal nicht auf Ebene 4.
 Ich sage dir eins: Du hast verschissen!“
 
 Sigur wütend: „Wo?
-Wo habe ich einen Menschen umgebracht, der niemanden bedroht hat?“
+Wo habe ich einen Menschen umgebracht, der niemanden unmittelbar bedroht hat?“
 
 Wunderlich: „Und du kannst nicht einmal mehr zurück gehen auf Ebene 2 oder so, oder ganz raus aus der Akademie.
 Du hast gesagt, dass du in Ebene 4 willst.
@@ -57,11 +97,14 @@ Sigur: „Hat sie NICHT!“
 Wunderlich: „Sie hat gesagt, dass du nicht bereit bist.
 Und du hast das weggewischt und gesagt: Du bist bereit.
 Deutlicher wird die Eule nicht.
-Was die Eule sagt, das stimmt.
+Was die Eule sagt, das stimmt - normalerweise.
 Sie sagt dir nicht, was du machen sollst.
 Sie sagt nur was ist.
 Vergangenheit und Weisheit und so.
-Hast du das verstanden?“ Er schaute ihn mitleidig an.
+Hast du das wenigstens verstanden?
+Das ist doch ganz einfach.“
+
+Wunderlich schaute Sigur mitleidig an.
 „Du bist jetzt Cypherpunk.
 Du bist selber groß.
 Du bist frei, das anzustreben, was du anstreben willst.
@@ -71,7 +114,7 @@ Sigur schloss die Augen und ballte beide Fäuste.
 
 Wunderlich: „Du hast es verschissen!“
 
-Sigur: „HABE ICH NICHT!
+Sigur lauter: „HABE ICH NICHT!
 Es gibt immer einen Ausweg in der Cypherpunk-Akademie.
 Es gibt hier keine endgültigen Sackgassen.
 Überhaupt nicht.
@@ -90,8 +133,11 @@ Was machst du?
 Ich bin der einzige Freund, den du noch hast.
 Wo sind die anderen alle?
 Wenn du sie brauchst, sind sie nicht da.
-Und überhaupt, du gehst schon wieder gegen jemanden, der keine unmittelbare Bedrohung ist.
+Und überhaupt, du gehst schon wieder gegen jemanden vor, der keine unmittelbare Bedrohung ist.
 Das scheint dein Sport zu sein.
+Ebene 3 geht darum, das Dagegen sein zu überwinden.
+Kapierst du das?
+Das Einzige gegen das du da sein kannst, ist das Gegeneinander selbst.
 Dagegen sein ist nicht für Cypherpunks, nicht ab Ebene 3.
 Jetzt fasse dich mal, sonst kommst du hier wirklich nicht mehr raus, du Schwächling, du ... Opfer.“
 
@@ -105,33 +151,41 @@ Sigur: „Das war FBI!
 Sie haben mich gejagt.
 Auf Leben und Tod.
 Die wollten mit Raketen auf den Kampfroboter schießen.
-Wenn ich drin gesessen hätte, dann hätten sie mich umgebracht,“
+Wenn ich drin gesessen hätte, dann hätten sie mich umgebracht.“
 
 Wunderlich: „Hätte, täte, wäre.
-Du bist aber nicht dringesessen.
-Wenn du drin gesessen hättest, dann hättest du, glaube ich, auf sie schießen können.
+Du warst da nicht drin.
+Wenn du drin gewesen wärest, und sie gerade auf dich gezielt hätten, dann hättest du, glaube ich, auf sie schießen können.
 Oder vielleicht doch nicht.
 Ich bin mir nicht sicher.
 Die Regelmeister der Akademie haben manchmal seltsame Ansichten.
 Da fragst du am besten den Bären.
 Aber _du_ warst ja überhaupt nicht drin in dem Kampfroboter.
+Und Lasse war weit weg.
 Du warst in einem Bunker und hast Knöpfe gedrückt, mehr nicht.
 Wie ein Feigling.“
 
 Sigur atmete durch.
-Er dachte an die anderen beiden Hubschrauber, die er kurz nach dem ersten auch vom Himmel geholt hatte, und an das Polizeiauto.
+Er dachte an die anderen beiden Hubschrauber, die er kurz nach dem ersten auch vom Himmel geholt hatte.
 
-Sigur: „Aber das ist Krieg.
-Im Krieg sterben Menschen.“
+Sigur: „Aber das ist doch Krieg.
+Das war 2028.
+Zu der Zeit war das normal.
+Im Krieg sterben Menschen.
+Das waren keine Zivilisten.“
 
-Wunderlich: „Krieg ist ein Spiel.
-Nur weil man das spielt, macht das nicht, dass man plötzlich Menschen umbringen darf.
+Wunderlich: „Ich sage dir jetzt etwas, was du wahrscheinlich wieder nicht verstehst:
+Krieg ist ein Spiel, aber ein sehr, sehr ernstes.
+Nicht weil irgendwen Zivilist nennst, ist er in Wirklichkeit etwas anderes geworden.
+Im Spiel heißt er Zivilist oder Soldat.
+Im realen Leben ist er immer ein Mensch.
+Und nur weil man Krieg spielt, macht das nicht, dass man plötzlich Menschen umbringen darf.
 Man darf keine Menschen umbringen.
+Niemals.
 Das geht nicht.
-Nicht als Cypherpunk.“
+Und hundertmal nicht als Cypherpunk.“
 
 Sigur schaute ihn verwirrt an: „Im Krieg darf man keine Menschen umbringen?
-Was ist das für ein Scheiß?
 Lasse hat auch ...“
 
 Wunderlich unterbrach mit einer abfälligen Handbewegung: „Mit so einer Einstellung wirst du hier noch lange sitzen.
@@ -146,60 +200,71 @@ Wunderlich: „Hej, du checkst überhaupt nichts.
 Das waren alles fliegende Kampfroboter.
 Material kaputtmachen ist kein Problem.“
 
-Sigur: „Aber dann, dann sind viele Menschen gestorben.“
+Sigur: „Aber dann, dann sind viele Menschen gestorben.
+Er hat eingeriffen, ohne zu verstehen, was gerade läuft.“
 
-Wunderlich: „Hat er nicht verhindern können, ist er nicht dafür verantwortlich.
-Das lag in seinem Schicksalsfaden, würde der Bär jetzt wahrscheinlich sagen.“
+Wunderlich: „Das war ein Fehler.“
 
 Sigur: „Zwei seiner Kampfroboter sind beim Angriff auf das NSA-Gebäude mitgeflogen.“
 
 Wunderlich: „Die beiden haben niemanden umgebracht.
+Ich habe die Logs durchgeschaut.
 Aber du hast ein bisschen Recht.
 Es war knapp ... Den Luftkampf mit den F22-Piloten hast du programmiert.
 Dabei sind fünf Leute gestorben.
 Geht auch auf dein Konto.
-Je mehr ich mir das hier anschaue.
+Je mehr ich mir das hier anschaue:
 Du kannst das Ganze hier knicken.
-In der Akademie wird das nichts mehr mit dir.“ Er grinste ihn breit an.
+In der Akademie wird das nichts mehr mit dir.“
+Er grinste ihn breit an.
 
 Sigurs Augen wurden dunkler.
 Er rutschte zur Wand rüber und lehnte sich an.
 „Okay.
-Ich habe einen Fehler gemacht.
-Sie sind tot.
+Ich habe einen Fehler gemacht.“
+
+Wunderlich unterbracht: „Kein Fehler. Mist!“
+
+Sigur: „Sie sind tot.
 Was soll ich machen?
+Ok.
+Das war Mist.
 Soll ich jetzt bis ans Ende des Spiels hier bleiben?
 Was für einen Sinn würde das machen.“
 
 Wunderlich: „Viel Sinn.
 Dann wäre einer weniger unterwegs, der andere Menschen umbringt.
+Solange Menschen eine Gefahr für andere darstellen, kann man sie festhalten, ohne an seinem Cypherpunk-Status zu kratzen.
 Es macht schon Sinn, wenn du ab jetzt gar nichts mehr machst.
 Du kannst einfach hier bleiben und auf das Spielende warten.“
 
-Sigur griff sich den Stein und drohte ihn zu werfen.
+Sigur griff sich einen Stein und drohte ihn zu werfen.
 
 Wunderlich duckte sich in übertriebener Panik: „Halt!
 Halt!
 Bist du verrückt?
-Ich bin der Einzige, der dir hier raushelfen kann.“
+Ich bin der Einzige, der dir hier raushelfen kann.
+Und außerdem: Cypherpunks bedrohnen niemanden mit Gewalt.
+Das ist Dagegen sein hoch 10.“
 
 Sigur stutzte.
 Er legte den Stein wieder auf den Boden: „Also kannst du mir doch helfen?
-Du weißt doch einen Ausweg?
-Dann hast du gelogen.“
+Du weißt doch einen Ausweg?“
 
-Wunderlich hielt sich erschrocken den Mund zu und stammelte: „Nein, njain, jain.
-Der Teil meines Gehirns, mit dem ich vorhin gedacht habe, wusste das nicht.“
+Wunderlich hielt sich erschrocken den Mund zu und stammelte: „Vielleicht.
+Eher nein.
+Wenn ich dich so anschaue.“
 
-Sigur: „Sag mir, wie geht es hier raus?
+Sigur: „Es gibt einen Ausweg.
+Ich weiß das.“
 
-Wunderlich: „Das musst du rausfinden.
-Nicht ich.“
+Wunderlich: „Ok.
+Zeig mir wo, du Schwächling.“
 
 Sigur ballte seine Faust und hob sie an.
 
 Wunderlich: „Hej!
-Dritter Grundgedanke: Nicht dagegen.
+Nochmal: Dritter Grundgedanke: Nicht dagegen.
 Das gilt auch im Umgang mit mir!
 Und ich bin ja nicht gegen dich.
 Ich sage nur wie die Sache ist.“
@@ -216,26 +281,38 @@ Du bist voll davon, du Pappnase, du Esel, du Kleindenker!“
 
 Sigur wollte ihn wieder schnappen, aber besann sich gerade noch.
 
-Sigur: „Wunderlich, komm sag mir, was ich tun kann.
+Sigur leise: „Wunderlich, komm sag mir, was ich tun kann.
 Du hast von mir nichts mehr zu befürchten.“
 
 Wunderlich: „Das weiß man nie.
 Erst eitel Sonnenschein und gleich drauf kriegt man wieder einen Stein nachgeschmissen.“
 
 Sigur: „Nein, echt!
-Ich habs begriffen.“
+Ich habs begriffen.
+Lasse hat mir das mal über dich gesagt:
+Du testest gerade meine Grenzen, oder?“
+
+Wunderlich: „Und das ist ziemlich einfach bei dir.“
+Er schaute auf eine winzige Armbanduhr.
+„Du bist bei minus 120 Punkten.
+Das hat hier im Kerker noch niemand so schnell geschafft.“
+
+Sigur schaute einsichtig zu Boden.
 
 Wunderlich kam etwas näher: „Gut!
 Was du tun kannst?
 Du kannst zum Beispiel hier Anlauf nehmen und gegen diesen Stein dort springen, den ganz großen.
-Nimm die ganze Zelle Anlauf, vom Gitter ab, und dann voll dagegen.“
+Nimm die ganze Zelle Anlauf, vom Gitter ab, und dann voll dagegen.
+Und versuche richtig in der Luft sein, wenn du auf den Stein auftriffst.
+Dann erlebst du eine Riesenüberraschung.“
 
 Sigur ging zu dem Stein und begutachtete ihn.
 Er konnte nichts Besonderes erkennen.
 
 Sigur: „Dieser Stein hier?“
 
-Wunderlich nickte: „Oder ... vielleicht der andere daneben.“ Er schaute zweifelnd, grinste dann aber gleich und sagte: „Nein, der, auf den du zeigst.“
+Wunderlich nickte: „Oder ... vielleicht der andere daneben.“ 
+Er schaute zweifelnd, grinste dann aber gleich und sagte: „Nein, der, auf den du zeigst.“
 
 Sigur rüttelte am Stein.
 Er bewegte sich nicht.
@@ -246,9 +323,9 @@ Er winkte ab.
 
 Sigur: „Das macht doch keinen Sinn.
 Das ist ein ganz normaler Stein.
-Ein kleiner Hinweis müsste da sein.“
+Ein kleiner Hinweis müsste da sein, wenn das ein Ausgang wäre.“
 
-Wunderlich hatte plötzlich einen Löffel in der Hand und zeigte ihn Sigur.
+Wunderlich hatte plötzlich einen verbeulten Löffel in der Hand und zeigte ihn Sigur.
 „Schau, du kennst doch Neo aus Zion?
 Schau, das hier ist kein Löffel!
 Es gibt keinen Löffel.
@@ -256,8 +333,8 @@ Na?
 Das ist kein Stein.
 Verstehst du?“
 
-Sigur nickte.
-Er nahm Anlauf, sprang und krachte mit voller Wucht mit Körper und Kopf auf den Stein.
+Sigur stöhnte leise und nickte.
+Er nahm Anlauf, sprang weit und krachte mit voller Wucht mit Körper und dann Kopf auf den Stein.
 Er prallte zurück und schlug mit seinem Arm auf den Boden.
 Der ganze Arm brannte vor Schmerzen, sein Kopf dröhnte, ihm war schwindelig.
 Der Stein hatte sich keinen Millimeter bewegt.
@@ -280,11 +357,11 @@ Sigur: „Aber es ist doch ein ... versteckter ... Ausgang?“
 Wunderlich: „Warum meinst du das?
 Ich denke, es ist ein normaler Stein.“
 
-In Sigur wallte wieder Wut hoch.
+In Sigur wallte Wut hoch.
 Er ging auf Wunderlich zu.
 Der verkroch sich in eine Ecke.
 
-Sigur „Du hast gesagt, es ist der Stein, und wenn ich dagegenspringe dann ...“
+Sigur: „DU HAST GESAGT, es ist der Stein, und wenn ich dagegenspringe dann ...“
 
 Wunderlich: „Dann?“
 
@@ -298,17 +375,19 @@ Wunderlich: „Hast du es tun können, oder nicht?
 Du hast es getan.
 Du bist mit der vollen Breitseite gegen die Mauer gerauscht.
 Du hattest nicht gefragt, was du tun kannst, um hier herauszukommen.
-Nur was du tun könntest.“
+Nur was du tun könntest.
+Und außerdem hast du danach ganz schön überrascht geschaut.“
 
 Sigur schnappte nach Luft.
 Er ballte seine Faust.
 Lies sie wieder los.
-Dann ging mit seinem Gesicht nahe an Wunderlichs und atmete ein.
+Dann ging mit seinem Gesicht nahe an Wunderlichs und hielt den Atem.
 Wunderlich drückte sich gegen die Wand, wurde panisch und auf einmal spuckte er Sigur mitten in Gesicht und flüchtete unter ihm hindurch in die gegenüberliegende Ecke.
 
-Sigur wischte sich angewidert die Spucke aus dem Gesicht, sprang auf, drehte sich um und rief mit deutlich röterem Gesicht: „DU ...“ Dann blieb er stehen, atmete aus und schaute Wunderlich fragend an.
-Er schaute.
-Der schaute zurück.
+Sigur wischte sich angewidert die Spucke aus dem Gesicht, sprang auf, drehte sich um und rief mit deutlich röterem Gesicht: „DU ...“
+Dann blieb er stehen, atmete aus und schaute Wunderlich fragend an.
+Er schaute einige Zeit.
+Wunderlich schaute zurück.
 Blinzelte mit den Augen.
 Sigur schaute weiter.
 Er atmete ruhig.
@@ -316,17 +395,18 @@ Eine Minute, zwei Minuten.
 Plötzlich ertönte ein leises „Pling!“ am Ende des Ganges hinter dem Gitter.
 Eine etwa handgroße, bunt-glitzernd bemalte Glaskugel sprang ihnen entgegen, wie selbstverständlich sprang sie ohne anzustoßen durch die Gitterstäbe und auf Sigur zu.
 Der öffnete instinktiv die Hand und die Kugel sprang hinein.
-Sie leuchtete lebendig in den verschiedensten Blau- und Grüntönen.
+Sie leuchtete in den verschiedensten Blau- und Grüntönen.
 Sigur betrachtete sie staunend.
 
 Sigur: „Was ist das?“
 
-Wunderlich: „Die sind heute aber mal gnädig mit dir.
+Wunderlich: „Mei, mei.
+Die sind heute aber mal gnädig mit dir.
 Das ging ja verdammt schnell.“
 
 Sigur: „Was ist das?“
 
-Wunderlich unbeeindruckt: „Eine Zauberkugel, was sonst?“
+Wunderlich unbeeindruckt: „Eine Zauberkugel, was soll das sonst sein?“
 
 Sigur: „Und was kann man damit machen?“
 
@@ -341,30 +421,42 @@ Sigur: „In was?“
 
 Wunderlich: „In ein Fenster, zum Beispiel.“
 
-Sigur warf die Kugel gegen die Wand.
-In einem Augenblick zerstäubte alles in Millionen kleiner, leuchtender Staubpunkte, die sich langsam zu Boden senkten und dort in nichts verschwanden.
+Sigur holte aus, stoppte dann aber und schaute Wunderlich an.
+
+Sigur: „Ein Fenster?
+Warum sollte ich dir glauben?“
+
+Wunderlich sagte: „Fenster.“
+
+Auf der Kugel erschien für einen Moment ein Fenster, mit einer weiten Aussicht.
+
+Sigur schaute die Kugel an: „Na dann ...“
+Er warf sie gegen die Wand.
+
+In einem Augenblick zerstäubte an der Stelle, wo Sigur die Kugel hingeworfen hatte, alles in Millionen kleiner, leuchtender Staubpunkte, die sich langsam zu Boden senkten und dort in nichts verschwanden.
 Hinter Ihnen erschien ein vergittertes Fenster mit einem herrlichen Ausblick über eine sonnendurchflutete weitläufige Landschaft.
 
 Sigur: „Wow!“
 
 Er ging zum Fenster, umfasste die Gitterstäbe und schaute nach draußen.
-Er lächelte und nickte Wunderlich zu.
+Er spürte kühlen Wind hineinwehen und lächelte Wunderlich zu.
 „Na, das ist doch schon einmal ein erster Schritt.
 Hier tut sich etwas.
 Ich hätte die andere Seite nehmen sollen, dann hätten wir jetzt die Sonne im Raum.“
 
-Wunderlich: „Ja, das wusste ich.“
+Wunderlich: „Ja, das war mir klar.
+Aber du wolltest die andere Seite.“
 
-Sigur ohne Anspannung: „Warum hast du das nicht gesagt?“
+Sigur ohne Anspannung: „Warum hast du das nicht gesagt, wenn du es gewusst hast?“
 
 Wunderlich: „Weil du nicht _gefragt_ hast.
 Ihr Menschen meint immer, ihr wärt die Schlausten, die es gibt im ganzen Universum.
 Ich kann dir sagen: Nee, das ist nicht so.
 Ich sage dir: löchriges Denken, wohin man schaut.
-Ich habe schon Menschen hier erlebt, die waren noch langsamer als du.
+Ich habe schon Menschen hier erlebt, die haben noch langsamer gedacht als du.
 Echt.
-Und andere waren noch dööfer, noch ungenauer im Denken.
-Obwohl ... vielleicht auch nicht.“
+Und andere waren noch doofer, noch ungenauer im Denken.
+Obwohl ...“
 
 Sigur schloss die Augen und atmete ruhig.
 Die Wut stieg wieder in seiner Brust an.
@@ -375,7 +467,7 @@ Er legte seine Hand darauf.
 Wunderlich: „Weißt du, du bist das einfach nicht gewöhnt.
 Ich bin eine Operratte, die einzige Tierart, die im Buch „Cypherpunks“ erwähnt wird.
 Menschen können sich nichts ausdenken, was wir Operratten nicht überwinden können.
-Wir finden immer einen Weg hinein.
+Wir finden immer einen Weg hinein oder hinaus.
 Und das ist schwer für sie zu ertragen.
 Weil sie denken, dass sie uns überlegen sind.
 Sie sind es aber nicht.
@@ -395,8 +487,9 @@ Wunderlich: „Das ist ja super.
 Jetzt haben wir gleich Sonne im Zimmer!
 Wirf sie hier hin!“
 
-Sigur: „Wirklich?
-Können wir nicht etwas Besseres damit machen?“
+In der Zauberkugel leuchtete eine Sonne auf.
+
+Sigur schaute auf die Kugel.
 
 Wunderlich: „Sonne.
 Vitamin D.
@@ -413,7 +506,8 @@ Er hielt sich die Arme vor die Augen.
 Sigur: „Ah, schön.
 Das ist gut in dem dunklen Loch.“
 
-Wunderlich: „Habe ich dir gesagt: Die Sonne kommt.“ Er grinste breit.
+Wunderlich: „Habe ich dir gesagt: Die Sonne kommt.“
+Er grinste breit.
 
 Sigur schaute zur Gittertür: „Was wäre eigentlich passiert, wenn ich die Kugel dahin geworfen hätte?“
 
@@ -467,7 +561,8 @@ Wunderlich: „Versprich es!“
 
 Sigur: „Versprochen.“
 
-Wunderlich: „Du musst von hier aus Anlauf nehmen und dann mit voller Geschwindigkeit und Kraft durchspringen.“
+Wunderlich: „Du musst von hier aus Anlauf nehmen und dann mit voller Geschwindigkeit und Kraft durchspringen.
+Und du musst in der Luft sein, wenn du auf die Stäbe triffst.“
 
 Sigur schloss die Augen.
 Er öffnete sie, schaute auf Wunderlich: „Ich fasse es nicht!“

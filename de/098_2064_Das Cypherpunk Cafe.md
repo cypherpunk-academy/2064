@@ -7,11 +7,11 @@ Dahinter sah man Berge, einen großen See, eine ganze Miniatur-Landschaft.
 Sigur setzte sich zu Lasse.
 Vor ihm stand schon ein großes Glas mit einem Eis-Shake.
 Daneben lag ein dickes, lederbeschlagenes Buch, das er aber nicht beachtete.
-Der Bär saß auf der Steinmauer des Cafés mit den Beinen nach draußen baumelnd.
+Wim, der Bär saß ein paar Meter von ihnen entfernt auf der Steinmauer des Cafés mit den Beinen nach draußen baumelnd.
 Wunderlich plauderte angeregt mit Mostafa am Nachbartisch, beide vor sich einen großen, aufwändigen Cocktailbecher mit mehreren Strohhalmen und vielen bunten Glitzerbändchen.
 Wunderlich zeigte ab und zu mit dem Daumen zu Sigur, sagte etwas und grinste Mostafa zu.
 
-Sigur blickte sich um: „Boah, schau, wer hier alles hier ist!
+Sigur blickte sich um: „Boah, wer hier alles hier ist!
 Das ist ja Wahnsinn ... So viele Cypherpunks an einem Fleck ... Hey, Totaot2!“ Er winkte zu einem Tisch an der anderen Seite.
 Totaot2 winkte zurück.
 
