@@ -10,27 +10,30 @@ Wunderlich grinste Sigur vorsichtig an.
 
 Sigur setzte sich im Schneidersitz vor ihn: „Das kann nicht sein!
 Wir haben die Mission geschafft.
-Ich habe zwei Ebenen geschenkt bekommen. Zwei!“
+Ich habe die Mission geschafft.
+Ich habe gerade zwei Ebenen geschenkt bekommen. Zwei!“
 
 Wunderlich zuckte wieder mit den Schultern.
-Wunderlich: „Ok.“
+Wunderlich: „Und?“
 
-Sigur: „Ok, was?“
+Sigur: „Und, was?“
 
-Wunderlich: „Ok.
-Du weißt, dass du nicht verdient hast bei mir zu landen, nachdem du sooooo toll warst und eine Mission geschafft hast.“
+Wunderlich: „Hmm.
+Du bist dir sicher, dass du nicht verdient hast bei mir zu landen, nachdem du sooooo toll warst und eine Mission geschafft hast.“
 
 Sigur: „Das macht keinen Sinn!
 Zu dir kommt man nur, wenn man etwas falsch gemacht hat, nicht wenn man eine Mission geschafft hat.“
 
-Wunderlich: „Zu mir kommen viele, die gerade eine Mission geschafft haben.
-Und niemand kommt zu mir, weil er oder sie etwas falsch gemacht hat.
-Du weiß noch nicht so viel von der Eule, hm?
+Wunderlich: „Falsch!
+Zu mir kommen viele, die gerade eine Mission geschafft haben.
+Und überhaupt, niemand kommt zu mir, weil er oder sie etwas falsch gemacht hat.
+Du weiß noch nicht so viel über die Weisheit der Eule, hm?
+Hast du nicht gelesen?
 Dinge falsch machen ist der Sinn jeder Schule.
 Nur bei Dingen, die man falsch macht, kann man etwas lernen.
-Wenn man in irgendetwas alles richtig macht, gibt es ja nichts zu lernen.
-Dann muss man etwas anderes machen, wenn man weiterlernen will.
-Und überhaupt: Nur wenn man Dinge zuerst falsch macht, weiß man später, dass man sie richtig macht.
+Wenn man etwas richtig macht, und das nicht vorher falsch gemacht hat, weiß man gar nicht, was daran richtig ist.
+Und wenn man irgendwo alles richtig macht, dann muss man etwas anderes machen, wenn man weiterlernen will.
+Erfolg, und so.
 Das ist alles Eulenweisheit.
 Hast du keine Ahnung davon.
 Und du willst in Ebene 4, ha!“
@@ -43,16 +46,21 @@ Wie du.“
 Sigur atmete laut aus.
 Sigur ein bisschen lauter: „Und WO ist da der Unterschied, Mist bauen und etwas falsch machen.“
 
-Wunderlich rollte seine Augen nach oben: „Du weiß das nicht?“
+Wunderlich rollte seine Augen nach oben: „Oh mein Gott!
+Du weiß das nicht?“
 
 Sigur schaute Wunderlich streng an.
 Sigur: „Nein, ich weiß das nicht ...“
 
-Wunderlich: „Du bist hier, weil du genau das nicht unterscheiden kannst, du Wurst!“
+Wunderlich: „Du bist hier, weil du genau das nicht unterscheiden kannst, du blinde Wurst!“
 
 Sigur schluckte.
 
-Wunderlich: „Du triffst zum ersten Mal auf die Eule und hörst ihr nicht einmal zu.“
+Wunderlich: „Mist ist, wenn du die Eule zum ersten Mal triffst und ihr nicht einmal zuhörst.
+Der magische Moment, wenn du jemanden zu ersten Mal triffst ...
+Auch nicht gelesen?“
+
+Wunderlich schüttelte den Kopf.
 
 „WAS?!“, brauste Sigur auf.
 „Ich habe genau zugehört.
@@ -74,7 +82,8 @@ Ich will auf Ebene 4.
 Lasse ist auch dort!“
 
 Wunderlich: „Du kannst nicht so einfach auf Ebene 4.
-Du hast illegal einen Menschen umgebracht, der keine unmittelbare Bedrohung für irgendwen war, total gegen jede Regel.“
+Du hast illegal einen Menschen umgebracht, der keine unmittelbare Bedrohung für irgendwen war.
+Das ist total gegen jede Regel.“
 
 Wunderlich holte ein Büchlein heraus, schlug es auf und hob einen Finger: „... nur bei unmittelbarer Bedrohung für das Leben eines anderen Menschen.
 Gegen so etwas kannst du auf Ebene 3 nicht verstoßen und hundert Mal nicht auf Ebene 4.
@@ -98,11 +107,15 @@ Wunderlich: „Sie hat gesagt, dass du nicht bereit bist.
 Und du hast das weggewischt und gesagt: Du bist bereit.
 Deutlicher wird die Eule nicht.
 Was die Eule sagt, das stimmt - normalerweise.
-Sie sagt dir nicht, was du machen sollst.
-Sie sagt nur was ist.
-Vergangenheit und Weisheit und so.
+Über mich sagt sie ein paar Sachen, die sind nicht so ganz vollständig richtig, glaube ich.“
+
+Wunderlich schaute kurz nachdenklich.
+
+Wunderling: „Die Eule sagt dir niemals, was du machen sollst.
+Sie sagt immer nur was gerade ist.
+Vergangenheit und Weisheit und so und wie alles so gekommen ist, wie wir das haben.
 Hast du das wenigstens verstanden?
-Das ist doch ganz einfach.“
+Das ist doch gaaaaaaanz einfach.“
 
 Wunderlich schaute Sigur mitleidig an.
 „Du bist jetzt Cypherpunk.
@@ -112,7 +125,7 @@ Selbst wenn es totaler Blödsinn ist, das zu wollen, und du mit den bescheidenen
 
 Sigur schloss die Augen und ballte beide Fäuste.
 
-Wunderlich: „Du hast es verschissen!“
+Wunderlich kam mit seinem Kopf näher: „Du hast verschissen!“
 
 Sigur lauter: „HABE ICH NICHT!
 Es gibt immer einen Ausweg in der Cypherpunk-Akademie.
@@ -133,13 +146,13 @@ Was machst du?
 Ich bin der einzige Freund, den du noch hast.
 Wo sind die anderen alle?
 Wenn du sie brauchst, sind sie nicht da.
-Und überhaupt, du gehst schon wieder gegen jemanden vor, der keine unmittelbare Bedrohung ist.
+Und überhaupt, du gehst schon wieder gegen jemanden vor, der keine unmittelbare Bedrohung für irgendjemanden ist.
 Das scheint dein Sport zu sein.
 Ebene 3 geht darum, das Dagegen sein zu überwinden.
 Kapierst du das?
 Das Einzige gegen das du da sein kannst, ist das Gegeneinander selbst.
 Dagegen sein ist nicht für Cypherpunks, nicht ab Ebene 3.
-Jetzt fasse dich mal, sonst kommst du hier wirklich nicht mehr raus, du Schwächling, du ... Opfer.“
+Jetzt fass dich mal ein, sonst kommst du hier wirklich nicht mehr raus, du Schwachkopf, du ... Opfer.“
 
 Sigur: „Wo habe ich einen Menschen getötet?“
 
@@ -159,7 +172,7 @@ Wenn du drin gewesen wärest, und sie gerade auf dich gezielt hätten, dann hät
 Oder vielleicht doch nicht.
 Ich bin mir nicht sicher.
 Die Regelmeister der Akademie haben manchmal seltsame Ansichten.
-Da fragst du am besten den Bären.
+Da fragst du am besten die Eule selbst.
 Aber _du_ warst ja überhaupt nicht drin in dem Kampfroboter.
 Und Lasse war weit weg.
 Du warst in einem Bunker und hast Knöpfe gedrückt, mehr nicht.
@@ -170,16 +183,19 @@ Er dachte an die anderen beiden Hubschrauber, die er kurz nach dem ersten auch v
 
 Sigur: „Aber das ist doch Krieg.
 Das war 2028.
+Da gab es andere Regeln als heute.
 Zu der Zeit war das normal.
 Im Krieg sterben Menschen.
 Das waren keine Zivilisten.“
 
 Wunderlich: „Ich sage dir jetzt etwas, was du wahrscheinlich wieder nicht verstehst:
-Krieg ist ein Spiel, aber ein sehr, sehr ernstes.
-Nicht weil irgendwen Zivilist nennst, ist er in Wirklichkeit etwas anderes geworden.
-Im Spiel heißt er Zivilist oder Soldat.
+Krieg ist ein Spiel, ein sehr, sehr ernstes Spiel.
+Nicht weil irgendwer irgendwen Zivilist oder Soldat nennst, ist er in Wirklichkeit etwas anderes geworden.
+Im dem Spiel heißt er Zivilist oder Soldat.
 Im realen Leben ist er immer ein Mensch.
 Und nur weil man Krieg spielt, macht das nicht, dass man plötzlich Menschen umbringen darf.
+Das war auch schon vor 36 Jahren so.
+Die wären damals alle zu mir gekommen, wenn es die Cypherpunk-Akademie da schon gegeben hätte.
 Man darf keine Menschen umbringen.
 Niemals.
 Das geht nicht.
@@ -192,6 +208,8 @@ Wunderlich unterbrach mit einer abfälligen Handbewegung: „Mit so einer Einste
 Ebene 4?
 Pah.
 Ich lache mich tot.
+Ebene 3?
+Vergiss es.
 Wo hat Lasse jemanden umgebracht?“
 
 Sigur: „Der Fünfstern.“
@@ -203,27 +221,35 @@ Material kaputtmachen ist kein Problem.“
 Sigur: „Aber dann, dann sind viele Menschen gestorben.
 Er hat eingeriffen, ohne zu verstehen, was gerade läuft.“
 
-Wunderlich: „Das war ein Fehler.“
+Wunderlich: „Das war ein Fehler.
+Er hat niemanden umgebracht.
+Der Kerl oder das Mädel am Knopf ist diejenige die Mist baut.“
 
 Sigur: „Zwei seiner Kampfroboter sind beim Angriff auf das NSA-Gebäude mitgeflogen.“
 
 Wunderlich: „Die beiden haben niemanden umgebracht.
 Ich habe die Logs durchgeschaut.
 Aber du hast ein bisschen Recht.
-Es war knapp ... Den Luftkampf mit den F22-Piloten hast du programmiert.
+Es war knapp ... Andererseits: Es war deine Formation und den Luftkampf mit den F22-Piloten hast du programmiert.
 Dabei sind fünf Leute gestorben.
 Geht auch auf dein Konto.
 Je mehr ich mir das hier anschaue:
-Du kannst das Ganze hier knicken.
+Du kannst das Ganze hier knicken!
 In der Akademie wird das nichts mehr mit dir.“
 Er grinste ihn breit an.
 
 Sigurs Augen wurden dunkler.
-Er rutschte zur Wand rüber und lehnte sich an.
-„Okay.
+Er rutschte zur Wand hinter ihm und lehnte sich an.
+Sigur: „Shit ...
+Ja.“
+
+Eine Träne drückte in sein Auge.
+Er schaute eine Zeit lang starr vor sich.
+
+Sigur: „Okay.
 Ich habe einen Fehler gemacht.“
 
-Wunderlich unterbracht: „Kein Fehler. Mist!“
+Wunderlich unterbracht: „Kein Fehler. Mist gebaut!“
 
 Sigur: „Sie sind tot.
 Was soll ich machen?
@@ -234,6 +260,7 @@ Was für einen Sinn würde das machen.“
 
 Wunderlich: „Viel Sinn.
 Dann wäre einer weniger unterwegs, der andere Menschen umbringt.
+Weißt du ja sicherlich nicht:
 Solange Menschen eine Gefahr für andere darstellen, kann man sie festhalten, ohne an seinem Cypherpunk-Status zu kratzen.
 Es macht schon Sinn, wenn du ab jetzt gar nichts mehr machst.
 Du kannst einfach hier bleiben und auf das Spielende warten.“
@@ -245,13 +272,14 @@ Halt!
 Bist du verrückt?
 Ich bin der Einzige, der dir hier raushelfen kann.
 Und außerdem: Cypherpunks bedrohnen niemanden mit Gewalt.
-Das ist Dagegen sein hoch 10.“
+Gewalt, das ist Dagegen sein hoch 10.“
 
 Sigur stutzte.
 Er legte den Stein wieder auf den Boden: „Also kannst du mir doch helfen?
 Du weißt doch einen Ausweg?“
 
-Wunderlich hielt sich erschrocken den Mund zu und stammelte: „Vielleicht.
+Wunderlich hielt sich erschrocken den Mund zu und stammelte: „Hmmm.
+Vielleicht.
 Eher nein.
 Wenn ich dich so anschaue.“
 
@@ -268,6 +296,9 @@ Nochmal: Dritter Grundgedanke: Nicht dagegen.
 Das gilt auch im Umgang mit mir!
 Und ich bin ja nicht gegen dich.
 Ich sage nur wie die Sache ist.“
+
+Sigur: „Okay.
+Keine Gewalt mehr.“
 
 Sigur nahm seine Hand herunter, schaute sie an.
 
